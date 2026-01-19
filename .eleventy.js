@@ -12,16 +12,21 @@ module.exports = function (eleventyConfig) {
   }).use(markdownItAnchor, {
     permalink: false,
     level: [1, 2, 3, 4],
-    slugify: (s) => s.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-')
+    slugify: (s) =>
+      s.toLowerCase()
+        .replace(/[^\w\s-]/g, "")
+        .replace(/\s+/g, "-")
   });
 
+  eleventyConfig.setLibrary("md", markdownLibrary);
+
+  // 📚 Book collections
   eleventyConfig.addCollection("marginsBook", function (collectionApi) {
     return collectionApi
       .getFilteredByTag("margins-where-god-begins")
       .sort((a, b) => a.data.order - b.data.order);
   });
 
-  // 📖 Fractured Light book collection
   eleventyConfig.addCollection("fracturedLight", function (collectionApi) {
     return collectionApi
       .getFilteredByTag("fractured-light")
@@ -29,97 +34,105 @@ module.exports = function (eleventyConfig) {
   });
 
   // 🔄 Collection navigation filters
-  eleventyConfig.addFilter("getPreviousCollectionItem", function(collection, page) {
+  eleventyConfig.addFilter("getPreviousCollectionItem", function (collection, page) {
     const index = collection.findIndex(item => item.url === page.url);
     return index > 0 ? collection[index - 1] : null;
   });
 
-  eleventyConfig.addFilter("getNextCollectionItem", function(collection, page) {
+  eleventyConfig.addFilter("getNextCollectionItem", function (collection, page) {
     const index = collection.findIndex(item => item.url === page.url);
     return index < collection.length - 1 ? collection[index + 1] : null;
   });
 
-  
-  eleventyConfig.setLibrary("md", markdownLibrary);
-
-  // 📅 Date formatting filter (robust: works with Date, ISO string, or undefined)
+  // 📅 Human-readable date (for templates)
   eleventyConfig.addFilter("readableDate", (dateValue) => {
     if (!dateValue) return "";
-    // Eleventy usually gives a JS Date, but handle ISO strings too
     if (dateValue instanceof Date) {
-      return DateTime.fromJSDate(dateValue, { zone: "utc" }).toFormat("MMMM d, yyyy");
+      return DateTime.fromJSDate(dateValue, { zone: "utc" })
+        .toFormat("MMMM d, yyyy");
     }
-    // try ISO
     const dt = DateTime.fromISO(String(dateValue), { zone: "utc" });
-    return dt.isValid ? dt.toFormat("MMMM d, yyyy") : String(dateValue);
+    return dt.isValid ? dt.toFormat("MMMM d, yyyy") : "";
+  });
+
+  // ✅ ISO-8601 date (FOR SITEMAP <lastmod>)
+  eleventyConfig.addFilter("isoDate", (dateObj) => {
+    if (!dateObj) return null;
+    return new Date(dateObj).toISOString().split("T")[0];
   });
 
   // 🔗 Slug filter
   eleventyConfig.addFilter("slug", (str) => {
     if (!str) return "";
-    return String(str).toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+    return String(str)
+      .toLowerCase()
+      .replace(/[^\w\s-]/g, "")
+      .replace(/\s+/g, "-");
   });
 
   // 🧠 extractBlock filter
   eleventyConfig.addFilter("extractBlock", function (content, heading) {
     if (!content || !heading) return "";
-    const regex = new RegExp(`${heading}\\s*\\n([\\s\\S]*?)(?=\\n\\s*\\n|$)`, "i");
+    const regex = new RegExp(
+      `${heading}\\s*\\n([\\s\\S]*?)(?=\\n\\s*\\n|$)`,
+      "i"
+    );
     const match = content.match(regex);
     return match ? match[1].trim() : "";
   });
 
-  // 🏷️ filterByTag filter
+  // 🏷️ filterByTag
   eleventyConfig.addFilter("filterByTag", function (collection, tag) {
     return (collection || []).filter(
-      (item) => item.data && item.data.tags && item.data.tags.includes(tag)
+      (item) => item.data?.tags?.includes(tag)
     );
   });
 
-  // 📚 Collections (keep what you had; add others only if you need them later)
-  eleventyConfig.addCollection("devotionals", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/devotionals/*.md");
-  });
+  // 📚 Content collections
+  eleventyConfig.addCollection("devotionals", (api) =>
+    api.getFilteredByGlob("./src/devotionals/*.md")
+  );
 
-  eleventyConfig.addCollection("reflections", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/reflections/*.md");
-  });
+  eleventyConfig.addCollection("reflections", (api) =>
+    api.getFilteredByGlob("./src/reflections/*.md")
+  );
 
-  eleventyConfig.addCollection("meditations", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/meditations/*.md");
-  });
+  eleventyConfig.addCollection("meditations", (api) =>
+    api.getFilteredByGlob("./src/meditations/*.md")
+  );
 
-  eleventyConfig.addCollection("stories", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/stories/*.md");
-  });
+  eleventyConfig.addCollection("stories", (api) =>
+    api.getFilteredByGlob("./src/stories/*.md")
+  );
 
-  eleventyConfig.addCollection("testimonies", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/testimonies/*.md");
-  });
+  eleventyConfig.addCollection("testimonies", (api) =>
+    api.getFilteredByGlob("./src/testimonies/*.md")
+  );
 
-  // 🏷️ Tag list collection
+  // 🏷️ Tag list
   eleventyConfig.addCollection("tagList", function (collection) {
     const tagSet = new Set();
-    (collection.getAll() || []).forEach((item) => {
-      if (item.data && Array.isArray(item.data.tags)) {
+    collection.getAll().forEach((item) => {
+      if (Array.isArray(item.data?.tags)) {
         item.data.tags
           .filter((tag) => tag && tag !== "devotionals")
           .forEach((tag) => {
-            const slugified = String(tag).toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-            tagSet.add(slugified);
+            tagSet.add(
+              String(tag)
+                .toLowerCase()
+                .replace(/[^\w\s-]/g, "")
+                .replace(/\s+/g, "-")
+            );
           });
       }
     });
     return [...tagSet];
   });
 
-  // ✅ Passthrough copy (match YOUR structure)
-  // - src/assets -> _site/assets
-  // - project-root images -> _site/images
-  // - project-root assets/css -> _site/assets/css   (this is the big missing piece for many “unstyled” previews)
- eleventyConfig.addPassthroughCopy({ "assets/css": "assets/css" });
-eleventyConfig.addPassthroughCopy({ "src/assets/js": "assets/js" });
-eleventyConfig.addPassthroughCopy({ "images": "images" });
-
+  // 📦 Passthrough copy
+  eleventyConfig.addPassthroughCopy({ "assets/css": "assets/css" });
+  eleventyConfig.addPassthroughCopy({ "src/assets/js": "assets/js" });
+  eleventyConfig.addPassthroughCopy({ "images": "images" });
 
   // 📁 Directory structure
   return {
@@ -130,7 +143,3 @@ eleventyConfig.addPassthroughCopy({ "images": "images" });
     },
   };
 };
-eleventyConfig.addFilter("isoDate", (dateObj) => {
-  if (!dateObj) return null;
-  return new Date(dateObj).toISOString().split("T")[0];
-});
