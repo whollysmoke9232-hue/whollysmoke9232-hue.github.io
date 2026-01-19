@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
   {%- if not page.data.eleventyExcludeFromCollections %}
   <url>
     <loc>https://graceinmargins.com{{ page.url | url }}</loc>
-    <lastmod>{{ page.date | readableDate }}</lastmod>
+    <lastmod>{{ page.date | isoDate }}</lastmod>
     {%- if page.url == '/' %}
     <priority>1.0</priority>
     {%- elif page.url.includes('/start-here/') or page.url.includes('/hearing-god/') %}

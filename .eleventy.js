@@ -130,3 +130,7 @@ eleventyConfig.addPassthroughCopy({ "images": "images" });
     },
   };
 };
+eleventyConfig.addFilter("isoDate", (dateObj) => {
+  if (!dateObj) return null;
+  return new Date(dateObj).toISOString().split("T")[0];
+});
