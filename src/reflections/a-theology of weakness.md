@@ -7,7 +7,7 @@ tags:
   - repentance
   - faithfulness
   - restoration
-collection: reflections
+layout: default.njk
 author: Steve Wilkins
 date: 2026-01-19
 ---

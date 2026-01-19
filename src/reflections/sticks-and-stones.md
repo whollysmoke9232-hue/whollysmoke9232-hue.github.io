@@ -1,7 +1,7 @@
 ---
 title: Sticks and Stones
 excerpt: Scripture was not given to us as a weapon to wound others, but as a living word meant to search us, humble us, and lead us into love.
-layout: reflection
+layout: default.njk
 tags: [scripture, humility, discernment, conscience]
 date: 2026-01-19
 author: Steve Wilkins
