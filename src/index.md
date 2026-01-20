@@ -32,7 +32,9 @@ layout: layout
 
 
 
-    <img src="/images/heavens-declare.png" alt="The heavens declare the glory of God" style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <a href="/about/">
+        <img src="/images/heavens-declare.png" alt="The heavens declare the glory of God" style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    </a>
 
     <div class="homepage-intro">
       <p>Grace in the margins, hope in the silence</p>
