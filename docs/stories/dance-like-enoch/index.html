@@ -37,6 +37,47 @@
 
       <div class="article-content">
         
+
+
+
+
+  
+  
+
+
+<div id="category-navigation" style="text-align: center; margin: 1.5rem 0 0.5rem; padding-bottom: 0.75rem; border-bottom: 1px solid #e0e0e0;">
+  <a id="category-link" href="/stories/" style="text-decoration: none; color: #666; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 500;">Stories</a>
+</div>
+
+<script>
+(function() {
+  // Check if we came from a structured reading path
+  const urlParams = new URLSearchParams(window.location.search);
+  const pathName = urlParams.get('path');
+  
+  if (pathName) {
+    const pathNames = {
+      'hearing-god': { title: 'Hearing God', url: '/hearing-god/' },
+      'suffering': { title: 'If You Are Suffering or Waiting', url: '/start-here/#if-you-are-suffering-or-waiting' },
+      'sin': { title: 'If You Are Wrestling With Sin, Failure, or Shame', url: '/start-here/#if-you-are-wrestling-with-sin-failure-or-shame' },
+      'numb': { title: 'If You Feel Spiritually Numb, Dry, or Disconnected', url: '/start-here/#if-you-feel-spiritually-numb-dry-or-disconnected' },
+      'identity': { title: 'If You Long to Know Who You Really Are', url: '/start-here/#if-you-long-to-know-who-you-really-are' },
+      'story': { title: 'If You Learn Best Through Story and Image', url: '/start-here/#if-you-learn-best-through-story-and-image' },
+      'stillness': { title: 'If You Are Learning to Sit With God', url: '/start-here/#if-you-are-learning-to-sit-with-god' },
+      'grace': { title: 'If You Are Relearning Grace', url: '/start-here/#if-you-are-relearning-grace' },
+      'wisdom': { title: 'If You Are Seeking Wisdom Without Noise', url: '/start-here/#if-you-are-seeking-wisdom-without-noise' }
+    };
+    
+    if (pathNames[pathName]) {
+      const categoryNav = document.getElementById('category-navigation');
+      const categoryLink = document.getElementById('category-link');
+      categoryLink.textContent = pathNames[pathName].title;
+      categoryLink.href = pathNames[pathName].url;
+    }
+  }
+})();
+</script>
+
 <header class="site-header">
   <h1>I Wanna Dance Like Enoch Danced</h1>
 
