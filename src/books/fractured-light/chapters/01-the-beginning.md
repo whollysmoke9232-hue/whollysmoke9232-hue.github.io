@@ -13,6 +13,8 @@ I grew up in a different time. My friends and I were expected to be out of the h
 
 My parents loved me. But something in my early childhood—that I can't remember—combined with the way my brain is wired, caused me to feel unloved. For as long as I can remember I felt like I was basically alone in the world. In fairness to my parents, I was a rebellious, sassy, overly energetic child. I am certain that both of my parents did the best that they could with me. I was simply unable to receive what they were offering.
 
+One of my earliest memories is how after enduring some form corporal punishment, I would turn and look at my parent and ask, "Do you feel better now?" This response troubled them deeply. It led them to seek professional help, where they were warned that my emotional detachment—my inability to cry or react as expected—was not something to ignore.
+
 This left me vulnerable to following every whim that my mind could conceive as well as to adults who didn't have my best interest at heart.
 
 I learned early on how to be alone. Alone in fear, joy, pain, sorrow, exploration, and boredom. My imagination would run wild with what I could have or should have said or done. I could lose myself in walking through the woods, building a coaster cart, or pretending I was Superman (which led to several sprained ankles). When I played with others in my neighborhood, the games we played always relied heavily on imagination—games like army, cowboys and Indians, and cops and robbers.
