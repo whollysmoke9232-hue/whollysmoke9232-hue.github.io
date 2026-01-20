@@ -8,6 +8,8 @@ tags:
   - Holiness
   - Justification
   - Sanctification
+scripture:
+  - "Psalm 15:1"
 date: 2026-01-15
 layout: default.njk
 author: "Steve Wilkins"

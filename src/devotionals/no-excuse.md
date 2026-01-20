@@ -6,7 +6,8 @@ tags:
   - Obedience
   - Accountability
   - Romans
-
+scripture:
+  - "Romans 1:19-20"
 date: 2024-06-10
 layout: default.njk
 author: "Steve Wilkins"

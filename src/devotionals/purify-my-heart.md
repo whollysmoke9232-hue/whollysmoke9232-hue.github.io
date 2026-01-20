@@ -9,6 +9,8 @@ tags:
   - Holiness
   - Intimacy with God
   - Psalms
+scripture:
+  - "Matthew 5:8"
 
 ---
 

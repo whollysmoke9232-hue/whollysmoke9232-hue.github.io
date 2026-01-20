@@ -6,7 +6,8 @@ tags:
   - Grace
   - Sanctification
   - Romans
-
+scripture:
+  - "Romans 1:17"
 date: 2023-09-28
 
 layout: default.njk

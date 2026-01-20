@@ -6,7 +6,11 @@ tags:
   - Judgment
   - Grace
   - Confession
-  - God’s Character
+  - God's Character
+scripture:
+  - "Psalm 17:2"
+  - "Psalm 17:3"
+  - "Psalm 139:23-24"
 date: 2026-01-17
 layout: default.njk
 author: "Steve Wilkins"

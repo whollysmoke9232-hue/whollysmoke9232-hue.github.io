@@ -9,6 +9,12 @@ tags:
   - Repentance
   - Holiness
   - Identity in Christ
+scripture:
+  - "Psalm 79:1"
+  - "1 Corinthians 6:19"
+  - "Matthew 13:22"
+  - "Haggai 1:7-8"
+  - "Haggai 2:9"
 
 ---
 

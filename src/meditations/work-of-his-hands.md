@@ -5,7 +5,8 @@ tags:
   - Creation
   - Identity in Christ
   - Divine Love
-
+scripture:
+  - "Psalm 139:13-14"
 date: 2025-08-02
 layout: default.njk
 author: "Steve Wilkins"

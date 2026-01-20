@@ -5,6 +5,8 @@ tags:
   - Faith
   - Salvation
   - Gospels
+scripture:
+  - "John 3:14-15"
 date: 2025-08-02
 layout: default.njk
 author: "Steve Wilkins"

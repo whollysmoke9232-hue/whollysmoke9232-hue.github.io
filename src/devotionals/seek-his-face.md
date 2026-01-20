@@ -6,7 +6,9 @@ tags:
   - Trust
   - Presence of God
   - Psalms
-
+scripture:
+  - "Psalm 127:1-2"
+  - "Matthew 6:33"
 date: 2023-09-04
 author: "Steve Wilkins"
 layout: default.njk

@@ -7,7 +7,8 @@ tags:
   - Freedom
   - Grace
   - Romans
-
+scripture:
+  - "Romans 6:21"
 date: 2025-08-02
 layout: default.njk
 author: "Steve Wilkins"

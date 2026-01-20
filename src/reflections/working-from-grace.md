@@ -6,7 +6,8 @@ tags:
   - Grace
   - Obedience
   - Philippians
-
+scripture:
+  - "Philippians 2:12-13"
 date: 2026-01-03
 layout: default.njk
 author: "Steve Wilkins"

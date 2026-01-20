@@ -6,6 +6,11 @@ tags:
   - Worship
   - Mind Renewal
   - Romans
+scripture:
+  - "Romans 12:1-2"
+  - "2 Corinthians 5:21"
+  - "Matthew 6:33"
+  - "Galatians 5:22-23"
 date: 2023-08-26
 layout: default.njk
 author: "Steve Wilkins"

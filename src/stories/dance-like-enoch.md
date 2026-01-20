@@ -6,7 +6,8 @@ tags:
   - Intimacy with God
   - Obedience
   - Genesis
-
+scripture:
+  - "Genesis 5:24"
 date: 2020-07-09
 layout: default.njk
 author: "Steve Wilkins"

@@ -129,6 +129,37 @@ module.exports = function (eleventyConfig) {
     return [...tagSet];
   });
 
+  // 📖 Scripture list and collection
+  eleventyConfig.addCollection("scriptureList", function (collection) {
+    const scriptureSet = new Set();
+    collection.getAll().forEach((item) => {
+      if (Array.isArray(item.data?.scripture)) {
+        item.data.scripture.forEach((ref) => {
+          if (ref) scriptureSet.add(ref);
+        });
+      }
+    });
+    return [...scriptureSet].sort();
+  });
+
+  // 📖 Scripture posts map (for individual scripture pages)
+  eleventyConfig.addCollection("scriptureMap", function (collection) {
+    const scriptureMap = {};
+    collection.getAll().forEach((item) => {
+      if (Array.isArray(item.data?.scripture)) {
+        item.data.scripture.forEach((ref) => {
+          if (ref) {
+            if (!scriptureMap[ref]) {
+              scriptureMap[ref] = [];
+            }
+            scriptureMap[ref].push(item);
+          }
+        });
+      }
+    });
+    return scriptureMap;
+  });
+
   // 📦 Passthrough copy
   eleventyConfig.addPassthroughCopy({ "assets/css": "assets/css" });
   eleventyConfig.addPassthroughCopy({ "src/assets/js": "assets/js" });

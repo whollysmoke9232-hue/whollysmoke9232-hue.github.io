@@ -5,7 +5,8 @@ tags:
   - Time
   - Stillness
   - Presence of God
-
+scripture:
+  - "Matthew 6:34"
 date: 2026-01-03
 layout: default.njk
 author: "Steve Wilkins"

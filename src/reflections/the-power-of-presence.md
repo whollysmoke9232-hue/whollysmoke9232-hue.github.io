@@ -8,6 +8,8 @@ tags:
   - Wilderness
   - Obedience
   - Grace
+scripture:
+  - "Psalm 44:3"
 date: 2026-01-14
 layout: default.njk
 author: "Steve Wilkins"

@@ -3,8 +3,6 @@ title: "Browse by Tag"
 layout: layout.njk
 ---
 
-## Browse by Tag
-
 Explore writings by theme and topic. Each tag gathers related reflections, devotionals, meditations, stories, and testimonies.
 
 ---

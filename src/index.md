@@ -28,12 +28,6 @@ layout: layout
   <a href="/books/">Books</a>
 </nav>
 
-<div style="text-align: center; margin-top: 0.5rem;">
-  <nav class="explore-bubbles" aria-label="About">
-    <a href="/about/">Why This Place Exists</a>
-  </nav>
-</div>
-
 
 
 
@@ -71,6 +65,10 @@ layout: layout
       <nav class="explore-bubbles" aria-label="About">
         <a href="/about/">Why This Place Exists</a>
       </nav>
+      <p style="margin-top: 1rem; font-size: 0.95rem;">
+        <a href="/tags/" style="text-decoration: underline; color: #8b7355;">Browse by Tag</a> | 
+        <a href="/scripture/" style="text-decoration: underline; color: #8b7355;">Scripture Index</a>
+      </p>
     </div>
     
 

@@ -8,6 +8,9 @@ tags:
   - Suffering
   - Waiting
   - Presence of God
+scripture:
+  - "Psalm 13"
+  - "Psalm 43:3"
 date: 2026-01-13
 layout: default.njk
 author: "Steve Wilkins"

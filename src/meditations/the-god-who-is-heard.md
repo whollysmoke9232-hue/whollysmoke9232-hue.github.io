@@ -8,6 +8,12 @@ tags:
   - Idolatry
   - Christ
   - Spiritual Formation
+scripture:
+  - "Deuteronomy 4:11-12"
+  - "Exodus 20:4-5"
+  - "Exodus 13:21-22"
+  - "Romans 10:17"
+  - "John 1:14"
 date: 2025-12-05
 layout: default.njk
 author: "Steve Wilkins"

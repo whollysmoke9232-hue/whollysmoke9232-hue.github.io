@@ -5,7 +5,8 @@ tags:
   - Creation
   - Awe
   - Psalms
-
+scripture:
+  - "Psalm 8:3-4"
 date: 2026-01-03
 layout: default.njk
 author: "Steve Wilkins"

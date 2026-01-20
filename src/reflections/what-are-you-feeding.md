@@ -5,7 +5,9 @@ tags:
   - Sanctification
   - Discernment
   - Transformation
-
+scripture:
+  - "Psalm 119:9"
+  - "Psalm 119:11"
 date: 2025-02-07
 layout: default.njk
 author: "Steve Wilkins"

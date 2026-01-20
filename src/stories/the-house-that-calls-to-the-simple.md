@@ -6,7 +6,10 @@ tags:
   - Discernment
   - Temptation
   - Proverbs
-
+scripture:
+  - "Proverbs 9:17-18"
+  - "Proverbs 9:13"
+  - "Proverbs 9:14-16"
 date: 2026-01-03
 layout: default.njk
 author: "Steve Wilkins"

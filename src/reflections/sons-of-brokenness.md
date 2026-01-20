@@ -8,6 +8,14 @@ tags:
   - Judgment and Grace
   - Worship
   - Psalms
+scripture:
+  - "Numbers 26:11"
+  - "Psalm 42:1"
+  - "Psalm 42:11"
+  - "Psalm 43:3"
+  - "Psalm 46:10"
+  - "Psalm 47:1"
+  - "Psalm 84:10"
 date: 2026-01-14
 layout: default.njk
 author: "Steve Wilkins"

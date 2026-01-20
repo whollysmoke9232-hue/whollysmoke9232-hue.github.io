@@ -6,7 +6,10 @@ tags:
   - Truth
   - Obedience
   - Daniel
-
+scripture:
+  - "Daniel 1"
+  - "Daniel 3"
+  - "Daniel 6:1-24"
 date: 1996-07-19
 layout: default.njk
 author: "Steve Wilkins"

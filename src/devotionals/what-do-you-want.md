@@ -7,6 +7,11 @@ tags:
   - Desire for God
   - Spiritual Dryness
   - Faithfulness
+scripture:
+  - "Psalm 42:1-2"
+  - "Psalm 42:4"
+  - "Psalm 42:6"
+  - "Psalm 42:11"
 date: 2026-01-12
 layout: default.njk
 author: "Steve Wilkins"

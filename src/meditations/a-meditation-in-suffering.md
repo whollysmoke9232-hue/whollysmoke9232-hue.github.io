@@ -5,7 +5,8 @@ tags:
   - Suffering
   - Presence of God
   - Hope
-
+scripture:
+  - "Psalms 69:7"
 date: 2023-10-15
 layout: default.njk
 author: "Steve Wilkins"

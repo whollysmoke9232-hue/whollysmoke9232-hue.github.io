@@ -6,7 +6,10 @@ tags:
   - Weakness
   - Suffering
   - Redemption
-
+scripture:
+  - "Genesis 3"
+  - "2 Samuel 11-12"
+  - "Psalm 73:25"
 date: 2026-01-08
 layout: default.njk
 author: "Steve Wilkins"

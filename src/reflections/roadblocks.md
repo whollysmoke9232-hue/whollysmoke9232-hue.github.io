@@ -6,7 +6,8 @@ tags:
   - Waiting
   - Trust
   - Obedience
-
+scripture:
+  - "Mark 4:18-19"
 excerpt: "Reflecting on how we can unknowingly step out of alignment with what God is already doing—and what surrender truly looks like."
 author: "Steve Wilkins"
 ---

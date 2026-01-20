@@ -5,7 +5,8 @@ tags:
   - Weakness
   - Grace
   - Perseverance
-
+scripture:
+  - "Psalm 125:2"
 date: 2026-01-03
 layout: default.njk
 author: "Steve Wilkins"

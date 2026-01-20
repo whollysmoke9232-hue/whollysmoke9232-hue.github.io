@@ -7,7 +7,13 @@ tags:
   - Worship
   - Awe
   - Revelation
-  - Psalmsdate: 2026-01-13
+  - Psalms
+scripture:
+  - "Psalm 73:16-17"
+  - "Revelation 4:8"
+  - "Isaiah 6:3"
+  - "Revelation 4:6"
+date: 2026-01-13
 layout: default.njk
 author: "Steve Wilkins"
 ---

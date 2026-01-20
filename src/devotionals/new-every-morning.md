@@ -6,7 +6,8 @@ tags:
   - Hope
   - Restoration
   - Psalms
-
+scripture:
+  - "Lamentations 3:22-23"
 date: 2025-08-02
 layout: default.njk
 author: "Steve Wilkins"

@@ -5,7 +5,8 @@ tags:
   - Presence of God
   - Sovereignty of God
   - Creation
-
+scripture:
+  - "Psalm 139:7"
 date: 2026-01-03
 layout: default.njk
 author: "Steve Wilkins"

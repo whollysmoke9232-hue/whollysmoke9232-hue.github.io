@@ -6,7 +6,18 @@ tags:
   - Faith
   - Obedience
   - Psalms
-
+scripture:
+  - "Psalm 119:57"
+  - "Psalms 73:25"
+  - "Psalm 119:18"
+  - "Psalm 119:16"
+  - "Psalm 119:92"
+  - "Psalm 119:107"
+  - "Psalm 119:105"
+  - "Psalm 119:114"
+  - "Psalm 119:167"
+  - "Psalm 119:173"
+  - "Psalm 119:176"
 date: 2026-01-10
 layout: default.njk
 author: "Steve Wilkins"

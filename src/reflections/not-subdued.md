@@ -8,6 +8,9 @@ tags:
   - Assurance
   - Sin and Grace
   - Sons of Korah
+scripture:
+  - "Psalm 74:3-8"
+  - "James 1:14-15"
 date: 2026-01-14
 layout: default.njk
 author: "Steve Wilkins"

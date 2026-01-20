@@ -9,6 +9,13 @@ tags:
   - Sovereignty of God
   - Time
   - Presence of God
+scripture:
+  - "Luke 5:27-28"
+  - "Psalm 139:16"
+  - "Revelation 13:8"
+  - "Ephesians 1:4"
+  - "1 Peter 1:20"
+  - "Exodus 3:14"
 
 ---
 

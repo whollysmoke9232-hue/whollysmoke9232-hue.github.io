@@ -6,7 +6,10 @@ tags:
   - Redemption
   - Grace
   - Gospels
-
+scripture:
+  - "2 Corinthians 5:21"
+  - "Genesis 3:21"
+  - "Leviticus 17:11"
 date: 2025-08-02
 layout: default.njk
 author: "Steve Wilkins"

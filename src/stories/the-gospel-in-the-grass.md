@@ -7,7 +7,8 @@ tags:
   - Trust
   - Gospel
   - Psalms
-
+scripture:
+  - "Psalm 65:8-9"
 date: 2026-01-03
 layout: default.njk
 author: "Steve Wilkins"

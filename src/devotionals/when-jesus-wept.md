@@ -7,7 +7,10 @@ tags:
   - Sin
   - Restoration
   - Gospels
-
+scripture:
+  - "John 11:35"
+  - "Genesis 1:31"
+  - "Genesis 3:17"
 date: 2024-06-12
 author: "Steve Wilkins"
 layout: default.njk

@@ -8,7 +8,9 @@ tags:
   - Sanctification
   - Romans
   - Gospel
-
+scripture:
+  - "Romans 1:17"
+  - "Genesis 15:6"
 
 date: 2025-08-02
 layout: default.njk
