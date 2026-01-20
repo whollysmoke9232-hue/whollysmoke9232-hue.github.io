@@ -2,11 +2,8 @@
 title: "A Holy Moment"
 excerpt: "In the silent sway of trees and the thunderous hush of mountains, God’s love speaks without words."
 tags:
-  - Presence of God
-  - Divine Love
-  - Creation
-  - Psalms
-  - Revelation
+  - psalms
+  - scripture
 scripture:
   - "Psalm 19:1-3"
   - "Revelation 1:10"

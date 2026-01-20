@@ -68,7 +68,6 @@ layout: layout
         <a href="/about/">Why This Place Exists</a>
       </nav>
       <p style="margin-top: 1rem; font-size: 0.95rem;">
-        <a href="/tags/" style="text-decoration: underline; color: #8b7355;">Browse by Tag</a> | 
         <a href="/scripture/" style="text-decoration: underline; color: #8b7355;">Scripture Index</a>
       </p>
     </div>

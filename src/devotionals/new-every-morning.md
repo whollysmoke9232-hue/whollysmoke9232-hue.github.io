@@ -2,10 +2,10 @@
 title: "New Every Morning"
 excerpt: "God’s mercies are not recycled—they’re freshly painted across each sunrise. His faithfulness is the rhythm behind every breath."
 tags:
-  - Grace
-  - Hope
-  - Restoration
-  - Psalms
+  - grace
+  - hope
+  - restoration
+  - psalms
 scripture:
   - "Lamentations 3:22-23"
 date: 2025-08-02

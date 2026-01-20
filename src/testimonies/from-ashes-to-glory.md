@@ -5,10 +5,9 @@ date: 2025-08-06
 layout: default.njk
 author: "Steve Wilkins"
 tags:
-  - Restoration
-  - Repentance
-  - Holiness
-  - Identity in Christ
+  - restoration
+  - repentance
+  - scripture
 scripture:
   - "Psalm 79:1"
   - "1 Corinthians 6:19"

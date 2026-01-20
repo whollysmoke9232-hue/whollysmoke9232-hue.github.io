@@ -2,10 +2,8 @@
 title: "I Wanna Dance Like Enoch Danced"
 excerpt: "A longing to walk so closely with God that worship becomes intimacy—and intimacy becomes eternity."
 tags:
-  - Worship
-  - Intimacy with God
-  - Obedience
-  - Genesis
+  - obedience
+  - scripture
 scripture:
   - "Genesis 5:24"
 date: 2020-07-09

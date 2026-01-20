@@ -2,9 +2,8 @@
 title: "A Meditation In Suffering"
 excerpt: "When pain strips away understanding, surrender becomes worship. This meditation offers suffering back to God as an act of trust and praise."
 tags:
-  - Suffering
-  - Presence of God
-  - Hope
+  - suffering
+  - hope
 scripture:
   - "Psalms 69:7"
 date: 2023-10-15

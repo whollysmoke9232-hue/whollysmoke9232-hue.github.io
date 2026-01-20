@@ -5,10 +5,8 @@ date: 2024-03-26
 layout: default.njk
 author: "Steve Wilkins"
 tags:
-  - Scripture
-  - Sovereignty of God
-  - Time
-  - Presence of God
+  - scripture
+  - margins-where-god-begins
 scripture:
   - "Luke 5:27-28"
   - "Psalm 139:16"

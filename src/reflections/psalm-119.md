@@ -2,10 +2,10 @@
 title: "Psalm 119: A Quiet Faith Formed in the Word"
 excerpt: "Psalm 119 reveals a faith shaped not by urgency or perfection, but by long obedience, quiet trust, and desires reformed through God’s Word."
 tags:
-  - Scripture
-  - Faith
-  - Obedience
-  - Psalms
+  - scripture
+  - faith
+  - obedience
+  - psalms
 scripture:
   - "Psalm 119:57"
   - "Psalms 73:25"

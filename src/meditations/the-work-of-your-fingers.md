@@ -2,9 +2,7 @@
 title: "The Work of Your Fingers"
 excerpt: "When we look up at the vastness of creation, we are confronted with a humbling question—why does God care for us at all?"
 tags:
-  - Creation
-  - Awe
-  - Psalms
+  - psalms
 scripture:
   - "Psalm 8:3-4"
 date: 2026-01-03

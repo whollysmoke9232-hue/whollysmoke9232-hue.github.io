@@ -2,12 +2,9 @@
 title: "Sons of Brokenness"
 excerpt: "From the aftermath of Korah’s rebellion emerged a lineage shaped by holy fear, humility, and grace—voices whose worship was forged in brokenness and preserved in the Psalms."
 tags:
-  - Sons of Korah
-  - Brokenness
-  - Holiness
-  - Judgment and Grace
-  - Worship
-  - Psalms
+  - brokenness
+  - grace
+  - psalms
 scripture:
   - "Numbers 26:11"
   - "Psalm 42:1"

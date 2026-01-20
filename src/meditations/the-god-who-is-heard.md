@@ -2,12 +2,9 @@
 title: "The God Who Is Heard"
 excerpt: "From Sinai’s thunder to the whisper of the Spirit, God has always chosen voice over image—inviting us not to behold Him, but to listen."
 tags:
-  - Hearing God
-  - Word of God
-  - Faith
-  - Idolatry
-  - Christ
-  - Spiritual Formation
+  - faith
+  - christ
+  - scripture
 scripture:
   - "Deuteronomy 4:11-12"
   - "Exodus 20:4-5"

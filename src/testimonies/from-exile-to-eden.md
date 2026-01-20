@@ -4,6 +4,11 @@ excerpt: "A story of addiction, surrender, confinement, and grace. This testimon
 layout: default.njk
 author: Steve Wilkins
 date: 2026-01-19
+tags: 
+  -testimony
+  -grace
+  -surrender
+  -restoration
 scripture_references:
   - Jeremiah 29:4–14
   - Psalm 139:7–10

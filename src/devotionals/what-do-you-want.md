@@ -2,11 +2,10 @@
 title: "What Do You Want?"
 excerpt: "A reflection on Psalm 42 and the honest longing to desire God more deeply—even when our hunger feels weak or divided."
 tags:
-  - Psalms
-  - Longing
-  - Desire for God
-  - Spiritual Dryness
-  - Faithfulness
+  - psalms
+  - longing
+  - spiritual-dryness
+  - faithfulness
 scripture:
   - "Psalm 42:1-2"
   - "Psalm 42:4"

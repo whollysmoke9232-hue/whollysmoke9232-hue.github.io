@@ -2,12 +2,9 @@
 title: "The Power of Presence"
 excerpt: "Israel’s victories were never secured by strength or strategy, but by the light of God’s presence—a truth that still exposes the danger of self-reliance."
 tags:
-  - Presence of God
-  - Sons of Korah
-  - Dependence
-  - Wilderness
-  - Obedience
-  - Grace
+  - obedience
+  - grace
+  - scripture
 scripture:
   - "Psalm 44:3"
 date: 2026-01-14

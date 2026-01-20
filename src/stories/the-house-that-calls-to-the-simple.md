@@ -2,10 +2,7 @@
 title: "The House That Calls to the Simple"
 excerpt: "A sober look at Proverbs 9 and the deceptive invitation of folly that mimics wisdom but ultimately leads to death."
 tags:
-  - Wisdom
-  - Discernment
-  - Temptation
-  - Proverbs
+  - scripture
 scripture:
   - "Proverbs 9:17-18"
   - "Proverbs 9:13"

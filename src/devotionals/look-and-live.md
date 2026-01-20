@@ -2,9 +2,8 @@
 title: "Just Look and Live"
 excerpt: "You don’t have to climb your way to God or fix yourself first. Just look to Jesus—and live."
 tags:
-  - Faith
-  - Salvation
-  - Gospels
+  - faith
+  - gospels
 scripture:
   - "John 3:14-15"
 date: 2025-08-02

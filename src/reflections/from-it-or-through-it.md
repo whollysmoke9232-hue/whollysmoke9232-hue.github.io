@@ -2,9 +2,8 @@
 title: "From It or Through It"
 excerpt: "Trusting God’s sovereignty when deliverance comes differently than we expect—and discovering His presence in the fire."
 tags:
-  - Suffering
-  - Sovereignty of God
-  - Trust
+  - suffering
+  - scripture
 scripture:
   - "Daniel 3:17-18"
   - "Daniel 3:27"

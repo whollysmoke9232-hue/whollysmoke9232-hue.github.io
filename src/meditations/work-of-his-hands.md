@@ -2,9 +2,7 @@
 title: "The Work of His Hands"
 excerpt: "Like a craftsman with a vision, God sees us not for our flaws but for the purpose He lovingly designed. Even our dents and dings are part of the story."
 tags:
-  - Creation
-  - Identity in Christ
-  - Divine Love
+  - grace
 scripture:
   - "Psalm 139:13-14"
 date: 2025-08-02

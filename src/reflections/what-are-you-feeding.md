@@ -2,9 +2,7 @@
 title: "What Are You Feeding?"
 excerpt: "What we consume shapes what we become—and the Word of God is meant to be our daily bread."
 tags:
-  - Sanctification
-  - Discernment
-  - Transformation
+  - scripture
 scripture:
   - "Psalm 119:9"
   - "Psalm 119:11"

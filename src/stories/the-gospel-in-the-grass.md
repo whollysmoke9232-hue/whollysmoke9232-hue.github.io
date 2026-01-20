@@ -2,11 +2,8 @@
 title: "The Gospel in the Grass"
 excerpt: "Creation proclaims God’s provision, beauty, and care—inviting us to trust the One who tends both the earth and our lives."
 tags:
-  - Creation
-  - Divine Love
-  - Trust
-  - Gospel
-  - Psalms
+  - gospel
+  - psalms
 scripture:
   - "Psalm 65:8-9"
 date: 2026-01-03

@@ -2,12 +2,8 @@
 title: "Until I Came into the Sanctuary"
 excerpt: "A meditation on entering the presence of God, where His holiness reorders our understanding, humbles our pride, and brings clarity that cannot be found anywhere else.."
 tags:
-  - Presence of God
-  - Holiness
-  - Worship
-  - Awe
-  - Revelation
-  - Psalms
+  - psalms
+  - scripture
 scripture:
   - "Psalm 73:16-17"
   - "Revelation 4:8"

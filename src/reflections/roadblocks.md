@@ -3,9 +3,8 @@ title: "Roadblocks"
 date: 2025-07-30
 layout: default.njk
 tags:
-  - Waiting
-  - Trust
-  - Obedience
+  - waiting
+  - obedience
 scripture:
   - "Mark 4:18-19"
 excerpt: "Reflecting on how we can unknowingly step out of alignment with what God is already doing—and what surrender truly looks like."

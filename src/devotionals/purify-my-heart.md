@@ -5,10 +5,8 @@ date: 2024-01-29
 layout: default.njk
 author: "Steve Wilkins"
 tags:
-  - Repentance
-  - Holiness
-  - Intimacy with God
-  - Psalms
+  - repentance
+  - psalms
 scripture:
   - "Matthew 5:8"
 

@@ -2,11 +2,10 @@
 title: "When Jesus Wept"
 excerpt: "The shortest verse in the Bible reveals the depth of Christ’s love and grief over a broken world. Jesus wept—not out of weakness, but out of divine compassion."
 tags:
-  - Compassion
-  - Grief
-  - Sin
-  - Restoration
-  - Gospels
+  - grief
+  - sin
+  - restoration
+  - gospels
 scripture:
   - "John 11:35"
   - "Genesis 1:31"

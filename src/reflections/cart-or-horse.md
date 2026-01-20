@@ -2,12 +2,8 @@
 title: "The Cart or the Horse"
 excerpt: "Psalm 15 raises a searching question about who may dwell in God’s presence—and reveals that holiness is not the price of access, but the fruit of grace."
 tags:
-  - Psalms
-  - Worship
-  - Grace
-  - Holiness
-  - Justification
-  - Sanctification
+  - psalms
+  - grace
 scripture:
   - "Psalm 15:1"
 date: 2026-01-15

@@ -2,10 +2,9 @@
 title: "Working From Grace"
 excerpt: "Sanctification is not passive drifting or self-reliance, but faithful obedience empowered by God’s grace at work within us."
 tags:
-  - Sanctification
-  - Grace
-  - Obedience
-  - Philippians
+  - grace
+  - obedience
+  - scripture
 scripture:
   - "Philippians 2:12-13"
 date: 2026-01-03

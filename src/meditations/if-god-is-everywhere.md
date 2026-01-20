@@ -2,9 +2,7 @@
 title: "If God Is Everywhere All The Time…"
 excerpt: "God’s omnipresence means we are never outside His presence or purposes. This meditation explores identity, rest, and belonging in a God who is always near."
 tags:
-  - Presence of God
-  - Sovereignty of God
-  - Creation
+  - scripture
 scripture:
   - "Psalm 139:7"
 date: 2026-01-03

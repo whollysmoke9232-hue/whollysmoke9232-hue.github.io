@@ -2,10 +2,9 @@
 title: "Jesus – The Scapegoat"
 excerpt: "From the garden to the cross, God’s answer to sin has always been substitution. Jesus bore our shame so we could return to the love we were created for."
 tags:
-  - Atonement
-  - Redemption
-  - Grace
-  - Gospels
+  - redemption
+  - grace
+  - gospels
 scripture:
   - "2 Corinthians 5:21"
   - "Genesis 3:21"

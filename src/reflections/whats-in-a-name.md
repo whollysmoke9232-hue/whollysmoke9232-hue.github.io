@@ -2,10 +2,8 @@
 title: "What’s in a Name?"
 excerpt: "Discovering how identity shapes destiny—and how God’s name over us changes everything."
 tags:
-  - Identity in Christ
-  - Truth
-  - Obedience
-  - Daniel
+  - obedience
+  - scripture
 scripture:
   - "Daniel 1"
   - "Daniel 3"

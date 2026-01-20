@@ -2,10 +2,7 @@
 title: "Be Transformed"
 excerpt: "True worship is not conformity to the world, but transformation through a renewed mind shaped by the righteousness of Christ."
 tags:
-  - Sanctification
-  - Worship
-  - Mind Renewal
-  - Romans
+  - scripture
 scripture:
   - "Romans 12:1-2"
   - "2 Corinthians 5:21"

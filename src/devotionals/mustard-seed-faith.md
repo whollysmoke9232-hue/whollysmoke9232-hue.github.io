@@ -2,9 +2,8 @@
 title: "Mustard Seed Faith"
 excerpt: "Even little faith is powerful when pointed toward Jesus. Mustard seed faith moves mountains—and multiplies miracles."
 tags:
-  - Faith
-  - Trust
-  - Gospels
+  - faith
+  - gospels
 scripture:
   - "Matthew 17:20"
   - "Luke 8:43"

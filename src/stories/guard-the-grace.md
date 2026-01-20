@@ -2,12 +2,10 @@
 title: "Guard the Grace"
 excerpt: "A reflection on how churches respond to sexual sin—and what those responses quietly teach about confession, belonging, and grace."
 tags:
-  - Grace
-  - Confession
-  - Restoration
-  - Church
-  - Sexual Sin
-  - Belonging
+  - grace
+  - restoration
+  - sin
+  - shame
 date: 2026-01-12
 layout: default.njk
 author: "Steve Wilkins"

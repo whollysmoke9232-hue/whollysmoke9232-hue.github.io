@@ -2,10 +2,12 @@
 title: "Fractured Light"
 excerpt: "Stories of brokenness and redemption—written from the margins where grace meets collapse, surrender, and quiet faith."
 tags:
-  - Grace
-  - Weakness
-  - Suffering
-  - Redemption
+  - grace
+  - weakness
+  - suffering
+  - redemption
+  - fractured-light
+  - book
 scripture:
   - "Genesis 3"
   - "2 Samuel 11-12"
@@ -83,6 +85,8 @@ This is where resurrection begins.
 I grew up in a different time. My friends and I were expected to be out of the house every day until the streetlights came on. Then it was time to head home for homework, bath time, and supper. I spent an enormous amount of time figuring life out with my peers. We all went to church in those days, so we had a basic foundation of right and wrong; but the details were blurred by our immature logic and desires.
 
 My parents loved me. But something in my early childhood—that I can't remember—combined with the way my brain is wired, caused me to feel unloved. For as long as I can remember I felt like I was basically alone in the world. In fairness to my parents, I was a rebellious, sassy, overly energetic child. I am certain that both of my parents did the best that they could with me. I was simply unable to receive what they were offering.
+
+One of my earliest memories is how after enduring some form corporal punishment, I would turn and look at my parent and ask, “Do you feel better now?” This response troubled them deeply. It led them to seek professional help, where they were warned that my emotional detachment—my inability to cry or react as expected—was not something to ignore.
 
 This left me vulnerable to following every whim that my mind could conceive as well as to adults who didn't have my best interest at heart.
 

@@ -5,11 +5,11 @@ date: 2024-05-04
 layout: default.njk
 author: "Steve Wilkins"
 tags:
-  - Grace
-  - Repentance
-  - Weakness
-  - Sanctification
-  - Restoration
+  - grace
+  - repentance
+  - weakness
+  - restoration
+  - scripture
 scripture:
   - "Acts 13:22"
   - "1 Samuel 16:7"

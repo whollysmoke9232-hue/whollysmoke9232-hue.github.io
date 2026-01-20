@@ -2,10 +2,9 @@
 title: "No Excuse"
 excerpt: "God’s revelation is not hidden—it’s everywhere. Creation declares His power, and conscience confirms His nature. The question is not whether He’s spoken, but whether we’ll respond."
 tags:
-  - Repentance
-  - Obedience
-  - Accountability
-  - Romans
+  - repentance
+  - obedience
+  - scripture
 scripture:
   - "Romans 1:19-20"
 date: 2024-06-10

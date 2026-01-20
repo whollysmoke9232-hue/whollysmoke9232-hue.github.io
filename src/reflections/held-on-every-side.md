@@ -2,9 +2,9 @@
 title: "Held on Every Side"
 excerpt: "As mountains encircle Jerusalem, God’s presence surrounds His people—corporately and personally—now and forever."
 tags:
-  - Weakness
-  - Grace
-  - Perseverance
+  - weakness
+  - grace
+  - perseverance
 scripture:
   - "Psalm 125:2"
 date: 2026-01-03

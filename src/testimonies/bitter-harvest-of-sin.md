@@ -2,11 +2,11 @@
 title: "The Bitter Harvest of Sin"
 excerpt: "Sin promises satisfaction but delivers shame. What once felt thrilling leaves a bitter harvest—yet grace still invites us into life."
 tags:
-  - Sin
-  - Repentance
-  - Freedom
-  - Grace
-  - Romans
+  - sin
+  - repentance
+  - freedom
+  - grace
+  - scripture
 scripture:
   - "Romans 6:21"
 date: 2025-08-02
