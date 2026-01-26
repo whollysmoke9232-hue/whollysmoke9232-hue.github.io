@@ -22,7 +22,7 @@ It is so easy to get lost in fear.
 
 Fear starts as a whisper – a faint, “What if?” – and if left unchecked, it becomes consuming. Our focus quickly shifts from what God has already accomplished to some threat we fear we can’t survive. What we once would have considered merely a blip on our radar screen becomes the lens through which we view our inner world. In this process, fear is rarely content to remain alone. It invites other fears, both real and imagined, to join it. We build towers of imagined outcomes, each one more convincing than the last.
 
-Much of fear lives in the imagined future – a future built on the foundation of fear. Fear is always creative – but it is never truthful. It always assumes the worst possible ending. And as it deepens, we find it more difficult to remember God’s promises. While we may remember scripture, we no longer ***feel**** it. What we once knew and trusted becomes overwhelmed by urgency. Fear feeds on itself. The more afraid we become, the more justified fear feels.
+Much of fear lives in the imagined future – a future built on the foundation of fear. Fear is always creative – but it is never truthful. It always assumes the worst possible ending. And as it deepens, we find it more difficult to remember God’s promises. While we may remember scripture, we no longer ***feel*** it. What we once knew and trusted becomes overwhelmed by urgency. Fear feeds on itself. The more afraid we become, the more justified fear feels.
 
 As we allow ourselves to sink deeper into fear, God begins to shrink in our thinking. We don’t stop believing ***in Him***; we stop leaning ***on Him***. As fear tightens its grip on our imagination, faith begins to lose its grip. And we find ourselves in a tailspin toward despair.
 
