@@ -6,7 +6,7 @@ tags:
   - scripture
 scripture:
   - "Genesis 5:24"
-date: 2020-07-09
+date: 2016-04-20
 layout: default.njk
 author: "Steve Wilkins"
 ---
