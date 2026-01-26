@@ -41,28 +41,28 @@ So, what have I to fear?
 Nothing.
 
 <i>
-Father,    
-You know how easily my heart drifts into fear.    
-You see the thoughts I rehearse, the futures I imagine,    
-and the weight I carry before anything has even happened.    
+Father,  
+You know how easily my heart drifts into fear.  
+You see the thoughts I rehearse, the futures I imagine,  
+and the weight I carry before anything has even happened.  
 
-Today, I choose to anchor myself in what is true:    
-that You are for me.    
-Not distant. Not undecided. Not reluctant.    
-For me.    
+Today, I choose to anchor myself in what is true:  
+that You are for me.  
+Not distant. Not undecided. Not reluctant.  
+For me.  
 
-When fear whispers, remind me of Your faithfulness.    
-When my imagination runs ahead of Your promises,    
-slow my heart and steady my mind.    
-Teach me again what it means to trust You—    
-not just to believe, but to lean.    
+When fear whispers, remind me of Your faithfulness.  
+When my imagination runs ahead of Your promises,  
+slow my heart and steady my mind.  
+Teach me again what it means to trust You—  
+not just to believe, but to lean.  
 
-I place my future in Your hands.    
-I release the need to control outcomes.    
-I will walk behind You and let You face what lies ahead.    
+I place my future in Your hands.  
+I release the need to control outcomes.  
+I will walk behind You and let You face what lies ahead.  
 
-In You, I put my trust.    
-I will not be afraid.    
+In You, I put my trust.  
+I will not be afraid.  
 
 Amen.
 </i>
