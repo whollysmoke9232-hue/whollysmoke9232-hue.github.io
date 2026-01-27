@@ -1,6 +1,6 @@
 ---
 title: "Renew My Mind"
-date: 2014-01-01
+date: 2014-08-21
 layout: default.njk
 categories:
   - reflections
