@@ -43,6 +43,4 @@ To keep walking.
 To believe that Your grace is deeper  
 than all the ways I fall short.
 
-
 Amen.
-

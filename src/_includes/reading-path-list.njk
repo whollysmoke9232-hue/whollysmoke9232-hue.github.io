@@ -1,0 +1,14 @@
+{#
+  Usage: {% include "reading-path-list.njk" "start-here-suffering-or-waiting" %}
+  Requires: readingPaths global data (object of arrays of {url, title})
+#}
+{% set items = readingPaths[arguments[0]] %}
+{% if items and items.length %}
+{#
+  Usage: {% include "reading-path-list.njk" "start-here-suffering-or-waiting" %}
+  Requires: readingPaths global data (object of arrays of {url, title})
+#}
+{% set items = readingPaths[arguments[0]] %}
+{% else %}
+  <p><em>No readings found for this path.</em></p>
+{% endif %}

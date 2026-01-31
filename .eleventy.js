@@ -1,9 +1,58 @@
-// Removed duplicate collection definitions outside module.exports
 const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 
 module.exports = function (eleventyConfig) {
+  // Make readingPaths available globally
+  const readingPaths = require('./src/_data/readingPaths.js');
+  eleventyConfig.addGlobalData('readingPaths', readingPaths);
+
+  // Add a Nunjucks shortcode to parse query parameters
+  eleventyConfig.addShortcode('parseQuery', function(url) {
+    const query = {};
+    if (!url) return query;
+    const parts = url.split('?');
+    if (parts.length < 2) return query;
+    parts[1].split('&').forEach(pair => {
+      const [key, value] = pair.split('=');
+      query[key] = decodeURIComponent(value || '');
+    });
+    return query;
+  });
+  // 🔍 Custom includes filter for substring matching
+  eleventyConfig.addFilter("includes", function(str, substr) {
+    if (!str || !substr) return false;
+    return String(str).includes(substr);
+  });
+  // 🔍 Custom findIndex filter for array index lookup
+  eleventyConfig.addFilter("findIndex", function(arr, val) {
+    if (!arr || !val) return -1;
+    return arr.indexOf(val);
+  });
+  // 🔍 Custom map filter for extracting properties from array of objects
+  eleventyConfig.addFilter("map", function(arr, prop) {
+    if (!arr || !prop) return [];
+    return arr.map(item => item[prop]);
+  });
+  // 🔍 Custom includes filter for substring matching
+  eleventyConfig.addFilter("includes", function(str, substr) {
+    if (!str || !substr) return false;
+    return String(str).includes(substr);
+  });
+  // 🔍 Custom findIndex filter for array index lookup
+  eleventyConfig.addFilter("findIndex", function(arr, val) {
+    if (!arr || !val) return -1;
+    return arr.indexOf(val);
+  });
+  // 🔍 Custom includes filter for substring matching
+  eleventyConfig.addFilter("includes", function(str, substr) {
+    if (!str || !substr) return false;
+    return String(str).includes(substr);
+  });
+  // 📚 Library collection for all markdown files in src/library
+  eleventyConfig.addCollection("library", (api) =>
+    api.getFilteredByGlob("./src/library/*.md")
+  );
 
   // 🔗 Configure markdown to add anchor IDs to headings
   const markdownLibrary = markdownIt({
@@ -172,11 +221,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "images": "images" });
 
   // 📁 Directory structure
-  return {
-    dir: {
-      input: "src",
-      includes: "_includes",
-      output: "docs",
-    },
-  };
+    return {
+      dir: {
+        input: "src",
+        includes: "_includes",
+        output: "docs",
+      },
+      markdownTemplateEngine: "njk",
+      htmlTemplateEngine: "njk",
+      dataTemplateEngine: "njk"
+    };
 };

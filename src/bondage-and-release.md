@@ -11,22 +11,28 @@ This collection explores the recognition of bondage and the slow, sometimes surp
 
 ---
 
+
 ### Explore This Path
 
-1. [The Bitter Harvest of Sin](/testimonies/bitter-harvest-of-sin/?path=bondage-and-release&step=1)
-2. [Jesus – The Scapegoat](/testimonies/jesus-the-scapegoat/?path=bondage-and-release&step=2)
-3. [Purify My Heart](/devotionals/purify-my-heart/?path=bondage-and-release&step=3)
-4. [In the Margins](/testimonies/in-the-margins/?path=bondage-and-release&step=4)
-5. [Fractured Light — "The Spiral"](/books/fractured-light/chapter-3/?path=bondage-and-release&step=5)
+<ul>
+  <li><a href="/testimonies/bitter-harvest-of-sin/?path=bondage-and-release&step=1">The Bitter Harvest of Sin</a></li>
+  <li><a href="/testimonies/jesus-the-scapegoat/?path=bondage-and-release&step=2">Jesus – The Scapegoat</a></li>
+  <li><a href="/devotionals/purify-my-heart/?path=bondage-and-release&step=3">Purify My Heart</a></li>
+  <li><a href="/testimonies/in-the-margins/?path=bondage-and-release&step=4">In the Margins</a></li>
+  <li><a href="/books/fractured-light/chapter-3/?path=bondage-and-release&step=5">Fractured Light — &quot;The Spiral&quot;</a></li>
+</ul>
 
 ---
 
+
 ### Further Reading
 
-- [Deliver Me](/reflections/deliver-me/?path=bondage-and-release&step=6)
-- [Not Even One](/reflections/not-even-one/?path=bondage-and-release&step=7)
-- [Fractured Light — "The Collapse"](/books/fractured-light/chapter-7/?path=bondage-and-release&step=8)
-- [Working From Grace](/reflections/working-from-grace/?path=bondage-and-release&step=9)
+<ul>
+  <li><a href="/reflections/deliver-me/?path=bondage-and-release&step=6">Deliver Me</a></li>
+  <li><a href="/reflections/not-even-one/?path=bondage-and-release&step=7">Not Even One</a></li>
+  <li><a href="/books/fractured-light/chapter-7/?path=bondage-and-release&step=8">Fractured Light — &quot;The Collapse&quot;</a></li>
+  <li><a href="/reflections/working-from-grace/?path=bondage-and-release&step=9">Working From Grace</a></li>
+</ul>
 
 ---
 

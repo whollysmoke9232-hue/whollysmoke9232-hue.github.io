@@ -1,0 +1,26 @@
+{% if page.url and page.query and page.query.path and page.query.idx is not undefined %}
+  {% set pathKey = page.query.path %}
+  {% set idx = page.query.idx | int %}
+  {% set items = readingPaths[pathKey] %}
+
+  {% if items and items.length %}
+    <nav class="reading-path-nav" style="margin:3rem 0; text-align:center;">
+      {% if idx > 0 %}
+        <a href="{{ items[idx - 1].url or items[idx - 1] }}?path={{ pathKey }}&idx={{ idx - 1 }}">
+          ← Previous
+        </a>
+      {% endif %}
+
+      {% if idx < items.length - 1 %}
+        {% if idx > 0 %} · {% endif %}
+        <a href="{{ items[idx + 1].url or items[idx + 1] }}?path={{ pathKey }}&idx={{ idx + 1 }}">
+          Next →
+        </a>
+      {% endif %}
+
+      <div style="margin-top:1rem;">
+        <a href="/start-here/">Back to Start Here</a>
+      </div>
+    </nav>
+  {% endif %}
+{% endif %}

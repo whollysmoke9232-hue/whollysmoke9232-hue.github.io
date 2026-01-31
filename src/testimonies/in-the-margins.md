@@ -14,7 +14,6 @@ scripture:
   - "Ephesians 1:4"
   - "1 Peter 1:20"
   - "Exodus 3:14"
-
 ---
 
 What is your favorite place in the Bible?

@@ -142,7 +142,7 @@ layout: layout.njk
   {% set isFracturedLight = "fractured-light" in tags %}
   {% set isMargins = "margins-where-god-begins" in tags %}
   {% set bookCollection = collections.fracturedLight if isFracturedLight else collections.marginsBook %}
-  {% set continuousUrl = "/stories/fractured-light/" if isFracturedLight else "/books/margins-where-god-begins/manuscript/" %}
+  {% set continuousUrl = "/stories/fractured-light/" if isFracturedLight else "/stories/margins-where-god-begins/" %}
   {% set tocUrl = "/books/fractured-light/toc/" if isFracturedLight else "/books/margins-where-god-begins/toc/" %}
   {% set contentsUrl = "/books/fractured-light/" if isFracturedLight else "/books/margins-where-god-begins/" %}
   {% set bookTitle = "Fractured Light" if isFracturedLight else "Margins: Where God Begins" %}
@@ -255,21 +255,9 @@ layout: layout.njk
   });
 </script>
 
+
 <footer class="site-footer">
-  <!-- Path navigation for guided reading paths -->
-  <div id="path-navigation" style="display: none; text-align: center; margin: 1rem 0;">
-    <nav class="explore-bubbles" aria-label="Continue Reading Path">
-      <a id="next-article-link" href="#">Next in this path →</a>
-    </nav>
-  </div>
-  
-  <div style="text-align: center; margin: 2rem 0 1rem;">
-    <nav class="explore-bubbles" aria-label="Return">
-      <a href="/">Home</a>
-    </nav>
-  </div>
+
   <hr />
   <p><small>&copy; {{ author }} — Grace in the Margins</small></p>
 </footer>
-
-{% include "path-navigation-script.njk" %}

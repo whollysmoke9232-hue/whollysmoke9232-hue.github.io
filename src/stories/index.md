@@ -1,23 +1,12 @@
 ---
-layout: default.njk
----
-
-## Stories
-
-Narratives drawn from real life—moments where God’s grace becomes visible in
-unexpected ways, from ordinary days to life-altering events.
-
-These stories are not polished parables.  
-They are lived moments where God quietly breaks in, redeems, restores,
-and reminds us that He is always at work.
-
+layout: index.njk
 ---
 
 <ul class="story-list">
   {% for item in collections.stories | reverse %}
     {% if item.url != '/stories/' %}
       <li class="story-list-item">
-        <a href="{{ item.url }}?from=stories">
+        <a href="{{ item.url }}">
           <strong>{{ item.data.title }}</strong>
         </a>
 

@@ -1,0 +1,39 @@
+
+
+
+{# Find the navKey by matching page.url to navigation entry url, or fallback to fileSlug #}
+{% set navKey = false %}
+{% for key, entry in navigation %}
+  {% if entry.url and entry.url == page.url %}
+    {% set navKey = key %}
+  {% endif %}
+{% endfor %}
+{% if not navKey and page.fileSlug %}
+  {% set navKey = page.fileSlug %}
+{% endif %}
+
+{# Try to find parentKey by children array first #}
+{% set parentKey = false %}
+{% for key, entry in navigation %}
+  {% if entry.children and navKey and entry.children.indexOf(navKey) != -1 %}
+    {% set parentKey = key %}
+  {% endif %}
+{% endfor %}
+{# If not found, try to get parentKey from navigation[navKey].parent #}
+{% if not parentKey and navKey and navigation[navKey] and navigation[navKey].parent %}
+  {% set parentKey = navigation[navKey].parent %}
+{% endif %}
+{% set parent = parentKey and navigation[parentKey] %}
+
+
+{# Always show subtitle for any page with a parent, except for the homepage itself #}
+{% if page.url != '/' and navigation and navKey and parent %}
+  <div class="subtitle-parent-link" style="margin-bottom:1.5rem; text-align:center;">
+    <a href="{{ parent.url }}" class="subtitle-link" style="font-size:1.1rem; color:#888; text-decoration:none;">{{ parent.title }}</a>
+  </div>
+{% endif %}
+
+
+
+
+

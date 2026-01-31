@@ -8,7 +8,7 @@ tags:
   - psalms
 scripture:
   - "Psalm 119:57"
-  - "Psalms 73:25"
+  - "Psalm 73:25"
   - "Psalm 119:18"
   - "Psalm 119:16"
   - "Psalm 119:92"

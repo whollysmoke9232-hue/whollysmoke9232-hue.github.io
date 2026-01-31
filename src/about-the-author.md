@@ -13,25 +13,28 @@ These writings are not offered as answers, but as witness. They come from a life
 
 ### Core Readings
 
-1. [From Exile to Eden](/testimonies/from-exile-to-eden/?path=about-the-author&step=1)
-2. [In the Margins](/testimonies/in-the-margins/?path=about-the-author&step=2)
-3. [Fractured Light — “The Altar” (excerpt)](/books/fractured-light/chapter-4/?path=about-the-author&step=3)
-4. [A Psalm from Confinement](/meditations/a-psalm-from-confinement/?path=about-the-author&step=4)
-5. [The Big Picture](/reflections/the-big-picture/?path=about-the-author&step=5)
+<ul>
+	<li><a href="/testimonies/from-exile-to-eden/?path=about-the-author&step=1">From Exile to Eden</a></li>
+	<li><a href="/testimonies/in-the-margins/?path=about-the-author&step=2">In the Margins</a></li>
+	<li><a href="/books/fractured-light/chapter-4/?path=about-the-author&step=3">Fractured Light — “The Altar” (excerpt)</a></li>
+	<li><a href="/meditations/a-psalm-from-confinement/?path=about-the-author&step=4">A Psalm from Confinement</a></li>
+	<li><a href="/reflections/the-big-picture/?path=about-the-author&step=5">The Big Picture</a></li>
+</ul>
 
 ### Further Reading
 
-- [Dance Like Enoch](/stories/dance-like-enoch/)
-- [The House That Calls to the Simple](/stories/the-house-that-calls-to-the-simple/)
-- [The Gospel in the Grass](/stories/the-gospel-in-the-grass/)
 
----
+<ul>
+	<li><a href="/stories/dance-like-enoch/">Dance Like Enoch</a></li>
+	<li><a href="/stories/the-house-that-calls-to-the-simple/">The House That Calls to the Simple</a></li>
+	<li><a href="/stories/the-gospel-in-the-grass/">The Gospel in the Grass</a></li>
+</ul>
+
 
 <div class="explore-bubbles">
 	<a href="/begin/">← Back to Begin</a>
 </div>
 
----
 
 
 

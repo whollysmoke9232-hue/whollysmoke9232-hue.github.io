@@ -1,12 +1,9 @@
 ---
 title: Grace in the Margins
-layout: layout
+layout: layout.njk
 ---
 
-
-
-
-
+<div class="article-content">
   <div style="text-align: center; margin-bottom: 0.5rem;">
     <a href="/begin/" style="font-size: 1.18rem; color: #6b4f2c; text-decoration: underline; font-weight: bold; letter-spacing: 0.02em;">
       If this is your first visit, begin here
@@ -20,25 +17,26 @@ layout: layout
     <a href="/library/" style="font-size: 1.18rem; color: #6b4f2c; text-decoration: underline; font-weight: bold; letter-spacing: 0.02em;">Complete Library</a>
   </div>
 
-    <a href="/about/">
-        <img src="/images/heavens-declare.png" alt="The heavens declare the glory of God" title="Why this place exists" style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-    </a>
+  <a href="/about/">
+    <img src="/images/heavens-declare.png" alt="The heavens declare the glory of God" title="Why this place exists" style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  </a>
 
-    <section class="psalm-verse" style="text-align: center;">
-      <p style="font-size: 1.5rem; font-style: italic;">
-        "Thy word is a lamp unto my feet, and a light unto my path." Psalm 119:105 (KJV)
-      </p>
-    </section>
+  <section class="psalm-verse" style="text-align: center;">
+    <p style="font-size: 1.5rem; font-style: italic;">
+      "Thy word is a lamp unto my feet, and a light unto my path." Psalm 119:105 (KJV)
+    </p>
+  </section>
 
-    <!-- BOTTOM LINKS (inside border) -->
-    <nav class="explore-bubbles" aria-label="Explore">
-      <a href="/devotionals/">Devotionals</a>
-      <a href="/meditations/">Meditations</a>
-      <a href="/reflections/">Reflections</a>
-      <a href="/stories/">Stories</a>
-      <a href="/testimonies/">Testimonies</a>
-      <a href="/books/">Books</a>
-    </nav>
+  <!-- BOTTOM LINKS (inside border) -->
+  <nav class="explore-bubbles" aria-label="Explore">
+    <a href="/devotionals/">Devotionals</a>
+    <a href="/meditations/">Meditations</a>
+    <a href="/reflections/">Reflections</a>
+    <a href="/stories/">Stories</a>
+    <a href="/testimonies/">Testimonies</a>
+    <a href="/books/">Books</a>
+  </nav>
+</div>
 
 
     <div style="text-align: center; margin-top: 0.5rem;">

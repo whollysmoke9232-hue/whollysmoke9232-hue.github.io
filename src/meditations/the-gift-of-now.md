@@ -1,15 +1,3 @@
-<div class="yna-nav-links" style="margin-top:2.5em; display:none;">
-  <div style="display:flex; justify-content:space-between;">
-    <a href="/meditations/a-psalm-from-confinement/?from=youre-not-alone" style="font-weight:bold;">&larr; Previous: A Psalm from Confinement</a>
-    <a href="/meditations/the-god-who-is-heard/?from=youre-not-alone" style="font-weight:bold;">Next: The God Who Is Heard &rarr;</a>
-  </div>
-</div>
-<script>
-  if (window && window.location.search.includes('from=youre-not-alone')) {
-    var el = document.querySelector('.yna-nav-links');
-    if (el) el.style.display = 'block';
-  }
-</script>
 ---
 title: "The Gift of Now"
 excerpt: "We often rush past the present while waiting for something better. This devotional invites us to receive the current moment as God’s gift, where His presence is already at work."

@@ -14,7 +14,6 @@ scripture:
   - "Matthew 13:22"
   - "Haggai 1:7-8"
   - "Haggai 2:9"
-
 ---
 
 ## Key Scripture

@@ -20,12 +20,23 @@ This collection explores the valley of exhaustion and the quiet, persistent grac
 4. [Look and Live](/devotionals/look-and-live/?path=weariness-and-renewal&step=4)
 5. [The Gift of Now](/meditations/the-gift-of-now/?path=weariness-and-renewal&step=5)
 
+<ul>
+  <li><a href="/devotionals/be-still/?path=weariness-and-renewal&step=1">Be Still</a></li>
+  <li><a href="/devotionals/the-gift-of-now/?path=weariness-and-renewal&step=2">The Gift of Now</a></li>
+  <li><a href="/devotionals/new-every-morning/?path=weariness-and-renewal&step=3">New Every Morning</a></li>
+  <li><a href="/devotionals/look-and-live/?path=weariness-and-renewal&step=4">Look and Live</a></li>
+  <li><a href="/meditations/the-gift-of-now/?path=weariness-and-renewal&step=5">The Gift of Now</a></li>
+</ul>
+
 ### Further Reading
 
-- [Mustard Seed Faith](/devotionals/mustard-seed-faith/)
-- [Seek His Face](/devotionals/seek-his-face/)
-- [If God Is Everywhere](/devotionals/if-god-is-everywhere/)
-- [The Work of Your Fingers](/devotionals/the-work-of-your-fingers/)
+
+<ul>
+  <li><a href="/devotionals/mustard-seed-faith/">Mustard Seed Faith</a></li>
+  <li><a href="/devotionals/seek-his-face/">Seek His Face</a></li>
+  <li><a href="/devotionals/if-god-is-everywhere/">If God Is Everywhere</a></li>
+  <li><a href="/devotionals/the-work-of-your-fingers/">The Work of Your Fingers</a></li>
+</ul>
 
 ---
 

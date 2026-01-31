@@ -1,15 +1,3 @@
-<div class="yna-nav-links" style="margin-top:2.5em; display:none;">
-  <div style="display:flex; justify-content:space-between;">
-    <a href="/meditations/a-meditation-in-suffering/?from=youre-not-alone" style="font-weight:bold;">&larr; Previous: A Meditation in Suffering</a>
-    <a href="/meditations/the-gift-of-now/?from=youre-not-alone" style="font-weight:bold;">Next: The Gift of Now &rarr;</a>
-  </div>
-</div>
-<script>
-  if (window && window.location.search.includes('from=youre-not-alone')) {
-    var el = document.querySelector('.yna-nav-links');
-    if (el) el.style.display = 'block';
-  }
-</script>
 ---
 title: "A Psalm From Confinement"
 excerpt: "A meditation of confession, grace, and longing—written when hope felt distant and mercy refused to let go."
@@ -17,7 +5,6 @@ tags:
   - suffering
   - waiting
   - psalms
-
 date: 2024-06-01
 layout: default.njk
 author: "Steve Wilkins"

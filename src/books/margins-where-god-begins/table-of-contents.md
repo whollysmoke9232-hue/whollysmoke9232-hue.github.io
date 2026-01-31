@@ -73,7 +73,7 @@ permalink: "/books/margins-where-god-begins/toc/"
   <h1 class="toc-title">Margins: Where God Begins</h1>
   <p class="toc-subtitle">Table of Contents</p>
   
-  <a href="/books/margins-where-god-begins/manuscript/" class="reading-mode-link">View Continuous Reading Mode</a>
+  <a href="/stories/margins-where-god-begins/" class="reading-mode-link">View Continuous Reading Mode</a>
 
   <ul class="toc-links">
     <li><a href="/books/margins-where-god-begins/foreword/">Foreword</a></li>

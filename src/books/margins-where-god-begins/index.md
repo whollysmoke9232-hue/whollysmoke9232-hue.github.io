@@ -10,7 +10,7 @@ tags:
 date: 2026-01-15
 layout: book-index.njk
 author: "Steve Wilkins"
-continuousReadingUrl: /books/margins-where-god-begins/manuscript/
+continuousReadingUrl: /stories/margins-where-god-begins/
 ---
 
 ## About the Book

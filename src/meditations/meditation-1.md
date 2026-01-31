@@ -4,7 +4,6 @@ excerpt: "A meditation of surrender—looking back on flight, self-reliance, and
 tags:
   - repentance
   - surrender
-
 date: 2024-09-20
 layout: default.njk
 author: "Steve Wilkins"
