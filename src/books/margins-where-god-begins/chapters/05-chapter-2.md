@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-2/"
+category: books
 ---
 
 Before the first word of creation was spoken, God already knew – or better, God already knows.

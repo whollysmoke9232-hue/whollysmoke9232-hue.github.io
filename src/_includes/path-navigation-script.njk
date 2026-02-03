@@ -1,68 +1,67 @@
-<!-- Guided Path Navigation Script -->
 <script>
-  (function() {
-    // Helper: Insert subtitle link under header/tagline
-    function insertSubtitleLink(text, url) {
-      var headerDiv = document.querySelector('.site-brand');
-      if (headerDiv) {
-        var existing = document.getElementById('universal-subtitle-link');
-        if (existing) existing.remove();
-        var linkDiv = document.createElement('div');
-        linkDiv.id = 'universal-subtitle-link';
-        linkDiv.style = 'margin-top:0.5em; font-size:1.1em;';
-        var link = document.createElement('a');
-        link.href = url;
-        link.textContent = text;
-        link.style = 'color:#6a5d4d; text-decoration:underline;';
-        linkDiv.appendChild(link);
-        headerDiv.appendChild(linkDiv);
-      }
-    }
-    // Define the reading paths
-    const paths = {
-      suffering: [
-        { url: '/devotionals/be-still/', title: 'Be Still' },
-        { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' },
-        { url: '/meditations/if-god-is-everywhere/', title: 'If God Is Everywhere' },
-        { url: '/devotionals/when-jesus-wept/', title: 'When Jesus Wept' },
-        { url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation in Suffering' },
-        { url: '/devotionals/new-every-morning/', title: 'New Every Morning' }
-      ],
-      sin: [
-        { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
-        { url: '/testimonies/jesus-the-scapegoat/', title: 'Jesus – The Scapegoat' },
-        { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
-        { url: '/testimonies/from-ashes-to-glory/', title: 'From Ashes to Glory' },
-        { url: '/testimonies/in-the-margins/', title: 'In the Margins' }
-      ],
-      numb: [
-        { url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
-        { url: '/devotionals/seek-his-face/', title: 'Seek His Face, Not Just His Hand' },
-        { url: '/devotionals/mustard-seed-faith/', title: 'Mustard Seed Faith' },
-        { url: '/devotionals/look-and-live/', title: 'Look and Live' },
-        { url: '/reflections/faith-from-beginning-to-end/', title: 'Faith, From Beginning to End' }
-      ],
-      identity: [
-        { url: '/reflections/whats-in-a-name/', title: "What's In A Name" },
-        { url: '/testimonies/after-gods-heart/', title: "After God's Heart" },
-        { url: '/reflections/held-on-every-side/', title: 'Held on Every Side' },
-        { url: '/reflections/working-from-grace/', title: 'Working from Grace' }
-      ],
-      story: [
-        { url: '/stories/the-gospel-in-the-grass/', title: 'The Gospel in the Grass' },
-        { url: '/stories/dance-like-enoch/', title: 'I Wanna Dance Like Enoch Danced' },
-        { url: '/stories/the-house-that-calls-to-the-simple/', title: 'The House That Calls to the Simple' },
-        { url: '/stories/fractured-light/', title: 'Fractured Light' }
-      ],
-      stillness: [
-        { url: '/devotionals/be-still/', title: 'Be Still' },
-        { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' },
-        { url: '/meditations/a-holy-moment/', title: 'A Holy Moment' },
-        { url: '/meditations/here-with-me/', title: 'Here With Me' },
-      
-      nextLink.href = '/' + fromCollection + '/';
-      nextLink.textContent = '← Back to ' + collections[fromCollection];
-      navDiv.style.display = 'block';
-    }
+(function () {
+  // Read query params from the browser URL
+  const params = new URLSearchParams(window.location.search);
+  const pathKey = params.get("path");
+  const stepRaw = params.get("step");
+
+  // If no path/step, do nothing (normal browsing)
+  if (!pathKey || !stepRaw) return;
+
+  const step = parseInt(stepRaw, 10);
+  if (!Number.isFinite(step) || step < 1) return;
+
+  // readingPaths injected at build time
+  const readingPaths = {{ readingPaths | dump | safe }};
+  const list = readingPaths[pathKey];
+
+  if (!Array.isArray(list) || list.length === 0) return;
+
+  // Normalize list items to objects: { url, title }
+  const items = list.map(item => {
+    if (typeof item === "string") return { url: item, title: "" };
+    if (item && typeof item === "object") return { url: item.url, title: item.title || "" };
+    return null;
+  }).filter(Boolean);
+
+  const idx = step - 1;
+  const prev = idx > 0 ? items[idx - 1] : null;
+  const next = idx < items.length - 1 ? items[idx + 1] : null;
+
+  // Where to render the nav
+  const mount = document.querySelector("[data-reading-path-nav]");
+  if (!mount) return;
+
+  function linkHtml(item, label) {
+    if (!item || !item.url) return "";
+    const sep = item.url.includes("?") ? "&" : "?";
+    const href = item.url + sep + "path=" + encodeURIComponent(pathKey) + "&step=" + (label === "prev" ? idx : idx + 2);
+    const text = item.title ? item.title : (label === "prev" ? "Previous" : "Next");
+    return `<a href="${href}">${text}</a>`;
+  }
+
+  // Build nav HTML
+  const prevHtml = prev ? `← ${linkHtml(prev, "prev")}` : "";
+  const nextHtml = next ? `${linkHtml(next, "next")} →` : "";
+
+  // Optional: Back to the path landing page (only if your readingPaths contains it as step 1, like begin does)
+  const backToPath = (function(){
+    // If your path landing page is always the first item, you can use it:
+    // const first = items[0];
+    // return first && first.url ? first.url : null;
+
+    // OR: if you want Begin specifically when pathKey is bondage-and-release, set it here:
+    if (pathKey === "bondage-and-release") return "/bondage-and-release/";
+    if (pathKey === "begin") return "/begin/";
+    return null;
   })();
+
+  mount.innerHTML = `
+    <nav style="display:flex; justify-content:space-between; gap:1rem; margin-top:3rem; font-weight:bold;">
+      <div>${prevHtml}</div>
+      <div style="text-align:center;">${backToPath ? `<a href="${backToPath}">Back</a>` : ""}</div>
+      <div>${nextHtml}</div>
+    </nav>
+  `;
+})();
 </script>

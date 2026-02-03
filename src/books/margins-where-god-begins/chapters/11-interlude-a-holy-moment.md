@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/interlude-a-holy-moment/"
+category: books
 ---
 
 <div style="font-style: italic;">

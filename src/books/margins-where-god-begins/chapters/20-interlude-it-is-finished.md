@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/interlude-it-is-finished/"
+category: books
 ---
 
 <div style="text-align:center; font-style: italic;">

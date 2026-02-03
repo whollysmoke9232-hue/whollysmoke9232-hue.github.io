@@ -1,0 +1,40 @@
+---
+layout: layout.njk
+---
+
+<header class="article-header">
+  <h1>{{ title }}</h1>
+
+  {% if excerpt %}
+    <p><em>{{ excerpt }}</em></p>
+  {% endif %}
+
+  {% if author %}
+    <p><strong>By {{ author }}</strong></p>
+  {% endif %}
+
+  {% if date %}
+    <p>
+      <time datetime="{{ date }}">
+        {{ date | readableDate }}
+      </time>
+    </p>
+  {% endif %}
+</header>
+
+<article class="article-content">
+  {{ content | safe }}
+</article>
+
+{% if tags %}
+<div class="article-tags">
+  {% for tag in tags %}
+    <a href="/tags/{{ tag | slug }}/">{{ tag }}</a>
+  {% endfor %}
+</div>
+{% endif %}
+
+<!-- Reading Path Navigation Mount -->
+<div data-reading-path-nav></div>
+
+{% include "reading-path-nav.njk" %}

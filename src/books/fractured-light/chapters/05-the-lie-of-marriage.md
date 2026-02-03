@@ -7,6 +7,7 @@ tags:
   - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-5/"
+category: books
 ---
 
 She was the answer to my prayer.

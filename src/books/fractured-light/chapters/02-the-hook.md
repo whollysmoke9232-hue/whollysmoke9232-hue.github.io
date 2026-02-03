@@ -7,6 +7,7 @@ tags:
   - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-2/"
+category: books
 ---
 
 I was nine years old when the hook was set.

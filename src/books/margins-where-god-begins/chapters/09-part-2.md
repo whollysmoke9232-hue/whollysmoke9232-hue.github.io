@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/part-2/"
+category: books
 ---
 
 If the eternal margin reveals who God is before time began,  

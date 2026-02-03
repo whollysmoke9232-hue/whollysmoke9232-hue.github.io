@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-1/"
+category: books
 ---
 
 Before the first word was spoken, before the first light pierced the darkness, before time itself began—there was a margin.

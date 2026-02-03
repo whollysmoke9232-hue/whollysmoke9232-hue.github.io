@@ -7,6 +7,7 @@ tags:
   - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-4/"
+category: books
 ---
 
 There wasn't an altar call.

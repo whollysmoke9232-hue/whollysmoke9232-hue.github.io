@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/part-1/"
+category: books
 ---
 
 Before time began, God already knew.

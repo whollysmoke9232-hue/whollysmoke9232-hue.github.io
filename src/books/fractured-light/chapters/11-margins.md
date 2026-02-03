@@ -7,6 +7,7 @@ tags:
   - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-11/"
+category: books
 ---
 
 I never set out to write this story.

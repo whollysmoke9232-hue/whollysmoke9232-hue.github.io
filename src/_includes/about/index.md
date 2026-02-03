@@ -1,6 +1,6 @@
 ---
 title: About the Mission
-layout: default.njk
+layout: layout.njk
 ---
 
 <section class="about-mission">

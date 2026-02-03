@@ -1,6 +1,6 @@
 ---
 title: "Margins: Where God Begins"
-layout: default.njk
+layout: layout.njk
 permalink: "/books/margins-where-god-begins/manuscript/"
 ---
 

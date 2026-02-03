@@ -1,6 +1,6 @@
 ---
 title: "Books"
-layout: layout.njk
+layout: article.njk
 ---
 
 # Books by Steve Wilkins

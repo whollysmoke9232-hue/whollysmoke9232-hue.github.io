@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-9/"
+category: books
 ---
 
 If there was a margin before the beginning,  

@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/introduction/"
+category: books
 ---
 
 What’s your favorite place in the Bible?

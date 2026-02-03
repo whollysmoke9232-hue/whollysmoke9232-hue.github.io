@@ -1,5 +1,5 @@
 ---
-layout: default.njk
+layout: article.njk
 permalink: /about/
 ---
 

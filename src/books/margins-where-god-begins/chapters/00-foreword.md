@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/foreword/"
+category: books
 ---
 
 There are books that explain Scripture, and there are books that invite you to enter it.  

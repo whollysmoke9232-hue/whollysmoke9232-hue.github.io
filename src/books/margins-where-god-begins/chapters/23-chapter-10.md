@@ -6,8 +6,8 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-10/"
+category: books
 ---
-
 You’ve walked with me through the margins—  
 before the beginning,  
 through the silence,  

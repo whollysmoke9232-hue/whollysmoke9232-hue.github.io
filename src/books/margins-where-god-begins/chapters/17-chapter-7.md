@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-7/"
+category: books
 ---
 
 People often ask, “What is God’s will for my life?”

@@ -1,0 +1,392 @@
+paths:
+  begin:
+    title: Begin
+    intro: >
+      Each piece was written in response to something lived, observed,
+      read, or endured — often without any thought of where it might
+      belong later. Over time, themes began to emerge, and the
+      collections you see here were formed organically, after the fact.
+
+    entries:
+      - id: bondage-and-release
+        title: If you are caught in patterns you cannot break
+        image: /images/cell-door.png
+        description: >
+          These writings are for those caught in patterns they cannot
+          seem to escape, offering honesty without condemnation and
+          hope without shortcuts.
+
+      - id: hurt-and-restoration
+        title: If you are carrying injuries you did not choose
+        image: /images/crutches.png
+        description: >
+          These writings speak gently to harm, betrayal, and loss,
+          without minimizing pain or rushing healing.
+
+      - id: weariness-and-renewal
+        title: If you are weary and need encouragement
+        image: /images/weary-traveler.png
+        description: >
+          Offered as quiet companionship for seasons of exhaustion,
+          reminding us that renewal often arrives slowly.
+
+      - id: about-the-author
+        title: Get to know the author
+        image: /images/steve-pic.jpeg
+        description: >
+          A gathering of pieces that reflect the journey, failures,
+          questions, and grace that have shaped this work.
+
+
+  about-the-author:
+    title: Get to Know the Author
+    intro: >
+      Grace in the Margins was born from a life lived in small moments—ordinary
+      encounters, quiet struggles, and the recurring discovery that God's
+      presence is most palpable when we are most aware of our own smallness.
+
+      These writings are not offered as answers, but as witness.
+
+    sections:
+      - id: core
+        title: Core Readings
+        ordered: true
+        items:
+          - from-exile-to-eden
+          - in-the-margins
+          - fractured-light-the-altar
+          - a-psalm-from-confinement
+          - the-big-picture
+
+      - id: further
+        title: Further Reading
+        items:
+          - dance-like-enoch
+          - the-house-that-calls-to-the-simple
+          - the-gospel-in-the-grass
+
+
+  start-here:
+    title: Start Here
+    intro: >
+      If you’re not sure where to begin, these guided reading paths are offered
+      as companions, not instructions.
+
+      Choose the path that best reflects where you are right now.
+      There is no right order. There is no rush.
+
+      Some readings appear in more than one path because certain truths meet us
+      in many seasons.
+
+    sections:
+      - id: suffering-waiting
+        title: If You Are Suffering or Waiting
+        description: >
+          Sometimes the ache is not only the pain itself, but the long waiting
+          that follows. These readings are offered as quiet company for seasons
+          of grief, uncertainty, and endurance.
+        ordered: true
+        items:
+          - be-still
+          - the-gift-of-now
+          - if-god-is-everywhere
+          - when-jesus-wept
+          - a-meditation-in-suffering
+          - new-every-morning
+
+      - id: sin-shame
+        title: If You Are Wrestling With Sin, Failure, or Shame
+        description: >
+          These readings do not minimize consequences or offer quick relief.
+          They speak to reckoning, repentance, and the slow work of restoration.
+        ordered: true
+        items:
+          - bitter-harvest-of-sin
+          - jesus-the-scapegoat
+          - purify-my-heart
+          - from-ashes-to-glory
+          - in-the-margins
+
+      - id: numb-dry
+        title: If You Feel Spiritually Numb, Dry, or Disconnected
+        description: >
+          There are seasons when faith remains, but feeling does not. These
+          readings reawaken attention to quiet nourishment.
+        ordered: true
+        items:
+          - what-are-you-feeding
+          - seek-his-face
+          - mustard-seed-faith
+          - look-and-live
+          - faith-from-beginning-to-end
+
+      - id: identity
+        title: If You Long to Know Who You Really Are
+        description: >
+          When life fractures, identity often follows. These readings return to
+          Scripture’s quieter affirmations of naming and belonging.
+        ordered: true
+        items:
+          - whats-in-a-name
+          - after-gods-heart
+          - held-on-every-side
+          - working-from-grace
+
+      - id: story-image
+        title: If You Learn Best Through Story and Image
+        description: >
+          Some truths enter the heart more easily through story than through
+          explanation.
+        ordered: true
+        items:
+          - the-gospel-in-the-grass
+          - dance-like-enoch
+          - the-house-that-calls-to-the-simple
+          - fractured-light-the-spiral
+
+      - id: stillness
+        title: If You Are Learning to Sit With God
+        description: >
+          These readings invite you to slow down and rediscover presence.
+        ordered: true
+        items:
+          - be-still
+          - the-gift-of-now
+          - a-holy-moment
+          - here-with-me
+          - the-work-of-your-fingers
+
+      - id: grace
+        title: If You Are Relearning Grace
+        description: >
+          These readings return to grace as the starting place, not the reward.
+        ordered: true
+        items:
+          - working-from-grace
+          - faith-from-beginning-to-end
+          - mustard-seed-faith
+          - from-it-or-through-it
+          - in-the-margins
+
+      - id: wisdom
+        title: If You Are Seeking Wisdom Without Noise
+        description: >
+          These readings attend to Scripture’s quieter guidance.
+        ordered: true
+        items:
+          - the-house-that-calls-to-the-simple
+          - roadblocks
+          - what-are-you-feeding
+          - psalm-119
+
+  bondage-and-release:
+    title: Bondage and Release
+    intro: >
+      In every life, there are chains we craft ourselves and chains imposed
+      upon us. Some are visible—circumstances, relationships, systems that
+      constrain us. Others are invisible—beliefs we've internalized, patterns
+      we've inherited, weights we carry without naming them as burdens.
+
+      This collection explores the recognition of bondage and the slow,
+      sometimes surprising work of being released from it—not through our
+      own strength, but through grace that meets us in captivity and opens
+      locked doors over time.
+
+    sections:
+      - id: explore
+        title: Explore This Path
+        ordered: true
+        items:
+          - bitter-harvest-of-sin
+          - jesus-the-scapegoat
+          - purify-my-heart
+          - in-the-margins
+          - fractured-light-the-spiral
+
+      - id: further-reading
+        title: Further Reading
+        items:
+          - deliver-me
+          - not-even-one
+          - fractured-light-the-collapse
+
+  hearing-god:
+    title: Hearing God
+    intro: >
+      God does not compete for our attention with volume or spectacle.
+      These readings invite you to slow down, quiet the noise, and learn
+      how God most often speaks—not to impress, but to lead.
+
+    sections:
+      - id: learning-to-be-still
+        title: Learning to Be Still
+        description: A posture of attentiveness
+        ordered: true
+        items:
+          - the-god-who-is-heard
+          - be-still
+          - the-gift-of-now
+          - if-god-is-everywhere
+
+      - id: removing-the-noise
+        title: Removing the Noise
+        description: Clearing what competes with listening
+        ordered: true
+        items:
+          - seek-his-face
+          - what-are-you-feeding
+          - in-the-margins
+
+      - id: hearing-through-scripture
+        title: Hearing Through Scripture
+        description: Learning to listen where God has promised to speak
+        ordered: true
+        items:
+          - look-and-live
+          - mustard-seed-faith
+          - new-every-morning
+
+      - id: suffering-waiting
+        title: Hearing God in Suffering & Waiting
+        description: When God speaks quietly, or not at all
+        ordered: true
+        items:
+          - when-jesus-wept
+          - a-meditation-in-suffering
+
+      - id: discernment-obedience
+        title: Discernment & Obedience
+        description: Responding to what has been heard
+        ordered: true
+        items:
+          - purify-my-heart
+          - faith-from-beginning-to-end
+          - bitter-harvest-of-sin
+
+  hurt-and-restoration:
+    title: Hurt and Restoration
+    intro: >
+      Brokenness comes to us all—sometimes suddenly, sometimes slowly.
+      We carry hurts from betrayal, loss, failure, abuse, or simply from
+      living in a fractured world. And yet, there is a God who draws near
+      to the broken, who does not demand we be whole before we come to Him.
+
+      This collection gathers writings about the honest naming of our
+      wounds and the patient, tender work of restoration—not the kind
+      that erases scars, but the kind that gives them meaning.
+
+    sections:
+      - id: explore
+        title: Explore This Path
+        ordered: true
+        items:
+          - held-on-every-side
+          - when-jesus-wept
+          - a-meditation-in-suffering
+          - after-gods-heart
+          - fractured-light-the arrest
+
+      - id: further-reading
+        title: Further Reading
+        items:
+          - the-power-of-presence
+          - sons-of-brokenness
+          - sticks-and-stones
+          - a-psalm-from-confinement
+
+  weariness-and-renewal:
+    title: Weariness and Renewal
+    intro: >
+      There is a weariness that settles into the bones—not mere tiredness,
+      but a deep fatigue of spirit that comes from long seasons of struggle,
+      from bearing what feels unbearable, from the slow erosion of hope.
+      Yet there is also renewal—not the kind that denies the weariness,
+      but the kind that meets us in it.
+
+      This collection explores the valley of exhaustion and the quiet,
+      persistent grace that whispers of rest, refreshment, and the strength
+      to take one more step when we have nothing left to give.
+
+    sections:
+      - id: core-readings
+        title: Core Readings
+        ordered: true
+        items:
+          - be-still
+          - the-gift-of-now
+          - new-every-morning
+          - look-and-live
+          - the-gift-of-now
+
+      - id: further-reading
+        title: Further Reading
+        items:
+          - mustard-seed-faith
+          - seek-his-face
+          - if-god-is-everywhere
+          - the-work-of-your-fingers
+
+  youre-not-alone:
+    title: You're Not Alone
+    description: >
+      A quiet place for those struggling with pornography or sexual compulsion—
+      written from lived experience, not formulas or fixes.
+
+    intro: >
+      If you’re here, it’s likely because pornography or sexual compulsion has
+      been part of your story—maybe quietly, maybe painfully, maybe longer than
+      you ever intended. This page exists for one reason only: to let you know
+      you’re not alone here, and that there is room to breathe, to be honest,
+      and to take things one step at a time.
+
+    sections:
+      - id: understand
+        title: If you’re trying to understand what’s actually happening
+        ordered: true
+        items:
+          - not-even-one
+          - a-theology-of-weakness
+          - what-are-you-feeding
+          - all-things
+          - the-big-picture
+
+      - id: relapse
+        title: If you keep relapsing and don’t know why
+        ordered: true
+        items:
+          - from-knowing-to-surrender
+          - bitter-harvest-of-sin
+          - roadblocks
+          - not-subdued
+          - sons-of-brokenness
+
+      - id: shame
+        title: If faith has become part of the shame
+        ordered: true
+        items:
+          - why-fear
+          - deliver-me
+          - renew-my-mind
+          - loving-judge
+          - seek-him
+
+      - id: sober
+        title: If you’re sober, but afraid to trust it
+        ordered: true
+        items:
+          - faith-from-beginning-to-end
+          - held-on-every-side
+          - working-from-grace
+          - the-power-of-presence
+          - from-it-or-through-it
+
+      - id: next-step
+        title: If you don’t know what the next step is
+        ordered: true
+        items:
+          - coming-into-a-place-of-prayer
+          - seek-his-face
+          - be-still
+          - here-with-me
+          - the-gift-of-now
+

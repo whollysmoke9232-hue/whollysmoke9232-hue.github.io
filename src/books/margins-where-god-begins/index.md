@@ -11,6 +11,7 @@ date: 2026-01-15
 layout: book-index.njk
 author: "Steve Wilkins"
 continuousReadingUrl: /stories/margins-where-god-begins/
+category: books
 ---
 
 ## About the Book

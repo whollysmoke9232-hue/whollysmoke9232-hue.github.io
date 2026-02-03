@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-3/"
+category: books
 ---
 
 God doesn’t just know the story—He weaves it.

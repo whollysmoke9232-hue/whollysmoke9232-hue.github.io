@@ -1,0 +1,21 @@
+---
+layout: layout.njk
+---
+
+<h1>{{ title }}</h1>
+
+{% if description %}
+<p class="page-intro">{{ description }}</p>
+{% endif %}
+
+<ul class="content-list">
+  {% for item in collections.library %}
+    {% if item.data.category == category %}
+      <li>
+        <a href="{{ item.url }}">
+          {{ item.data.title }}
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

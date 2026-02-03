@@ -7,6 +7,7 @@ tags:
   - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/conclusion/"
+category: books
 ---
 
 If you've made it this far, thank you.

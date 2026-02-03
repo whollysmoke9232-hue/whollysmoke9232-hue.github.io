@@ -1,7 +1,8 @@
 ---
 title: "Margins: Where God Begins - Table of Contents"
-layout: default.njk
+layout: layout.njk
 permalink: "/books/margins-where-god-begins/toc/"
+category: books
 ---
 
 <style>

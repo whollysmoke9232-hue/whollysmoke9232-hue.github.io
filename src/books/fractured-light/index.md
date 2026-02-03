@@ -14,6 +14,7 @@ date: 2026-01-15
 layout: book-index.njk
 author: "Steve Wilkins"
 continuousReadingUrl: /stories/fractured-light/
+category: books
 ---
 
 ## About the Book

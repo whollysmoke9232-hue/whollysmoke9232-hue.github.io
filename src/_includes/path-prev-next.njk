@@ -1,0 +1,32 @@
+{% set currentUrl = page.url %}
+{% set foundPathKey = null %}
+{% set foundPath = null %}
+
+{% for key, items in readingPaths %}
+  {% if currentUrl in items %}
+    {% set foundPathKey = key %}
+    {% set foundPath = items %}
+  {% endif %}
+{% endfor %}
+
+{% if foundPath %}
+  {% set idx = foundPath | findIndex(currentUrl) %}
+
+  {% if idx != -1 %}
+  <nav style="display:flex; justify-content:space-between; margin-top:3rem; font-weight:bold;">
+
+    <div>
+      {% if idx > 0 %}
+        ← <a href="{{ foundPath[idx - 1] }}">Previous</a>
+      {% endif %}
+    </div>
+
+    <div>
+      {% if idx < foundPath.length - 1 %}
+        <a href="{{ foundPath[idx + 1] }}">Next</a> →
+      {% endif %}
+    </div>
+
+  </nav>
+  {% endif %}
+{% endif %}

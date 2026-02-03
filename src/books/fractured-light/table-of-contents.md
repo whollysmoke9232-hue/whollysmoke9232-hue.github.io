@@ -1,8 +1,9 @@
 ---
 title: "Fractured Light"
 subtitle: "Table of Contents"
-layout: default.njk
+layout: layout.njk
 permalink: "/books/fractured-light/toc/"
+category: books
 ---
 
 <style>

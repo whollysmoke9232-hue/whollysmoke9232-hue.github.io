@@ -7,6 +7,7 @@ tags:
   - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-7/"
+category: books
 ---
 
 By November 2022, my world began to unravel.

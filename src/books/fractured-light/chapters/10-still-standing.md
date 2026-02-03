@@ -7,6 +7,7 @@ tags:
   - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-10/"
+category: books
 ---
 
 Life outside jail wasn't the relief I expected.

@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-4/"
+category: books
 ---
 
 Before there was light, there was the Word.  

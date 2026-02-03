@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-8/"
+category: books
 ---
 
 If the margin before Genesis 1:1 is where God’s plan begins,  

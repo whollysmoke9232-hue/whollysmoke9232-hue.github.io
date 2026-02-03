@@ -6,6 +6,7 @@ tags:
   - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/interlude-gods-plan/"
+category: books
 ---
 
 <div style="text-align: center; font-style: italic;">

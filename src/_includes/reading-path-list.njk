@@ -1,14 +1,19 @@
-{#
-  Usage: {% include "reading-path-list.njk" "start-here-suffering-or-waiting" %}
-  Requires: readingPaths global data (object of arrays of {url, title})
-#}
-{% set items = readingPaths[arguments[0]] %}
-{% if items and items.length %}
-{#
-  Usage: {% include "reading-path-list.njk" "start-here-suffering-or-waiting" %}
-  Requires: readingPaths global data (object of arrays of {url, title})
-#}
-{% set items = readingPaths[arguments[0]] %}
+{# Usage: {% include "reading-path-list.njk" "begin" %} #}
+{% set pathKey = arguments[0] %}
+{% set itemsRaw = readingPaths[pathKey] %}
+
+{% if itemsRaw and itemsRaw.length %}
+  <ul class="reading-path-list">
+    {% for item in itemsRaw %}
+      {% set url = item.url or item %}
+      {% set title = item.title or itemTitle or "" %}
+      <li>
+        <a href="{{ url }}?path={{ pathKey }}&step={{ loop.index }}">
+          {{ title if title else url }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
 {% else %}
   <p><em>No readings found for this path.</em></p>
 {% endif %}
