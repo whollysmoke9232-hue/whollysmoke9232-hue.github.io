@@ -1,6 +1,6 @@
 ---
 title: About the Mission
-layout: layout.njk
+layout: article.njk
 ---
 
 <section class="about-mission">
