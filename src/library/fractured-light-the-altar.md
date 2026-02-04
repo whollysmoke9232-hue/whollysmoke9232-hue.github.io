@@ -8,6 +8,8 @@ tags:
 author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-4/"
 category: stories
+excludeFromLibrary: true
+bookParent: "/books/fractured/light/"
 ---
 
 There wasn't an altar call.

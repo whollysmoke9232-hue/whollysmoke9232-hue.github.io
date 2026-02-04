@@ -27,19 +27,85 @@
     </div>
   </header>
 
-  
-<div id="reading-path-subtitle"
+  <div id="reading-path-subtitle"
      style="
        text-align:center;
-       margin: 0.5rem 0 1.25rem;
-       font-size: 0.95rem;
-       color:#666;
+       margin: 1rem 0 1.75rem;
+       font-size: 1.2rem;
+       font-weight: 600;
+       letter-spacing: 0.02em;
+       color: #5a3e2b;
      ">
-</div>
+  </div>
 
   <main class="site-main">
     <div class="container">
-      <p></p>
+      <h2 id="hearing-god" tabindex="-1">Hearing God</h2>
+<p>Hearing God is not primarily about technique, but attention. These readings explore how God speaks in quietness, in Scripture, in suffering, and in the removal of noise.</p>
+<hr>
+<h2 id="learning-to-be-still" tabindex="-1">Learning to Be Still</h2>
+<p>These readings invite you into quiet attention—where stillness becomes not absence, but awareness.</p>
+<ul>
+</ul>
+<hr>
+<h2 id="removing-the-noise" tabindex="-1">Removing the Noise</h2>
+<p>Sometimes what we need most is not more words, but fewer distractions. These readings attend to what competes for our attention—and how to gently lay it down.</p>
+<ul>
+  <li>
+    <a href="/devotionals/seek-his-face/?path=hearing-god-removing-noise">
+      Seek His Face
+    </a>
+  </li>
+  <li>
+    <a href="/reflections/what-are-you-feeding/?path=hearing-god-removing-noise">
+      What Are You Feeding?
+    </a>
+  </li>
+  <li>
+    <a href="/testimonies/in-the-margins/?path=hearing-god-removing-noise">
+      In the Margins
+    </a>
+  </li>
+</ul>
+<hr>
+<h2 id="hearing-through-scripture" tabindex="-1">Hearing Through Scripture</h2>
+<p>God often speaks most clearly where He has already spoken. These readings return to Scripture—not as information alone, but as encounter.</p>
+<ul>
+  <li>
+    <a href="/devotionals/look-and-live/?path=hearing-god-through-scripture">
+      Look and Live
+    </a>
+  </li>
+  <li>
+    <a href="/devotionals/mustard-seed-faith/?path=hearing-god-through-scripture">
+      Mustard Seed Faith
+    </a>
+  </li>
+  <li>
+    <a href="/devotionals/new-every-morning/?path=hearing-god-through-scripture">
+      New Every Morning
+    </a>
+  </li>
+</ul>
+<hr>
+<h2 id="hearing-god-in-suffering-waiting" tabindex="-1">Hearing God in Suffering &amp; Waiting</h2>
+<p>There are seasons when suffering becomes the loudest voice in the room. These readings reflect on how God remains present—and sometimes most clearly heard—within it.</p>
+<ul>
+  <li>
+    <a href="/devotionals/when-jesus-wept/?path=hearing-god-in-suffering">
+      When Jesus Wept
+    </a>
+  </li>
+  <li>
+    <a href="/meditations/a-meditation-in-suffering/?path=hearing-god-in-suffering">
+      A Meditation in Suffering
+    </a>
+  </li>
+</ul>
+<h2 id="discernment-obedience" tabindex="-1">Discernment &amp; Obedience</h2>
+<p>Responding to what has been heard</p>
+<hr>
+<p><a href="/">← Return to Home</a></p>
 
     </div>
   </main>
@@ -51,6 +117,33 @@
     <hr />
     <p><small>&copy;  — Grace in the Margins</small></p>
   </footer>
+
+  <!-- Chatbase Chatbot Embed -->
+  <script>
+    (function(){
+      if(!window.chatbase || window.chatbase("getState") !== "initialized"){
+        window.chatbase = (...args) => {
+          if(!window.chatbase.q){ window.chatbase.q = [] }
+          window.chatbase.q.push(args)
+        };
+        window.chatbase = new Proxy(window.chatbase, {
+          get(target, prop){
+            if(prop === "q"){ return target.q }
+            return (...args) => target(prop, ...args)
+          }
+        });
+      }
+      const onLoad = function(){
+        const script = document.createElement("script");
+        script.src = "https://www.chatbase.co/embed.min.js";
+        script.id = "ZmJVwhmGVLah9bOvLWaRS";
+        script.domain = "www.chatbase.co";
+        document.body.appendChild(script);
+      };
+      if(document.readyState === "complete"){ onLoad() }
+      else { window.addEventListener("load", onLoad) }
+    })();
+  </script>
 
 </body>
 </html>

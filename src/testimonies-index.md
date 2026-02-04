@@ -2,6 +2,7 @@
 title: Testimonies
 layout: layout.njk
 permalink: /testimonies/
+templateEngineOverride: njk,md
 ---
 
 <div class="container">

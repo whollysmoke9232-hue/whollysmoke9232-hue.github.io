@@ -27,22 +27,38 @@
     </div>
   </header>
 
-  
-<div id="reading-path-subtitle"
+  <div id="reading-path-subtitle"
      style="
        text-align:center;
-       margin: 0.5rem 0 1.25rem;
-       font-size: 0.95rem;
-       color:#666;
+       margin: 1rem 0 1.75rem;
+       font-size: 1.2rem;
+       font-weight: 600;
+       letter-spacing: 0.02em;
+       color: #5a3e2b;
      ">
-</div>
+  </div>
 
   <main class="site-main">
     <div class="container">
-      <p></p>
-<div class="explore-bubbles">
-  <a href="/begin/">← Back to Begin</a>
-</div>
+      <h2 id="weariness-and-renewal" tabindex="-1">Weariness and Renewal</h2>
+<p>These readings are for seasons of exhaustion, when faith feels thin and strength feels spent. They are offered as quiet companionship—reminding us that rest, renewal, and perseverance often arrive slowly, and together.</p>
+<hr>
+<ul>
+  <li>
+    <a href="/devotionals/be-still/?path=weariness-and-renewal#">Be Still</a>
+  </li>
+  <li>
+    <a href="/meditations/the-gift-of-now/?path=weariness-and-renewal#">The Gift of Now</a>
+  </li>
+  <li>
+    <a href="/devotionals/new-every-morning/?path=weariness-and-renewal#">New Every Morning</a>
+  </li>
+  <li>
+    <a href="/devotionals/look-and-live/?path=weariness-and-renewal#">Look and Live</a>
+  </li>
+</ul>
+<hr>
+<p><a href="/begin/">← Back to Begin</a></p>
 
     </div>
   </main>
@@ -54,6 +70,33 @@
     <hr />
     <p><small>&copy;  — Grace in the Margins</small></p>
   </footer>
+
+  <!-- Chatbase Chatbot Embed -->
+  <script>
+    (function(){
+      if(!window.chatbase || window.chatbase("getState") !== "initialized"){
+        window.chatbase = (...args) => {
+          if(!window.chatbase.q){ window.chatbase.q = [] }
+          window.chatbase.q.push(args)
+        };
+        window.chatbase = new Proxy(window.chatbase, {
+          get(target, prop){
+            if(prop === "q"){ return target.q }
+            return (...args) => target(prop, ...args)
+          }
+        });
+      }
+      const onLoad = function(){
+        const script = document.createElement("script");
+        script.src = "https://www.chatbase.co/embed.min.js";
+        script.id = "ZmJVwhmGVLah9bOvLWaRS";
+        script.domain = "www.chatbase.co";
+        document.body.appendChild(script);
+      };
+      if(document.readyState === "complete"){ onLoad() }
+      else { window.addEventListener("load", onLoad) }
+    })();
+  </script>
 
 </body>
 </html>

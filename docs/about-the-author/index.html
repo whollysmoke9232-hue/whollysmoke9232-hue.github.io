@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>
     
-       | Grace in the Margins
+      About the Author | Grace in the Margins
     
   </title>
 
@@ -27,19 +27,64 @@
     </div>
   </header>
 
-  
-<div id="reading-path-subtitle"
+  <div id="reading-path-subtitle"
      style="
        text-align:center;
-       margin: 0.5rem 0 1.25rem;
-       font-size: 0.95rem;
-       color:#666;
+       margin: 1rem 0 1.75rem;
+       font-size: 1.2rem;
+       font-weight: 600;
+       letter-spacing: 0.02em;
+       color: #5a3e2b;
      ">
-</div>
+  </div>
 
   <main class="site-main">
     <div class="container">
-      <p></p>
+      <h2 id="about-the-author" tabindex="-1">About the Author</h2>
+<p>If you would like to understand the voice behind these writings, this path gathers pieces that reflect the journey, failures, questions, and grace that have shaped this work.</p>
+<hr>
+<ul>
+---
+title: About the Author
+layout: layout.njk
+permalink: /about-the-author/
+templateEngineOverride: njk,md
+---
+<h2 id="about-the-author-1" tabindex="-1">About the Author</h2>
+<p>If you would like to understand the voice behind these writings, this path gathers pieces that reflect the journey, failures, questions, and grace that have shaped this work.</p>
+<hr>
+<ul>
+<p><li>
+<a href="/testimonies/from-exile-to-eden/?path=about-the-author">
+From Exile to Eden
+</a>
+</li></p>
+<p><li>
+<a href="/testimonies/in-the-margins/?path=about-the-author">
+In the Margins
+</a>
+</li></p>
+<p><li>
+<a href="/excerpts/fractured-light/chapter-4/?path=about-the-author">
+Fractured Light — Chapter 4
+</a>
+</li></p>
+<p><li>
+<a href="/meditations/a-psalm-from-confinement/?path=about-the-author">
+A Psalm From Confinement
+</a>
+</li></p>
+<p><li>
+<a href="/reflections/the-big-picture/?path=about-the-author">
+The Big Picture
+</a>
+</li></p>
+</ul>
+<hr>
+<p><a href="/begin/">← Back to Begin</a></p>
+</ul>
+<hr>
+<p><a href="/begin/">← Back to Begin</a></p>
 
     </div>
   </main>
@@ -51,6 +96,33 @@
     <hr />
     <p><small>&copy;  — Grace in the Margins</small></p>
   </footer>
+
+  <!-- Chatbase Chatbot Embed -->
+  <script>
+    (function(){
+      if(!window.chatbase || window.chatbase("getState") !== "initialized"){
+        window.chatbase = (...args) => {
+          if(!window.chatbase.q){ window.chatbase.q = [] }
+          window.chatbase.q.push(args)
+        };
+        window.chatbase = new Proxy(window.chatbase, {
+          get(target, prop){
+            if(prop === "q"){ return target.q }
+            return (...args) => target(prop, ...args)
+          }
+        });
+      }
+      const onLoad = function(){
+        const script = document.createElement("script");
+        script.src = "https://www.chatbase.co/embed.min.js";
+        script.id = "ZmJVwhmGVLah9bOvLWaRS";
+        script.domain = "www.chatbase.co";
+        document.body.appendChild(script);
+      };
+      if(document.readyState === "complete"){ onLoad() }
+      else { window.addEventListener("load", onLoad) }
+    })();
+  </script>
 
 </body>
 </html>

@@ -8,16 +8,20 @@ module.exports = function (eleventyConfig) {
      📚 COLLECTIONS (CATEGORY-BASED)
   =============================== */
 
-  // Master library collection (all library content)
+  // Master library collection (all library content except excluded)
   eleventyConfig.addCollection("library", (api) =>
     api.getFilteredByGlob("./src/library/*.md")
+       .filter(item => !item.data.excludeFromLibrary)
   );
 
   // Category-driven collections
   function categoryCollection(categoryName) {
     return (api) =>
       api.getFilteredByGlob("./src/library/*.md")
-        .filter(item => item.data.category === categoryName)
+        .filter(item =>
+          item.data.category === categoryName &&
+          !item.data.excludeFromLibrary
+        )
         .sort((a, b) => (b.date || 0) - (a.date || 0));
   }
 
@@ -31,6 +35,25 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("books", (api) =>
     api.getFilteredByGlob("./src/books/*/index.md")
   );
+
+  /* ===============================
+     📖 SCRIPTURE COLLECTION
+  =============================== */
+
+  eleventyConfig.addCollection("scriptureList", function(api) {
+    const posts = api.getAll();
+    const scriptureSet = new Set();
+
+    posts.forEach(post => {
+      if (post.data.scripture && Array.isArray(post.data.scripture)) {
+        post.data.scripture.forEach(ref => {
+          scriptureSet.add(ref);
+        });
+      }
+    });
+
+    return Array.from(scriptureSet).sort();
+  });
 
   /* ===============================
      🔍 FILTERS
@@ -112,10 +135,7 @@ module.exports = function (eleventyConfig) {
       output: "docs",
     },
 
-    // IMPORTANT: prevents Markdown from wrapping your HTML in <p> tags
-    // (e.g., <p><li>...</li></p>) when using .njk templates
     markdownTemplateEngine: false,
-
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
   };

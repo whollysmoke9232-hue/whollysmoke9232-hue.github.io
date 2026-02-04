@@ -27,15 +27,16 @@
     </div>
   </header>
 
-  
-<div id="reading-path-subtitle"
+  <div id="reading-path-subtitle"
      style="
        text-align:center;
-       margin: 0.5rem 0 1.25rem;
-       font-size: 0.95rem;
-       color:#666;
+       margin: 1rem 0 1.75rem;
+       font-size: 1.2rem;
+       font-weight: 600;
+       letter-spacing: 0.02em;
+       color: #5a3e2b;
      ">
-</div>
+  </div>
 
   <main class="site-main">
     <div class="container">
@@ -175,12 +176,6 @@
       
         
       
-    
-  
-    
-      
-        
-      
         
       
         
@@ -307,63 +302,11 @@
       
         
       
-    
-  
-    
-      
         
       
     
   
     
-      
-        
-      
-    
-  
-    
-      
-        
-      
-        
-      
-    
-  
-    
-      
-        
-      
-    
-  
-    
-      
-        
-      
-        
-      
-        
-      
-    
-  
-    
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    
-  
-    
-      
-        
-      
-        
       
         
       
@@ -401,6 +344,28 @@
       
         
       
+        
+      
+        
+      
+        
+      
+        
+      
+    
+  
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
     
   
     
@@ -413,7 +378,37 @@
       
         
       
+    
+  
+    
+      
         
+      
+    
+  
+    
+      
+        
+      
+    
+  
+    
+      
+        
+      
+        
+      
+        
+      
+    
+  
+    
+      
+        
+      
+    
+  
+    
       
         
       
@@ -476,26 +471,6 @@
     
   
     
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    
-  
-    
-  
-    
-      
-        
-      
-        
-      
-    
   
     
       
@@ -527,30 +502,14 @@
       
         
       
-        
-      
-        
-      
-        
-      
     
   
     
       
         
       
-    
-  
-    
-  
-    
-  
-    
-      
         
       
-    
-  
     
   
     
@@ -561,114 +520,20 @@
       
         
       
+        
+      
+        
+      
+        
+      
+        
+      
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
+      
+        
+      
     
   
     
@@ -676,117 +541,21 @@
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
+      
+        
+      
     
   
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
+      
+        
+      
+        
+      
+        
+      
     
   
     
@@ -967,6 +736,33 @@
     <hr />
     <p><small>&copy;  — Grace in the Margins</small></p>
   </footer>
+
+  <!-- Chatbase Chatbot Embed -->
+  <script>
+    (function(){
+      if(!window.chatbase || window.chatbase("getState") !== "initialized"){
+        window.chatbase = (...args) => {
+          if(!window.chatbase.q){ window.chatbase.q = [] }
+          window.chatbase.q.push(args)
+        };
+        window.chatbase = new Proxy(window.chatbase, {
+          get(target, prop){
+            if(prop === "q"){ return target.q }
+            return (...args) => target(prop, ...args)
+          }
+        });
+      }
+      const onLoad = function(){
+        const script = document.createElement("script");
+        script.src = "https://www.chatbase.co/embed.min.js";
+        script.id = "ZmJVwhmGVLah9bOvLWaRS";
+        script.domain = "www.chatbase.co";
+        document.body.appendChild(script);
+      };
+      if(document.readyState === "complete"){ onLoad() }
+      else { window.addEventListener("load", onLoad) }
+    })();
+  </script>
 
 </body>
 </html>

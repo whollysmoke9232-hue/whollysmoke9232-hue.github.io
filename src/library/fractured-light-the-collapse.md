@@ -8,6 +8,8 @@ tags:
 author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-7/"
 category: stories
+excludeFromLibrary: true
+bookParent: "/books/fractured/light/"
 ---
 
 By November 2022, my world began to unravel.

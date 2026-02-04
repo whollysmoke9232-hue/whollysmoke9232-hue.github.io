@@ -2,31 +2,25 @@
 title: Hurt and Restoration
 layout: layout.njk
 permalink: /hurt-and-restoration/
-pathKey: hurt-and-restoration
+templateEngineOverride: njk,md
 ---
 
-{% set path = readingPaths.paths["hurt-and-restoration"] %}
+## Hurt and Restoration
 
-<p>{{ path.intro }}</p>
+These writings are for those carrying injuries they did not choose. They speak gently to harm, betrayal, and loss, without minimizing pain or rushing healing—holding space for restoration that unfolds in its own time.
 
-{% for section in path.sections %}
-  <hr>
+<hr>
 
-  <h3>{{ section.title }}</h3>
+{% set entries = readingPaths['hurt-and-restoration'] %}
 
-  <ul>
-    {% for slug in section.items %}
-      <li>
-        <a href="/{{ slug }}/">
-          {{ slug | replace('-', ' ') | title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
+<ul>
+{% for entry in entries %}
+  <li>
+    <a href="{{ entry.url }}?path=hurt-and-restoration#">{{ entry.title }}</a>
+  </li>
 {% endfor %}
+</ul>
 
-<div style="text-align: center; margin: 2rem 0;">
-  <nav class="explore-bubbles" aria-label="Return">
-    <a href="/begin/">Back to Begin</a>
-  </nav>
-</div>
+<hr>
+
+<p><a href="/begin/">← Back to Begin</a></p>

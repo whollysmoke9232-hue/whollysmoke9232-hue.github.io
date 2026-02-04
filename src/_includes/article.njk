@@ -26,10 +26,18 @@ layout: layout.njk
   {{ content | safe }}
 </article>
 
+{% if bookParent %}
+  <div class="book-return-link">
+    <a href="/books/fractured-light/">
+      Read the full book: <strong><em>Fractured Light</em></strong>
+    </a>
+  </div>
+{% endif %}
+
 {% if tags %}
-<div class="article-tags">
+<div class="article-tags" id="article-tags">
   {% for tag in tags %}
-    <a href="/tags/{{ tag | slug }}/">{{ tag }}</a>
+    <a href="/tags/{{ tag | slug }}/" class="tag-pill">{{ tag }}</a>
   {% endfor %}
 </div>
 {% endif %}
@@ -38,3 +46,52 @@ layout: layout.njk
 <div data-reading-path-nav></div>
 
 {% include "reading-path-nav.njk" %}
+
+<style>
+  .book-return-link {
+    margin: 2rem 0 1rem 0;
+    text-align: left;
+  }
+
+  .book-return-link a {
+    text-decoration: underline;
+    color: #5a3e2b;
+  }
+
+  .article-tags {
+    margin-top: 2rem;
+  }
+
+  .tag-pill {
+    display: inline-block;
+    margin: 0 0.8rem 0.8rem 0;
+    padding: 0.45rem 0.9rem;
+    font-size: 0.95rem;
+    text-decoration: none;
+    border-radius: 6px;
+    background-color: #f1e8dc;
+    color: #5a3e2b;
+    border: 1px solid #d8c8b3;
+  }
+
+  .tag-pill:hover {
+    background-color: #e6d9c7;
+  }
+</style>
+
+<script>
+  (function () {
+    function hideTagsIfReadingPathActive() {
+      const navContainer = document.querySelector('[data-reading-path-nav]');
+      const tags = document.getElementById('article-tags');
+
+      if (!navContainer || !tags) return;
+
+      if (navContainer.innerHTML.trim().length > 0) {
+        tags.style.display = 'none';
+      }
+    }
+
+    window.addEventListener('load', hideTagsIfReadingPathActive);
+  })();
+</script>

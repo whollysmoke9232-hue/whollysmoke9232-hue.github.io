@@ -2,32 +2,92 @@
 title: You're Not Alone
 layout: layout.njk
 permalink: /youre-not-alone/
-pathKey: youre-not-alone
-description: A quiet place for those struggling with pornography or sexual compulsion—written from lived experience, not formulas or fixes.
+templateEngineOverride: njk,md
 ---
 
-{% set path = readingPaths.paths["youre-not-alone"] %}
+## You're Not Alone
 
-<div style="font-style: italic; color: #6a5d4d; margin-bottom: 1.5rem; font-size: 1.08rem;">
-  {{ path.description }}
-</div>
+If pornography or sexual compulsion has been part of your story, this page exists to say one simple thing: you are not alone here.
 
-<p>{{ path.intro }}</p>
+This is not a program. Not a formula. Not a demand for immediate change.
 
-{% for section in path.sections %}
-  <hr>
+It is a gathering of writings shaped by lived experience — offered as companionship for different seasons of struggle and recovery.
 
-  <h2>{{ section.title }}</h2>
+<hr>
 
-  <ul>
-    {% for slug in section.items %}
-      <li>
-        <a href="/{{ slug }}/">
-          {{ slug | replace('-', ' ') | title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
+## If You Are Trying to Understand What Is Happening
+
+{% set entries = readingPaths['youre-not-alone-understand'] %}
+<ul>
+{% for entry in entries %}
+  <li>
+    <a href="{{ entry.url }}?path=youre-not-alone-understand">
+      {{ entry.title }}
+    </a>
+  </li>
 {% endfor %}
+</ul>
 
-<p><em>You don’t need to read everything here. Start wherever something feels familiar.</em></p>
+---
+
+## If You Are Wrestling With Relapse
+
+{% set entries = readingPaths['youre-not-alone-relapse'] %}
+<ul>
+{% for entry in entries %}
+  <li>
+    <a href="{{ entry.url }}?path=youre-not-alone-relapse">
+      {{ entry.title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
+---
+
+## If You Are Carrying Shame
+
+{% set entries = readingPaths['youre-not-alone-shame'] %}
+<ul>
+{% for entry in entries %}
+  <li>
+    <a href="{{ entry.url }}?path=youre-not-alone-shame">
+      {{ entry.title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
+---
+
+## If You Are Learning to Walk in Sobriety
+
+{% set entries = readingPaths['youre-not-alone-sober'] %}
+<ul>
+{% for entry in entries %}
+  <li>
+    <a href="{{ entry.url }}?path=youre-not-alone-sober">
+      {{ entry.title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
+---
+
+## If You Are Looking for a Next Step
+
+{% set entries = readingPaths['youre-not-alone-next-step'] %}
+<ul>
+{% for entry in entries %}
+  <li>
+    <a href="{{ entry.url }}?path=youre-not-alone-next-step">
+      {{ entry.title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
+---
+
+<p><a href="/">← Return to Home</a></p>

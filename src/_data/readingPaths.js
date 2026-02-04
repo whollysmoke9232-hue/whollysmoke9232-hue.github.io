@@ -1,9 +1,7 @@
 module.exports = {
-  library: [],
 
-  begin: [
-    { url: '/bondage-and-release/', title: 'Bondage and Release' },
-    { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
+  'bondage-and-release': [
+    { url: '/testimonies/the-bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
     { url: '/testimonies/jesus-the-scapegoat/', title: 'Jesus – The Scapegoat' },
     { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
     { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
@@ -25,7 +23,7 @@ module.exports = {
     { url: '/devotionals/look-and-live/', title: 'Look and Live' }
   ],
 
-  'get-to-know-the-author': [
+  'about-the-author': [
     { url: '/testimonies/from-exile-to-eden/', title: 'From Exile to Eden' },
     { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
     { url: '/excerpts/fractured-light/chapter-4/', title: 'Fractured Light — Chapter 4' },
@@ -119,7 +117,7 @@ module.exports = {
     { url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation in Suffering' }
   ],
 
-  'you-are-not-alone-understand': [
+  'youre-not-alone-understand': [
     { url: '/reflections/not-even-one/', title: 'Not Even One' },
     { url: '/reflections/a-theology-of-weakness/', title: 'A Theology of Weakness' },
     { url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
@@ -127,23 +125,23 @@ module.exports = {
     { url: '/reflections/the-big-picture/', title: 'The Big Picture' }
   ],
 
-  'you-are-not-alone-relapse': [
+  'youre-not-alone-relapse': [
     { url: '/testimonies/from-knowing-to-surrender/', title: 'From Knowing to Surrender' },
-    { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
+    { url: '/testimonies/the-bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
     { url: '/reflections/roadblocks/', title: 'Roadblocks' },
     { url: '/reflections/not-subdued/', title: 'Not Subdued' },
     { url: '/reflections/sons-of-brokenness/', title: 'Sons of Brokenness' }
   ],
 
-  'you-are-not-alone-shame': [
+  'youre-not-alone-shame': [
     { url: '/devotionals/why-fear/', title: 'Why Fear?' },
-    { url: '/devotionals/deliver-me/', title: 'Deliver Me' },
-    { url: '/devotionals/renew-my-mind/', title: 'Renew My Mind' },
+    { url: '/reflections/deliver-me/', title: 'Deliver Me' },
+    { url: '/reflections/renew-my-mind/', title: 'Renew My Mind' },
     { url: '/reflections/loving-judge/', title: 'Loving Judge' },
     { url: '/reflections/seek-him/', title: 'Seek Him' }
   ],
 
-  'you-are-not-alone-sober': [
+  'youre-not-alone-sober': [
     { url: '/reflections/faith-from-beginning-to-end/', title: 'Faith, From Beginning to End' },
     { url: '/reflections/held-on-every-side/', title: 'Held on Every Side' },
     { url: '/reflections/working-from-grace/', title: 'Working From Grace' },
@@ -151,7 +149,7 @@ module.exports = {
     { url: '/reflections/from-it-or-through-it/', title: 'From It or Through It' }
   ],
 
-  'you-are-not-alone-next-step': [
+  'youre-not-alone-next-step': [
     { url: '/reflections/coming-into-a-place-of-prayer/', title: 'Coming Into a Place of Prayer' },
     { url: '/devotionals/seek-his-face/', title: 'Seek His Face' },
     { url: '/devotionals/be-still/', title: 'Be Still' },
@@ -160,4 +158,5 @@ module.exports = {
   ],
 
   'scripture-index': []
+
 };

@@ -27,15 +27,16 @@
     </div>
   </header>
 
-  
-<div id="reading-path-subtitle"
+  <div id="reading-path-subtitle"
      style="
        text-align:center;
-       margin: 0.5rem 0 1.25rem;
-       font-size: 0.95rem;
-       color:#666;
+       margin: 1rem 0 1.75rem;
+       font-size: 1.2rem;
+       font-weight: 600;
+       letter-spacing: 0.02em;
+       color: #5a3e2b;
      ">
-</div>
+  </div>
 
   <main class="site-main">
     <div class="container">
@@ -74,117 +75,149 @@
 
 
 
+
+
 <!-- Reading Path Navigation Mount -->
 <div data-reading-path-nav></div>
 
-
-
-<div id="reading-path-nav" style="margin-top:3rem;"></div>
-
 <script>
 (function () {
-  const mount = document.getElementById("reading-path-nav");
-  if (!mount) return;
 
-  const readingPaths = {"library":[],"begin":[{"url":"/bondage-and-release/","title":"Bondage and Release"},{"url":"/testimonies/bitter-harvest-of-sin/","title":"The Bitter Harvest of Sin"},{"url":"/testimonies/jesus-the-scapegoat/","title":"Jesus – The Scapegoat"},{"url":"/devotionals/purify-my-heart/","title":"Purify My Heart"},{"url":"/testimonies/in-the-margins/","title":"In the Margins"},{"url":"/excerpts/fractured-light/chapter-3/","title":"Fractured Light — Chapter 3"}],"hurt-and-restoration":[{"url":"/reflections/held-on-every-side/","title":"Held on Every Side"},{"url":"/devotionals/when-jesus-wept/","title":"When Jesus Wept"},{"url":"/meditations/a-meditation-in-suffering/","title":"A Meditation in Suffering"},{"url":"/testimonies/after-gods-heart/","title":"After God's Heart"},{"url":"/excerpts/fractured-light/chapter-9/","title":"Fractured Light — Chapter 9"}],"weariness-and-renewal":[{"url":"/devotionals/be-still/","title":"Be Still"},{"url":"/meditations/the-gift-of-now/","title":"The Gift of Now"},{"url":"/devotionals/new-every-morning/","title":"New Every Morning"},{"url":"/devotionals/look-and-live/","title":"Look and Live"}],"get-to-know-the-author":[{"url":"/testimonies/from-exile-to-eden/","title":"From Exile to Eden"},{"url":"/testimonies/in-the-margins/","title":"In the Margins"},{"url":"/excerpts/fractured-light/chapter-4/","title":"Fractured Light — Chapter 4"},{"url":"/meditations/a-psalm-from-confinement/","title":"A Psalm From Confinement"},{"url":"/reflections/the-big-picture/","title":"The Big Picture"}],"start-here-suffering-or-waiting":[{"url":"/devotionals/be-still/","title":"Be Still"},{"url":"/meditations/the-gift-of-now/","title":"The Gift of Now"},{"url":"/meditations/if-god-is-everywhere/","title":"If God Is Everywhere"},{"url":"/devotionals/when-jesus-wept/","title":"When Jesus Wept"},{"url":"/meditations/a-meditation-in-suffering/","title":"A Meditation in Suffering"},{"url":"/devotionals/new-every-morning/","title":"New Every Morning"}],"start-here-sin-failure-shame":[{"url":"/testimonies/bitter-harvest-of-sin/","title":"The Bitter Harvest of Sin"},{"url":"/testimonies/jesus-the-scapegoat/","title":"Jesus – The Scapegoat"},{"url":"/devotionals/purify-my-heart/","title":"Purify My Heart"},{"url":"/testimonies/from-ashes-to-glory/","title":"From Ashes to Glory"},{"url":"/testimonies/in-the-margins/","title":"In the Margins"}],"start-here-numb-dry-disconnected":[{"url":"/reflections/what-are-you-feeding/","title":"What Are You Feeding?"},{"url":"/devotionals/seek-his-face/","title":"Seek His Face, Not Just His Hand"},{"url":"/devotionals/mustard-seed-faith/","title":"Mustard Seed Faith"},{"url":"/devotionals/look-and-live/","title":"Look and Live"},{"url":"/reflections/faith-from-beginning-to-end/","title":"Faith, From Beginning to End"}],"start-here-know-who-you-are":[{"url":"/reflections/whats-in-a-name/","title":"What's In A Name"},{"url":"/testimonies/after-gods-heart/","title":"After God's Heart"},{"url":"/reflections/held-on-every-side/","title":"Held on Every Side"},{"url":"/reflections/working-from-grace/","title":"Working From Grace"}],"start-here-story-image":[{"url":"/stories/the-gospel-in-the-grass/","title":"The Gospel in the Grass"},{"url":"/stories/dance-like-enoch/","title":"I Wanna Dance Like Enoch Danced"},{"url":"/stories/the-house-that-calls-to-the-simple/","title":"The House That Calls to the Simple"},{"url":"/excerpts/fractured-light/chapter-3/","title":"Fractured Light"}],"start-here-sit-with-god":[{"url":"/devotionals/be-still/","title":"Be Still"},{"url":"/meditations/the-gift-of-now/","title":"The Gift of Now"},{"url":"/meditations/a-holy-moment/","title":"A Holy Moment"},{"url":"/meditations/here-with-me/","title":"Here With Me"},{"url":"/meditations/the-work-of-your-fingers/","title":"The Work of Your Fingers"}],"start-here-relearning-grace":[{"url":"/reflections/working-from-grace/","title":"Working From Grace"},{"url":"/reflections/faith-from-beginning-to-end/","title":"Faith, From Beginning to End"},{"url":"/devotionals/mustard-seed-faith/","title":"Mustard Seed Faith"},{"url":"/reflections/from-it-or-through-it/","title":"From It or Through It"},{"url":"/testimonies/in-the-margins/","title":"In the Margins"}],"start-here-seeking-wisdom":[{"url":"/stories/the-house-that-calls-to-the-simple/","title":"The House That Calls to the Simple"},{"url":"/reflections/roadblocks/","title":"Roadblocks"},{"url":"/reflections/what-are-you-feeding/","title":"What Are You Feeding?"},{"url":"/reflections/psalm-119/","title":"Psalm 119"}],"hearing-god-be-still":[{"url":"/meditations/the-god-who-is-heard/","title":"The God Who Is Heard"},{"url":"/devotionals/be-still/","title":"Be Still"},{"url":"/meditations/the-gift-of-now/","title":"The Gift of Now"},{"url":"/meditations/if-god-is-everywhere/","title":"If God Is Everywhere"}],"hearing-god-removing-noise":[{"url":"/devotionals/seek-his-face/","title":"Seek His Face"},{"url":"/reflections/what-are-you-feeding/","title":"What Are You Feeding?"},{"url":"/testimonies/in-the-margins/","title":"In the Margins"}],"hearing-god-through-scripture":[{"url":"/devotionals/look-and-live/","title":"Look and Live"},{"url":"/devotionals/mustard-seed-faith/","title":"Mustard Seed Faith"},{"url":"/devotionals/new-every-morning/","title":"New Every Morning"}],"hearing-god-in-suffering":[{"url":"/devotionals/when-jesus-wept/","title":"When Jesus Wept"},{"url":"/meditations/a-meditation-in-suffering/","title":"A Meditation in Suffering"}],"you-are-not-alone-understand":[{"url":"/reflections/not-even-one/","title":"Not Even One"},{"url":"/reflections/a-theology-of-weakness/","title":"A Theology of Weakness"},{"url":"/reflections/what-are-you-feeding/","title":"What Are You Feeding?"},{"url":"/reflections/all-things/","title":"All Things"},{"url":"/reflections/the-big-picture/","title":"The Big Picture"}],"you-are-not-alone-relapse":[{"url":"/testimonies/from-knowing-to-surrender/","title":"From Knowing to Surrender"},{"url":"/testimonies/bitter-harvest-of-sin/","title":"The Bitter Harvest of Sin"},{"url":"/reflections/roadblocks/","title":"Roadblocks"},{"url":"/reflections/not-subdued/","title":"Not Subdued"},{"url":"/reflections/sons-of-brokenness/","title":"Sons of Brokenness"}],"you-are-not-alone-shame":[{"url":"/devotionals/why-fear/","title":"Why Fear?"},{"url":"/devotionals/deliver-me/","title":"Deliver Me"},{"url":"/devotionals/renew-my-mind/","title":"Renew My Mind"},{"url":"/reflections/loving-judge/","title":"Loving Judge"},{"url":"/reflections/seek-him/","title":"Seek Him"}],"you-are-not-alone-sober":[{"url":"/reflections/faith-from-beginning-to-end/","title":"Faith, From Beginning to End"},{"url":"/reflections/held-on-every-side/","title":"Held on Every Side"},{"url":"/reflections/working-from-grace/","title":"Working From Grace"},{"url":"/reflections/the-power-of-presence/","title":"The Power of Presence"},{"url":"/reflections/from-it-or-through-it/","title":"From It or Through It"}],"you-are-not-alone-next-step":[{"url":"/reflections/coming-into-a-place-of-prayer/","title":"Coming Into a Place of Prayer"},{"url":"/devotionals/seek-his-face/","title":"Seek His Face"},{"url":"/devotionals/be-still/","title":"Be Still"},{"url":"/meditations/here-with-me/","title":"Here With Me"},{"url":"/meditations/the-gift-of-now/","title":"The Gift of Now"}],"scripture-index":[]};
   const params = new URLSearchParams(window.location.search);
+  const pathKey = params.get("path");
+  if (!pathKey) return;
 
-  // DEFAULT TO BEGIN
-  const pathKey = params.get("path") || "begin";
+  const readingPaths = {"bondage-and-release":[{"url":"/testimonies/the-bitter-harvest-of-sin/","title":"The Bitter Harvest of Sin"},{"url":"/testimonies/jesus-the-scapegoat/","title":"Jesus – The Scapegoat"},{"url":"/devotionals/purify-my-heart/","title":"Purify My Heart"},{"url":"/testimonies/in-the-margins/","title":"In the Margins"},{"url":"/excerpts/fractured-light/chapter-3/","title":"Fractured Light — Chapter 3"}],"hurt-and-restoration":[{"url":"/reflections/held-on-every-side/","title":"Held on Every Side"},{"url":"/devotionals/when-jesus-wept/","title":"When Jesus Wept"},{"url":"/meditations/a-meditation-in-suffering/","title":"A Meditation in Suffering"},{"url":"/testimonies/after-gods-heart/","title":"After God's Heart"},{"url":"/excerpts/fractured-light/chapter-9/","title":"Fractured Light — Chapter 9"}],"weariness-and-renewal":[{"url":"/devotionals/be-still/","title":"Be Still"},{"url":"/meditations/the-gift-of-now/","title":"The Gift of Now"},{"url":"/devotionals/new-every-morning/","title":"New Every Morning"},{"url":"/devotionals/look-and-live/","title":"Look and Live"}],"about-the-author":[{"url":"/testimonies/from-exile-to-eden/","title":"From Exile to Eden"},{"url":"/testimonies/in-the-margins/","title":"In the Margins"},{"url":"/excerpts/fractured-light/chapter-4/","title":"Fractured Light — Chapter 4"},{"url":"/meditations/a-psalm-from-confinement/","title":"A Psalm From Confinement"},{"url":"/reflections/the-big-picture/","title":"The Big Picture"}],"start-here-suffering-or-waiting":[{"url":"/devotionals/be-still/","title":"Be Still"},{"url":"/meditations/the-gift-of-now/","title":"The Gift of Now"},{"url":"/meditations/if-god-is-everywhere/","title":"If God Is Everywhere"},{"url":"/devotionals/when-jesus-wept/","title":"When Jesus Wept"},{"url":"/meditations/a-meditation-in-suffering/","title":"A Meditation in Suffering"},{"url":"/devotionals/new-every-morning/","title":"New Every Morning"}],"start-here-sin-failure-shame":[{"url":"/testimonies/bitter-harvest-of-sin/","title":"The Bitter Harvest of Sin"},{"url":"/testimonies/jesus-the-scapegoat/","title":"Jesus – The Scapegoat"},{"url":"/devotionals/purify-my-heart/","title":"Purify My Heart"},{"url":"/testimonies/from-ashes-to-glory/","title":"From Ashes to Glory"},{"url":"/testimonies/in-the-margins/","title":"In the Margins"}],"start-here-numb-dry-disconnected":[{"url":"/reflections/what-are-you-feeding/","title":"What Are You Feeding?"},{"url":"/devotionals/seek-his-face/","title":"Seek His Face, Not Just His Hand"},{"url":"/devotionals/mustard-seed-faith/","title":"Mustard Seed Faith"},{"url":"/devotionals/look-and-live/","title":"Look and Live"},{"url":"/reflections/faith-from-beginning-to-end/","title":"Faith, From Beginning to End"}],"start-here-know-who-you-are":[{"url":"/reflections/whats-in-a-name/","title":"What's In A Name"},{"url":"/testimonies/after-gods-heart/","title":"After God's Heart"},{"url":"/reflections/held-on-every-side/","title":"Held on Every Side"},{"url":"/reflections/working-from-grace/","title":"Working From Grace"}],"start-here-story-image":[{"url":"/stories/the-gospel-in-the-grass/","title":"The Gospel in the Grass"},{"url":"/stories/dance-like-enoch/","title":"I Wanna Dance Like Enoch Danced"},{"url":"/stories/the-house-that-calls-to-the-simple/","title":"The House That Calls to the Simple"},{"url":"/excerpts/fractured-light/chapter-3/","title":"Fractured Light"}],"start-here-sit-with-god":[{"url":"/devotionals/be-still/","title":"Be Still"},{"url":"/meditations/the-gift-of-now/","title":"The Gift of Now"},{"url":"/meditations/a-holy-moment/","title":"A Holy Moment"},{"url":"/meditations/here-with-me/","title":"Here With Me"},{"url":"/meditations/the-work-of-your-fingers/","title":"The Work of Your Fingers"}],"start-here-relearning-grace":[{"url":"/reflections/working-from-grace/","title":"Working From Grace"},{"url":"/reflections/faith-from-beginning-to-end/","title":"Faith, From Beginning to End"},{"url":"/devotionals/mustard-seed-faith/","title":"Mustard Seed Faith"},{"url":"/reflections/from-it-or-through-it/","title":"From It or Through It"},{"url":"/testimonies/in-the-margins/","title":"In the Margins"}],"start-here-seeking-wisdom":[{"url":"/stories/the-house-that-calls-to-the-simple/","title":"The House That Calls to the Simple"},{"url":"/reflections/roadblocks/","title":"Roadblocks"},{"url":"/reflections/what-are-you-feeding/","title":"What Are You Feeding?"},{"url":"/reflections/psalm-119/","title":"Psalm 119"}],"hearing-god-be-still":[{"url":"/meditations/the-god-who-is-heard/","title":"The God Who Is Heard"},{"url":"/devotionals/be-still/","title":"Be Still"},{"url":"/meditations/the-gift-of-now/","title":"The Gift of Now"},{"url":"/meditations/if-god-is-everywhere/","title":"If God Is Everywhere"}],"hearing-god-removing-noise":[{"url":"/devotionals/seek-his-face/","title":"Seek His Face"},{"url":"/reflections/what-are-you-feeding/","title":"What Are You Feeding?"},{"url":"/testimonies/in-the-margins/","title":"In the Margins"}],"hearing-god-through-scripture":[{"url":"/devotionals/look-and-live/","title":"Look and Live"},{"url":"/devotionals/mustard-seed-faith/","title":"Mustard Seed Faith"},{"url":"/devotionals/new-every-morning/","title":"New Every Morning"}],"hearing-god-in-suffering":[{"url":"/devotionals/when-jesus-wept/","title":"When Jesus Wept"},{"url":"/meditations/a-meditation-in-suffering/","title":"A Meditation in Suffering"}],"youre-not-alone-understand":[{"url":"/reflections/not-even-one/","title":"Not Even One"},{"url":"/reflections/a-theology-of-weakness/","title":"A Theology of Weakness"},{"url":"/reflections/what-are-you-feeding/","title":"What Are You Feeding?"},{"url":"/reflections/all-things/","title":"All Things"},{"url":"/reflections/the-big-picture/","title":"The Big Picture"}],"youre-not-alone-relapse":[{"url":"/testimonies/from-knowing-to-surrender/","title":"From Knowing to Surrender"},{"url":"/testimonies/the-bitter-harvest-of-sin/","title":"The Bitter Harvest of Sin"},{"url":"/reflections/roadblocks/","title":"Roadblocks"},{"url":"/reflections/not-subdued/","title":"Not Subdued"},{"url":"/reflections/sons-of-brokenness/","title":"Sons of Brokenness"}],"youre-not-alone-shame":[{"url":"/devotionals/why-fear/","title":"Why Fear?"},{"url":"/reflections/deliver-me/","title":"Deliver Me"},{"url":"/reflections/renew-my-mind/","title":"Renew My Mind"},{"url":"/reflections/loving-judge/","title":"Loving Judge"},{"url":"/reflections/seek-him/","title":"Seek Him"}],"youre-not-alone-sober":[{"url":"/reflections/faith-from-beginning-to-end/","title":"Faith, From Beginning to End"},{"url":"/reflections/held-on-every-side/","title":"Held on Every Side"},{"url":"/reflections/working-from-grace/","title":"Working From Grace"},{"url":"/reflections/the-power-of-presence/","title":"The Power of Presence"},{"url":"/reflections/from-it-or-through-it/","title":"From It or Through It"}],"youre-not-alone-next-step":[{"url":"/reflections/coming-into-a-place-of-prayer/","title":"Coming Into a Place of Prayer"},{"url":"/devotionals/seek-his-face/","title":"Seek His Face"},{"url":"/devotionals/be-still/","title":"Be Still"},{"url":"/meditations/here-with-me/","title":"Here With Me"},{"url":"/meditations/the-gift-of-now/","title":"The Gift of Now"}],"scripture-index":[]};
+  const entries = readingPaths[pathKey];
+  if (!entries || !entries.length) return;
 
-  function normPath(p) {
-    if (!p) return "/";
-    if (p[0] !== "/") p = "/" + p;
-    if (!p.endsWith("/")) p += "/";
-    return p;
-  }
+  const normalize = (url) => {
+    if (!url) return "";
+    return url
+      .split('#')[0]
+      .split('?')[0]
+      .replace(/\/+$/, '');
+  };
 
-  function normItem(it) {
-    if (typeof it === "string") return { url: normPath(it), title: it };
-    if (it && typeof it === "object" && it.url) {
-      return { url: normPath(it.url), title: it.title || it.url };
-    }
-    return null;
-  }
+  const currentUrl = normalize(window.location.pathname);
 
-  const rawItems = readingPaths[pathKey];
-  if (!Array.isArray(rawItems)) return;
+  const index = entries.findIndex(e =>
+    normalize(e.url) === currentUrl
+  );
 
-  const items = rawItems.map(normItem).filter(Boolean);
-  const currentUrl = normPath(window.location.pathname);
+  if (index === -1) return;
 
-  const idx = items.findIndex(it => it.url === currentUrl);
-  if (idx === -1) return;
-
-  const prev = idx > 0 ? items[idx - 1] : null;
-  const next = idx < items.length - 1 ? items[idx + 1] : null;
-
-  function landingHref(k) {
-    if (k.startsWith("start-here-")) return "/start-here/";
-    if (k.startsWith("hearing-god-")) return "/hearing-god/";
-    if (k.startsWith("you-are-not-alone-")) return "/youre-not-alone/";
-    return "/" + k + "/";
-  }
-
-  function landingLabel(k) {
-    if (k.startsWith("start-here-")) return "Start Here";
-    if (k.startsWith("hearing-god-")) return "Hearing God";
-    if (k.startsWith("you-are-not-alone-")) return "You're Not Alone";
-    return k.replace(/-/g, " ");
-  }
-
-  function hrefWithPath(url) {
-    const u = new URL(url, window.location.origin);
-    u.searchParams.set("path", pathKey);
-    return u.pathname + u.search;
-  }
-
-  const centerHref = landingHref(pathKey);
-  const centerLabel = landingLabel(pathKey);
-
-  mount.innerHTML = `
-    <hr style="margin:2.5rem 0;">
-    <nav style="
-      display:flex;
-      justify-content:space-between;
-      align-items:center;
-      font-size:0.9rem;
-      font-weight:normal;
-      line-height:1.4;
-    ">
-      <div style="max-width:40%;">
-        ${prev ? `← <a href="${hrefWithPath(prev.url)}">Back to ${prev.title}</a>` : ""}
-      </div>
-
-      <div style="
-        text-align:center;
-        font-size:0.82rem;
-        color:#666;
-        padding:0 1rem;
-        white-space:nowrap;
-      ">
-        <a href="${centerHref}" style="color:inherit; text-decoration:none;">
-          Return to ${centerLabel}
-        </a>
-      </div>
-
-      <div style="max-width:40%; text-align:right;">
-        ${next ? `<a href="${hrefWithPath(next.url)}">Next ${next.title}</a> →` : ""}
-      </div>
-    </nav>
-  `;
+  const container = document.querySelector("[data-reading-path-nav]");
+  if (!container) return;
 
   const subtitleMount = document.getElementById("reading-path-subtitle");
-  if (subtitleMount) {
-    subtitleMount.innerHTML = `
-      <a href="${centerHref}" style="text-decoration:none; color:inherit;">
-        ${centerLabel}
-      </a>
-    `;
+
+  // Determine correct landing page
+  let pathUrl = "/" + pathKey + "/";
+
+  if (pathKey.startsWith("youre-not-alone")) {
+    pathUrl = "/youre-not-alone/";
   }
+
+  if (pathKey.startsWith("start-here")) {
+    pathUrl = "/start-here/";
+  }
+
+  if (pathKey.startsWith("hearing-god")) {
+    pathUrl = "/hearing-god/";
+  }
+
+  const pathTitle = pathUrl
+    .replace(/\//g, '')
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, l => l.toUpperCase());
+
+  // Subtitle link
+  if (subtitleMount) {
+    subtitleMount.innerHTML =
+      `<a href="${pathUrl}" style="color:#666;text-decoration:none;">
+        ${pathTitle}
+      </a>`;
+  }
+
+  let html = '<hr><div style="display:flex;justify-content:space-between;align-items:center;margin:2rem 0;">';
+
+  if (index > 0) {
+    const prev = entries[index - 1];
+    html += `<a href="${prev.url}?path=${pathKey}">← ${prev.title}</a>`;
+  } else {
+    html += `<span></span>`;
+  }
+
+  html += `<a href="${pathUrl}" style="font-weight:500;">
+             ${pathTitle}
+           </a>`;
+
+  if (index < entries.length - 1) {
+    const next = entries[index + 1];
+    html += `<a href="${next.url}?path=${pathKey}">
+               ${next.title} →
+             </a>`;
+  } else {
+    html += `<span></span>`;
+  }
+
+  html += "</div><hr>";
+
+  container.innerHTML = html;
+
 })();
 </script>
 
+
+<style>
+  .book-return-link {
+    margin: 2rem 0 1rem 0;
+    text-align: left;
+  }
+
+  .book-return-link a {
+    text-decoration: underline;
+    color: #5a3e2b;
+  }
+
+  .article-tags {
+    margin-top: 2rem;
+  }
+
+  .tag-pill {
+    display: inline-block;
+    margin: 0 0.8rem 0.8rem 0;
+    padding: 0.45rem 0.9rem;
+    font-size: 0.95rem;
+    text-decoration: none;
+    border-radius: 6px;
+    background-color: #f1e8dc;
+    color: #5a3e2b;
+    border: 1px solid #d8c8b3;
+  }
+
+  .tag-pill:hover {
+    background-color: #e6d9c7;
+  }
+</style>
+
+<script>
+  (function () {
+    function hideTagsIfReadingPathActive() {
+      const navContainer = document.querySelector('[data-reading-path-nav]');
+      const tags = document.getElementById('article-tags');
+
+      if (!navContainer || !tags) return;
+
+      if (navContainer.innerHTML.trim().length > 0) {
+        tags.style.display = 'none';
+      }
+    }
+
+    window.addEventListener('load', hideTagsIfReadingPathActive);
+  })();
+</script>
 
     </div>
   </main>
@@ -196,6 +229,33 @@
     <hr />
     <p><small>&copy;  — Grace in the Margins</small></p>
   </footer>
+
+  <!-- Chatbase Chatbot Embed -->
+  <script>
+    (function(){
+      if(!window.chatbase || window.chatbase("getState") !== "initialized"){
+        window.chatbase = (...args) => {
+          if(!window.chatbase.q){ window.chatbase.q = [] }
+          window.chatbase.q.push(args)
+        };
+        window.chatbase = new Proxy(window.chatbase, {
+          get(target, prop){
+            if(prop === "q"){ return target.q }
+            return (...args) => target(prop, ...args)
+          }
+        });
+      }
+      const onLoad = function(){
+        const script = document.createElement("script");
+        script.src = "https://www.chatbase.co/embed.min.js";
+        script.id = "ZmJVwhmGVLah9bOvLWaRS";
+        script.domain = "www.chatbase.co";
+        document.body.appendChild(script);
+      };
+      if(document.readyState === "complete"){ onLoad() }
+      else { window.addEventListener("load", onLoad) }
+    })();
+  </script>
 
 </body>
 </html>

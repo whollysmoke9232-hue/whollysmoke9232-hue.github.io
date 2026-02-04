@@ -27,24 +27,41 @@
     </div>
   </header>
 
-  
-<div id="reading-path-subtitle"
+  <div id="reading-path-subtitle"
      style="
        text-align:center;
-       margin: 0.5rem 0 1.25rem;
-       font-size: 0.95rem;
-       color:#666;
+       margin: 1rem 0 1.75rem;
+       font-size: 1.2rem;
+       font-weight: 600;
+       letter-spacing: 0.02em;
+       color: #5a3e2b;
      ">
-</div>
+  </div>
 
   <main class="site-main">
     <div class="container">
-      <p></p>
-<div style="text-align: center; margin: 2rem 0;">
-  <nav class="explore-bubbles" aria-label="Return">
-    <a href="/begin/">Back to Begin</a>
-  </nav>
-</div>
+      <h2 id="hurt-and-restoration" tabindex="-1">Hurt and Restoration</h2>
+<p>These writings are for those carrying injuries they did not choose. They speak gently to harm, betrayal, and loss, without minimizing pain or rushing healing—holding space for restoration that unfolds in its own time.</p>
+<hr>
+<ul>
+  <li>
+    <a href="/reflections/held-on-every-side/?path=hurt-and-restoration#">Held on Every Side</a>
+  </li>
+  <li>
+    <a href="/devotionals/when-jesus-wept/?path=hurt-and-restoration#">When Jesus Wept</a>
+  </li>
+  <li>
+    <a href="/meditations/a-meditation-in-suffering/?path=hurt-and-restoration#">A Meditation in Suffering</a>
+  </li>
+  <li>
+    <a href="/testimonies/after-gods-heart/?path=hurt-and-restoration#">After God&#39;s Heart</a>
+  </li>
+  <li>
+    <a href="/excerpts/fractured-light/chapter-9/?path=hurt-and-restoration#">Fractured Light — Chapter 9</a>
+  </li>
+</ul>
+<hr>
+<p><a href="/begin/">← Back to Begin</a></p>
 
     </div>
   </main>
@@ -56,6 +73,33 @@
     <hr />
     <p><small>&copy;  — Grace in the Margins</small></p>
   </footer>
+
+  <!-- Chatbase Chatbot Embed -->
+  <script>
+    (function(){
+      if(!window.chatbase || window.chatbase("getState") !== "initialized"){
+        window.chatbase = (...args) => {
+          if(!window.chatbase.q){ window.chatbase.q = [] }
+          window.chatbase.q.push(args)
+        };
+        window.chatbase = new Proxy(window.chatbase, {
+          get(target, prop){
+            if(prop === "q"){ return target.q }
+            return (...args) => target(prop, ...args)
+          }
+        });
+      }
+      const onLoad = function(){
+        const script = document.createElement("script");
+        script.src = "https://www.chatbase.co/embed.min.js";
+        script.id = "ZmJVwhmGVLah9bOvLWaRS";
+        script.domain = "www.chatbase.co";
+        document.body.appendChild(script);
+      };
+      if(document.readyState === "complete"){ onLoad() }
+      else { window.addEventListener("load", onLoad) }
+    })();
+  </script>
 
 </body>
 </html>

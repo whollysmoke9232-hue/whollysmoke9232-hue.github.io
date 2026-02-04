@@ -2,31 +2,27 @@
 title: Bondage and Release
 layout: layout.njk
 permalink: /bondage-and-release/
-pathKey: bondage-and-release
+templateEngineOverride: njk,md
 ---
 
-{% set path = readingPaths.paths["bondage-and-release"] %}
+## Bondage and Release
 
-<p>{{ path.intro }}</p>
+These readings are for those who find themselves repeating what they long to escape. They do not offer quick fixes or simple answers, but honest witness to grace that meets us in confinement—and begins release from within it.
 
-{% for section in path.sections %}
-  <hr>
+<hr>
 
-  <h3>{{ section.title }}</h3>
+{% set entries = readingPaths['bondage-and-release'] %}
 
-  <ul>
-    {% for slug in section.items %}
-      <li>
-        <a href="/{{ slug }}/">
-          {{ slug | replace('-', ' ') | title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
+<ul>
+{% for entry in entries %}
+  <li>
+    <a href="{{ entry.url }}?path=bondage-and-release#">
+      {{ entry.title }}
+    </a>
+  </li>
 {% endfor %}
+</ul>
 
-<div style="text-align: center; margin: 2rem 0;">
-  <nav class="explore-bubbles" aria-label="Return">
-    <a href="/begin/">Back to Begin</a>
-  </nav>
-</div>
+<hr>
+
+<p><a href="/begin/">← Back to Begin</a></p>

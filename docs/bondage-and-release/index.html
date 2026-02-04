@@ -27,24 +27,51 @@
     </div>
   </header>
 
-  
-<div id="reading-path-subtitle"
+  <div id="reading-path-subtitle"
      style="
        text-align:center;
-       margin: 0.5rem 0 1.25rem;
-       font-size: 0.95rem;
-       color:#666;
+       margin: 1rem 0 1.75rem;
+       font-size: 1.2rem;
+       font-weight: 600;
+       letter-spacing: 0.02em;
+       color: #5a3e2b;
      ">
-</div>
+  </div>
 
   <main class="site-main">
     <div class="container">
-      <p></p>
-<div style="text-align: center; margin: 2rem 0;">
-  <nav class="explore-bubbles" aria-label="Return">
-    <a href="/begin/">Back to Begin</a>
-  </nav>
-</div>
+      <h2 id="bondage-and-release" tabindex="-1">Bondage and Release</h2>
+<p>These readings are for those who find themselves repeating what they long to escape. They do not offer quick fixes or simple answers, but honest witness to grace that meets us in confinement—and begins release from within it.</p>
+<hr>
+<ul>
+  <li>
+    <a href="/testimonies/the-bitter-harvest-of-sin/?path=bondage-and-release#">
+      The Bitter Harvest of Sin
+    </a>
+  </li>
+  <li>
+    <a href="/testimonies/jesus-the-scapegoat/?path=bondage-and-release#">
+      Jesus – The Scapegoat
+    </a>
+  </li>
+  <li>
+    <a href="/devotionals/purify-my-heart/?path=bondage-and-release#">
+      Purify My Heart
+    </a>
+  </li>
+  <li>
+    <a href="/testimonies/in-the-margins/?path=bondage-and-release#">
+      In the Margins
+    </a>
+  </li>
+  <li>
+    <a href="/excerpts/fractured-light/chapter-3/?path=bondage-and-release#">
+      Fractured Light — Chapter 3
+    </a>
+  </li>
+</ul>
+<hr>
+<p><a href="/begin/">← Back to Begin</a></p>
 
     </div>
   </main>
@@ -56,6 +83,33 @@
     <hr />
     <p><small>&copy;  — Grace in the Margins</small></p>
   </footer>
+
+  <!-- Chatbase Chatbot Embed -->
+  <script>
+    (function(){
+      if(!window.chatbase || window.chatbase("getState") !== "initialized"){
+        window.chatbase = (...args) => {
+          if(!window.chatbase.q){ window.chatbase.q = [] }
+          window.chatbase.q.push(args)
+        };
+        window.chatbase = new Proxy(window.chatbase, {
+          get(target, prop){
+            if(prop === "q"){ return target.q }
+            return (...args) => target(prop, ...args)
+          }
+        });
+      }
+      const onLoad = function(){
+        const script = document.createElement("script");
+        script.src = "https://www.chatbase.co/embed.min.js";
+        script.id = "ZmJVwhmGVLah9bOvLWaRS";
+        script.domain = "www.chatbase.co";
+        document.body.appendChild(script);
+      };
+      if(document.readyState === "complete"){ onLoad() }
+      else { window.addEventListener("load", onLoad) }
+    })();
+  </script>
 
 </body>
 </html>

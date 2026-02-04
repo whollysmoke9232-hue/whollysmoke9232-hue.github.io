@@ -4,4 +4,5 @@ description: Longer-form theological and experiential writing shaped by lived fa
 category: reflections
 layout: category-index.njk
 permalink: /reflections/
+templateEngineOverride: njk,md
 ---

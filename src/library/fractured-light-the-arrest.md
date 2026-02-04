@@ -8,6 +8,8 @@ tags:
 author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-9/"
 category: stories
+excludeFromLibrary: true
+bookParent: "/books/fractured/light/"
 ---
 
 I never set out to write this story.

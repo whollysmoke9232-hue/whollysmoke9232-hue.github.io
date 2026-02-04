@@ -2,29 +2,25 @@
 title: Weariness and Renewal
 layout: layout.njk
 permalink: /weariness-and-renewal/
-pathKey: weariness-and-renewal
+templateEngineOverride: njk,md
 ---
 
-{% set path = readingPaths.paths["weariness-and-renewal"] %}
+## Weariness and Renewal
 
-<p>{{ path.intro }}</p>
+These readings are for seasons of exhaustion, when faith feels thin and strength feels spent. They are offered as quiet companionship—reminding us that rest, renewal, and perseverance often arrive slowly, and together.
 
-{% for section in path.sections %}
-  <hr>
+<hr>
 
-  <h3>{{ section.title }}</h3>
+{% set entries = readingPaths['weariness-and-renewal'] %}
 
-  <ul>
-    {% for slug in section.items %}
-      <li>
-        <a href="/{{ slug }}/">
-          {{ slug | replace('-', ' ') | title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
+<ul>
+{% for entry in entries %}
+  <li>
+    <a href="{{ entry.url }}?path=weariness-and-renewal#">{{ entry.title }}</a>
+  </li>
 {% endfor %}
+</ul>
 
-<div class="explore-bubbles">
-  <a href="/begin/">← Back to Begin</a>
-</div>
+<hr>
+
+<p><a href="/begin/">← Back to Begin</a></p>
