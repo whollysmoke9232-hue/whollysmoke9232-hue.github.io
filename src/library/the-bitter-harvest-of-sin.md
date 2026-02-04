@@ -13,6 +13,7 @@ tags:
   - scripture
 scripture:
   - "Romans 6:21"
+permalink: /testimonies/bitter-harvest-of-sin/
 ---
 
 ## Key Scripture
