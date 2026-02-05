@@ -8,6 +8,7 @@ category: meditations
 tags:
   - suffering
   - hope
+  - confinement
 scripture:
   - "Psalm 69:7"
 ---

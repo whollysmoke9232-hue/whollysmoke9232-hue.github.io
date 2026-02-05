@@ -8,6 +8,7 @@ excerpt: "A reflection on Scripture, time, and the holy space before the beginni
 tags:
   - scripture
   - margins-where-god-begins
+  - confinement
 scripture:
   - "Luke 5:27-28"
   - "Psalm 139:16"

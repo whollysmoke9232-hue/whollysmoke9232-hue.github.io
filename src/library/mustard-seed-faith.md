@@ -8,6 +8,7 @@ excerpt: "Even little faith is powerful when pointed toward Jesus. Mustard seed 
 tags:
   - faith
   - gospels
+  - confinement
 scripture:
   - "Matthew 17:20"
   - "Luke 8:43"

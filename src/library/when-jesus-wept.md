@@ -10,6 +10,7 @@ tags:
   - sin
   - restoration
   - gospels
+  - confinement
 scripture:
   - "John 11:35"
   - "Genesis 1:31"
@@ -105,17 +106,6 @@ He hates it because it breaks what He loves.
 
 And one day, He will wipe away every tear…  
 **because He wept first.**
-
-<!-- end-of-article -->
-<div class="yna-prev-link" style="margin-top:2.5em; text-align:left; display:none;">
-  <a href="/testimonies/bitter-harvest-of-sin/?from=youre-not-alone" style="font-weight:bold;">&larr; Previous: The Bitter Harvest of Sin</a>
-</div>
-<script>
-  if (window && window.location.search.includes('from=youre-not-alone')) {
-    var el = document.querySelector('.yna-prev-link');
-    if (el) el.style.display = 'block';
-  }
-</script>
 
 <br>
 <br>

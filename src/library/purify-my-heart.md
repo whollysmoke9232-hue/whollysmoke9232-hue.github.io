@@ -8,6 +8,7 @@ excerpt: "A prayer of surrender and longing—for a clean heart that desires God
 tags:
   - repentance
   - psalms
+  - confinement
 scripture:
   - "Matthew 5:8"
 

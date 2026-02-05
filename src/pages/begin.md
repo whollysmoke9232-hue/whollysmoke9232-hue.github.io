@@ -18,7 +18,7 @@ This library is offered as it is, not as instruction, but as witness — in the 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center; margin-top: 2rem;">
 
   <!-- Row 1 — Bondage and Release -->
-  <a href="/bondage-and-release#/" title="Bondage and Release ">
+  <a href="/bondage-and-release#/" title="Bondage and Release">
     <img src="/images/cell-door.png" alt="Bondage and Release" style="max-width: 100%; border-radius: 8px;">
   </a>
 
@@ -65,7 +65,27 @@ This library is offered as it is, not as instruction, but as witness — in the 
       </p>
   </div>
 
-  <!-- Row 4 — About the Author -->
+  <!-- Row 4 — Written in Confinement -->
+  <div>
+    <h3>
+      <a href="/tags/confinement/" title="Written in Confinement">
+        If you have met God in a place you did not choose
+      </a>
+    </h3>
+    <p>
+      These writings were composed in quiet confinement — not polished, not curated, but lived. They are offered as they were written: immediate, surrendered, and honest.
+    </p>
+  </div>
+
+  <a href="/tags/confinement/" title="Written in Confinement">
+    <img src="/images/cell-desk.png" alt="Written in Confinement" style="max-width: 100%; border-radius: 8px;">
+  </a>
+
+  <!-- Row 5 — About the Author -->
+  <a href="/about-the-author#/" title="About the author">
+    <img src="/images/chatgpt-steve-2.png" alt="About the Author" style="max-width: 100%; border-radius: 8px;">
+  </a>
+
   <div>
     <h3>
       <a href="/about-the-author#/" title="About the author">
@@ -76,10 +96,6 @@ This library is offered as it is, not as instruction, but as witness — in the 
       If you would like to understand the voice behind these writings, this path gathers pieces that reflect the journey, failures, questions, and grace that have shaped this work.
     </p>
   </div>
-
-  <a href="/about-the-author#/" title="About the author">
-    <img src="/images/steve-pic.jpeg" alt="About the Author" style="max-width: 100%; border-radius: 8px;">
-  </a>
 
 </div>
 

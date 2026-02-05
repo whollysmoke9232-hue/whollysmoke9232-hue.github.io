@@ -9,6 +9,7 @@ tags:
   - faith
   - grace
   - scripture
+  - confinement
 scripture:
   - "Romans 1:17"
 ---

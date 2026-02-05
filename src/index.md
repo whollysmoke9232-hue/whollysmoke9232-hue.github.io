@@ -59,4 +59,11 @@ layout: layout.njk
     </a>
   </div>
 
+  <div style="text-align:center; margin:4rem 0 2rem 0; font-size:1rem; color:#6a5d4d;">
+  <a href="/youre-not-alone/" style="text-decoration:none; color:inherit;">
+    There is a place here for what is hardest to name.
+  </a>
+</div>
+
+
 </div>

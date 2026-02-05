@@ -12,6 +12,7 @@ tags:
   - weakness
   - restoration
   - scripture
+  - confinement
 scripture:
   - "Acts 13:22"
   - "1 Samuel 16:7"

@@ -9,6 +9,7 @@ tags:
   - repentance
   - obedience
   - scripture
+  - confinement
 scripture:
   - "Romans 1:19-20"
 ---

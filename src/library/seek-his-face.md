@@ -7,6 +7,7 @@ category: devotionals
 excerpt: "God desires to be desired—not for what He can give, but for who He is. Psalm 127 reminds us that striving without Him is empty, but seeking Him brings rest and blessing."
 tags:
   - psalms
+  - confinement
 scripture:
   - "Psalm 127:1-2"
   - "Matthew 6:33"

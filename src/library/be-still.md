@@ -8,6 +8,7 @@ excerpt: "We chase holiness like a performance, but God meets us in surrender. I
 tags:
   - devotionals
   - psalms
+  - confinement
 scripture:
   - "Psalm 46:7-11"
 ---
