@@ -8,13 +8,11 @@ module.exports = function (eleventyConfig) {
      📚 COLLECTIONS (CATEGORY-BASED)
   =============================== */
 
-  // Master library collection (all library content except excluded)
   eleventyConfig.addCollection("library", (api) =>
     api.getFilteredByGlob("./src/library/*.md")
        .filter(item => !item.data.excludeFromLibrary)
   );
 
-  // Category-driven collections
   function categoryCollection(categoryName) {
     return (api) =>
       api.getFilteredByGlob("./src/library/*.md")
@@ -31,7 +29,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("stories", categoryCollection("stories"));
   eleventyConfig.addCollection("testimonies", categoryCollection("testimonies"));
 
-  // Books (separate structure)
   eleventyConfig.addCollection("books", (api) =>
     api.getFilteredByGlob("./src/books/*/index.md")
   );
@@ -124,32 +121,33 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets/js": "assets/js" });
   eleventyConfig.addPassthroughCopy({ "images": "images" });
 
-/* ===============================
-   🏷 TAG LIST COLLECTION
-================================ */
+  /* ===============================
+     🏷 TAG LIST COLLECTION
+  =============================== */
 
-eleventyConfig.addCollection("tagList", function (collectionApi) {
-  const tagSet = new Set();
+  eleventyConfig.addCollection("tagList", function (collectionApi) {
+    const tagSet = new Set();
 
-  collectionApi.getAll().forEach(item => {
-    if (item.data.tags) {
-      const tags = Array.isArray(item.data.tags)
-        ? item.data.tags
-        : [item.data.tags];
+    collectionApi.getAll().forEach(item => {
+      if (item.data.tags) {
+        const tags = Array.isArray(item.data.tags)
+          ? item.data.tags
+          : [item.data.tags];
 
-      tags.forEach(tag => tagSet.add(tag));
-    }
+        tags.forEach(tag => tagSet.add(tag));
+      }
+    });
+
+    return [...tagSet].sort();
   });
-
-  return [...tagSet].sort();
-});
-
 
   /* ===============================
      📁 DIRECTORY CONFIG
   =============================== */
 
   return {
+    pathPrefix: "/grace-in-the-margins/",
+
     dir: {
       input: "src",
       includes: "_includes",
