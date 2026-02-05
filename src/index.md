@@ -11,7 +11,7 @@ layout: layout.njk
   </div>
 
   <a href="/begin/">
-    <img src="/images/path-2.png" alt="" title="A good place to start" style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <img src="{{ '/images/path-2.png' | url }}" alt="" title="A good place to start" style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   </a>
 
   <div style="text-align: center; margin: 1.2rem 0;">
@@ -21,7 +21,7 @@ layout: layout.njk
   </div>
 
   <a href="/about/">
-    <img src="/images/heavens-declare.png" alt="The heavens declare the glory of God" title="Why this place exists" style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <img src="{{ '/images/heavens-declare.png' | url }}" alt="The heavens declare the glory of God" title="Why this place exists" style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   </a>
 
   <section class="psalm-verse" style="text-align: center;">
