@@ -1,0 +1,59 @@
+<h1>Scripture Index - Usage Guide</h1>
+<h2>Overview</h2>
+<p>The Scripture Index feature allows you to tag posts with scripture references and automatically generates an organized index page that lists all scriptures cited across your site.</p>
+<h2>How to Add Scripture References to Your Posts</h2>
+<p>In the front matter of any post (devotional, meditation, reflection, story, or testimony), add a <code>scripture</code> field with an array of scripture references:</p>
+<pre><code class="language-yaml">---
+title: &quot;Your Post Title&quot;
+date: 2024-01-15
+scripture:
+  - &quot;Psalm 46:7-11&quot;
+  - &quot;Romans 8:28&quot;
+  - &quot;1 John 4:19&quot;
+tags:
+  - Grace
+  - Hope
+---
+</code></pre>
+<h2>Scripture Reference Format</h2>
+<p>Use this format for consistency:</p>
+<ul>
+<li><strong>Book name</strong>: Full name (e.g., &quot;Psalm&quot;, &quot;Romans&quot;, &quot;1 Corinthians&quot;)</li>
+<li><strong>Chapter and verse</strong>: Use colons and hyphens (e.g., &quot;3:16&quot;, &quot;5:1-8&quot;)</li>
+<li><strong>Multiple verses</strong>: Use hyphens for ranges (e.g., &quot;12:1-5&quot;)</li>
+<li><strong>Single chapters</strong>: Include chapter number (e.g., &quot;Psalm 23&quot;)</li>
+</ul>
+<h3>Examples:</h3>
+<ul>
+<li>✅ <code>&quot;Psalm 46:7-11&quot;</code></li>
+<li>✅ <code>&quot;Acts 13:22&quot;</code></li>
+<li>✅ <code>&quot;2 Samuel 11&quot;</code></li>
+<li>✅ <code>&quot;1 Corinthians 13:1-13&quot;</code></li>
+</ul>
+<h2>Viewing the Scripture Index</h2>
+<ul>
+<li><strong>Main Index</strong>: Visit <code>/scripture/</code> to see all scriptures organized by biblical book</li>
+<li><strong>Individual Scripture Pages</strong>: Click any scripture reference to see all posts that reference it</li>
+</ul>
+<h2>Navigation</h2>
+<p>The Scripture Index link has been added to:</p>
+<ul>
+<li>Homepage (bottom navigation section)</li>
+<li>Listed alongside &quot;Browse by Tag&quot; and &quot;Why This Place Exists&quot;</li>
+</ul>
+<h2>Technical Details</h2>
+<p>The scripture system includes:</p>
+<ol>
+<li><strong>scriptureList collection</strong>: Gathers all unique scripture references</li>
+<li><strong>Scripture index page</strong> (<code>/src/scripture.njk</code>): Main listing organized by book</li>
+<li><strong>Individual scripture pages</strong> (<code>/src/scripture/scripture-page.njk</code>): Shows all posts for each reference</li>
+<li><strong>Automatic URL generation</strong>: Each scripture gets a clean URL (e.g., <code>/scripture/psalm-46-7-11/</code>)</li>
+</ol>
+<h2>Example Posts with Scripture References</h2>
+<p>Three example posts have been updated with scripture metadata:</p>
+<ul>
+<li><a href="../src/devotionals/be-still.md">Be Still</a></li>
+<li><a href="../src/testimonies/after-gods-heart.md">After God's Heart</a></li>
+<li><a href="../src/meditations/a-meditation-in-suffering.md">A Meditation in Suffering</a></li>
+</ul>
+<p>You can reference these files to see the proper format for adding scripture references to your content.</p>
