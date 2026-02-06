@@ -146,7 +146,7 @@ module.exports = function (eleventyConfig) {
   =============================== */
 
   return {
-    pathPrefix: "/grace-in-the-margins/",
+    pathPrefix: "/grace-in-the-margins",
 
     dir: {
       input: "src",
