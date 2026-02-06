@@ -19,7 +19,7 @@ This library is offered as it is, not as instruction, but as witness — in the 
 
   <!-- Row 1 — Bondage and Release -->
   <a href="/bondage-and-release#/" title="Bondage and Release">
-    <img src="/images/cell-door.png" alt="Bondage and Release" style="max-width: 100%; border-radius: 8px;">
+    <img src="{{ '/images/cell-door.png' | url }}" alt="Bondage and Release" style="max-width: 100%; border-radius: 8px;">
   </a>
 
   <div>
@@ -46,12 +46,12 @@ This library is offered as it is, not as instruction, but as witness — in the 
   </div>
 
   <a href="/hurt-and-restoration#/" title="Hurt and Restoration">
-    <img src="/images/crutches.png" alt="Hurt and Restoration" style="max-width: 100%; border-radius: 8px;">
+    <img src="{{ '/images/crutches.png' | url }}" alt="Hurt and Restoration" style="max-width: 100%; border-radius: 8px;">
   </a>
 
   <!-- Row 3 — Weariness and Renewal -->
   <a href="/weariness-and-renewal#/" title="Weariness and Renewal">
-    <img src="/images/weary-traveler.png" alt="Weariness and Renewal" style="max-width: 100%; border-radius: 8px;">
+    <img src="{{ '/images/weary-traveler.png' | url }}" alt="Weariness and Renewal" style="max-width: 100%; border-radius: 8px;">
   </a>
 
   <div>
@@ -78,12 +78,12 @@ This library is offered as it is, not as instruction, but as witness — in the 
   </div>
 
   <a href="/tags/confinement/" title="Written in Confinement">
-    <img src="/images/cell-desk.png" alt="Written in Confinement" style="max-width: 100%; border-radius: 8px;">
+    <img src="{{ '/images/cell-desk.png' | url }}" alt="Written in Confinement" style="max-width: 100%; border-radius: 8px;">
   </a>
 
   <!-- Row 5 — About the Author -->
   <a href="/about-the-author#/" title="About the author">
-    <img src="/images/chatgpt-steve-2.png" alt="About the Author" style="max-width: 100%; border-radius: 8px;">
+    <img src="{{ '/images/chatgpt-steve-2' | url }}" alt="About the Author" style="max-width: 100%; border-radius: 8px;">
   </a>
 
   <div>
