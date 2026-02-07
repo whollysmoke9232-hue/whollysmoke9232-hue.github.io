@@ -1,7 +1,7 @@
 module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("src/assets");
-  eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("src/images");
 
 
   eleventyConfig.addFilter("isoDate", function(dateObj) {
