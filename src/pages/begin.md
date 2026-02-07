@@ -83,7 +83,7 @@ This library is offered as it is, not as instruction, but as witness — in the 
 
   <!-- Row 5 — About the Author -->
   <a href="/about-the-author#/" title="About the author">
-    <img src="{{ '/images/chatgpt-steve-2.png' | url }}" alt="About the Author" style="max-width: 100%; border-radius: 8px;">
+    <img src="{{ '/images/chatgpt-steve.png' | url }}" alt="About the Author" style="max-width: 100%; border-radius: 8px;">
   </a>
 
   <div>
