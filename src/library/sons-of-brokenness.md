@@ -39,6 +39,8 @@ Scripture does not tell us what conversations took place within these families, 
 
 In rebelling against Moses, they failed to see that they were rebelling against God.
 
+God's response was quick and severe.
+
 Yet Numbers 26:11 tells us plainly: **“The sons of Korah did not die.”**
 
 At least some of Korah’s children appear to have recognized the error in their father’s path. Whether through repentance, humility, or quiet obedience, they did not join in the rebellion. They understood the sacredness of their calling. They honored the boundaries God had set. They recognized that proximity to holiness is itself a gift—not a platform for ambition.
