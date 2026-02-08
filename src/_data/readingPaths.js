@@ -127,7 +127,7 @@ module.exports = {
 
   'youre-not-alone-relapse': [
     { url: '/testimonies/from-knowing-to-surrender/', title: 'From Knowing to Surrender' },
-    { url: '/testimonies/the-bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
+    { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
     { url: '/reflections/roadblocks/', title: 'Roadblocks' },
     { url: '/reflections/not-subdued/', title: 'Not Subdued' },
     { url: '/reflections/sons-of-brokenness/', title: 'Sons of Brokenness' }
