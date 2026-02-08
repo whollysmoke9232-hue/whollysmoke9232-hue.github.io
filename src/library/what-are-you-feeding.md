@@ -1,7 +1,7 @@
 ---
 title: "What Are You Feeding?"
 author: "Steve Wilkins"
-date: 2025-02-07
+date: 2023-08-07
 layout: article.njk
 category: reflections
 excerpt: "What we consume shapes what we become—and the Word of God is meant to be our daily bread."
@@ -19,7 +19,7 @@ scripture:
 > By guarding it according to your word.  
 > I have stored up your word in my heart,  
 > that I might not sin against you.”_  
-> —Psalm 119:9, 11
+> **—Psalm 119:9, 11**
 
 ---
 

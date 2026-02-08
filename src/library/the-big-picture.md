@@ -48,3 +48,20 @@ He is in control. And He is never surprised by what happens in our lives.
 
 I pray that this truth will soak into your soul and usher into your spirit the peace that surpasses understanding.
 
+**Prayer**
+
+Father,
+
+You see what I cannot see.
+
+When the canvas feels dark, when events unfold without explanation, when loss and confusion cloud my understanding — remind me that You are still at work. You are not reacting. You are not adjusting. You are painting with purpose.
+
+Forgive me for the times I demand clarity instead of trust. Forgive me for measuring Your faithfulness by what I can understand. Teach me to live by faith when the veil remains closed.
+
+When I experience laughter or tears, success or failure, joy or pain, anchor my heart in this truth: nothing in my life lies outside Your sovereign hand.
+
+Move me where You will. Teach me what I need to learn. Break what must be broken. Build what must be built. And through it all, let me rest in the certainty that Your plan is perfect — even when it is hidden.
+
+Grant me the peace that surpasses understanding. Not because I see the whole picture, but because I trust the Artist.
+
+Amen.

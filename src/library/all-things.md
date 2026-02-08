@@ -17,8 +17,8 @@ scripture_references:
   - Philippians 1:6
 ---
 
-“I will cry to God Most High,  
-To God who accomplishes all things for me.” —Psalm 57:2
+> _“I will cry to God Most High,  
+> To God who accomplishes all things for me.”_ **—Psalm 57:2**
 
 God who accomplishes *all things* for me. [the phrase appears in italics in some English translations] I generally approach those italics with caution. The words in italic are not in the Hebrew manuscript. They were inserted by the translators for clarification – to allow the text to make sense to an English speaking reader.
 
@@ -33,5 +33,22 @@ There is much to learn from David’s example here. My waiting for God to work i
 This is not the story of my perseverance, but of the God who begins, carries, heals, and completes what concerns me—from beginning to end.
 
 
-"For I am confident of this very thing, that He who began a good work in you will perfect it until the day of Christ Jesus” —Philippians 1:6
+> _"For I am confident of this very thing, that He who began a good work in you will perfect it until the day of Christ Jesus”_ **—Philippians 1:6**
 
+**Prayer**
+
+Father,
+
+You are the One who begins what I cannot begin and completes what I cannot finish. When my efforts feel sincere but insufficient, remind me that the outcome does not rest on me.
+
+I confess that I often want to control the process. I want to see progress I can measure. I want to feel transformation I can claim. But You are the One who accomplishes all things that concern me.
+
+Teach me to wait actively — to pray, to obey, to trust — without placing my confidence in my own perseverance. Guard me from pride when I see fruit, and from despair when I see delay.
+
+Where there is brokenness caused by my inconsistency, heal it. Where there is wandering, redirect my steps. Where there is fear about the future, steady my heart with the promise that You finish what You begin.
+
+Complete in me what pleases You. Carry through what concerns me. And help me rest in the quiet confidence that nothing in my life is wasted in Your hands.
+
+From beginning to end, let it be You.
+
+Amen.

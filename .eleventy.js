@@ -85,7 +85,8 @@ module.exports = function (eleventyConfig) {
         String(item.data?.category || "")
           .trim()
           .toLowerCase() === categoryName
-      );
+      )
+      .filter(item => item.data?.excludeFromLibrary !== true);
   }
 
   eleventyConfig.addCollection("devotionals", (api) =>
@@ -174,7 +175,7 @@ module.exports = function (eleventyConfig) {
   });
 
   // ===============================
-  // PASSTHROUGH COPY (FIXED)
+  // PASSTHROUGH COPY
   // ===============================
 
   eleventyConfig.addPassthroughCopy("src/assets");
