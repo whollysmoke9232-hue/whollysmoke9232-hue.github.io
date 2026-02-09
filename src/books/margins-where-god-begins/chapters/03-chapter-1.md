@@ -2,8 +2,6 @@
 title: "Chapter 1: The Margin Before Genesis"
 layout: book-chapter.njk
 order: 3
-tags:
-  - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-1/"
 category: books

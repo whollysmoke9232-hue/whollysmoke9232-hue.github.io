@@ -139,8 +139,16 @@ layout: layout.njk
 </style>
 
 <div class="book-content">
-  {% set isFracturedLight = "fractured-light" in tags %}
-  {% set isMargins = "margins-where-god-begins" in tags %}
+  {% set tagList = [] %}
+  {% if tags %}
+    {% if tags is string %}
+      {% set tagList = [tags] %}
+    {% elif tags is array %}
+      {% set tagList = tags %}
+    {% endif %}
+  {% endif %}
+  {% set isFracturedLight = "fractured-light" in tagList %}
+  {% set isMargins = "margins-where-god-begins" in tagList %}
   {% set bookCollection = collections.fracturedLight if isFracturedLight else collections.marginsBook %}
   {% set continuousUrl = "/stories/fractured-light/" if isFracturedLight else "/stories/margins-where-god-begins/" %}
   {% set tocUrl = "/books/fractured-light/toc/" if isFracturedLight else "/books/margins-where-god-begins/toc/" %}

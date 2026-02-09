@@ -10,8 +10,6 @@ tags:
   - formation
   - prayer
   - scripture
-  - fellowship
-  - ministry
   - grace
 ---
 

@@ -6,11 +6,7 @@ layout: article.njk
 excerpt: "If Your presence does not go with us, do not lead us up from here."
 category: meditations
 tags:
-  - presence
-  - incarnation
-  - adoption
   - formation
-  - mission
   - grace
 scripture_references:
   - Exodus 33:15

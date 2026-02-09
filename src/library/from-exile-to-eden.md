@@ -6,10 +6,10 @@ layout: article.njk
 category: testimonies
 excerpt: "A story of addiction, surrender, confinement, and grace. This testimony stands on its own—offered not as instruction, but as witness—to the slow, unexpected work of God in a life brought to the end of itself."
 tags: 
-  -testimony
-  -grace
-  -surrender
-  -restoration
+  - testimony
+  - grace
+  - surrender
+  - restoration
 scripture_references:
   - Jeremiah 29:4–14
   - Psalm 139:7–10

@@ -3,8 +3,6 @@ title: "Fractured Light: The Arrest"
 chapterSubtitle: "Where Grace Builds Altars"
 layout: article.njk
 order: 9
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-9/"
 category: stories

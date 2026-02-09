@@ -2,8 +2,6 @@
 title: "Interlude: A Prayer"
 layout: book-chapter.njk
 order: 22
-tags:
-  - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/interlude-a-prayer/"
 category: books

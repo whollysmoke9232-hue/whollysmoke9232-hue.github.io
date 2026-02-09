@@ -46,6 +46,16 @@ module.exports = function (eleventyConfig) {
     return dt.isValid ? dt.toFormat("MMMM d, yyyy") : "";
   });
 
+  eleventyConfig.addFilter("shortDate", (dateValue) => {
+    if (!dateValue) return "";
+    if (dateValue instanceof Date) {
+      return DateTime.fromJSDate(dateValue, { zone: "utc" })
+        .toFormat("LLL d yyyy");
+    }
+    const dt = DateTime.fromISO(String(dateValue), { zone: "utc" });
+    return dt.isValid ? dt.toFormat("LLL d yyyy") : "";
+  });
+
   eleventyConfig.addFilter("isoDate", (dateObj) => {
     if (!dateObj) return null;
     return new Date(dateObj).toISOString().split("T")[0];
@@ -74,6 +84,15 @@ module.exports = function (eleventyConfig) {
       (item) => item.data?.tags?.includes(tag)
     );
   });
+
+  // ===============================
+  // CORE LIBRARY COLLECTION
+  // ===============================
+
+  eleventyConfig.addCollection("libraryArticles", (api) =>
+    api.getFilteredByGlob("./src/library/*.md")
+      .filter(item => item.data?.excludeFromLibrary !== true)
+  );
 
   // ===============================
   // CATEGORY-BASED COLLECTIONS
@@ -137,12 +156,16 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("tagList", function (collection) {
     const tagSet = new Set();
-    collection.getAll().forEach((item) => {
+    const libraryItems = collection.getFilteredByGlob("./src/library/*.md");
+
+    libraryItems.forEach((item) => {
       if (Array.isArray(item.data?.tags)) {
         item.data.tags.forEach(tag => tagSet.add(tag));
       }
     });
-    return [...tagSet];
+    return [...tagSet].sort((a, b) =>
+      String(a).localeCompare(String(b), "en", { sensitivity: "base" })
+    );
   });
 
   // ===============================

@@ -6,11 +6,8 @@ layout: article.njk
 category: reflections
 excerpt: "When I learned to delight in the Lord rather than in what He could give, I discovered that He was quietly reshaping my desires all along."
 tags:
-  - Desire
-  - Waiting
-  - Spiritual Formation
-  - Trust
-  - Prayer
+  - trust
+  - prayer
 scripture_references:
   - Psalm 37:4
   - Psalm 37:7

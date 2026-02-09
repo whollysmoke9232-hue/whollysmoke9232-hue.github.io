@@ -2,8 +2,6 @@
 title: "About the Author"
 layout: book-chapter.njk
 order: 26
-tags:
-  - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/about-the-author/"
 category: books

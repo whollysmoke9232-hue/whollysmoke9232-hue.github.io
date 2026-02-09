@@ -6,13 +6,7 @@ layout: article.njk
 category: reflections
 excerpt: >
   Originally written in response to Charlottesville in 2017 and revisited now, this reflection affirms that racism is sin and that reconciliation remains a central calling of the Christian life.
-tags:
-  - reflection
-  - reconciliation
-  - unity
-  - justice
-  - race
-  - discipleship
+tags: []
 scripture_reference:
   - Genesis 1:27
   - Acts 17:26

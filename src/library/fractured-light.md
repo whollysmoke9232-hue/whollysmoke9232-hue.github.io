@@ -5,13 +5,6 @@ date: 2026-01-08
 layout: article.njk
 category: stories
 excerpt: "Stories of brokenness and redemption—written from the margins where grace meets collapse, surrender, and quiet faith."
-tags:
-  - grace
-  - weakness
-  - suffering
-  - redemption
-  - fractured-light
-  - book
 scripture:
   - "Genesis 3"
   - "2 Samuel 11-12"

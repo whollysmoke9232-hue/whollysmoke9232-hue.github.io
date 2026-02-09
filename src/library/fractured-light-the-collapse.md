@@ -3,8 +3,6 @@ title: "Fractured Light: The Collapse"
 chapterSubtitle: "When the Body Breaks and the Soul Follows"
 layout: article.njk
 order: 7
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-7/"
 category: stories

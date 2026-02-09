@@ -6,7 +6,6 @@ layout: article.njk
 category: meditations
 excerpt: "A meditation on God’s nearness—written in confinement, in awe of a presence that remains personal amid infinite scale."
 tags:
-  - longing
   - confinement
 ---
 

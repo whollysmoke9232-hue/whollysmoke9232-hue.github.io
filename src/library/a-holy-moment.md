@@ -6,7 +6,6 @@ layout: article.njk
 category: meditations
 excerpt: "In the silent sway of trees and the thunderous hush of mountains, God’s love speaks without words."
 tags:
-  - meditations
   - psalms
   - scripture
   - confinement

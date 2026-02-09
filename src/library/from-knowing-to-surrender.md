@@ -6,11 +6,8 @@ layout: article.njk
 category: testimonies
 excerpt: "Knowing the truth is not the same as being changed by it. This is the story of a slow undoing—where grace met me when my resolve finally ran out."
 tags: 
-- addiction 
-- recovery
 - surrender
 - grace
-- powerlessness
 scripture_references:
   - Galatians 2:20
   - 1 Corinthians 4:20

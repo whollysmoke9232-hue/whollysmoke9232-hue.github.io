@@ -6,12 +6,8 @@ layout: article.njk
 category: meditations
 excerpt: "A meditation on formation, faithfulness, and the quiet, unseen work of the church beyond its largest gatherings."
 tags:
-  - meditation
   - church
   - formation
-  - faithfulness
-  - discipleship
-  - community
 scripture_references:
   - Acts 2:42–47
 ---

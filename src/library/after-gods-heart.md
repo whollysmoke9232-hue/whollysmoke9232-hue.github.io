@@ -6,7 +6,6 @@ layout: article.njk
 category: testimonies
 excerpt: "David’s life reveals that being ‘after God’s heart’ is not about sinless perfection, but about a heart that repents, returns, and rests in God’s sufficient grace."
 tags:
-  - testimonies
   - grace
   - repentance
   - weakness

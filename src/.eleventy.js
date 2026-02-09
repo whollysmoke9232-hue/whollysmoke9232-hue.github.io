@@ -116,12 +116,17 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("tagList", function (collection) {
     const tagSet = new Set();
-    collection.getAll().forEach((item) => {
+    const libraryItems = collection.getFilteredByGlob("src/library/**/*.md");
+
+    libraryItems.forEach((item) => {
       if (Array.isArray(item.data?.tags)) {
-        item.data.tags.forEach(tag => tagSet.add(tag));
+        item.data.tags.forEach((tag) => tagSet.add(tag));
       }
     });
-    return [...tagSet];
+
+    return [...tagSet].sort((a, b) =>
+      String(a).localeCompare(String(b), "en", { sensitivity: "base" })
+    );
   });
 
   eleventyConfig.addCollection("scriptureList", function (collection) {

@@ -3,8 +3,6 @@ title: "Conclusion: The Light That Remains"
 chapterSubtitle: "Where Fractured Light Still Shines"
 layout: book-chapter.njk
 order: 12
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/conclusion/"
 category: books

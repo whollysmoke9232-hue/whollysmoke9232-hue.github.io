@@ -7,10 +7,6 @@ category: reflections
 excerpt: "A prayer of mercy, refuge, and trust when deliverance does not guarantee escape."
 tags:
   - psalms
-  - deliverance
-  - refuge
-  - shame
-  - mercy
   - suffering
 scripture_references:
   - Psalm 25:7

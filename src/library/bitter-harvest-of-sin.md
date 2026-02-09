@@ -8,7 +8,6 @@ excerpt: "Sin promises satisfaction but delivers shame. What once felt thrilling
 tags:
   - sin
   - repentance
-  - freedom
   - grace
   - scripture
 scripture:

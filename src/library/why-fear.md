@@ -6,11 +6,9 @@ layout: article.njk
 category: devotionals
 excerpt: "Fear multiplies in imagined futures, but faith finds its footing in a single, steady truth: God is for me."
 tags:
-  - fear
   - trust
   - faith
   - psalms
-  - assurance
 scripture_references:
   - Psalm 56:9
   - Psalm 56:11

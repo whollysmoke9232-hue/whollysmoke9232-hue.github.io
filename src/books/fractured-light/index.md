@@ -1,15 +1,6 @@
 ---
 title: "Fractured Light"
 excerpt: "A testimony of brokenness, mercy, and the quiet work of God in the darkest places—where grace refracts through what has been shattered."
-tags:
-  - books
-  - Book
-  - Testimony
-  - Grace
-  - Brokenness
-  - Restoration
-  - Suffering
-  - Hope
 date: 2026-01-15
 layout: book-index.njk
 author: "Steve Wilkins"

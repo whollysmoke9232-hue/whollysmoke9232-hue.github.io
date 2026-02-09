@@ -3,8 +3,6 @@ title: "Fractured Light: The Altar"
 chapterSubtitle: "When Conviction Becomes Surrender"
 layout: article.njk
 order: 4
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-4/"
 category: stories

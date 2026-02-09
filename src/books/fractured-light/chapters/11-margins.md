@@ -3,8 +3,6 @@ title: "Chapter 11: Margins"
 chapterSubtitle: "Where Grace Builds Altars"
 layout: book-chapter.njk
 order: 11
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-11/"
 category: books

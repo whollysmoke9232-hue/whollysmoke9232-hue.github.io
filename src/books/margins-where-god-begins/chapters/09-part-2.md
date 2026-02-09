@@ -2,8 +2,6 @@
 title: "Part 2: The Unfolding Margin"
 layout: book-chapter.njk
 order: 9
-tags:
-  - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/part-2/"
 category: books

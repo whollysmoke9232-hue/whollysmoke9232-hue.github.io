@@ -2,8 +2,6 @@
 title: "Interlude: Not a Remodel"
 layout: book-chapter.njk
 order: 6
-tags:
-  - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/interlude-not-a-remodel/"
 category: books

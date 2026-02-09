@@ -3,8 +3,6 @@ title: "Introduction"
 chapterSubtitle: "Where Grace Meets Collapse"
 layout: book-chapter.njk
 order: 0
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/introduction/"
 category: books

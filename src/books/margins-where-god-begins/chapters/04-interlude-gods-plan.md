@@ -2,8 +2,6 @@
 title: "Interlude: God’s Plan"
 layout: book-chapter.njk
 order: 4
-tags:
-  - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/interlude-gods-plan/"
 category: books

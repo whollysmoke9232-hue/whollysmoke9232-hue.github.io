@@ -3,8 +3,6 @@ title: "Chapter 8: The Surrender"
 chapterSubtitle: "When Exhaustion Looks Like Failure"
 layout: book-chapter.njk
 order: 8
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-8/"
 category: books

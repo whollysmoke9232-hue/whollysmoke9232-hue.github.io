@@ -8,9 +8,7 @@ excerpt: "Before the miracles, before the crowds, Jesus entered the wilderness a
 tags:
   - dependence
   - surrender
-  - fasting
   - formation
-  - wilderness
 scripture_references:
   - John 14:12
   - Matthew 4:1–11

@@ -1,12 +1,6 @@
 ---
 title: "Margins: Where God Begins"
 excerpt: "Before the first word of Scripture was written, God already knew the story. A contemplative exploration of God's presence in the spaces we often overlook—the margins where nothing seems to happen, yet everything begins."
-tags:
-  - Book
-  - Scripture
-  - Contemplation
-  - God's Presence
-  - Waiting
 date: 2026-01-15
 layout: book-index.njk
 author: "Steve Wilkins"

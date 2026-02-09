@@ -2,8 +2,6 @@
 title: "Interlude: It’s About You"
 layout: book-chapter.njk
 order: 8
-tags:
-  - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/interlude-its-about-you/"
 category: books

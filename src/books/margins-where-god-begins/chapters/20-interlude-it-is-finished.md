@@ -2,8 +2,6 @@
 title: "Interlude: It Is Finished"
 layout: book-chapter.njk
 order: 20
-tags:
-  - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/interlude-it-is-finished/"
 category: books

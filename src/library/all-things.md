@@ -8,10 +8,8 @@ excerpt: Life does not always come together in ways we can understand. Faith hol
 tags:
 - trust
 - suffering
-- providence
 - waiting
 - hope
-- endurance
 scripture_references:
   - Psalm 57:2
   - Philippians 1:6

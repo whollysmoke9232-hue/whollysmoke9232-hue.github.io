@@ -6,7 +6,6 @@ layout: article.njk
 category: devotionals
 excerpt: "We chase holiness like a performance, but God meets us in surrender. In the margins of our striving, His grace whispers strength. This devotional invites you to lay down self-effort and discover the power of being still before God."
 tags:
-  - devotionals
   - psalms
   - confinement
 scripture:

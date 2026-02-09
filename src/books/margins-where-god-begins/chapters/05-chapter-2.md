@@ -2,8 +2,6 @@
 title: "Chapter 2: The God Who Knows"
 layout: book-chapter.njk
 order: 5
-tags:
-  - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-2/"
 category: books

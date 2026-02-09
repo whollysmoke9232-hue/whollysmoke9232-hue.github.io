@@ -3,8 +3,6 @@ title: "Chapter 2: The Hook"
 chapterSubtitle: "When Innocence Meets the Spiral"
 layout: book-chapter.njk
 order: 2
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-2/"
 category: books

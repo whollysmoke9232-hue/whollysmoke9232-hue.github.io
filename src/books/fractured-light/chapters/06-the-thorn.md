@@ -3,8 +3,6 @@ title: "Chapter 6: The Thorn"
 chapterSubtitle: "God's Power in Weakness"
 layout: book-chapter.njk
 order: 6
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-6/"
 category: books

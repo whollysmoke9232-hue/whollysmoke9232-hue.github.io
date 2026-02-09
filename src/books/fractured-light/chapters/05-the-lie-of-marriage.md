@@ -3,8 +3,6 @@ title: "Chapter 5: The Lie of Marriage"
 chapterSubtitle: "When Love Isn't Enough to Heal Lust"
 layout: book-chapter.njk
 order: 5
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-5/"
 category: books

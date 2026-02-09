@@ -8,7 +8,6 @@ excerpt: "As mountains encircle Jerusalem, God’s presence surrounds His people
 tags:
   - weakness
   - grace
-  - perseverance
 scripture:
   - "Psalm 125:2"
 ---

@@ -3,14 +3,14 @@ title: "Browse by Tag"
 layout: layout.njk
 ---
 
-Explore writings by theme and topic. Each tag gathers related reflections, devotionals, meditations, stories, and testimonies.
+Explore library writings by theme and topic. Each tag gathers related entries from the library.
 
 ---
 
 ### All Tags
 
 <div class="tag-cloud">
-{% for tag in collections.tagList %}
+{% for tag in collections.tagList | sort(false, true) %}
   <a href="/tags/{{ tag | slug }}/" class="tag-link">{{ tag }}</a>
 {% endfor %}
 </div>

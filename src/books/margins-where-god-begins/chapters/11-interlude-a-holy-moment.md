@@ -2,8 +2,6 @@
 title: "Interlude: A Holy Moment"
 layout: book-chapter.njk
 order: 11
-tags:
-  - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/interlude-a-holy-moment/"
 category: books

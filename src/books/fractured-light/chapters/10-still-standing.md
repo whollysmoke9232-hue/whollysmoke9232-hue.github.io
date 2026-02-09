@@ -3,8 +3,6 @@ title: "Chapter 10: Still Standing"
 chapterSubtitle: "When the World Moves On and God Stays Near"
 layout: book-chapter.njk
 order: 10
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-10/"
 category: books

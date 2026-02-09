@@ -3,8 +3,6 @@ title: "Chapter 1: The Beginning"
 chapterSubtitle: "When Loneliness Becomes a Way of Life"
 layout: book-chapter.njk
 order: 1
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-1/"
 category: books

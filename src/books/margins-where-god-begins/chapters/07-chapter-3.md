@@ -2,8 +2,6 @@
 title: "Chapter 3: The Tapestry of Time"
 layout: book-chapter.njk
 order: 7
-tags:
-  - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-3/"
 category: books

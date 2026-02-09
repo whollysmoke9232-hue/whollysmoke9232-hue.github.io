@@ -2,8 +2,6 @@
 title: "Part 1: The Eternal Margin"
 layout: book-chapter.njk
 order: 2
-tags:
-  - margins-where-god-begins
 author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/part-1/"
 category: books

@@ -6,10 +6,8 @@ layout: article.njk
 category: reflections
 excerpt: A quiet reflection on faith, trust, and learning to depend on God amid the vast unseen realities that surround us.
 tags:
-  - reflection
   - trust
   - dependence
-  - unseen
   - faith
 scripture_references:
   - 2 Corinthians 4:18

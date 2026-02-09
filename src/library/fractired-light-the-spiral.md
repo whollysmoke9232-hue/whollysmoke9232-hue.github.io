@@ -3,8 +3,6 @@ title: "Fractured Light: The Spiral"
 chapterSubtitle: "When Desire Becomes a Death Trap"
 layout: article.njk
 order: 3
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-3/"
 category: stories

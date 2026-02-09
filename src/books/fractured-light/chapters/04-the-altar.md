@@ -3,8 +3,6 @@ title: "Chapter 4: The Altar"
 chapterSubtitle: "When Conviction Becomes Surrender"
 layout: book-chapter.njk
 order: 4
-tags: 
-  - fractured-light
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-4/"
 category: books

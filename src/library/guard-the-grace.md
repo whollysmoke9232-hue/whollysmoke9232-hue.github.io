@@ -9,7 +9,6 @@ tags:
   - grace
   - restoration
   - sin
-  - shame
 ---
 
 **On Sexual Sin, Confession, and the Cost of Belonging**

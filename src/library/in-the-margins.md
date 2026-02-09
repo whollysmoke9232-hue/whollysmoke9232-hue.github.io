@@ -7,7 +7,6 @@ category: testimonies
 excerpt: "A reflection on Scripture, time, and the holy space before the beginning—where God already knew every moment of our lives."
 tags:
   - scripture
-  - margins-where-god-begins
   - confinement
 scripture:
   - "Luke 5:27-28"

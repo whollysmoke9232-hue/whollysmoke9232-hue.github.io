@@ -5,13 +5,6 @@ date: 2026-01-15
 layout: article.njk
 category: stories
 excerpt: "A contemplative exploration of God's presence in the spaces we often overlook—the margins where nothing seems to happen, yet everything begins."
-tags:
-  - margins-where-god-begins
-  - book
-  - scripture
-  - contemplation
-  - god's presence
-  - waiting
 ---
 
 <div style="text-align: center; margin: 0.5rem 0; padding: 0.5rem; font-size: 0.85rem; color: #888;">
