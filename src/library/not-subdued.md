@@ -11,8 +11,8 @@ tags:
   - restoration
   - scripture
 scripture:
-  - "Psalm 74:3-8"
-  - "James 1:14-15"
+  - Psalm 74:3-8
+  - James 1:14-15
 ---
 
 > *Turn Your footsteps toward the perpetual ruins;  

@@ -8,7 +8,7 @@ excerpt: "We often rush past the present while waiting for something better. Thi
 tags:
   - waiting
 scripture:
-  - "Matthew 6:34"
+  - Matthew 6:34
 ---
 
 ## Key Scripture

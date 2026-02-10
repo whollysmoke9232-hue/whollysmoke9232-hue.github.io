@@ -10,11 +10,11 @@ tags:
   - repentance
   - scripture
 scripture:
-  - "Psalm 79:1"
-  - "1 Corinthians 6:19"
-  - "Matthew 13:22"
-  - "Haggai 1:7-8"
-  - "Haggai 2:9"
+  - Psalm 79:1
+  - 1 Corinthians 6:19
+  - Matthew 13:22
+  - Haggai 1:7-8
+  - Haggai 2:9
 ---
 
 ## Key Scripture

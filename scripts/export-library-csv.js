@@ -156,6 +156,22 @@ function buildLibraryUrl(filePath) {
   return `/library/${withoutExtension}/`;
 }
 
+function getScriptureFirst(frontMatter) {
+  const scriptureKeys = ["scripture_references", "scripture"];
+
+  for (const key of scriptureKeys) {
+    const value = frontMatter[key];
+    if (Array.isArray(value) && value.length > 0) {
+      return value[0];
+    }
+    if (typeof value === "string" && value.trim()) {
+      return value.trim();
+    }
+  }
+
+  return "";
+}
+
 const markdownFiles = getMarkdownFiles(libraryRoot);
 const header = ["title", "date", "category", "scripture_reference", "url"];
 const existingRows = [];
@@ -189,10 +205,6 @@ for (const filePath of markdownFiles) {
     continue;
   }
 
-  const scriptureList = Array.isArray(frontMatter.scripture_references)
-    ? frontMatter.scripture_references
-    : [];
-
   const url = buildLibraryUrl(filePath);
   if (existingUrls.has(url)) {
     continue;
@@ -202,7 +214,7 @@ for (const filePath of markdownFiles) {
     frontMatter.title || "",
     formatDate(frontMatter.date || ""),
     frontMatter.category || "",
-    scriptureList[0] || "",
+    getScriptureFirst(frontMatter),
     url,
   ]);
 }

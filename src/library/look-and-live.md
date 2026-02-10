@@ -9,7 +9,7 @@ tags:
   - faith
   - gospels
 scripture:
-  - "John 3:14-15"
+  - John 3:14-15
 ---
 
 ## Key Scripture

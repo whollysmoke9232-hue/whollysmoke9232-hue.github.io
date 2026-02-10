@@ -6,7 +6,7 @@ layout: article.njk
 category: stories
 excerpt: "A longing to walk so closely with God that worship becomes intimacy—and intimacy becomes eternity."
 scripture:
-  - "Genesis 5:24"
+  - Genesis 5:24
 ---
 
 ## Key Scripture

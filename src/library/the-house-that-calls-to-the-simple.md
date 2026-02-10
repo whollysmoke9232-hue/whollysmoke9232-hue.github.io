@@ -8,9 +8,9 @@ excerpt: "A sober look at Proverbs 9 and the deceptive invitation of folly that 
 tags:
   - scripture
 scripture:
-  - "Proverbs 9:17-18"
-  - "Proverbs 9:13"
-  - "Proverbs 9:14-16"
+  - Proverbs 9:17-18
+  - Proverbs 9:13
+  - Proverbs 9:14-16
 ---
 
 ## Key Scripture

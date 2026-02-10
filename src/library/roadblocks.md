@@ -9,7 +9,7 @@ tags:
   - waiting
   - obedience
 scripture:
-  - "Mark 4:18-19"
+  - Mark 4:18-19
 ---
 
 Why is it so hard to get out of our own way?

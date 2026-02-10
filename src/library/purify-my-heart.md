@@ -10,7 +10,7 @@ tags:
   - psalms
   - confinement
 scripture:
-  - "Matthew 5:8"
+  - Matthew 5:8
 
 ---
 

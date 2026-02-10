@@ -6,9 +6,9 @@ layout: article.njk
 category: stories
 excerpt: "Stories of brokenness and redemption—written from the margins where grace meets collapse, surrender, and quiet faith."
 scripture:
-  - "Genesis 3"
-  - "2 Samuel 11-12"
-  - "Psalm 73:25"
+  - Genesis 3
+  - 2 Samuel 11-12
+  - Psalm 73:25
 ---
 
 <div style="text-align: center; margin: 0.5rem 0; padding: 0.5rem; font-size: 0.85rem; color: #888;">

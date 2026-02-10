@@ -9,13 +9,13 @@ tags:
   - grace
   - psalms
 scripture:
-  - "Numbers 26:11"
-  - "Psalm 42:1"
-  - "Psalm 42:11"
-  - "Psalm 43:3"
-  - "Psalm 46:10"
-  - "Psalm 47:1"
-  - "Psalm 84:10"
+  - Numbers 26:11
+  - Psalm 42:1
+  - Psalm 42:11
+  - Psalm 43:3
+  - Psalm 46:10
+  - Psalm 47:1
+  - Psalm 84:10
 ---
 
 As a result of *Korah’s Rebellion*, the entire families of Dathan and Abiram—along with their livestock and possessions—were swallowed by the earth. Scripture tells us that **not all of Korah’s family was destroyed** as a result of his rebellion. Some of his children were spared. I find myself wondering why.

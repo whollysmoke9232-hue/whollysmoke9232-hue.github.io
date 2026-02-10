@@ -9,7 +9,7 @@ tags:
   - psalms
   - confinement
 scripture:
-  - "Psalm 46:7-11"
+  - Psalm 46:7-11
 ---
 
 ## Key Scripture

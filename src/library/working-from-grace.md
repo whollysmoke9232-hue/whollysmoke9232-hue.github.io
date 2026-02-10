@@ -10,7 +10,7 @@ tags:
   - obedience
   - scripture
 scripture:
-  - "Philippians 2:12-13"
+  - Philippians 2:12-13
 ---
 
 ## Key Scripture

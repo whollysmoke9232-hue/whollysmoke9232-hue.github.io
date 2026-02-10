@@ -10,12 +10,12 @@ tags:
   - scripture
   - confinement
 scripture:
-  - "Daniel 3:17-18"
-  - "Daniel 3:27"
-  - "1 Corinthians 3:15"
-  - "Isaiah 48:10"
-  - "Psalm 34:18"
-  - "Psalm 39:7"
+  - Daniel 3:17-18
+  - Daniel 3:27
+  - 1 Corinthians 3:15
+  - Isaiah 48:10
+  - Psalm 34:18
+  - Psalm 39:7
 ---
 
 ## Key Scripture

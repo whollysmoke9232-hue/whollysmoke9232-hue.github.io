@@ -9,8 +9,8 @@ tags:
   - scripture
   - confinement
 scripture:
-  - "Psalm 119:9"
-  - "Psalm 119:11"
+  - Psalm 119:9
+  - Psalm 119:11
 ---
 
 ## Key Scripture

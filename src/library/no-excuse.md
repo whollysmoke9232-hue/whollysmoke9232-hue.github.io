@@ -11,7 +11,7 @@ tags:
   - scripture
   - confinement
 scripture:
-  - "Romans 1:19-20"
+  - Romans 1:19-20
 ---
 
 ## Key Scripture

@@ -11,7 +11,7 @@ tags:
   - grace
   - scripture
 scripture:
-  - "Romans 6:21"
+  - Romans 6:21
 permalink: /testimonies/bitter-harvest-of-sin/
 ---
 

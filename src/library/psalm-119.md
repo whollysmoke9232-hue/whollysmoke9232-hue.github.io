@@ -11,17 +11,17 @@ tags:
   - obedience
   - psalms
 scripture:
-  - "Psalm 119:57"
-  - "Psalm 73:25"
-  - "Psalm 119:18"
-  - "Psalm 119:16"
-  - "Psalm 119:92"
-  - "Psalm 119:107"
-  - "Psalm 119:105"
-  - "Psalm 119:114"
-  - "Psalm 119:167"
-  - "Psalm 119:173"
-  - "Psalm 119:176"
+  - Psalm 119:57
+  - Psalm 73:25
+  - Psalm 119:18
+  - Psalm 119:16
+  - Psalm 119:92
+  - Psalm 119:107
+  - Psalm 119:105
+  - Psalm 119:114
+  - Psalm 119:167
+  - Psalm 119:173
+  - Psalm 119:176
 ---
 
 Psalm 119 has become, for me, less a chapter to be studied and more a companion to be lived with. Over time, its verses have not merely instructed me—they have named my experience, often more clearly than I could myself. What follows is not a commentary in the academic sense, but a reflection anchored in several verses that have shaped how I understand God’s Word, affliction, desire, and trust.

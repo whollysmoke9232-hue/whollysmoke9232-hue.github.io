@@ -10,14 +10,14 @@ tags:
   - gospels
   - confinement
 scripture:
-  - "Matthew 17:20"
-  - "Luke 8:43"
-  - "John 5:1"
-  - "Mark 2:3"
-  - "John 2:1"
-  - "Luke 7:11"
-  - "Mark 3:1"
-  - "Matthew 14:15-33"
+  - Matthew 17:20
+  - Luke 8:43
+  - John 5:1
+  - Mark 2:3
+  - John 2:1
+  - Luke 7:11
+  - Mark 3:1
+  - Matthew 14:15-33
 ---
 
 ## Key Scripture

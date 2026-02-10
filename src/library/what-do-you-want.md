@@ -8,10 +8,10 @@ excerpt: "A reflection on Psalm 42 and the honest longing to desire God more dee
 tags:
   - psalms
 scripture:
-  - "Psalm 42:1-2"
-  - "Psalm 42:4"
-  - "Psalm 42:6"
-  - "Psalm 42:11"
+  - Psalm 42:1-2
+  - Psalm 42:4
+  - Psalm 42:6
+  - Psalm 42:11
 ---
 
 **Psalm 42:1–2**

@@ -45,7 +45,7 @@ layout: layout.njk
 </style>
 
 <ul class="content-list">
-  {% for item in collections[category] %}
+  {% for item in collections[category] | sort(attribute="data.date") | reverse %}
     <li class="category-item">
 
       <a href="{{ item.url }}" class="category-title">

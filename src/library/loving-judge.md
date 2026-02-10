@@ -9,9 +9,9 @@ tags:
   - psalms
   - grace
 scripture:
-  - "Psalm 17:2"
-  - "Psalm 17:3"
-  - "Psalm 139:23-24"
+  - Psalm 17:2
+  - Psalm 17:3
+  - Psalm 139:23-24
 ---
 
 **“Let my judgment come forth from Your presence.”**  

@@ -9,11 +9,11 @@ tags:
   - faith
   - scripture
 scripture:
-  - "Deuteronomy 4:11-12"
-  - "Exodus 20:4-5"
-  - "Exodus 13:21-22"
-  - "Romans 10:17"
-  - "John 1:14"
+  - Deuteronomy 4:11-12
+  - Exodus 20:4-5
+  - Exodus 13:21-22
+  - Romans 10:17
+  - John 1:14
 ---
 
 *Five Short Meditations*

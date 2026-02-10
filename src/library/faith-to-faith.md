@@ -11,7 +11,7 @@ tags:
   - scripture
   - confinement
 scripture:
-  - "Romans 1:17"
+  - Romans 1:17
 ---
 
 **Romans 1:17**

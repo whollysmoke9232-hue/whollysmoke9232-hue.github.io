@@ -9,9 +9,9 @@ tags:
   - obedience
   - scripture
 scripture:
-  - "Daniel 1"
-  - "Daniel 3"
-  - "Daniel 6:1-24"
+  - Daniel 1
+  - Daniel 3
+  - Daniel 6:1-24
 ---
 
 ## Key Scripture

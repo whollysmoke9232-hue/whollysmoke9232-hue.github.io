@@ -9,9 +9,9 @@ tags:
   - grace
   - gospels
 scripture:
-  - "2 Corinthians 5:21"
-  - "Genesis 3:21"
-  - "Leviticus 17:11"
+  - 2 Corinthians 5:21
+  - Genesis 3:21
+  - Leviticus 17:11
 ---
 
 ## Key Scripture

@@ -9,10 +9,10 @@ tags:
   - scripture
   - confinement
 scripture:
-  - "Romans 12:1-2"
-  - "2 Corinthians 5:21"
-  - "Matthew 6:33"
-  - "Galatians 5:22-23"
+  - Romans 12:1-2
+  - 2 Corinthians 5:21
+  - Matthew 6:33
+  - Galatians 5:22-23
 
 
 ---

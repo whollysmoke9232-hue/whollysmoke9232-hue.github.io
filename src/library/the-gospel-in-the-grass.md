@@ -8,7 +8,7 @@ excerpt: "Creation proclaims God’s provision, beauty, and care—inviting us t
 tags:
   - psalms
 scripture:
-  - "Psalm 65:8-9"
+  - Psalm 65:8-9
 ---
 
 ## Key Scripture

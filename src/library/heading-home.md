@@ -10,8 +10,8 @@ tags:
   - suffering
   - waiting
 scripture:
-  - "Psalm 13"
-  - "Psalm 43:3"
+  - Psalm 13
+  - Psalm 43:3
 ---
 
 ### From How Long to Lead Me Home  

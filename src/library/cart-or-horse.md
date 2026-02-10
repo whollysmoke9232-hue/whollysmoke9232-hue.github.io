@@ -9,7 +9,7 @@ tags:
   - psalms
   - grace
 scripture:
-  - "Psalm 15:1"
+  - Psalm 15:1
 ---
 
 > **“O LORD, who may abide in Your tent?  

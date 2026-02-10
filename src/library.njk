@@ -10,7 +10,7 @@ layout: layout-library.njk
     <section>
       <h2>Devotionals</h2>
       <ul>
-        {% for item in collections.devotionals | sort(attribute="data.date") | reverse %}
+        {% for item in collections.devotionals | sort(attribute="data.title") %}
           <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
         {% endfor %}
       </ul>
@@ -19,7 +19,7 @@ layout: layout-library.njk
     <section>
       <h2>Meditations</h2>
       <ul>
-        {% for item in collections.meditations | sort(attribute="data.date") | reverse %}
+        {% for item in collections.meditations | sort(attribute="data.title") %}
           <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
         {% endfor %}
       </ul>
@@ -28,7 +28,7 @@ layout: layout-library.njk
     <section>
       <h2>Reflections</h2>
       <ul>
-        {% for item in collections.reflections | sort(attribute="data.date") | reverse %}
+        {% for item in collections.reflections | sort(attribute="data.title") %}
           <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
         {% endfor %}
       </ul>
@@ -37,7 +37,7 @@ layout: layout-library.njk
     <section>
       <h2>Stories</h2>
       <ul>
-        {% for item in collections.stories | sort(attribute="data.date") | reverse %}
+        {% for item in collections.stories | sort(attribute="data.title") %}
           <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
         {% endfor %}
       </ul>
@@ -46,7 +46,7 @@ layout: layout-library.njk
     <section>
       <h2>Testimonies</h2>
       <ul>
-        {% for item in collections.testimonies | sort(attribute="data.date") | reverse %}
+        {% for item in collections.testimonies | sort(attribute="data.title") %}
           <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
         {% endfor %}
       </ul>
@@ -55,7 +55,7 @@ layout: layout-library.njk
     <section>
       <h2>Books</h2>
       <ul>
-        {% for item in collections.books | sort(attribute="data.date") | reverse %}
+        {% for item in collections.books | sort(attribute="data.title") %}
           <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
         {% endfor %}
       </ul>

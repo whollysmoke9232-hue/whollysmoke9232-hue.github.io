@@ -13,13 +13,13 @@ tags:
   - scripture
   - confinement
 scripture:
-  - "Acts 13:22"
-  - "1 Samuel 16:7"
-  - "2 Samuel 3:27"
-  - "2 Samuel 6:1-7"
-  - "2 Samuel 11"
-  - "2 Samuel 24"
-  - "1 Samuel 19:13"
+  - Acts 13:22"
+  - 1 Samuel 16:7
+  - 2 Samuel 3:27
+  - 2 Samuel 6:1-7
+  - 2 Samuel 11
+  - 2 Samuel 24
+  - 1 Samuel 19:13
 ---
 
 ## Key Scripture

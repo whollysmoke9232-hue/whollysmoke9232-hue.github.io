@@ -10,7 +10,7 @@ tags:
   - hope
   - confinement
 scripture:
-  - "Psalm 69:7"
+  - Psalm 69:7
 ---
 
 ## Key Scripture

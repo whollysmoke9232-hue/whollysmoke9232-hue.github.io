@@ -8,7 +8,7 @@ excerpt: "When we look up at the vastness of creation, we are confronted with a 
 tags:
   - psalms
 scripture:
-  - "Psalm 8:3-4"
+  - Psalm 8:3-4
 ---
 
 ## Key Scripture

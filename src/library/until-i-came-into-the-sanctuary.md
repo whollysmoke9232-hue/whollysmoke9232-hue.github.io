@@ -9,10 +9,10 @@ tags:
   - psalms
   - scripture
 scripture:
-  - "Psalm 73:16-17"
-  - "Revelation 4:8"
-  - "Isaiah 6:3"
-  - "Revelation 4:6"
+  - Psalm 73:16-17
+  - Revelation 4:8
+  - Isaiah 6:3
+  - Revelation 4:6
 ---
 
 **Psalm 73:16–17**  

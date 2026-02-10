@@ -9,7 +9,7 @@ tags:
   - weakness
   - grace
 scripture:
-  - "Psalm 125:2"
+  - Psalm 125:2
 ---
 
 ## Key Scripture

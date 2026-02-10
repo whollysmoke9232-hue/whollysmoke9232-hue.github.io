@@ -10,11 +10,11 @@ tags:
   - scripture
   - confinement
 scripture:
-  - "Psalm 19:1-3"
-  - "Revelation 1:10"
-  - "Revelation 1:15"
-  - "Revelation 4:5"
-  - "Revelation 14:2"
+  - Psalm 19:1-3
+  - Revelation 1:10
+  - Revelation 1:15
+  - Revelation 4:5
+  - Revelation 14:2
 ---
 
 ## Key Scripture

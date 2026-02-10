@@ -9,8 +9,8 @@ tags:
   - psalms
   - confinement
 scripture:
-  - "Psalm 127:1-2"
-  - "Matthew 6:33"
+  - Psalm 127:1-2
+  - Matthew 6:33
 ---
 
 ## Key Scripture

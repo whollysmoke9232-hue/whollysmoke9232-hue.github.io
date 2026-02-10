@@ -8,7 +8,7 @@ excerpt: "Like a craftsman with a vision, God sees us not for our flaws but for 
 tags:
   - grace
 scripture:
-  - "Psalm 139:13-14"
+  - Psalm 139:13-14
 ---
 
 ## Key Scripture

@@ -10,7 +10,7 @@ tags:
   - grace
   - scripture
 scripture:
-  - "Psalm 44:3"
+  - Psalm 44:3
 ---
 
 > *For by their own sword they did not possess the land,  

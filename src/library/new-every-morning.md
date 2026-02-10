@@ -11,7 +11,7 @@ tags:
   - restoration
   - psalms
 scripture:
-  - "Lamentations 3:22-23"
+  - Lamentations 3:22-23
 ---
 
 ## Key Scripture

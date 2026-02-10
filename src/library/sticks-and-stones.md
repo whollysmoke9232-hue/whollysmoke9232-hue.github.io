@@ -7,7 +7,14 @@ category: reflections
 excerpt: Scripture was not given to us as a weapon to wound others, but as a living word meant to search us, humble us, and lead us into love.
 tags:
   - scripture
+scripture:
+ - Isaiah 55:11  
 ---
+
+> _So will My word be which goes forth from My mouth;
+> It will not return to Me empty,
+> Without accomplishing what I desire,
+> And without succeeding in the matter for which I sent it._ **—Isaiah 55:11**
 
 We have got to stop using the Bible as a club—something we swing to beat people over the head with.
 

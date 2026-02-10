@@ -9,7 +9,7 @@ templateEngineOverride: njk,md
   <h1>Testimonies</h1>
 
   <ul>
-  {% for item in collections.testimonies %}
+  {% for item in collections.testimonies | sort(attribute="data.date") | reverse %}
     <li style="margin-bottom: 1.5rem;">
       <a href="{{ item.url }}"><strong>{{ item.data.title }}</strong></a><br>
 

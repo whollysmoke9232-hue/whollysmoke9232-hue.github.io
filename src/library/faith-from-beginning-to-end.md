@@ -10,8 +10,8 @@ tags:
    - grace
    - scripture
 scripture:
-  - "Romans 1:17"
-  - "Genesis 15:6"
+  - Romans 1:17
+  - Genesis 15:6
 ---
 
 ## Key Scripture

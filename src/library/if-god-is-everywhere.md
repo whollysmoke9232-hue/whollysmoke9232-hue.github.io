@@ -8,7 +8,7 @@ excerpt: "God’s omnipresence means we are never outside His presence or purpos
 tags:
   - scripture
 scripture:
-  - "Psalm 139:7"
+  - Psalm 139:7
 ---
 
 ## Key Scripture
