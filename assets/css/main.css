@@ -68,29 +68,8 @@ a:hover {
   grid-template-columns: repeat(6, minmax(0, 1fr));
   gap: 2rem;
 
-  /* wider group + centered */
-  width: 75%;
-  max-width: 1400px;
-  margin: 0 auto;
-
-  align-items: start;
-}
-
-/* ===============================
-   Library Page Layout
-=============================== */
-
-.library-wrapper {
-  width: 100%;
-}
-
-.library-grid {
-  display: grid;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
-  gap: 2rem;
-
-  width: 100%;
-  max-width: 1800px;
+  width: 65%;
+  max-width: 1200px;
   margin: 0 auto;
 
   align-items: start;

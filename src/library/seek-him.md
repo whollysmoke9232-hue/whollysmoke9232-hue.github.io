@@ -26,11 +26,11 @@ He did it all.
 
 The book of Hebrews was written to people who believed—but were slowly drifting.
 
-> “In the past God spoke to our forefathers through the prophets… but in these last days He has spoken to us by His Son…” (Hebrews 1:1–3)
+> _“In the past God spoke to our forefathers through the prophets… but in these last days He has spoken to us by His Son…”_ **—Hebrews 1:1–3**
 
 The warning that follows is not about rebellion, but neglect:
 
-> “We must pay more careful attention… so that we do not drift away.” (Hebrews 2:1)
+> _“We must pay more careful attention… so that we do not drift away.”_ **—Hebrews 2:1**
 
 Drift rarely looks dramatic. It looks like busyness. Fatigue. Subtle distance. We still believe the right things—we just stop responding.
 
@@ -72,7 +72,7 @@ And we worry because we are insecure in our relationship with Him.
 
 Jesus addresses this directly when He tells us not to worry about provision, clothing, or tomorrow. Our Father already knows what we need.
 
-> “Seek first His kingdom and His righteousness, and all these things will be given to you as well.” (Matthew 6:33)
+> _“Seek first His kingdom and His righteousness, and all these things will be given to you as well.”_ **—Matthew 6:33**
 
 Is that naive?  
 Maybe.  
@@ -90,7 +90,7 @@ Prayer and worship are not religious duties; they are relational responses. We c
 
 We seek because there is more available than we realize:
 
-> “No eye has seen, no ear has heard… what God has prepared for those who love Him.” (1 Corinthians 2:9)
+> “_No eye has seen, no ear has heard… what God has prepared for those who love Him.”_ **—1 Corinthians 2:9**
 
 Jesus promises:
 
@@ -100,7 +100,7 @@ Jesus promises:
 
 And in a beautiful reversal of perspective, we are reminded:
 
-> “The Son of Man came to seek and to save what was lost.” (Luke 19:10)
+> _“The Son of Man came to seek and to save what was lost.”_ **—Luke 19:10**
 
 We are not the only ones seeking.
 
@@ -118,13 +118,20 @@ It is responding to a God who has already drawn near.
 
 ---
 
-## A Closing Prayer
+## Prayer
 
-Lord Jesus,  
-Free me from the weight of the “oughta’s.”  
-Teach me to rest in what You have already done.  
-Help me respond—not out of fear or obligation,  
-but out of love and trust.  
-Draw me near as I seek You,  
-and remind me that You have been seeking me all along.  
-Amen.
+> Lord Jesus,  
+
+> Free me from the weight of the “oughta’s.”  
+> Teach me to rest in what You have already done.  
+> Help me respond—not out of fear or obligation,  
+> but out of love and trust.  
+> Draw me near as I seek You,  
+> and remind me that You have been seeking me all along.  
+> Amen.
+
+---
+
+
+**Previously:**  
+[Coming Into a Place of Prayer](/reflections/coming-into-a-place-of-prayer/)

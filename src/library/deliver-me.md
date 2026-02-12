@@ -25,18 +25,18 @@ What follows is not an explanation of events, nor an attempt to read Scripture a
 
 ## Deliver Me
 
-> Do not remember the sins of my youth or my transgressions;  
+> _Do not remember the sins of my youth or my transgressions;  
 > According to Your lovingkindness remember me,  
-> For Your goodness’ sake, O LORD. — Psalms 25:7  
+> For Your goodness’ sake, O LORD._ **— Psalm 25:7**  
 >  
-> My eyes are continually toward the LORD,  
-> For He will pluck my feet out of the net. — Psalms 25:15  
+> _My eyes are continually toward the LORD,  
+> For He will pluck my feet out of the net._ **— Psalm 25:15**  
 >  
-> Look upon my affliction and my trouble,  
-> And forgive all my sins. — Psalms 25:18  
+> _Look upon my affliction and my trouble,  
+> And forgive all my sins._ **— Psalm 25:18**  
 >  
-> Guard my soul and deliver me;  
-> Do not let me be ashamed, for I take refuge in You. — Psalms 25:20  
+> _Guard my soul and deliver me;  
+> Do not let me be ashamed, for I take refuge in You._ **— Psalm 25:20**  
 
 These verses are a source of both comfort and internal conflict.  
 While I take great comfort in God’s mercy and grace, I find it difficult to embrace the promise of deliverance from shame. I find that what I need is a deeper understanding of what deliverance looks like.
@@ -45,8 +45,8 @@ David is not timid here. He asks God to forgive all his sins—not only the obvi
 
 David refuses to separate forgiveness from rescue.
 
-> “My eyes are continually toward the LORD,  
-> For He will pluck my feet out of the net.”
+> _“My eyes are continually toward the LORD,_  
+> _For He will pluck my feet out of the net.”_
 
 The net is not only sin—it is the trap of self-contempt, the quiet belief that we deserve to remain bound. David dares to believe that God’s goodness does not merely cancel debt but actively intervenes to free the ashamed.
 
@@ -57,10 +57,10 @@ But there is another tension here—one that runs underneath these verses like a
 
 These prayers are easy to hear as promises of escape.
 
-“Guard my soul and deliver me.”  
-“Look upon my affliction and my trouble, and forgive all my sins.”  
-“Do not let me be ashamed, for I take refuge in You.”  
-“He will pluck my feet out of the net.”
+> *“Guard my soul and deliver me.”*  
+> *“Look upon my affliction and my trouble, and forgive all my sins.”*  
+> *“Do not let me be ashamed, for I take refuge in You.”*  
+> *“He will pluck my feet out of the net.”*
 
 In moments of fear, it is natural—even instinctive—to read that as protection from consequence. As though faithfulness might mean exemption. As though mercy might rewrite the outcome. As though deliverance must look like acquittal, or relief.
 
@@ -107,13 +107,13 @@ And that is the hardest part of faith—not believing that God forgives, but bel
 
 ---
 
-### A Closing Prayer
+### Prayer
 
-God of mercy,  
-I ask You for deliverance, and I ask You for honesty.  
-If You do not change the outcome I fear,  
-do not let shame interpret my story for me.  
-Guard my soul.  
-Be my refuge.  
-Remain near—whatever lies ahead.  
-Amen.
+> God of mercy,  
+> I ask You for deliverance, and I ask You for honesty.  
+> If You do not change the outcome I fear,  
+> do not let shame interpret my story for me.  
+> Guard my soul.  
+> Be my refuge.  
+> Remain near—whatever lies ahead.  
+> Amen.

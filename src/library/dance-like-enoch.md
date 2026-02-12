@@ -11,8 +11,7 @@ scripture:
 
 ## Key Scripture
 
-> _“Enoch walked faithfully with God; then he was no more, because God took him away.”_  
-> —Genesis 5:24
+> _“Enoch walked faithfully with God; then he was no more, because God took him away.”_ **—Genesis 5:24**
 
 ---
 
@@ -100,18 +99,12 @@ What if our intimacy becomes someone else’s inheritance?
 
 ## Prayer
 
-_Lord, teach me to walk with You—not perform for You.  
-Kill my pride.  
-Strip away my self-consciousness.  
-Make me childlike again.  
-Let my worship be obedience, and my obedience intimacy.  
-Draw me so close that heaven never feels foreign._  
+> Lord, teach me to walk with You—not perform for You.  
+> Kill my pride.  
+> Strip away my self-consciousness.  
+> Make me childlike again.  
+> Let my worship be obedience, and my obedience intimacy.  
+> Draw me so close that heaven never feels foreign.  
+> Amen.
 
-**Amen.**
 
----
-
-## Takeaway Thought
-
-True worship isn’t about how it looks—it’s about how closely we walk.  
-And when we walk with God long enough, eternity feels like a natural next step.

@@ -1,7 +1,7 @@
 ---
 title: "Jesus – The Scapegoat"
 author: "Steve Wilkins"
-date: 2025-08-02
+date: 1996-12-29
 layout: article.njk
 category: testimonies
 excerpt: "From the garden to the cross, God’s answer to sin has always been substitution. Jesus bore our shame so we could return to the love we were created for."
@@ -14,10 +14,13 @@ scripture:
   - Leviticus 17:11
 ---
 
+## Author's Note:
+
+This message was originally preached during a communion service on December 29, 1996.
+
 ## Key Scripture
 
-> _“God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.”_  
-> —2 Corinthians 5:21
+> _“God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.”_ **—2 Corinthians 5:21**
 
 ---
 
@@ -47,8 +50,7 @@ After the fall, Adam and Eve tried to cover themselves with fig leaves—human s
 
 So God did something astonishing.
 
-> _“The LORD God made garments of skin for Adam and his wife and clothed them.”_  
-> —Genesis 3:21
+> _“The LORD God made garments of skin for Adam and his wife and clothed them.”_ **—Genesis 3:21**
 
 The first shedding of blood was not an act of wrath, but of mercy. To cover guilt, something innocent had to die. It was the first lesson in atonement.
 
@@ -63,8 +65,7 @@ This was not merely clothing—it was prophecy.
 
 Centuries later, God established a sacrificial system.
 
-> _“It is the blood that makes atonement for one’s life.”_  
-> —Leviticus 17:11
+> _“It is the blood that makes atonement for one’s life.”_ **—Leviticus 17:11**
 
 The message was unmistakable: holiness and sin cannot coexist without mediation.
 
@@ -125,16 +126,11 @@ The more we die to self, the more fully we live in Him.
 
 ## Prayer
 
-_Lord Jesus, thank You for becoming the Scapegoat I could never be.  
-Thank You for carrying my sin, my shame, and my death.  
-Teach me to die daily—to surrender pride, fear, and self-will.  
-Draw me near, not to know about You, but to truly know You.  
-Cover me, cleanse me, and lead me deeper into Your presence._  
-**Amen.**
+> Lord Jesus, thank You for becoming the Scapegoat I could never be.  
+> Thank You for carrying my sin, my shame, and my death.  
+> Teach me to die daily—to surrender pride, fear, and self-will.  
+> Draw me near, not to know about You, but to truly know You.  
+> Cover me, cleanse me, and lead me deeper into Your presence.  
+> Amen.
 
----
 
-## Takeaway Thought
-
-Jesus did not come to cover your sin—  
-He came to carry it away.

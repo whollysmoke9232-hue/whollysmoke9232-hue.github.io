@@ -56,9 +56,9 @@ Trust does not mean the path is suddenly clear.
 
 That is where Psalm 43 gives me my next prayer.
 
-> *“O send out Your light and Your truth, let them lead me;  
-> Let them bring me to Your holy hill  
-> And to Your dwelling places.”* —Psalm 43:3
+> *“O send out Your light and Your truth, let them lead me;*  
+> *Let them bring me to Your holy hill*  
+> *And to Your dwelling places.”* **—Psalm 43:3**
 
 It is tempting to read this as a prayer for resolution—for a house, a job, restored relationships, or a return to something that once felt stable.
 
@@ -98,9 +98,9 @@ who has never stopped being there.
 
 ### Prayer
 
-O Lord, when my prayers are reduced to *How long?*, teach me to not stop praying.  
-When my eyes grow dim, enlighten them again with Your light and truth.  
-Lead me—not merely out of trouble, but into Your presence.  
-When outcomes remain uncertain and restoration feels distant,  
-steady my heart in the knowledge that You Yourself are my home.  
-Amen.
+> O Lord, when my prayers are reduced to *How long?*, teach me to not stop praying.  
+> When my eyes grow dim, enlighten them again with Your light and truth.  
+> Lead me—not merely out of trouble, but into Your presence.  
+> When outcomes remain uncertain and restoration feels distant,  
+> steady my heart in the knowledge that You Yourself are my home.  
+> Amen.

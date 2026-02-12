@@ -18,8 +18,7 @@ scripture_references:
 
 *How close can a person be to Jesus — and still miss Him?*
 
-> _Then one of the twelve, named Judas Iscariot, went to the chief priests and said, “What are you willing to give me to betray Him to you?” And they weighed out thirty pieces of silver to him. From then on he began looking for a good opportunity to betray Jesus._  
-> **—Matthew 26:14–16**
+> _Then one of the twelve, named Judas Iscariot, went to the chief priests and said, “What are you willing to give me to betray Him to you?” And they weighed out thirty pieces of silver to him. From then on he began looking for a good opportunity to betray Jesus._ **—Matthew 26:14–16**
 
 I am intrigued by Judas’ story. Here, we find a man who was called by Jesus, named as an Apostle, ministered — and healed in Jesus’ Name, witnessed many of Jesus’ miracles first-hand, ate and drank with Jesus, physically walked with Jesus; and yet betrayed Him.
 
@@ -89,31 +88,31 @@ It is possible to walk beside Jesus and still protect the one place He is asking
 
 ## Prayer
 
-Lord Jesus,
+> Lord Jesus,
 
-You called Judas knowing what he would do.  
-You washed his feet knowing what was in motion.  
-You did not withdraw Your love before the end.
+> You called Judas knowing what he would do.  
+> You washed his feet knowing what was in motion.  
+> You did not withdraw Your love before the end.
 
-Search me.
+> Search me.
 
-If there is a place in my heart where I walk beside You but resist Your purpose, uncover it.
+> If there is a place in my heart where I walk beside You but resist Your purpose, uncover it.
 
-If I am mistaking proximity for surrender, awaken me.
+> If I am mistaking proximity for surrender, awaken me.
 
-If I am serving in Your Name but guarding my own will, break me.
+> If I am serving in Your Name but guarding my own will, break me.
 
-Keep me from assuming I am immune to drifting.  
-Keep me from despair when I see my weakness.
+> Keep me from assuming I am immune to drifting.  
+> Keep me from despair when I see my weakness.
 
-When I fail — and I will — turn my face back toward You.  
-Do not let remorse harden into hopelessness.  
-Teach me the difference between regret and repentance.
+> When I fail — and I will — turn my face back toward You.  
+> Do not let remorse harden into hopelessness.  
+> Teach me the difference between regret and repentance.
 
-Give me a heart that wants what You want.
+> Give me a heart that wants what You want.
 
-And where I am weak,  
-teach me to entrust that weakness to You —  
-so it becomes surrender instead of despair.
+> And where I am weak,  
+> teach me to entrust that weakness to You —  
+> so it becomes surrender instead of despair.
 
-Amen.
+> Amen.

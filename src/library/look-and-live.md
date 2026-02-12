@@ -1,5 +1,5 @@
 ---
-title: "Just Look and Live"
+title: "Look and Live"
 author: "Steve Wilkins"
 date: 2025-08-02
 layout: article.njk
@@ -14,9 +14,9 @@ scripture:
 
 ## Key Scripture
 
-> _“As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,  
-> so that whoever believes will in Him have eternal life.”_  
-> —John 3:14–15
+> *“As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,*  
+> *so that whoever believes will in Him have eternal life.”*  
+> **—John 3:14–15**
 
 ---
 
@@ -42,11 +42,5 @@ Jesus is the Judge, yes—but He didn’t come to slam the gavel. He came to ope
 
 ## Prayer
 
-_Lord Jesus, thank You for being lifted up for me. I confess that I often try to earn what You’ve already given. Help me to simply look to You in faith. Thank You for loving me before I ever loved You. Today, I choose to believe. I choose to live._  
-**Amen.**
-
----
-
-## Takeaway Thought
-
-**You don’t climb your way to God or fix yourself first—you simply look to Jesus and live.**
+> Lord Jesus, thank You for being lifted up for me. I confess that I often try to earn what You’ve already given. Help me to simply look to You in faith. Thank You for loving me before I ever loved You. Today, I choose to believe. I choose to live. 
+> Amen.

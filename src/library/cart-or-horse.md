@@ -14,7 +14,7 @@ scripture:
 
 > **“O LORD, who may abide in Your tent?  
 > Who may dwell on Your holy hill?”**  
-> —Psalm 15:1
+> **—Psalm 15:1**
 
 I am struck this morning by a paradox I find in Psalm 15.
 
@@ -42,18 +42,18 @@ I know how often I hesitate to worship because of my sin. I feel unworthy to app
 
 I *am* unworthy. That has never been in question. What matters is that God is not interested in my earned worthiness. The blood of His Son makes me worthy. And it is only in His presence that my life is reshaped to look more like Christ.
 
-> **“O LORD, who may abide in Your tent?  
-> Who may dwell on Your holy hill?”**
+> *“O LORD, who may abide in Your tent?*  
+> *Who may dwell on Your holy hill?”*
 
 We can.
 
 ---
 
-### A Closing Prayer
+### Prayer
 
-O Lord,  
-You know how quickly I measure myself and hesitate to come near.  
-Remind me that I enter Your presence not by my faithfulness, but by Yours.  
-Draw me close again—not because I am clean, but because You cleanse.  
-And in Your presence, shape my life into what Your grace has already declared me to be.  
-Amen.
+> O Lord,  
+> You know how quickly I measure myself and hesitate to come near.  
+> Remind me that I enter Your presence not by my faithfulness, but by Yours.  
+> Draw me close again—not because I am clean, but because You cleanse.  
+> And in Your presence, shape my life into what Your grace has already declared me to be.  
+> Amen.

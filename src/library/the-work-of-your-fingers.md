@@ -17,7 +17,7 @@ scripture:
 > the moon and the stars, which You have ordained;  
 > what is man that You take thought of him,  
 > and the son of man that You care for him?”_  
-> —Psalm 8:3–4
+> **—Psalm 8:3–4**
 
 ---
 
@@ -70,14 +70,10 @@ Remember that the same God who hung the stars in the sky has, in an act of breat
 
 ## Prayer
 
-_Lord, thank You for the humbling majesty of Your creation.  
-When I feel small and forgotten, remind me that I am seen and cared for by You—the Maker of the heavens.  
-Help me to find my true value not in myself, but in Your astonishing love for me._  
-**Amen.**
+> Lord, thank You for the humbling majesty of Your creation.  
+> When I feel small and forgotten, remind me that I am seen and cared for by You—the Maker of the heavens.  
+> Help me to find my true value not in myself, but in Your astonishing love for me.  
+> Amen.
 
----
 
-## Takeaway Thought
-
-Your worth is not measured by how big the universe is—but by how closely God holds you within it.
 

@@ -14,8 +14,8 @@ scripture_references:
   - Psalm 56:11
 ---
 
-*“This I know, that God is for me.”* **--Psalms 56:9**  
-*“In God I have put my trust, I shall not be afraid. What can man do to me?”* **--Psalms 56:11**  
+> *“This I know, that God is for me.”* **--Psalms 56:9**  
+> *“In God I have put my trust, I shall not be afraid. What can man do to me?”* **—Psalms 56:11**  
 
 It is so easy to get lost in fear.
 
@@ -39,30 +39,31 @@ So, what have I to fear?
 
 Nothing.
 
-<i>
-Father,<br>
-You know how easily my heart drifts into fear.<br>
-You see the thoughts I rehearse, the futures I imagine,<br>
-and the weight I carry before anything has even happened.<br>
-<br>
-Today, I choose to anchor myself in what is true:<br>
-that You are for me.<br>
-Not distant. Not undecided. Not reluctant.<br>
-For me.<br>
-<br>
-When fear whispers, remind me of Your faithfulness.<br>
-When my imagination runs ahead of Your promises,<br>
-slow my heart and steady my mind.<br>
-Teach me again what it means to trust You—<br>
-not just to believe, but to lean.<br>
-<br>
-I place my future in Your hands.<br>
-I release the need to control outcomes.<br>
-I will walk behind You and let You face what lies ahead.<br>
-<br>
-In You, I put my trust.<br>
-I will not be afraid.<br>
-<br>
-Amen.
-</i>
+## Prayer
+
+> Father,
+> You know how easily my heart drifts into fear.  
+> You see the thoughts I rehearse, the futures I imagine,  
+> and the weight I carry before anything has even happened.  
+
+> Today, I choose to anchor myself in what is true:  
+> that You are for me.  
+> Not distant. Not undecided. Not reluctant.  
+> For me.
+
+> When fear whispers, remind me of Your faithfulness.  
+> When my imagination runs ahead of Your promises,  
+> slow my heart and steady my mind.  
+> Teach me again what it means to trust You—  
+> not just to believe, but to lean.  
+
+> I place my future in Your hands.  
+> I release the need to control outcomes.  
+> I will walk behind You and let You face what lies ahead.  
+
+> In You, I put my trust.  
+> I will not be afraid.  
+
+> Amen.
+
 

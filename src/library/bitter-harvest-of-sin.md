@@ -17,14 +17,13 @@ permalink: /testimonies/bitter-harvest-of-sin/
 
 ## Key Scripture
 
-> _“What benefit did you reap at that time from the things you are now ashamed of? Those things result in death!”_  
-> —Romans 6:21
+> _“What benefit did you reap at that time from the things you are now ashamed of? Those things result in death!”_ **—Romans 6:21**
 
 ---
 
 The Apostle Paul pulls back the curtain on a harsh truth about sin—one we often learn the hard way. He asks a piercing question:
 
-*What benefit did you reap at that time from the things you are now ashamed of?*
+> *What benefit did you reap at that time from the things you are now ashamed of?*
 
 Sin is not only wrong.  
 It is irrational.
@@ -40,10 +39,10 @@ When we look back, the dominant emotion is rarely fulfillment. It is shame. Not 
 Paul does not soften the truth.  
 What did those things actually give us?
 
-Pain.  
-Loss.  
-Shame.  
-Death.
+> Pain.  
+> Loss.  
+> Shame.  
+> Death.
 
 Sin advertises freedom while producing bondage. It promises life while quietly hollowing us out.
 
@@ -67,16 +66,11 @@ Recognizing the true nature of sin is not condemnation—it is liberation. It te
 
 ## Prayer
 
-_Lord, thank You for the clarity of Your Word.  
-Help me recognize the traps that masquerade as treasures.  
-Remind me that sin never brings life—only You do.  
-Give me the courage to turn from foolishness and walk in freedom._  
-**Amen.**
+> _Lord, thank You for the clarity of Your Word.  
+> Help me recognize the traps that masquerade as treasures.  
+> Remind me that sin never brings life—only You do.  
+> Give me the courage to turn from foolishness and walk in freedom._  
+> Amen.
 
----
 
-## Takeaway Thought
-
-Sin always promises more than it can give.  
-Grace always gives more than we expect.
 

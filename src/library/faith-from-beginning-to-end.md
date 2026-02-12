@@ -16,8 +16,7 @@ scripture:
 
 ## Key Scripture
 
-> _“For in the gospel the righteousness of God is revealed—a righteousness that is by faith from first to last, just as it is written: ‘The righteous will live by faith.’”_  
-> —Romans 1:17
+> _“For in the gospel the righteousness of God is revealed—a righteousness that is by faith from first to last, just as it is written: ‘The righteous will live by faith.’”_ **—Romans 1:17**
 
 ---
 
@@ -28,7 +27,7 @@ The gospel cuts through that burden with a liberating truth: the righteousness o
 
 That has always been the pattern.
 
-Genesis tells us that Abraham believed God, *and it was credited to him as righteousness* (Genesis 15:6). Romans echoes the same truth: this righteousness is “by faith from first to last.”
+Genesis tells us that Abraham believed God, *"and it was credited to him as righteousness"* **(Genesis 15:6)**. Romans echoes the same truth: this righteousness is *“by faith from first to last.”*
 
 There is nothing we can do—no effort, no discipline, no moral performance—to earn it. At salvation, we bring only one thing to the table: faith. We stop striving and start trusting in what God has already done.
 
@@ -61,15 +60,10 @@ We live righteous lives not *for* salvation, but *from* salvation—by faith, al
 
 ## Prayer
 
-_Lord, thank You that faith begins with You and continues by You.  
-Teach me to live from Your righteousness, not toward it.  
-Keep me grounded not in performance, but in trust—  
-and let my life be shaped by wonder, not striving._  
-**Amen.**
+> Lord, thank You that faith begins with You and continues by You.  
+> Teach me to live from Your righteousness, not toward it.  
+> Keep me grounded not in performance, but in trust—  
+> and let my life be shaped by wonder, not striving.  
+> Amen.
 
----
 
-## Takeaway Thought
-
-Righteousness is not the reward for striving—  
-it is the gift that carries us by faith from beginning to end.

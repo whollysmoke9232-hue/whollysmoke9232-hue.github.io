@@ -17,7 +17,7 @@ scripture:
 
 > _“Work out your own salvation with fear and trembling,  
 > for it is God who works in you, both to will and to work for His good pleasure.”_  
-> —Philippians 2:12b–13
+> **—Philippians 2:12b–13**
 
 ---
 
@@ -27,7 +27,7 @@ Paul reminds us that sanctification is not passive. We do not drift into holines
 
 This is our responsibility: to seek obedience, to grow in grace, and to become more like Christ. But this responsibility is never detached from God’s activity.
 
-“For it is God who works in you…”
+> *“For it is God who works in you…”*
 
 He is the One who stirs our desires, shapes our will, and empowers our obedience. He gives both the **want to** and the **ability to** do what pleases Him.
 
@@ -86,12 +86,7 @@ What would it look like today to obey—not to earn God’s favor, but because H
 
 ## Prayer
 
-_Father, thank You for working in me. Thank You for giving me both the desire and the strength to follow You. Help me to take my walk with You seriously—to pursue holiness with reverence and joy. Let my life reflect Your grace at work in me, and may everything I do bring pleasure to Your heart._  
-**Amen.**
+> Father, thank You for working in me. Thank You for giving me both the desire and the strength to follow You. Help me to take my walk with You seriously—to pursue holiness with reverence and joy. Let my life reflect Your grace at work in me, and may everything I do bring pleasure to Your heart.  
+> Amen.
 
----
 
-## Takeaway Thought
-
-Sanctification is your responsibility—but it is God’s activity.  
-He works in you so you can work it out.

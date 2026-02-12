@@ -88,15 +88,16 @@ You only need a willing heart—and the courage to keep showing up hungry.
 
 ## Prayer
 
-_Lord, awaken my hunger for Your Word. Forgive me for the ways I’ve searched for clarity everywhere except the place You’ve spoken most clearly. Shape my desires, train my appetite, and teach me to live on every word that comes from You._  
-**Amen.**
+> Lord, awaken my hunger for Your Word. Forgive me for the ways I’ve searched for clarity everywhere except the place You’ve spoken most clearly. Shape my desires, train my appetite, and teach me to live on every word that comes from You. 
+> Amen.
 
 ---
 
-## Takeaway Thought
+<!-- end-of-article -->
 
-What you feed your soul today will quietly shape who you become tomorrow.
+<br>
+<br>
 
----
-
+<span style="font-size: 0.85em;">
 *Written in confinement.*
+</span>

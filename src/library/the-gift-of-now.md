@@ -13,8 +13,7 @@ scripture:
 
 ## Key Scripture
 
-> _“Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.”_  
-> —Matthew 6:34 (NIV)
+> _“Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.”_ **—Matthew 6:34 (NIV)**
 
 ---
 
@@ -52,16 +51,7 @@ The journey itself becomes the prize, shaping us into the people God intends us 
 
 ## Prayer
 
-_Lord, help me to release my grip on tomorrow and receive today as Your gift. Teach me to recognize Your presence in ordinary moments and to trust that You are at work right here, right now. Shape my heart to rest in You and to walk faithfully in this moment You have given._  
-**Amen.**
+> Lord, help me to release my grip on tomorrow and receive today as Your gift. Teach me to recognize Your presence in ordinary moments and to trust that You are at work right here, right now. Shape my heart to rest in You and to walk faithfully in this moment You have given.  
+> Amen.
 
----
-
-## Takeaway Thought
-
-The present moment is not something to endure on the way to something better—it is often where God is doing His deepest work.
-
-<div class="yna-nav-links" style="margin-top:2.5em; display:none;">
-  <div style="display:flex; justify-content:space-between;">
-    <a href="/meditations/a-psalm-from-confinement/?from=youre-not-alone" style="font-weight:bold;">&larr; Previous: A Psalm from Confinement</a>
    

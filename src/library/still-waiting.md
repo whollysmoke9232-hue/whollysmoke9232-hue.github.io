@@ -41,20 +41,20 @@ This is a sobering truth; but a welcome one. My hope is in a heavenly Father who
 
 ---
 
-### Prayer
+## Prayer
 
-Father,  
-You see how quickly my mind runs ahead of You.  
-You see the fears I rehearse and the futures I try to manage.  
+> Father,  
+> You see how quickly my mind runs ahead of You.  
+> You see the fears I rehearse and the futures I try to manage.  
 
-When my heart asks “What if?”  
-teach it to answer, “My hope is in You.”  
+> When my heart asks “What if?”  
+> teach it to answer, “My hope is in You.”  
 
-Give me courage to do what is mine to do,  
-and peace to release what is Yours alone.  
+> Give me courage to do what is mine to do,  
+> and peace to release what is Yours alone.  
 
-Help me wait without panic,  
-trust without pretending,  
-and rest in the fact that I am Yours.  
+> Help me wait without panic,  
+> trust without pretending,  
+> and rest in the fact that I am Yours.  
 
-Amen.
+> Amen.

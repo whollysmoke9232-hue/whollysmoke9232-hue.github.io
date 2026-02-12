@@ -14,8 +14,7 @@ scripture:
   - Psalm 139:23-24
 ---
 
-**“Let my judgment come forth from Your presence.”**  
-—Psalm 17:2
+> *“Let my judgment come forth from Your presence.”* **—Psalm 17:2**
 
 On the surface, this seems like a risky prayer.  
 Praying to be judged by God? The God who sees everything. Who knows everything. David makes it clear elsewhere that nothing is hidden from God. Asking for judgment from such a God seems utterly foolish.
@@ -32,19 +31,18 @@ David had come to understand that God was not primarily interested in his action
 
 He had a fierce confidence in the righteousness of the God who always answered those prayers.
 
-**“You have tried my heart; You have visited me by night;  
-You have tested me and You find nothing.”**  
-—Psalm 17:3
+> _“You have tried my heart; You have visited me by night;_  
+> _You have tested me and You find nothing.”_ **—Psalm 17:3**
 
 David discovered an aspect of God’s nature that we routinely miss. God loves us and desires to see us become the best versions of ourselves. He is not sitting on His throne on high, waiting for an adequate reason to smite us. **NO!** — He is leaning in toward us, calling us to trust His heart, confess our sin, and return to a loving relationship.
 
 That is why David can pray again, without fear:
 
-**“Search me, O God, and know my heart;  
-Try me and know my anxious thoughts;  
-And see if there be any hurtful way in me,  
-And lead me in the everlasting way.”**  
-—Psalm 139:23–24
+> _“Search me, O God, and know my heart;_  
+> _Try me and know my anxious thoughts;_  
+> _And see if there be any hurtful way in me,_  
+> _And lead me in the everlasting way.”_ 
+> **—Psalm 139:23–24**
 
 Judgment, in God’s hands, is not exposure for condemnation.  
 It is exposure for healing.  
@@ -52,12 +50,12 @@ Not a verdict meant to destroy, but a leading meant to restore.
 
 ---
 
-### A Closing Prayer
+### Prayer
 
-Lord,  
-Search me—not to shame me, but to heal me.  
-Show me what You already see,  
-and give me the courage to trust Your verdict over my own self-condemnation.  
-Lead me away from the anxious and hurtful ways,  
-and guide me again into the way that lasts.  
-Amen.
+> Lord,  
+> Search me—not to shame me, but to heal me.  
+> Show me what You already see,  
+> and give me the courage to trust Your verdict over my own self-condemnation.  
+> Lead me away from the anxious and hurtful ways,  
+> and guide me again into the way that lasts.  
+> Amen.

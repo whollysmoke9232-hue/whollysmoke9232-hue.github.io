@@ -170,19 +170,16 @@ Before words.
 
 Everything from *Genesis 1:1* to *Revelation 22:21*—and beyond—was already fully known.
 
-> “Your eyes saw my unformed body.  
-> All the days ordained for me were written in Your book  
-> before one of them came to be.”  
-> —Psalm 139:16
+> *“Your eyes saw my unformed body.*  
+> *All the days ordained for me were written in Your book*  
+> *before one of them came to be.”*  
+> **—Psalm 139:16**
 
-> “The Lamb who was slain from the creation of the world.”  
-> —Revelation 13:8
+> *“The Lamb who was slain from the creation of the world.”* **—Revelation 13:8**
 
-> “For He chose us in Him before the creation of the world.”  
-> —Ephesians 1:4
+> *“For He chose us in Him before the creation of the world.”* **—Ephesians 1:4**
 
-> “He was chosen before the creation of the world, but was revealed in these last times for your sake.”  
-> —1 Peter 1:20
+> *“He was chosen before the creation of the world, but was revealed in these last times for your sake.”* **—1 Peter 1:20**
 
 In that tiny margin before Genesis 1:1, all of history—past, present, and future—already existed in the mind of God.
 
@@ -203,8 +200,7 @@ But every moment of our lives has always been **known** by Him—and now belongs
 
 The God who stands before the beginning also stands with us here.
 
-> **“I AM Who I AM.”**  
-> —Exodus 3:14
+> ***“I AM Who I AM.”*** **—Exodus 3:14**
 
 <!-- end-of-article -->
 

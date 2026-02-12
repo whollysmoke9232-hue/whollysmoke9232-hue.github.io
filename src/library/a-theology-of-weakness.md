@@ -23,7 +23,7 @@ scripture_references:
 
 ## A Theology of Weakness
 
-*And He has said to me, “My grace is sufficient for you, for power is perfected in weakness.” Most gladly, therefore, I will rather boast about my *weaknesses, —2 Corinthians 12:9
+> _And He has said to me, “My grace is sufficient for you, for power is perfected in weakness.” Most gladly, therefore, I will rather boast about my weaknesses,_ **—2 Corinthians 12:9**
 
 It turns out that God is not threatened by human weakness, nor surprised by failure. Scripture shows again and again that God works not around weakness, but through it. Our limitations, wounds, and habitual struggles do not disqualify us for God’s purposes. In fact, it is those very weaknesses that make us appropriate vessels for God’s strength to be revealed.
 
@@ -43,18 +43,18 @@ This is not an excuse for sin, nor a denial of responsibility. It is a confessio
 
 ## Prayer
 
-Father,
+> Father,
 
-I confess that I am often afraid of my weakness. I try to hide it, overcome it, or pretend it does not exist. I measure myself by my performance and assume You do the same.
+> I confess that I am often afraid of my weakness. I try to hide it, overcome it, or pretend it does not exist. I measure myself by my performance and assume You do the same.
 
-Forgive me.
+> Forgive me.
 
-Teach me to see my weakness the way You do — not as disqualification, but as invitation. When I stumble, draw me quickly back to You. Give me a heart that is soft, repentant, and honest. Guard me from pride when I succeed and from despair when I fail.
+> Teach me to see my weakness the way You do — not as disqualification, but as invitation. When I stumble, draw me quickly back to You. Give me a heart that is soft, repentant, and honest. Guard me from pride when I succeed and from despair when I fail.
 
-Remind me that Your grace is sufficient. That Your power is perfected not in my strength, but in my dependence.
+> Remind me that Your grace is sufficient. That Your power is perfected not in my strength, but in my dependence.
 
-Use even my wounds as soil for deeper faith. Transform my failures into testimony. And make me a person who boasts not in myself, but in Your mercy.
+> Use even my wounds as soil for deeper faith. Transform my failures into testimony. And make me a person who boasts not in myself, but in Your mercy.
 
-Today, I return to You again — trusting that You are not surprised, not threatened, and not finished with me.
+> Today, I return to You again — trusting that You are not surprised, not threatened, and not finished with me.
 
-Amen.
+> Amen.

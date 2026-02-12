@@ -24,11 +24,9 @@ scripture:
 
 ## Key Scripture
 
-> _“After He had removed him, He raised up David to be their king, concerning whom He also testified and said, ‘I HAVE FOUND DAVID the son of Jesse, A MAN AFTER MY HEART, who will do all My will.’”_  
-> —Acts 13:22
+> _“After He had removed him, He raised up David to be their king, concerning whom He also testified and said, ‘I HAVE FOUND DAVID the son of Jesse, A MAN AFTER MY HEART, who will do all My will.’”_ **—Acts 13:22**
 
-> _“Man looks at the outward appearance, but the LORD looks at the heart.”_  
-> —1 Samuel 16:7
+> _“Man looks at the outward appearance, but the LORD looks at the heart.”_ **—1 Samuel 16:7**
 
 ---
 
@@ -74,8 +72,7 @@ This pattern is not unique to David.
 
 God has always worked this way.
 
-> _“You formed my inward parts; You wove me in my mother’s womb.”_  
-> —Psalm 139:13
+> _“You formed my inward parts; You wove me in my mother’s womb.”_ **—Psalm 139:13**
 
 God knows us completely. He is not surprised by our weaknesses. He is not confused by our limitations. Even what we perceive as flaws exists within the scope of His sovereign design.
 
@@ -101,14 +98,10 @@ It is to live without hiding.
 
 ## Prayer
 
-_Merciful Father, thank You that You look beyond outward appearances and see the heart. Thank You that You know me completely, including my weaknesses, and that Your grace is sufficient for all of it. Forgive me for the times I despair over my failures or try to hide them from You. Shape in me a heart that quickly repents, consistently returns, and rests fully in Your mercy._  
+> Merciful Father, thank You that You look beyond outward appearances and see the heart. Thank You that You know me completely, including my weaknesses, and that Your grace is sufficient for all of it. Forgive me for the >times I despair over my failures or try to hide them from You. Shape in me a heart that quickly repents, consistently returns, and rests fully in Your mercy. 
 **Amen.**
 
 ---
-
-## Takeaway Thought
-
-Being “after God’s heart” is not about flawless obedience, but about a heart that keeps turning back to Him—again and again—resting in grace rather than hiding in shame.
 
 <!-- end-of-article -->
 

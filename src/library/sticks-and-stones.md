@@ -32,18 +32,18 @@ If our reading of Scripture does not lead us toward humility, mercy, and love, w
 
 ---
 
-### Prayer
+## Prayer
 
-Search me, O God, and know my heart.  
-Not so that I may prove myself right,  
-but so that I may be made right.  
+> Search me, O God, and know my heart.  
+> Not so that I may prove myself right,  
+> but so that I may be made right.  
 
-Deliver me from the urge to use Your Word as a weapon.  
-Teach me to receive it as light,  
-as truth that corrects me before it corrects anyone else.  
+> Deliver me from the urge to use Your Word as a weapon.  
+> Teach me to receive it as light,  
+> as truth that corrects me before it corrects anyone else.  
 
-Let Scripture soften what has grown hard,  
-quiet what has grown defensive,  
-and form in me a heart that reflects Yours.  
+> Let Scripture soften what has grown hard,  
+> quiet what has grown defensive,  
+> and form in me a heart that reflects Yours.  
 
-Amen.
+> Amen.

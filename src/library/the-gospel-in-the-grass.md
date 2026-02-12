@@ -18,7 +18,7 @@ scripture:
 > You care for the land and water it; you enrich it abundantly.  
 > The streams of God are filled with water to provide the people with grain,  
 > for so you have ordained it.”_  
-> —Psalm 65:8–9
+> **—Psalm 65:8–9**
 
 ---
 
@@ -66,11 +66,7 @@ You are invited to trust Him with it.
 
 ## Prayer
 
-_Lord, open my eyes to Your wonders. Help me to see the beauty of Your creation and remember that I am part of it. Teach me to trust You, as the birds and flowers do, and to join all creation in songs of joy._  
-**Amen.**
+> Lord, open my eyes to Your wonders. Help me to see the beauty of Your creation and remember that I am part of it. Teach me to trust You, as the birds and flowers do, and to join all creation in songs of joy.  
+> Amen.
 
----
 
-## Takeaway Thought
-
-Creation proclaims the gospel every day—inviting us to trust the God who lovingly provides for all He has made.

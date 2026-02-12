@@ -54,30 +54,30 @@ These are the Sons of Korah who went on to write **eleven psalms** preserved in 
 
 > *As the deer pants for the water brooks,  
 So my soul pants for You, O God.*  
-—Psalm 42:1
+***—Psalm 42:1**
 
 > *Why are you in despair, O my soul?  
 And why have you become disturbed within me?  
 Hope in God, for I shall yet praise Him,  
 The help of my countenance and my God.*  
-—Psalm 42:11
+**—Psalm 42:11**
 
 > *O send out Your light and Your truth, let them lead me;  
 Let them bring me to Your holy hill  
 And to Your dwelling places.*  
-—Psalm 43:3
+**—Psalm 43:3**
 
 > *“Cease striving and know that I am God;  
 I will be exalted among the nations,  
 I will be exalted in the earth.”*  
-—Psalm 46:10
+**—Psalm 46:10**
 
 > *O clap your hands, all peoples;  
 Shout to God with the voice of joy.*  
-—Psalm 47:1
+**—Psalm 47:1**
 
 > *For a day in Your courts is better than a thousand outside.*  
-—Psalm 84:10
+**—Psalm 84:10**
 
 And these only scratch the surface of the richness of their contribution.
 
@@ -87,34 +87,34 @@ Their worship was not naïve. It was not casual. It was forged in brokenness, sh
 
 ---
 
-## A Prayer
+## Prayer
 
-Holy God,
+> Holy God,
 
-You are not casual with holiness,  
-and You are not careless with mercy.
+> You are not casual with holiness,  
+> and You are not careless with mercy.
 
-You set boundaries not to withhold Yourself from us,  
-but to teach us how to live near You without being destroyed.
+> You set boundaries not to withhold Yourself from us,  
+> but to teach us how to live near You without being destroyed.
 
-Forgive us when we despise the place You have given us.  
-Forgive us when we confuse ambition with calling,  
-and proximity with entitlement.
+> Forgive us when we despise the place You have given us.  
+> Forgive us when we confuse ambition with calling,  
+> and proximity with entitlement.
 
-Teach us to fear You rightly—  
-not with terror that drives us away,  
-but with reverence that keeps us close.
+> Teach us to fear You rightly—  
+> not with terror that drives us away,  
+> but with reverence that keeps us close.
 
-Let our brokenness become humility,  
-our humility become obedience,  
-and our obedience become worship.
+> Let our brokenness become humility,  
+> our humility become obedience,  
+> and our obedience become worship.
 
-Give us hearts like the Sons of Korah—  
-content to serve where You place us,  
-grateful for mercy we did not earn,  
-and eager to praise You for who You are.
+> Give us hearts like the Sons of Korah—  
+> content to serve where You place us,  
+> grateful for mercy we did not earn,  
+> and eager to praise You for who You are.
 
-Plant true worship deep within us, O Lord,  
-and let it grow from soil softened by grace.
+> Plant true worship deep within us, O Lord,  
+> and let it grow from soil softened by grace.
 
-Amen.
+> Amen.

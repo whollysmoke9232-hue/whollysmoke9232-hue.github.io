@@ -17,7 +17,7 @@ scripture:
 
 > _“Stolen water is sweet; food eaten in secret is delicious!  
 > But little do they know that the dead are there, that her guests are deep in the realm of the dead.”_  
-> —Proverbs 9:17–18
+> **—Proverbs 9:17–18**
 
 ---
 
@@ -29,9 +29,9 @@ Using parallel imagery of a house and a feast, the writer exposes the true natur
 
 ---
 
-## The Character of Folly (Proverbs 9:13)
+## The Character of Folly 
 
-> _“Folly is an unruly woman; she is simple and knows nothing.”_
+> _“Folly is an unruly woman; she is simple and knows nothing.”_ **—Proverbs 9:13**
 
 The introduction to Folly is immediate and unflattering. Unlike the order, preparation, and substance of Lady Wisdom, Folly is loud, chaotic, and disruptive. Her appeal is not rooted in truth or confidence, but in noise—demanding attention through sheer volume.
 
@@ -39,9 +39,9 @@ Though she presents herself as authoritative, she is fundamentally ignorant. She
 
 ---
 
-## The Brazen Invitation (Proverbs 9:14–16)
+## The Brazen Invitation 
 
-> _“She sits at the door of her house, on a seat at the highest point of the city…”_
+> _“She sits at the door of her house, on a seat at the highest point of the city…”_ **—Proverbs 9:14–16**
 
 Folly openly imitates Wisdom. Just as Wisdom sends out her call from the heights of the city, Folly establishes her competing invitation in the same public space. Evil rarely announces itself as evil—it often presents itself as a reasonable alternative.
 
@@ -51,9 +51,9 @@ This reveals one of the great dangers of temptation: it often sounds familiar, r
 
 ---
 
-## The Secret Allure (Proverbs 9:17)
+## The Secret Allure 
 
-> _“Stolen water is sweet; food eaten in secret is delicious!”_
+> _“Stolen water is sweet; food eaten in secret is delicious!”_ **—Proverbs 9:17**
 
 This is the heart of Folly’s appeal. She does not promise life or virtue; she promises thrill. Her logic rests on the lie that what is forbidden is more satisfying than what is freely given.
 
@@ -63,9 +63,9 @@ This is the ancient logic of temptation: appealing to pride, appetite, and the d
 
 ---
 
-## The Grim Reality (Proverbs 9:18)
+## The Grim Reality 
 
-> _“But little do they know that the dead are there…”_
+> _“But little do they know that the dead are there…”_ **—Proverbs 9:18
 
 The writer pulls back the curtain. The guest who believes they are entering a private feast is actually walking into a tomb. The house is already filled with the dead—former guests whose choices led not to fulfillment, but to ruin.
 
@@ -91,15 +91,11 @@ By grace, we are not left to guess. God does not merely warn us—He invites us 
 
 ## Prayer
 
-_O Lord, our refuge and our wisdom, thank You for setting before us a clear choice between life and death. I confess that my heart is often drawn to the loud voice of Folly and the promise of secret pleasures._
+> O Lord, our refuge and our wisdom, thank You for setting before us a clear choice between life and death. I confess that my heart is often drawn to the loud voice of Folly and the promise of secret pleasures.
 
-_Grant me discernment to see temptation for what it truly is—an empty imitation of Your truth. When Folly calls from the high places, help me hear the deeper voice of Wisdom inviting me to Your life-giving feast._
+> Grant me discernment to see temptation for what it truly is—an empty imitation of Your truth. When Folly calls from the high places, help me hear the deeper voice of Wisdom inviting me to Your life-giving feast.
 
-_Keep my feet on the path of life. Let me find my satisfaction not in secrecy, but in the open, honest abundance You provide._  
-**Amen.**
+> Keep my feet on the path of life. Let me find my satisfaction not in secrecy, but in the open, honest abundance You provide.  
+> Amen.
 
----
 
-## Takeaway Thought
-
-What promises pleasure in secret often hides death in its halls—wisdom, by grace, always leads to life.

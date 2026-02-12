@@ -14,8 +14,7 @@ scripture_references:
   - Matthew 6:33
 ---
 
-“while we look not at the things which are seen, but at the things which are not seen; for the things which are seen are temporal, but the things which are not seen are eternal.”  
-—2 Corinthians 4:18
+> *“while we look not at the things which are seen, but at the things which are not seen; for the things which are seen are temporal, but the things which are not seen are eternal.”* **—2 Corinthians 4:18**
 
 Our eyes can detect only about 0.0035% of the known light spectrum.  
 Our ears can perceive only about 0.0000006% of the known sound spectrum.  
@@ -30,5 +29,7 @@ But He—and only He—is intimately aware of all that surrounds us, including t
 
 Only He, through the Holy Spirit, can lead us safely through this invisible and silent minefield. That is why it is not naïve, reckless, or irresponsible to seek Him first. It is essential. If we hope to navigate life on this earth with any wisdom at all, our focus must remain on knowing Him, trusting Him, and following where He leads.
 
-**Prayer:**  
-Lord Jesus, teach me to trust You beyond what I can see or understand. Quiet my fear, loosen my grip on what I think I must control, and lead me by Your Spirit through all that is unseen. Help me seek You first—not as an escape from life, but as the only way to truly live it. Amen.
+## Prayer 
+
+> Lord Jesus, teach me to trust You beyond what I can see or understand. Quiet my fear, loosen my grip on what I think I must control, and lead me by Your Spirit through all that is unseen. Help me seek You first—not as an escape from life, but as the only way to truly live it. 
+> Amen.

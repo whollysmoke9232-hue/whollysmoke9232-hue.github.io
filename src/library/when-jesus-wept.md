@@ -18,8 +18,7 @@ scripture:
 
 ## Key Scripture
 
-> _“Jesus wept.”_  
-> —John 11:35
+> _“Jesus wept.”_ **—John 11:35**
 
 ---
 
@@ -33,8 +32,7 @@ Why would the Son of God—who knew He was about to raise Lazarus from the dead�
 
 ## Back to the Beginning
 
-> _“God saw all that He had made, and it was very good.”_  
-> —Genesis 1:31
+> _“God saw all that He had made, and it was very good.”_ **—Genesis 1:31**
 
 In the beginning, there was no death, no sorrow, no brokenness. Creation pulsed with harmony, beauty, and life.
 
@@ -42,8 +40,7 @@ But then came the fall.
 
 Sin entered the world through disobedience, and with it came the curse:
 
-> _“Cursed is the ground because of you…”_  
-> —Genesis 3:17
+> _“Cursed is the ground because of you…”_ **—Genesis 3:17**
 
 From that moment on, everything changed. Sin infected not just human hearts, but the very fabric of creation. Death became a reality. Tears became a language. And the world began to groan under the weight of what was lost.
 
@@ -89,12 +86,12 @@ To His children.
 
 ## Prayer
 
-_Lord Jesus, thank You for being a Savior who weeps.  
-Thank You for feeling the weight of our sorrow and the sting of our brokenness.  
-Help me to hate sin—not just for what it is, but for what it does.  
-Give me eyes to see the world as You see it, and a heart that longs for restoration.  
-May I live in the hope that You are making all things new._  
-**Amen.**
+> Lord Jesus, thank You for being a Savior who weeps.  
+> Thank You for feeling the weight of our sorrow and the sting of our brokenness.  
+> Help me to hate sin—not just for what it is, but for what it does.  
+> Give me eyes to see the world as You see it, and a heart that longs for restoration.  
+> May I live in the hope that You are making all things new.  
+> Amen.
 
 ---
 

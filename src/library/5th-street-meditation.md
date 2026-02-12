@@ -15,8 +15,7 @@ scripture_references:
   - Romans 8:14–17
 ---
 
-**Exodus 33:15**  
-*“Then Moses said to Him, ‘If Your presence does not go with us, do not lead us up from here.’”*
+> _“Then Moses said to Him, ‘If Your presence does not go with us, do not lead us up from here.’”_ **—Exodus 33:15** 
 
 Moses understood something essential:  
 If You do not lead, I am not going anywhere.

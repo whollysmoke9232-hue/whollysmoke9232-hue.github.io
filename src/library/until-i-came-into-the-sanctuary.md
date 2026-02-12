@@ -15,11 +15,11 @@ scripture:
   - Revelation 4:6
 ---
 
-**Psalm 73:16–17**  
-*“When I pondered to understand this,  
-It was troublesome in my sight  
-Until I came into the sanctuary of God;  
-Then I perceived their end.”*
+> *“When I pondered to understand this,*  
+> *It was troublesome in my sight*  
+> *Until I came into the sanctuary of God;*  
+> *Then I perceived their end.”*
+> **Psalm 73:16–17**  
 
 In the fourth chapter of Revelation, John does his best to describe the most amazing scene in Scripture. He describes God’s throne, the beings that surround it and never cease declaring His holiness, and the twenty-four elders on their thrones encircling them all. That scene will not let go of my imagination.
 
@@ -34,5 +34,7 @@ This is the scene I imagine when the Psalmist says, *“Until I came into the sa
 
 Those moments in His presence are far too rare.
 
-Oh God, soften my heart and open my eyes, that I may see You in the splendor of Your holiness and be changed into the man You created me to be.
+## A Prayer
+
+> Oh God, soften my heart and open my eyes, that I may see You in the splendor of Your holiness and be changed into the man You created me to be.
 

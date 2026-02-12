@@ -81,7 +81,7 @@ It’s the water I’m swimming in.
 
 As I moved through each day, I learned again that it’s not about me at all. It is about Him. But every morning, when I woke up, the switch was flipped back to me.
 
-“For I know that nothing good dwells in me, that is, in my flesh.” (Romans 7:18)
+> *“For I know that nothing good dwells in me, that is, in my flesh.”* **—Romans 7:18**
 
 That’s why I have to pray for willingness; it’s why I pray, “God, give me the courage and willingness to do whatever You need to do so that You can keep me sober today.”
 
@@ -169,7 +169,7 @@ It came from being broken enough to stop negotiating.
 
 I am powerless—but I am not abandoned.
 
-“My grace is sufficient for you, for My power is made perfect in weakness.” (2 Corinthians 12:9)
+> *“My grace is sufficient for you, for My power is made perfect in weakness.”* **—2 Corinthians 12:9**
 
 ---
 
@@ -188,20 +188,20 @@ And that, so far, has been enough.
 
 ## Prayer
 
-Father,
+> Father,
 
-I am still in process.  
-Still learning.  
-Still waking up thinking it’s about me.
+> I am still in process.  
+> Still learning.  
+> Still waking up thinking it’s about me.
 
-Teach me again today what surrender actually means.  
-Give me willingness when I don’t feel it.  
-Give me honesty when I want to hide.  
-Give me courage to stay in the light.
+> Teach me again today what surrender actually means.  
+> Give me willingness when I don’t feel it.  
+> Give me honesty when I want to hide.  
+> Give me courage to stay in the light.
 
-If Your grace truly is sufficient, let it be sufficient for me—today.  
-Not because I deserve it.  
-Not because I understand it.  
-But because I need it.
+> If Your grace truly is sufficient, let it be sufficient for me—today.  
+> Not because I deserve it.  
+> Not because I understand it.  
+> But because I need it.
 
-Amen.
+> Amen.

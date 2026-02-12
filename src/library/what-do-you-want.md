@@ -20,7 +20,7 @@ scripture:
 So my soul pants for You, O God.  
 My soul thirsts for God, for the living God;  
 When shall I come and appear before God?”*  
-—Psalm 42:1–2
+**—Psalm 42:1–2**
 
 I have often been challenged by this passage.
 
@@ -56,12 +56,10 @@ Perhaps if our minds were more practiced in remembering God’s past faithfulnes
 
 ---
 
-**Psalm 42:11**
-
 > *“Why are you in despair, O my soul?  
 And why have you become disturbed within me?  
 Hope in God, for I shall yet praise Him,  
-The help of my countenance and my God.”*
+The help of my countenance and my God.”* **Psalm 42:11**
 
 Sometimes I have to speak to my own soul with honesty—and firmness.
 
@@ -78,14 +76,14 @@ and fix them on Him.
 
 ## Prayer
 
-O God,  
-I want to want You more.
+> O God,  
+> I want to want You more.
 
-My soul longs for You, but it is often distracted and divided. Teach me to desire You not only in moments of crisis, but in the quiet, ordinary spaces of my life. When my hunger fades, draw me back. When my eyes drift, refocus them on You.
+> My soul longs for You, but it is often distracted and divided. Teach me to desire You not only in moments of crisis, but in the quiet, ordinary spaces of my life. When my hunger fades, draw me back. When my eyes drift, refocus them on You.
 
-Help me remember what You have already done—  
+> Help me remember what You have already done—  
 the ways You have carried me, sustained me, and remained faithful when I was weak. Anchor my present fears in Your past faithfulness.
 
-When my soul is downcast and disturbed within me, remind me that You are my hope. Lift my eyes beyond the obstacle before me and fix them on You, the One who holds all things—including me—in Your hands.
+> When my soul is downcast and disturbed within me, remind me that You are my hope. Lift my eyes beyond the obstacle before me and fix them on You, the One who holds all things—including me—in Your hands.
 
-Amen.
+> Amen.

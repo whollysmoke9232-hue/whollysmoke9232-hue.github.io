@@ -11,12 +11,12 @@ scripture_references:
   - John 15:5
 ---
 
-> God has looked down from heaven upon the sons of men  
-> To see if there is anyone who understands,  
-> Who seeks after God.  
-> Every one of them has turned aside; together they have become corrupt;  
-> There is no one who does good, not even one.  
-> —Psalm 53:2–3
+> *God has looked down from heaven upon the sons of men*  
+> *To see if there is anyone who understands,*  
+> *Who seeks after God.*  
+> *Every one of them has turned aside; together they have become corrupt;*  
+> *There is no one who does good, not even one.*  
+> **—Psalm 53:2–3**
 
 There is no one who does good, not even one.
 
@@ -110,20 +110,20 @@ That is where goodness begins.
 
 ---
 
-### A Closing Prayer
+## Prayer
 
-Father,  
-You know how easily I am impressed with myself,  
-and how quickly I forget that every good thing flows from You.  
-Strip away my illusions of self-sufficiency.  
-Teach me to abide rather than perform,  
-to depend rather than impress,  
-to be known rather than admired.  
+> Father,  
+> You know how easily I am impressed with myself,  
+> and how quickly I forget that every good thing flows from You.  
+> Strip away my illusions of self-sufficiency.  
+> Teach me to abide rather than perform,  
+> to depend rather than impress,  
+> to be known rather than admired.  
 
-Thank You for Jesus—  
-the only truly good One—  
-and for grace that meets me not at my best,  
-but at my most honest.  
+> Thank You for Jesus—  
+> the only truly good One—  
+> and for grace that meets me not at my best,  
+> but at my most honest.  
 
-Amen.
+> Amen.
 

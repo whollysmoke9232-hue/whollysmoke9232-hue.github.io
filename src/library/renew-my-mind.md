@@ -17,8 +17,8 @@ scripture_references:
 
 ## Renew My Mind
 
-**Romans 12:2**  
-“And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.”
+
+> _“And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.”_ **—Romans 12:2**  
 
 The world we live in has a powerful way of shaping how we think—often without our permission.
 
@@ -56,9 +56,9 @@ Start simply.
 
 Spend time in the Word. Read it. Sit with it. Let it speak without rushing to master it. Memorize passages that reorient your heart toward God’s priorities—verses that remind you of His nearness, His grace, and His purposes.
 
-“Seek first His kingdom and His righteousness…” (Matthew 6:33)  
-“There is now no condemnation for those who are in Christ Jesus.” (Romans 8:1)  
-“Nothing can separate us from the love of God…” (Romans 8:38–39)
+> _“Seek first His kingdom and His righteousness…”_ **—Matthew 6:33**  
+> _“There is now no condemnation for those who are in Christ Jesus.”_ **—Romans 8:1**  
+> _“Nothing can separate us from the love of God…”_ **—Romans 8:38–39**
 
 Find rhythms that help anchor you in truth. Consistency matters more than volume. The goal is not to crowd your mind with information, but to shape it with what is real.
 
@@ -66,12 +66,12 @@ The world is loud. It speaks constantly. And when we are tired, distracted, or d
 
 Renewing the mind is an ongoing act of trust—choosing, again and again, to listen to God over the noise, to rest in His definition of worth, and to allow His truth to slowly untangle what the world has twisted.
 
-## A Closing Prayer
+## Prayer
 
-Father,  
-Today I ask You to guard my mind and gently redirect my thoughts.  
-Help me recognize the voices that pull me away from You,  
-and give me the grace to return—again and again—to what is true.  
-Renew my mind, not through striving, but through Your presence.  
-Teach me to see myself and others through Your eyes.  
-Amen.
+> Father,  
+> Today I ask You to guard my mind and gently redirect my thoughts.  
+> Help me recognize the voices that pull me away from You,  
+> and give me the grace to return—again and again—to what is true.  
+> Renew my mind, not through striving, but through Your presence.  
+> Teach me to see myself and others through Your eyes.  
+> Amen.

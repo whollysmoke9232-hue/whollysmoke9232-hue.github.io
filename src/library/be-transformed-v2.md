@@ -17,10 +17,7 @@ scripture:
 
 ---
 
-**Romans 12:1–2**
-
-> *“Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, which is your spiritual service of worship. And do not be conformed to this world, but be transformed by the renewing of your mind…”*  
-> —Romans 12:1–2
+> *“Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, which is your spiritual service of worship. And do not be conformed to this world, but be transformed by the renewing of your mind…”* **—Romans 12:1–2**
 
 In light of the gracious justification Christ has accomplished for us, the only reasonable conclusion is that we should present ourselves wholly to God—as walking, breathing, living sacrifices.
 
@@ -43,12 +40,11 @@ Not only does Jesus take our sins, debts, and demerits, but He also gives us His
 
 Imagine it this way: each of us wears a sign around our neck displaying everything we’ve ever done or failed to do—every word, every thought, every motive. As Jesus hung on the cross, He gathered the signs of all people—past, present, and future—and placed them on Himself. He bore our sin fully. That is when He cried out,
 
-> *“My God, My God, why have You forsaken Me?”*
+> *“My God, My God, why have You forsaken Me?”* **—Mattthew 27:46**
 
 At the same time, He took the sign that bore His perfect obedience and placed it on us.
 
-> *“He made Him who knew no sin to be sin on our behalf, so that we might become the righteousness of God in Him.”*  
-> —2 Corinthians 5:21
+> *“He made Him who knew no sin to be sin on our behalf, so that we might become the righteousness of God in Him.”* **—2 Corinthians 5:21**
 
 ---
 
@@ -62,13 +58,11 @@ Sanctification begins instantly.
 
 Jesus said,
 
-> *“Seek first His kingdom and His righteousness…”*  
-> —Matthew 6:33
+> *“Seek first His kingdom and His righteousness…”* **—Matthew 6:33**
 
 Righteousness is the goal. And righteous people are known by their fruit:
 
-> *“The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control.”*  
-> —Galatians 5:22–23
+> *“The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control.”* **—Galatians 5:22–23**
 
 ---
 
@@ -100,18 +94,18 @@ Am I willing to be transformed, or do I merely want to be affirmed?
 
 ## Prayer
 
-Father,  
-By Your mercy, I offer myself to You.
+> Father,  
+> By Your mercy, I offer myself to You.
 
-I confess that I am often tempted to conform—to think like the world, to reason like the world, to protect myself the way the world does. Renew my mind. Expose what is false. Replace it with truth.
+> I confess that I am often tempted to conform—to think like the world, to reason like the world, to protect myself the way the world does. Renew my mind. Expose what is false. Replace it with truth.
 
-Form in me the mind of Christ.  
-Teach me to love what You love and desire what You desire.
+> Form in me the mind of Christ.  
+> Teach me to love what You love and desire what You desire.
 
-I yield my will, my ambitions, and my ways to You.  
-Transform me—not for my glory, but for Yours.
+> I yield my will, my ambitions, and my ways to You.  
+> Transform me—not for my glory, but for Yours.
 
-Amen.
+> Amen.
 
 ---
 

@@ -21,8 +21,7 @@ scripture:
 
 > _“The heavens declare the glory of God…  
 > They have no speech, they use no words;  
-> their voice is not heard.”_  
-> —Psalm 19:1–3
+> their voice is not heard.”_ **—Psalm 19:1–3**
 
 ---
 

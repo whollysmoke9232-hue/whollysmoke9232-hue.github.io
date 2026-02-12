@@ -17,9 +17,9 @@ scripture:
 And their own arm did not save them,  
 But Your right hand and Your arm and the light of Your presence,  
 For You favored them.*  
-—Psalm 44:3
+**—Psalm 44:3**
 
-“…**and the light of Your presence.**”  
+“…***and the light of Your presence.***”  
 AAAAuuuugggghhhhhhhhhhhhhhhh!!!!!! There is so much power in that phrase!
 
 Yes, His hand and His arm were necessary—but the overcoming power was not merely in what God *did*, but in **where God was**. Victory flowed from His presence.
@@ -40,13 +40,13 @@ It is Your presence—not my effort, insight, or resolve—that secures my place
 
 ---
 
-## A Closing Prayer
+## Prayer
 
-Gracious God,  
-Keep me near You.  
-When life is hard, draw me to depend on You.  
-When life is easy, keep me from drifting away.  
-Teach me to value Your presence above success, comfort, or control.  
-Let my life be shaped not by my strength, but by Your nearness.  
+> Gracious God,  
+> Keep me near You.  
+> When life is hard, draw me to depend on You.  
+> When life is easy, keep me from drifting away.  
+> Teach me to value Your presence above success, comfort, or control.  
+> Let my life be shaped not by my strength, but by Your nearness.  
 
-Amen.
+> Amen.

@@ -13,9 +13,9 @@ scripture:
 
 ## Key Scripture
 
-> _“Where can I go from Your Spirit?  
-> Or where can I flee from Your presence?”_  
-> —Psalm 139:7 (NIV)
+> *“Where can I go from Your Spirit?*  
+> *Or where can I flee from Your presence?”*  
+> **—Psalm 139:7 (NIV)**
 
 ---
 
@@ -47,28 +47,7 @@ If God is everywhere, then nothing is impossible for me. Because nothing is impo
 
 ## Prayer
 
-_Lord, expand my awareness of Your nearness. Help me to rest in the truth that I am never outside Your presence, never beyond Your reach, and never unseen by Your love. Teach me to live from that reality, with trust, humility, and awe._  
-**Amen.**
+> Lord, expand my awareness of Your nearness. Help me to rest in the truth that I am never outside Your presence, never beyond Your reach, and never unseen by Your love. Teach me to live from that reality, with trust, humility, and awe.  
+> Amen.
 
----
 
-## Takeaway Thought
-
-When God is everywhere, you are never lost—you are already held.
-
-When God is everywhere, you are never lost—you are already held.
-
-<div class="yna-nav-links" style="margin-top:2.5em; display:none;">
-  <div style="display:flex; justify-content:space-between;">
-    <a href="/meditations/here-with-me/?from=youre-not-alone" style="font-weight:bold;">&larr; Previous: Here With Me</a>
-    <a href="/meditations/meditation-1/?from=youre-not-alone" style="font-weight:bold;">Next: Meditation 1 &rarr;</a>
-  </div>
-</div>
-<script>
-  if (window && window.location.search.includes('from=youre-not-alone')) {
-    var el = document.querySelector('.yna-nav-links');
-    if (el) el.style.display = 'block';
-  }
-</script>
-
-When God is everywhere, you are never lost—you are already held.

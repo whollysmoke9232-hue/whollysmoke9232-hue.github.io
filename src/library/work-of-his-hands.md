@@ -16,7 +16,7 @@ scripture:
 > _“For You created my inmost being;  
 > You knit me together in my mother’s womb.  
 > I praise You because I am fearfully and wonderfully made.”_  
-> —Psalm 139:13–14
+> **—Psalm 139:13–14**
 
 ---
 
@@ -105,15 +105,10 @@ You were prepared for a purpose.
 
 ## Prayer
 
-_Heavenly Father, thank You for seeing us not for our flaws, but as Your wonderful work.  
-Help us rest in the truth that we are fearfully and wonderfully made,  
-created with intention, and loved unconditionally by You._  
-**Amen.**
+> Heavenly Father, thank You for seeing us not for our flaws, but as Your wonderful work.  
+> Help us rest in the truth that we are fearfully and wonderfully made,  
+> created with intention, and loved unconditionally by You.  
+> Amen.
 
----
 
-## Takeaway Thought
-
-You are not loved in spite of your imperfections—  
-you are loved because you are His.
 

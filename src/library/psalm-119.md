@@ -38,7 +38,7 @@ The language of *portion* reaches back to Israel’s inheritance of the Promised
 
 This truth quietly reorders everything. Obedience becomes response, not leverage. Faith becomes allegiance, not transaction. If God is my portion, then nothing essential can be taken from me—even when much else is lost. 
 
-*"Whom have I in heaven but You? And besides You, I desire nothing on earth."* --Psalms 73:25
+> *"Whom have I in heaven but You? And besides You, I desire nothing on earth."* --Psalms 73:25
 
 ---
 

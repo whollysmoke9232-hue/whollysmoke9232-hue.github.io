@@ -62,8 +62,8 @@ And I remain committed — however imperfectly — to the ministry of reconcilia
 
 ---
 
-**Prayer**
+## Prayer
 
-Lord Jesus,  
-You have reconciled us to the Father at great cost, and You have entrusted us with that same work in the world. Expose the places where fear, pride, or comfort still shape our relationships. Give us eyes to see our brothers and sisters as You see them, and courage to pursue reconciliation even when it costs us something. Make our lives living witnesses to Your love, so that the world may know You by how we love one another.  
-Amen.
+> Lord Jesus,  
+> You have reconciled us to the Father at great cost, and You have entrusted us with that same work in the world. Expose the places where fear, pride, or comfort still shape our relationships. Give us eyes to see our brothers and sisters as You see them, and courage to pursue reconciliation even when it costs us something. Make our lives living witnesses to Your love, so that the world may know You by how we love one another.  
+> Amen.

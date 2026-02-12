@@ -22,9 +22,7 @@ scripture:
 
 ## Part 1: Only a Voice
 
-**Scripture: Deuteronomy 4:11–12**
-
-> *“You heard the sound of words but saw no form; there was only a voice.”*
+> *“You heard the sound of words but saw no form; there was only a voice.”* **—Deuteronomy 4:11–12**
 
 At the foot of Mount Horeb, the Israelites stood trembling. Fire blazed to the heavens, darkness cloaked the mountain, thunder and a trumpet blast rolled through the wilderness. God wasn’t in the fire, darkness, thunder, or trumpet. Those manifestations go before Him. They surround Him. They are the inevitable result of His presence. But they are not Him.
 
@@ -42,9 +40,7 @@ Lord, help me to quiet my heart and listen for Your voice. Teach me to trust wha
 
 ## Part 2: The Danger of Images
 
-**Scripture: Exodus 20:4–5**
-
-> *“You shall not make for yourself an image in the form of anything…”*
+> *“You shall not make for yourself an image in the form of anything…”* **—Exodus 20:4–5**
 
 Before God gave the law, He gave a warning: Do not make images. Why? Because any image we create will inevitably shrink Him. It will distort His holiness, His majesty, His mystery. Even well-meaning symbols—crosses, paintings, icons—can become distractions if they begin to replace the living voice of God.
 
@@ -64,9 +60,7 @@ God, forgive me for the times I’ve tried to shape You into something I can con
 
 ## Part 3: The Voice That Leads
 
-**Scripture: Exodus 13:21–22**
-
-> *“By day the Lord went ahead of them in a pillar of cloud… by night in a pillar of fire…”*
+> *“By day the Lord went ahead of them in a pillar of cloud… by night in a pillar of fire…”* **—Exodus 13:21–22**
 
 God didn’t give Israel an image to follow. He gave them movement. A cloud by day. Fire by night. His presence was dynamic, directional, alive. He led them not by form, but by voice and sign.
 
@@ -84,9 +78,7 @@ Lord, You are the fire that leads and the voice that guides. Help me to follow e
 
 ## Part 4: Faith Comes by Hearing
 
-**Scripture: Romans 10:17**
-
-> *“Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.”*
+> *“Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.”* **—Romans 10:17**
 
 Faith doesn’t come by seeing—it comes by hearing. This is the scandal of the gospel: that belief is born not in spectacle, but in story. In testimony. In truth spoken and received.
 
@@ -106,9 +98,7 @@ Speak, Lord. Your servant is listening. Let Your Word take root in my heart and 
 
 ## Part 5: The Word Made Flesh
 
-**Scripture: John 1:14**
-
-> *“The Word became flesh and made His dwelling among us…”*
+> *“The Word became flesh and made His dwelling among us…”* **—John 1:14**
 
 God’s voice didn’t stay distant. He was never content to remain unapproachable, cloaked in thunder and fire. The voice that once echoed from Mount Sinai took on skin and bone. Jesus is the living Word—the voice of God wrapped in humanity. He didn’t come as an image to be admired, but as a person to be known.
 
@@ -121,8 +111,9 @@ And He still speaks. Through Scripture. Through the Spirit. Through the lives of
 ### Reflection
 Am I following the voice of Jesus, or settling for images of Him? Have I allowed familiarity to replace intimacy?
 
-### Prayer Prompt
-Jesus, You are the living Word. Help me to know You—not just admire You. Speak to me, walk with me, and dwell in me. Let Your voice shape my faith and Your presence transform my life.
+## Prayer
+
+> Jesus, You are the living Word. Help me to know You—not just admire You. Speak to me, walk with me, and dwell in me. Let Your voice shape my faith and Your presence transform my life.
 
 ---
 

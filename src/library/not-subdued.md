@@ -29,7 +29,7 @@ They smash with hatchet and hammers.*
 They have defiled the dwelling place of Your name.  
 They said in their heart, “Let us completely subdue them.”  
 They have burned all the meeting places of God in the land.*  
-—Psalm 74:3–8
+**—Psalm 74:3–8**
 
 “**Let us completely subdue them.**”
 
@@ -41,8 +41,7 @@ Our enemy has not forgotten that tactic.
 
 Lucifer—Satan—still follows the same pattern. Scripture describes it plainly:
 
-> *“But each one is tempted when he is carried away and enticed by his own lust. Then when lust has conceived, it gives birth to sin; and when sin is accomplished, it brings forth death.”*  
-—James 1:14–15
+> *“But each one is tempted when he is carried away and enticed by his own lust. Then when lust has conceived, it gives birth to sin; and when sin is accomplished, it brings forth death.”* **—James 1:14–15**
 
 Satan uses the lust that already dwells within us to entice us. Rarely all at once. Usually in fragments. A thought. A glance. A passing idea. Then slowly—almost imperceptibly—something more. Desire. A lingering gaze. A rationalization. A plan. Until a line is crossed and action follows.
 
@@ -72,20 +71,20 @@ I am not subdued.
 
 ---
 
-## A Prayer
+## Prayer
 
-Faithful God,  
-Do not let me make peace with sin,  
-and do not let me doubt Your grace.
+> Faithful God,  
+> Do not let me make peace with sin,  
+> and do not let me doubt Your grace.
 
-When I stumble, draw me quickly back to You.  
-When shame whispers that I am ruined,  
-remind me that I am redeemed.
+> When I stumble, draw me quickly back to You.  
+> When shame whispers that I am ruined,  
+> remind me that I am redeemed.
 
-Teach me to hate what wounds my soul  
-without forgetting the mercy that heals it.  
-Keep my worship alive, my conscience tender,  
-and my confidence anchored in Christ alone.
+> Teach me to hate what wounds my soul  
+> without forgetting the mercy that heals it.  
+> Keep my worship alive, my conscience tender,  
+> and my confidence anchored in Christ alone.
 
-Amen.
+> Amen.
 

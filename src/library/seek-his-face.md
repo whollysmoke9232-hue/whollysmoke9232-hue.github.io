@@ -1,5 +1,5 @@
 ---
-title: "Seek His Face, Not Just His Hand"
+title: "Seek His Face"
 author: "Steve Wilkins"
 date: 2023-09-04
 layout: article.njk
@@ -19,7 +19,7 @@ scripture:
 > Unless the Lord watches over the city, the guards stand watch in vain.  
 > In vain you rise early and stay up late, toiling for food to eat—  
 > for He grants sleep to those He loves.”_  
-> —Psalm 127:1–2
+> **—Psalm 127:1–2**
 
 ---
 
@@ -70,21 +70,17 @@ Because no matter what the world decides, you are held in the hand of the One wh
 
 ## Prayer
 
-_Lord, forgive me for the times I’ve sought Your hand more than Your heart.  
-Teach me to desire You above all else.  
-Help me to seek Your face daily, to rest in Your presence,  
-and to trust that every good thing flows from You.  
-I want to dwell with You—not just visit.  
-I want to know You—not just need You.  
-Be my pursuit, my portion, and my peace._  
-**Amen.**
+> Lord, forgive me for the times I’ve sought Your hand more than Your heart.  
+> Teach me to desire You above all else.  
+> Help me to seek Your face daily, to rest in Your presence,  
+> and to trust that every good thing flows from You.  
+> I want to dwell with You—not just visit.  
+> I want to know You—not just need You.  
+> Be my pursuit, my portion, and my peace.  
+> Amen.
 
 ---
 
-## Takeaway Thought
-
-When you seek His face, His hand will follow.  
-When you dwell in His presence, His blessings will find you—**even in your sleep.**
 
 <!-- end-of-article -->
 

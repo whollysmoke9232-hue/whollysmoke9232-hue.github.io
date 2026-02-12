@@ -16,8 +16,7 @@ scripture:
 ## Key Scripture
 
 > _“Because for Your sake I have borne reproach;  
-> dishonor has covered my face.”_  
-> —Psalms 69:7
+> dishonor has covered my face.”_ **—Psalms 69:7**
 
 ---
 
@@ -51,16 +50,12 @@ There is nowhere I would rather be.
 
 ## Prayer
 
-_O God, I surrender not only my suffering, but my understanding.  
-I place my life, my pain, and my purpose fully into Your hands.  
-Be glorified in me, even here._  
-**Amen.**
+> _O God, I surrender not only my suffering, but my understanding.  
+> I place my life, my pain, and my purpose fully into Your hands.  
+> Be glorified in me, even here._  
+> Amen.
 
----
 
-## Takeaway Thought
-
-Suffering becomes worship when it is surrendered to the sovereignty of God.
 
 <!-- end-of-article -->
 

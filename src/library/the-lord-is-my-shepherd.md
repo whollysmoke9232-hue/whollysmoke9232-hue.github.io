@@ -12,8 +12,8 @@ scripture_references:
   - Psalm 23:1–6
 ---
 
-> “The LORD is my shepherd;  
-> I shall not want.” — Psalm 23:1
+> *“The LORD is my shepherd;*  
+> *I shall not want.”* **— Psalm 23:1**
 
 Psalm 23 does not begin with a wish or a hope. It opens with a declaration of reality.
 
@@ -43,14 +43,14 @@ Psalm 23 is not the comfort of naïveté. It is the confidence of one who has wa
 
 ---
 
-### Closing Prayer
+## Prayer
 
-Shepherd of my soul,  
-quiet my restless heart and teach me to trust Your nearness.  
-When I walk through valleys I do not understand,  
-remind me that You are with me—before, during, and beyond them.  
-Guard me with Your strength, guide me with Your care,  
-and restore what fear and weariness have worn thin.  
-Let my life bear witness to who You are,  
-and lead me home in Your goodness and steadfast love.  
-Amen.
+> Shepherd of my soul,  
+> quiet my restless heart and teach me to trust Your nearness.  
+> When I walk through valleys I do not understand,  
+> remind me that You are with me—before, during, and beyond them.  
+> Guard me with Your strength, guide me with Your care,  
+> and restore what fear and weariness have worn thin.  
+> Let my life bear witness to who You are,  
+> and lead me home in Your goodness and steadfast love.  
+> Amen.

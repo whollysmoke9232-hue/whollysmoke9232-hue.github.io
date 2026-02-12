@@ -31,7 +31,7 @@ scripture:
 > The LORD of hosts is with us;  
 > The God of Jacob is our stronghold.  
 > Selah.”_  
-> —Psalm 46:7–11 (NIV)
+> **—Psalm 46:7–11 (NIV)**
 
 ---
 
@@ -49,20 +49,17 @@ God helps those who **cannot** help themselves.
 
 In the margins—the divine detours—we find a better way. In these places, our strength finally gives out. We run out of verses to quote and pep talks to rehearse. And it’s there, in the silence, that we hear something ancient:
 
-> _“When we were still powerless, Christ died for the ungodly… While we were still sinners, Christ died for us.”_  
-> —Romans 5:6–8
+> _“When we were still powerless, Christ died for the ungodly… While we were still sinners, Christ died for us.”_ **—Romans 5:6–8**
 
 God didn’t wait for us to clean up. He moved toward us while we were helpless. There is something about our surrender that draws Him near.
 
-> _“For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.”_  
-> —Ephesians 2:8–9
+> _“For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.”_ **—Ephesians 2:8–9**
 
 God knows our pride. If holiness could be earned, we would take the credit. But He is the One who transforms—and He waits until we stop striving.
 
 It is foolish to believe that lasting change originates with us. God is the Creator and Sustainer of the universe and all it contains. He alone has the wisdom and power to make the changes that truly matter. Even our confidence that we know *what* needs changing is often rooted in pride.
 
-> _“My grace is sufficient for you, for my power is made perfect in weakness.”_  
-> —2 Corinthians 12:9
+> _“My grace is sufficient for you, for my power is made perfect in weakness.”_ **—2 Corinthians 12:9**
 
 It is in our weakness that God’s power flows. Surrender is not quitting—it is the doorway to divine strength.
 
@@ -89,14 +86,10 @@ Take a moment to be still. Picture yourself laying down the tools of self-effort
 
 ## Prayer
 
-_Lord, forgive me for trusting in my own strength. I confess that I am weak and powerless to change myself. Today, I cease my striving. I choose to be still and know that You are God. Thank You that Your power is made perfect in my weakness. Take control of my struggles, my sins, and my efforts. Be exalted in my life today._  
-**Amen.**
+> Lord, forgive me for trusting in my own strength. I confess that I am weak and powerless to change myself. Today, I cease my striving. I choose to be still and know that You are God. Thank You that Your power is made perfect in my weakness. Take control of my struggles, my sins, and my efforts. Be exalted in my life today.  
+> Amen.
 
 ---
-
-## Takeaway Thought
-
-**God is not waiting for you to become strong enough—He meets you when you finally stop striving.**
 
 <!-- end-of-article -->
 

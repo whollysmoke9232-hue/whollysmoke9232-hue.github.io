@@ -14,7 +14,7 @@ scripture_references:
 
 ## I Want to Follow
 
-> “Lead me in Your truth and teach me…” — Psalm 25:5
+> *“Lead me in Your truth and teach me…”* **—Psalm 25:5**
 
 The sequence is significant.
 
@@ -38,12 +38,12 @@ God calls us to relationship first.
 
 ---
 
-### A Closing Prayer
+## Prayer
 
-Father,  
-Lead me before You teach me.  
-Draw me close enough to follow You step by step.  
-Form my heart through walking with You,  
-and let Your truth take root in me in its proper time.  
-I want to know You.
-Amen.
+> Father,  
+> Lead me before You teach me.  
+> Draw me close enough to follow You step by step.  
+> Form my heart through walking with You,  
+> and let Your truth take root in me in its proper time.  
+> I want to know You.
+> Amen.

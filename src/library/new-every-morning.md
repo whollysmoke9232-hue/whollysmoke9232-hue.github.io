@@ -16,11 +16,11 @@ scripture:
 
 ## Key Scripture
 
-> _“The LORD’S lovingkindnesses indeed never cease,  
-> For His compassions never fail.  
-> They are new every morning;  
-> Great is Your faithfulness.”_  
-> —Lamentations 3:22–23
+> *“The LORD’S lovingkindnesses indeed never cease,*  
+> *For His compassions never fail.*  
+> *They are new every morning;*  
+> *Great is Your faithfulness.”*  
+> **—Lamentations 3:22–23**
 
 ---
 
@@ -44,11 +44,6 @@ He is constant. Unchanging. Faithful in every season. The sun never skips a morn
 
 ## Prayer
 
-_Lord, thank You for pursuing me endlessly, for loving me creatively and faithfully. Let my mornings greet Your mercy and my nights rest in Your compassion. And even when I don’t feel it—when my heart forgets—remind me again, like sunrise after darkness, that Your love has never ceased._  
-**Amen.**
+> Lord, thank You for pursuing me endlessly, for loving me creatively and faithfully. Let my mornings greet Your mercy and my nights rest in Your compassion. And even when I don’t feel it—when my heart forgets—remind me again, like sunrise after darkness, that Your love has never ceased.  
+> Amen.
 
----
-
-## Takeaway Thought
-
-**God’s mercy doesn’t carry over from yesterday—it meets you brand new today.**

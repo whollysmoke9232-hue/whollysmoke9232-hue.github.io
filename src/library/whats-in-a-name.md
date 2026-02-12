@@ -108,8 +108,4 @@ Which ones have you quietly accepted?
 
 What name does God speak over you in Christ—and how might living from that identity change the way you respond this week?
 
----
 
-## Takeaway Thought
-
-You don’t live differently by trying harder—you live differently by remembering who you are.

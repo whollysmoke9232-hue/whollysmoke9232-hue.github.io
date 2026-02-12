@@ -15,8 +15,7 @@ scripture_references:
   - Matthew 6:33
 ---
 
-*“Delight yourself in the LORD; And He will give you the desires of your heart.”  
-**—Psalms 37:4**
+*“Delight yourself in the LORD; And He will give you the desires of your heart.” **—Psalms 37:4**
 
 For much of my life I have read this verse with blinders on. I always thought of it as a promise that if I was a believer, God would give me everything I wanted. In a sense, God became my genie in a bottle. I saw Him as some big-box store in the sky – just waiting to hear what trinket I wanted today. Even when my prayers were not just for things; when I prayed for all the people on my prayer list; when I prayed for my personal spiritual strengthening; or when I prayed for my family. During that time, unanswered prayer for things I wanted caused serious doubt: Was it sin that was preventing me from receiving the items on my shopping list? Or maybe a lack of faith? Or could I be looking for answers in the wrong place? Or was it possible that God’s word is not as reliable as I’d hoped?
 
@@ -36,21 +35,21 @@ What a satisfying way to live this has become. My prayers have been greatly simp
 
 ---
 
-### Prayer
+## Prayer
 
-Lord,  
-Teach me to delight in You more than in what You can give.  
-Turn my eyes from comparison and quiet my restless wanting.  
-Shape my desires until they reflect Your heart.  
+> Lord,  
+> Teach me to delight in You more than in what You can give.  
+> Turn my eyes from comparison and quiet my restless wanting.  
+> Shape my desires until they reflect Your heart.  
 
-When I ask for what I think I need, give me instead what draws me closer to You.  
-When I grow impatient, teach me to wait.  
-When I begin to sink beneath doubt, lift my eyes again to Your face.  
+> When I ask for what I think I need, give me instead what draws me closer to You.  
+> When I grow impatient, teach me to wait.  
+> When I begin to sink beneath doubt, lift my eyes again to Your face.  
 
-Let my deepest desire be simple —  
-to walk with You,  
-to trust You,  
-and to rest in the quiet confidence that You are enough.  
+> Let my deepest desire be simple —  
+> to walk with You,  
+> to trust You,  
+> and to rest in the quiet confidence that You are enough.  
 
-Amen.
-```
+> Amen.
+

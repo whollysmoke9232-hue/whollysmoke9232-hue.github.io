@@ -39,4 +39,16 @@ Perhaps the invitation of prayer is not to ask more quickly, but to ask more dee
 So I am learning—slowly—to pray differently.  
 To walk past the front of the store.  
 To believe that God is not only able, but willing.  
-And to ask, with trembling hope, for what only He can give.
+And to ask, with trembling hope, for what only He can give.  
+
+## Prayer
+
+> Father,
+
+> Forgive my small expectations.
+> When I settle for what feels safe, lead me deeper.
+> Teach me not to mistake delay for denial,
+> and give me courage to ask for what only You can give.
+
+> Stretch my hope to match Your generosity.
+> Amen.

@@ -43,8 +43,7 @@ The point isn’t regret—it’s revelation.
 
 Jesus explains this tension in the Parable of the Sower:
 
-> _“The worries of this life, the deceitfulness of wealth and the desires for other things come in and choke the word, making it unfruitful.”_  
-> —Mark 4:18–19
+> _“The worries of this life, the deceitfulness of wealth and the desires for other things come in and choke the word, making it unfruitful.”_ **—Mark 4:18–19**
 
 Notice: the problem isn’t evil.  
 It’s **distraction**.  
@@ -81,8 +80,8 @@ is step aside.
 
 ## Prayer
 
-_Lord, pull up the thorns.  
-Expose the subtle distractions.  
-Align my heart with what You are already doing.  
-I don’t want more activity—I want **You**._  
-**Amen.**
+> Lord, pull up the thorns.  
+> Expose the subtle distractions.  
+> Align my heart with what You are already doing.  
+> I don’t want more activity—I want **You**.  
+> Amen.

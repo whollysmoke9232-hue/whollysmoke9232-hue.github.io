@@ -58,17 +58,9 @@ for I long to see more of You.
 
 ---
 
-## Key Scripture
-
-> _“Blessed are the pure in heart, for they will see God.”_  
-> —Matthew 5:8
+> _“Blessed are the pure in heart, for they will see God.”_ **—Matthew 5:8**
 
 ---
-
-## Takeaway Thought
-
-Purity is not about restraint alone—it is about **clarity of desire**.  
-A pure heart longs for God above all else.
 
 <!-- end-of-article -->
 

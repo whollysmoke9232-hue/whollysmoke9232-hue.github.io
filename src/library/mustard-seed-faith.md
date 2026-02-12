@@ -22,8 +22,7 @@ scripture:
 
 ## Key Scripture
 
-> _“…I tell you the truth, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there’ and it will move…”_  
-> —Matthew 17:20
+> _“…I tell you the truth, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there’ and it will move…”_ **—Matthew 17:20**
 
 ---
 
@@ -67,14 +66,10 @@ His words weren’t a rebuke. They were a reminder:
 
 ## Prayer
 
-_Lord, help us not despise the days of small faith. Thank You for catching us when we sink. Remind us that mustard seed faith is more than enough in Your hands. Teach us to fix our eyes on You—through storms and through wonder—and trust that You will never let us fall._  
-**Amen.**
+> Lord, help us not despise the days of small faith. Thank You for catching us when we sink. Remind us that mustard seed faith is more than enough in Your hands. Teach us to fix our eyes on You—through storms and through wonder—and trust that You will never let us fall.  
+> Amen.
 
 ---
-
-## Takeaway Thought
-
-**Faith doesn’t have to be big—it just has to be pointed toward Jesus.**
 
 <!-- end-of-article -->
 

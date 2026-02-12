@@ -26,7 +26,7 @@ Jesus’ disciples had already spent significant time with Him. They had watched
 
 Jesus responded not with a formula, but with a relationship:
 
-> “Father, hallowed be Your name…”  
+> *“Father, hallowed be Your name…”*  
 
 This alone was revolutionary. God was not distant or abstract. He was Father—intimate, attentive, and near.
 
@@ -50,7 +50,7 @@ Jesus says otherwise.
 
 Prayer is not about extended hours or perfect words. It is about coming. Asking. Trusting. And asking again.
 
-> “Ask, and it will be given to you… for everyone who asks receives.”
+> *“Ask, and it will be given to you… for everyone who asks receives.”*
 
 We are talking about daily needs—bread for today. As God provides, we ask again tomorrow. Prayer becomes a rhythm, not a performance.
 
@@ -81,9 +81,9 @@ If you begin today, God can begin answering today. Prayer grows by being practic
 
 Scripture reminds us:
 
-- *“Pray continually.”* (1 Thessalonians 5:17)  
-- *“The prayer of a righteous person is powerful and effective.”* (James 5:16)  
-- *“If we ask anything according to His will, He hears us.”* (1 John 5:14–15)
+- *“Pray continually.”* **—1 Thessalonians 5:17**  
+- *“The prayer of a righteous person is powerful and effective.”* **—James 5:16**  
+- *“If we ask anything according to His will, He hears us.”* **—1 John 5:14–15**
 
 One word of caution: resistance will come. Anything that keeps us from prayer keeps us from dependence. But remember—you are a child of the living God, and He delights in hearing from you.
 
@@ -91,11 +91,16 @@ One word of caution: resistance will come. Anything that keeps us from prayer ke
 
 ---
 
-## A Closing Prayer
+## Prayer
 
-Father,  
-Forgive me for the ways I have doubted Your willingness and questioned Your care.  
-Remind me that I do not come to You as a stranger, but as Your child.  
-Teach me to ask without shame, to trust without fear, and to return to You again and again.  
-Give me daily bread for today—and the faith to ask again tomorrow.  
-Amen.
+> Father,  
+> Forgive me for the ways I have doubted Your willingness and questioned Your care.  
+> Remind me that I do not come to You as a stranger, but as Your child.  
+> Teach me to ask without shame, to trust without fear, and to return to You again and again.  
+> Give me daily bread for today—and the faith to ask again tomorrow.  
+> Amen.
+
+---
+
+**Continue reading:**  
+[Seek Him](/reflections/seek-him/)

@@ -16,8 +16,7 @@ scripture:
 
 ## Key Scripture
 
-> _“For since the creation of the world God’s invisible qualities—His eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse.”_  
-> —Romans 1:19–20
+> _“For since the creation of the world God’s invisible qualities—His eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse.”_ **—Romans 1:19–20**
 
 ---
 
@@ -59,14 +58,11 @@ Because God has made Himself so clearly known—through creation and conscience�
 
 ## Prayer
 
-_Lord, thank You for revealing Yourself so clearly—in the skies above, in the intricacies within, and in the quiet convictions of my heart. Help me live not in denial of what I know, but in humble surrender to who You are._  
-**Amen.**
+> Lord, thank You for revealing Yourself so clearly—in the skies above, in the intricacies within, and in the quiet convictions of my heart. Help me live not in denial of what I know, but in humble surrender to who You are. 
+> Amen.
 
 ---
 
-## Takeaway Thought
-
-**God has not hidden Himself—the only question is whether we will listen and respond.**
 
 <!-- end-of-article -->
 
