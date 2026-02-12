@@ -20,11 +20,16 @@ layout: layout.njk
       </time>
     </p>
   {% endif %}
+
 </header>
 
 <article class="article-content">
   {{ content | safe }}
 </article>
+
+<p class="print-link-wrap">
+  <a class="print-link" href="#" onclick="window.print(); return false;">Print / Save as PDF</a>
+</p>
 
 {% if bookParent %}
   <div class="book-return-link">

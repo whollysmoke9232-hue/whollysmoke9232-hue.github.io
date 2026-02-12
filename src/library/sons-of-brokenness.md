@@ -18,7 +18,7 @@ scripture:
   - Psalm 84:10
 ---
 
-As a result of *Korah’s Rebellion*, the entire families of Dathan and Abiram—along with their livestock and possessions—were swallowed by the earth. Scripture tells us that **not all of Korah’s family was destroyed** as a result of his rebellion. Some of his children were spared. I find myself wondering why.
+As a result of *Korah’s Rebellion*, the entire families of Dathan and Abiram—along with their livestock and possessions—were swallowed by the earth. But scripture tells us that **not all of Korah’s family was destroyed** as a result of his rebellion. Some of his children were spared. I find myself wondering why.
 
 God is not capricious. His judgments are just. And make no mistake—no one is innocent. It is God’s grace alone that allows any of us to live. But this story invites us to look deeper. To ask, *why?*
 
@@ -30,11 +30,13 @@ We must remember that the people in this account were real men and families with
 
 Korah and his family were even tasked with transporting the **Ark of the Covenant**, along with the rest of the sacred furnishings. What an extraordinary honor.
 
-And yet, it was not enough.
+And yet, it seems that this was not enough.
 
 They desired more. They wanted the priesthood itself.
 
-Scripture does not tell us what conversations took place within these families, but it is not difficult to imagine how dissatisfaction can take root. The Levites were forbidden from even looking upon the uncovered holy furnishings. Their role had limits—clear boundaries set by God. It is easy to suppose that those limits began to feel unnecessary. Unfair. Arbitrary. Perhaps even fabricated by Moses and Aaron themselves.
+---
+
+Scripture does not tell us what conversations took place within these families, but it is not difficult to imagine how dissatisfaction can take root. The Levites were forbidden from even *looking* upon the uncovered holy furnishings. Their role had limits—clear boundaries **set by God.** It is easy to suppose that those limits began to feel unnecessary. Unfair. Arbitrary. Perhaps even fabricated by Moses and Aaron themselves.
 
 In rebelling against Moses, they failed to see that they were rebelling against God.
 
@@ -45,6 +47,8 @@ Yet Numbers 26:11 tells us plainly: **“The sons of Korah did not die.”**
 At least some of Korah’s children appear to have recognized the error in their father’s path. Whether through repentance, humility, or quiet obedience, they did not join in the rebellion. They understood the sacredness of their calling. They honored the boundaries God had set. They recognized that proximity to holiness is itself a gift—not a platform for ambition.
 
 And so, they lived.
+
+---
 
 One can only imagine the horror with which they watched the ground open and consume entire households. That moment would have etched itself into their souls forever—a living testimony to the holiness, sovereignty, wrath, and mercy of God.
 
