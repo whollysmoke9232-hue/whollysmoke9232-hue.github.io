@@ -139,16 +139,8 @@ layout: layout.njk
 </style>
 
 <div class="book-content">
-  {% set tagList = [] %}
-  {% if tags %}
-    {% if tags is string %}
-      {% set tagList = [tags] %}
-    {% elif tags is array %}
-      {% set tagList = tags %}
-    {% endif %}
-  {% endif %}
-  {% set isFracturedLight = "fractured-light" in tagList %}
-  {% set isMargins = "margins-where-god-begins" in tagList %}
+  {% set isFracturedLight = page.url.includes("/fractured-light/") %}
+  {% set isMargins = page.url.includes("/margins-where-god-begins/") %}
   {% set bookCollection = collections.fracturedLight if isFracturedLight else collections.marginsBook %}
   {% set continuousUrl = "/stories/fractured-light/" if isFracturedLight else "/stories/margins-where-god-begins/" %}
   {% set tocUrl = "/books/fractured-light/toc/" if isFracturedLight else "/books/margins-where-god-begins/toc/" %}
@@ -162,14 +154,14 @@ layout: layout.njk
 
   <!-- Book header with TOC link -->
   <header class="book-header">
-    <p style="margin: 0 0 0.5rem 0; font-size: 0.75rem; color: #999; text-transform: uppercase; letter-spacing: 0.05em;">
-      <a href="{{ contentsUrl }}" style="color: inherit; text-decoration: none;">{{ bookTitle }}</a>
-    </p>
     <h1 class="chapter-title">
-      <a href="{{ tocUrl }}">{{ title }}</a>
+      <a href="{{ contentsUrl }}">{{ bookTitle }}</a>
     </h1>
+    <p class="chapter-subtitle" style="font-size: 1.1em; margin-top: 0.5rem;">
+      <a href="{{ tocUrl }}" style="color: inherit; text-decoration: none;">{{ title }}</a>
+    </p>
     {% if chapterSubtitle %}
-      <p class="chapter-subtitle">{{ chapterSubtitle }}</p>
+      <p class="chapter-subtitle" style="font-size: 0.95em; margin-top: 0.25rem;">{{ chapterSubtitle }}</p>
     {% endif %}
   </header>
 

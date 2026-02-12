@@ -6,6 +6,7 @@ order: 11
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-11/"
 category: books
+tags: fractured-light
 ---
 
 I never set out to write this story.

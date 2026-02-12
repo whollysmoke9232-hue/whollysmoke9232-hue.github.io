@@ -41,7 +41,7 @@ What follows is not an explanation of events, nor an attempt to read Scripture a
 These verses are a source of both comfort and internal conflict.  
 While I take great comfort in God’s mercy and grace, I find it difficult to embrace the promise of deliverance from shame. I find that what I need is a deeper understanding of what deliverance looks like.
 
-David is not timid here. He asks God to forgive all his sins—not only the obvious failures of the present, but the sins of his youth. He entrusts even their memory to God: “According to Your lovingkindness remember me.” Not, remember what I did, but remember who You are.
+David is not timid here. He asks God to forgive all his sins—not only the obvious failures of the present, but the sins of his youth. He entrusts even their memory to God: *“According to Your lovingkindness remember me.”* Not, remember what *I did*, but remember *who You are.*
 
 David refuses to separate forgiveness from rescue.
 
@@ -74,22 +74,26 @@ The earthly outcome may not change.
 
 That is the conflict.
 
-It’s not only the struggle to accept forgiveness; it’s the struggle to accept that forgiveness does not guarantee the kind of deliverance I most want
+It’s not only the struggle to accept forgiveness; it’s the struggle to accept that forgiveness does not guarantee the kind of deliverance I most want.
 
 David himself is praying from inside that kind of uncertainty. He is surrounded by enemies. His prayers are not polished theological statements; they are survival prayers.  
-He asks God to remember him according to lovingkindness.  
-He asks for forgiveness.  
-He asks for deliverance.  
-He asks not to be put to shame.  
-He takes refuge.
+> He asks God to remember him according to lovingkindness.  
+> He asks for forgiveness.  
+> He asks for deliverance.  
+> He asks not to be put to shame.  
+> He takes refuge.
 
-Refuge is not the same as escape. Refuge is what you run to when the storm does not stop. Refuge is safety that exists even while danger remains. Refuge is the hidden place where your soul can survive what your circumstances may not spare you from.
+---
 
-Sometimes deliverance is external. Sometimes God plucks a person out of a trap in ways you can point to and name. But Scripture also reveals a deliverance that is deeper than outcome: deliverance from being undone. Deliverance from despair.
+## Refuge is not the same as escape. 
+
+Refuge is what you run to when the storm does not stop. Refuge is safety that exists even while danger remains. Refuge is the hidden place where your soul can survive what your circumstances may not spare you from.
+
+Sometimes deliverance is external. Sometimes God plucks a person out of a trap in ways you can point to and name. But Scripture also reveals a deliverance that is deeper than outcome: Deliverance from being undone. Deliverance from despair.
 
 Shame does not only say, “You did wrong,” it says, “You are wrong.” And when consequences come—especially public ones—shame tries to convince you that: This is who you are. This is what you deserve. This is what God thinks of you.
 
-That is the net.
+That is the net David refers to.
 
 David does not pray like someone who has secured the outcome. He prays like someone who has recognized a refuge. He does not sound like a man demanding certainty; he sounds like a man clinging to God while uncertainty presses on him from every side.
 
@@ -111,8 +115,7 @@ And that is the hardest part of faith—not believing that God forgives, but bel
 
 > God of mercy,  
 > I ask You for deliverance, and I ask You for honesty.  
-> If You do not change the outcome I fear,  
-> do not let shame interpret my story for me.  
+> If You do not change the outcome I fear, do not let shame interpret my story for me.  
 > Guard my soul.  
 > Be my refuge.  
 > Remain near—whatever lies ahead.  

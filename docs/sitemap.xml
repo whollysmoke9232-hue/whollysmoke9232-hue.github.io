@@ -26,13 +26,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/reflections/renew-my-mind/</loc>
-    <lastmod>2014-08-21</lastmod>
+    <loc>https://www.marginsdevotionals.com/meditations/5th-street-meditation/</loc>
+    <lastmod>2014-04-19</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/meditations/5th-street-meditation/</loc>
-    <lastmod>2015-04-19</lastmod>
+    <loc>https://www.marginsdevotionals.com/reflections/renew-my-mind/</loc>
+    <lastmod>2014-08-21</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -693,6 +693,11 @@
   <url>
     <loc>https://www.marginsdevotionals.com/reflections/still-waiting/</loc>
     <lastmod>2026-02-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/testimonies/from-exile-to-surrender/</loc>
+    <lastmod>2026-02-12</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

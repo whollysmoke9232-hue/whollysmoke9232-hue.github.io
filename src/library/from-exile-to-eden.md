@@ -57,7 +57,7 @@ Each time I promised myself I would never return to old patterns, I meant it wit
 
 In my marriage, secrecy wasn’t driven by a belief that I could get away with anything. It came from shame. It wasn’t that I feared my wife would leave if she ever found out. I believed I deserved abandonment. What I feared was that full exposure would confirm what I already suspected about myself.
 
-Looking back now, I can see how distorted my thinking had become. I lived as though every interaction revolved around me—my needs, my fears, my internal turmoil. I moved through life impaired, unaware of how deeply that impairment affected everyone around me. My vision was bent inward; I was present in body but often absent in attention, patience, and care, correcting, controlling, and withdrawing without realizing how much of myself was missing in the process.
+Looking back now, I can see how distorted my thinking had become. I lived as though every interaction revolved around me—my needs, my fears, my internal turmoil. I moved through life impaired, unaware of how deeply that impairment affected everyone around me. My vision was bent inward; I was present in body but often absent in attention, patience, and care. I was correcting, controlling, and withdrawing without realizing how much of myself was missing in the process.
 
 When I was younger, I was often compared to who I should have been, rather than seen for who I was. It took years for me to realize that I was not created to be someone else. I was created to be me—and something in me had gone terribly off course.
 
@@ -83,11 +83,11 @@ I was painfully aware that my choices were hurting my wife—the first person I 
 
 I knew I was also failing my children. My attention was divided between pursuing relief and fighting myself. In that conflict, I missed moments I can never reclaim. I once dreamed of raising children who loved God deeply, and I watched pieces of that dream slip quietly past me.
 
-Shame settled deep. There were moments when despair felt overwhelming, when I could not see a way forward. What kept me from giving up was not strength, but love—and the knowledge that my absence would only deepen the harm already done.
+Shame settled deep. There were moments when despair felt overwhelming, when I could not see a way forward — when giving up seemed like an acceptable option. What kept me from giving up was not strength, but love—and the knowledge that my absence would only deepen the harm already done.
 
 The week before my arrest, something shifted. I entered a season of sobriety that would continue, though I did not yet understand what it would cost. I waited, cautious, unwilling to trust myself too quickly.
 
-Then came the arrest.
+Then came my arrest.
 
 And suddenly, I had time.
 
@@ -141,7 +141,7 @@ It became clear that what I was learning was not only for survival inside those 
 
 So I began to write.
 
-Nearly every day, I wrote about grace, mercy, forgiveness, judgment, and love. I wrote as quickly as I could with the short, flexible pens we were allowed. Sometimes my fingers ached so badly I had to stop. But I kept writing.
+Nearly every day, I wrote about grace, mercy, forgiveness, judgment, and love. I wrote as quickly as I could with the short, flexible pens we were allowed. Sometimes my fingers ached so badly I had to take a break. But I kept writing.
 
 Slowly, I became aware that something had changed. This was not a change from how I had begun reading Scripture in jail, but from how I had read it before I ever arrived.
 
@@ -149,9 +149,9 @@ I was no longer reading Scripture to prepare lessons for others. I was reading t
 
 My prayer shifted into something simple and honest:
 
-*Thank You for bringing me here where I can finally hear You.*  
-*I know You brought me here for a reason.*  
-*I don’t want to leave until Your purpose here is complete.*
+> *Thank You for bringing me here where I can finally hear You.*  
+> *I know You brought me here for a reason.*  
+> *I don’t want to leave until Your purpose here is complete.*
 
 That prayer has never really stopped shaping me.
 

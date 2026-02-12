@@ -16,7 +16,7 @@ scripture:
 
 **Romans 1:17**
 
-> *“For in it the righteousness of God is revealed from faith to faith…”* **—Romans 1:17**
+> *“For in it the righteousness of God is revealed from faith to faith …”* **—Romans 1:17**
 
 This righteousness is not achieved—it is credited.  
 It is the righteousness that God places into our account by faith.

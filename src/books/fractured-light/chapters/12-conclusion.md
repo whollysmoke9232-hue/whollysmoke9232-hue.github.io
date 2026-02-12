@@ -6,6 +6,7 @@ order: 12
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/conclusion/"
 category: books
+tags: fractured-light
 ---
 
 If you've made it this far, thank you.

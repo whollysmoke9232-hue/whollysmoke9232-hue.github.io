@@ -17,8 +17,6 @@ scripture:
   - Revelation 14:2
 ---
 
-## Key Scripture
-
 > _“The heavens declare the glory of God…  
 > They have no speech, they use no words;  
 > their voice is not heard.”_ **—Psalm 19:1–3**
@@ -27,7 +25,7 @@ scripture:
 
 ## A Morning Encounter
 
-This morning, as I read Psalm 19—a passage that speaks of creation’s silent, ceaseless worship—I found my gaze drifting out the window.
+This morning, as I contemplated Psalm 19—a passage that speaks of creation’s silent, ceaseless worship—I found my gaze drifting to the small slice of sky visible only if I pressed my face against the left edge of the window in my cell door and looked toward the visible world at the far end of the day room.
 
 Beyond the fence line stood a cluster of trees, their branches reaching skyward. A gentle breeze stirred, and in an instant, thousands of limbs—laden with hundreds of thousands of leaves—began to sway back and forth in a mesmerizing rhythm.
 
@@ -35,7 +33,7 @@ I paused, contemplating God’s incredible handiwork. How remarkable that He des
 
 Then something shifted.
 
-The limbs continued their rhythmic movement, but suddenly I saw them differently. It was as though they were waving directly at me—thousands of branches, moving in unison, acknowledging my presence. As if to say, _“We know you’re still there. We’re still here too. We just wanted to say good morning.”_
+The limbs continued their rhythmic movement, but suddenly I saw them differently. The movement seemed more like a dance. It was as though they were waving directly at me—thousands of branches, moving in unison, acknowledging my presence. As if to say, _“We know you’re still there. We’re still here too. We just wanted to say good morning.”_
 
 In that moment, I was undone.
 
@@ -65,12 +63,6 @@ And I imagine his gentle reply would be, _“Yes. Exactly.”_
 God’s voice cannot be contained by a single metaphor. Sometimes it crashes like thunder. Sometimes it roars like oceans. And sometimes—it whispers through leaves waving in the breeze.
 
 Yet the message is always the same.
-
----
-
-## Eternal Message
-
-God speaks in countless ways, but His message never changes.
 
 **You are loved.**
 

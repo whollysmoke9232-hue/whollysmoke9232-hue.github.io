@@ -6,6 +6,7 @@ order: 7
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-7/"
 category: books
+tags: fractured-light
 ---
 
 By November 2022, my world began to unravel.

@@ -15,11 +15,7 @@ scripture:
 permalink: /testimonies/bitter-harvest-of-sin/
 ---
 
-## Key Scripture
-
 > _“What benefit did you reap at that time from the things you are now ashamed of? Those things result in death!”_ **—Romans 6:21**
-
----
 
 The Apostle Paul pulls back the curtain on a harsh truth about sin—one we often learn the hard way. He asks a piercing question:
 
@@ -30,7 +26,7 @@ It is irrational.
 
 In the moment, sin often feels like relief. Escape. Satisfaction. Freedom. There may be a rush—temporary pleasure or comfort that feels convincing and real. But Paul forces us to look beyond the moment and into the aftermath.
 
-“Those things result in death.”
+*“Those things result in death.”*
 
 Not only physical death, but spiritual death. Relational death. Emotional death. The death of peace, trust, and joy.
 
@@ -66,10 +62,10 @@ Recognizing the true nature of sin is not condemnation—it is liberation. It te
 
 ## Prayer
 
-> _Lord, thank You for the clarity of Your Word.  
+> Lord, thank You for the clarity of Your Word.  
 > Help me recognize the traps that masquerade as treasures.  
 > Remind me that sin never brings life—only You do.  
-> Give me the courage to turn from foolishness and walk in freedom._  
+> Give me the courage to turn from foolishness and walk in freedom.  
 > Amen.
 
 

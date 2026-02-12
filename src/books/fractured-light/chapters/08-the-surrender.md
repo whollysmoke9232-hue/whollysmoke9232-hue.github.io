@@ -6,6 +6,7 @@ order: 8
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-8/"
 category: books
+tags: fractured-light
 ---
 
 Elijah had just called down fire from heaven. He had just defeated the prophets of Baal. He had just watched God move in undeniable power. And then he collapsed.

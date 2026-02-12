@@ -18,8 +18,6 @@ scripture:
   - Psalm 39:7
 ---
 
-## Key Scripture
-
 > *“…our God whom we serve is able to deliver us from the furnace of blazing fire; and He will deliver us out of your hand, O king.*  
 > *But even if He does not, let it be known to you, O king, that we are not going to serve your gods or worship the golden image that you have set up.”*  
 > **—Daniel 3:17–18**

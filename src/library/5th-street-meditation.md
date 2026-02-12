@@ -1,7 +1,7 @@
 ---
 title: "5th Street Meditation"
 author: Steve Wilkins
-date: 2015-04-19
+date: 2014-04-19
 layout: article.njk
 excerpt: "If Your presence does not go with us, do not lead us up from here."
 category: meditations
@@ -24,11 +24,13 @@ The truest work of God’s children is not found in activity, gifting, or even o
 
 Everything Moses had seen and experienced of God convinced him that there must be more—not more activity, but more presence.
 
-Jesus seemed to know this too.  
+Jesus knew this too.  
 He consistently bypassed the religious elite and chose instead to share tables with the poor, the profane, and those written off as unworthy.
 
 People are not starving for stories *about* Jesus.  
 They are starving for Jesus Himself.
+
+---
 
 So much of our striving comes from trying to be “godly,” when Jesus invites us instead to become fully human again—human in the way He was human. Present. Attentive. Available. Rooted in love.
 
@@ -37,6 +39,8 @@ In that light, the ordinary work of loving others—caring for family, showing u
 Jesus said that He came so that we might have life—abundant life. He did not take on flesh simply so we could pray a prayer, attend church, and settle for a thin, semi-religious existence. His desire was that His own life would take root in us, restoring a way of relating to God that feels less like performance and more like belonging.
 
 When Jesus prayed for His followers, He did not ask that they would grow churches, build platforms, or achieve spiritual success. He prayed that they would be drawn into the shared life of the Father, the Son, and the Holy Spirit—that they would belong to a family. And that belonging would ripple outward, grafting others not merely into belief, but into fellowship.
+
+---
 
 The incarnational way of life is not first about conversion.  
 It is about adoption.

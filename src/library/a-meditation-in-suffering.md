@@ -13,8 +13,6 @@ scripture:
   - Psalm 69:7
 ---
 
-## Key Scripture
-
 > _“Because for Your sake I have borne reproach;  
 > dishonor has covered my face.”_ **—Psalms 69:7**
 

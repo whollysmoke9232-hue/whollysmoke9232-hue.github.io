@@ -6,6 +6,7 @@ order: 1
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-1/"
 category: books
+tags: fractured-light
 ---
 
 I grew up in a different time. My friends and I were expected to be out of the house every day until the streetlights came on. Then it was time to head home for homework, bath time, and supper. I spent an enormous amount of time figuring life out with my peers. We all went to church in those days, so we had a basic foundation of right and wrong; but the details were blurred by our immature logic and desires.

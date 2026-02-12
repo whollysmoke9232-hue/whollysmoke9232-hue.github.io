@@ -48,20 +48,10 @@ Receive the gift you were never meant to pay for.
 
 We live righteous lives not *for* salvation, but *from* salvation—by faith, all the way through.
 
----
-
-## Reflection Questions
-
-1. What does it mean to you that God’s righteousness is *credited* to your account rather than earned?  
-2. How does seeing faith as both the beginning and the ongoing means of growth change the way you face daily struggles?  
-3. Take a moment to thank God—not only for salvation, but for sustaining you by faith today.
-
----
-
 ## Prayer
 
 > Lord, thank You that faith begins with You and continues by You.  
-> Teach me to live from Your righteousness, not toward it.  
+> Teach me to live *from* Your righteousness, not toward it.  
 > Keep me grounded not in performance, but in trust—  
 > and let my life be shaped by wonder, not striving.  
 > Amen.

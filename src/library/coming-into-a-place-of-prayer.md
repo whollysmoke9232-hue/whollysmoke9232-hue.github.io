@@ -38,7 +38,7 @@ Forgiveness, in particular, matters deeply. When we forgive others, we are not e
 
 Jesus then tells a story about a man who comes to a friend at midnight asking for bread. The request is inconvenient. The timing is wrong. But because of the man’s boldness—his willingness to ask anyway—the door opens.
 
-The point is not persistence as pressure. It is boldness rooted in relationship.
+The point is not persistence as pressure. It is *boldness rooted in relationship.*
 
 Many of us hesitate in prayer because we assume a life of prayer demands more time, effort, or discipline than we can supply. We believe prayer must be long, intense, or impressive to be effective.
 
@@ -50,9 +50,9 @@ Jesus says otherwise.
 
 Prayer is not about extended hours or perfect words. It is about coming. Asking. Trusting. And asking again.
 
-> *“Ask, and it will be given to you… for everyone who asks receives.”*
+> *“Ask, and it will be given to you… for everyone who asks receives.”* **—Matthew 7:7-8**
 
-We are talking about daily needs—bread for today. As God provides, we ask again tomorrow. Prayer becomes a rhythm, not a performance.
+We are talking about *daily* needs—bread for today. As God provides, we ask again tomorrow. Prayer becomes a rhythm, not a performance.
 
 ### Our Father Is Willing
 
@@ -62,7 +62,7 @@ When we say, *“I don’t want to bother God with my small needs,”* what we a
 
 But Jesus reminds us: if earthly parents know how to give good gifts, how much more will our Father give what is good to His children?
 
-When Jesus died, the veil in the Temple was torn in two. Access was opened. Holiness was satisfied—not by us, but by Him. Now, in Jesus’ name, imperfect people can come boldly before the throne of grace.
+When Jesus died, the veil in the Temple was torn in two. Access was opened. Holiness was satisfied—not by us, *but by Him.* Now, in Jesus’ name, imperfect people can come boldly before the throne of grace.
 
 Boldness is not arrogance.  
 Boldness is your privilege.
@@ -87,7 +87,7 @@ Scripture reminds us:
 
 One word of caution: resistance will come. Anything that keeps us from prayer keeps us from dependence. But remember—you are a child of the living God, and He delights in hearing from you.
 
-> *It is your Father’s good pleasure to give you the Kingdom.*
+> *... It is your Father’s good pleasure to give you the Kingdom.* **—Luke 12:32**
 
 ---
 

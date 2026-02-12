@@ -6,6 +6,7 @@ order: 3
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-3/"
 category: books
+tags: fractured-light
 ---
 
 Adolescence didn't slow the spiral—it accelerated it.

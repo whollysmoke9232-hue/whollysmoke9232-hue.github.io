@@ -9,8 +9,6 @@ scripture:
   - Genesis 5:24
 ---
 
-## Key Scripture
-
 > _“Enoch walked faithfully with God; then he was no more, because God took him away.”_ **—Genesis 5:24**
 
 ---
@@ -51,7 +49,7 @@ It was simply God’s presence responding to surrendered hearts.
 
 ### The Cost of Praise
 
-Isaiah cried, _“Woe is me… I am undone.”_  
+Isaiah cried, _“Woe is me… I am undone.”_ **—Isaiah 6:5**
 And that’s how I felt.
 
 Undone by holiness.  
@@ -61,7 +59,7 @@ True worship costs something. Not money. Not talent.
 **Pride.**
 
 David understood it when he said,  
-_I will not offer to the Lord that which costs me nothing._
+_I will not offer to the Lord that which costs me nothing._ **—II Samuel 24:24**
 
 To worship freely, I must release my need to appear composed.  
 To walk closely, I must die to self-awareness and awaken to intimacy.
@@ -94,6 +92,8 @@ And his walk didn’t end with him. It echoed forward—through Noah, through ge
 
 What if our worship today is shaping tomorrow’s faith?  
 What if our intimacy becomes someone else’s inheritance?
+
+I want to dance like Enoch danced!
 
 ---
 

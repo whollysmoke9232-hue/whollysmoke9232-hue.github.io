@@ -14,7 +14,6 @@ scripture:
   - Matthew 6:33
   - Galatians 5:22-23
 
-
 ---
 
 > *“Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, which is your spiritual service of worship. And do not be conformed to this world, but be transformed by the renewing of your mind…”* **—Romans 12:1–2**
@@ -25,7 +24,7 @@ Paul begins with a warning: **Do not be conformed.**
 The word *conformed* carries the idea of being *with* the structures, patterns, and philosophies of this world—sharing its assumptions, values, and logic. This is not a call to superficial nonconformity. Even the Pharisees were nonconformists in appearance. Paul is speaking about something deeper: resisting the world’s way of thinking.
 
 Then comes the command: **Be transformed.**  
-To be transformed is to move *across* and *beyond* the forms of this world—to rise above them. This is a call to transcendent excellence, not cultural withdrawal. The Christian life is not merely different; it is elevated.
+To be transformed is to move *across* and *beyond* the forms of this world—to rise above them. This is a call to transcendent excellence, not cultural withdrawal. The Christian life is not merely different; *it is elevated.*
 
 That transformation happens through **the renewing of the mind.**  
 This is nothing more—and nothing less—than serious, in-depth formation. A growing mastery of the Word of God. Lives change when minds change. We are called to have the mind of Christ.
@@ -84,7 +83,7 @@ Only then can we discern and embrace God’s good, pleasing, and perfect will—
 
 In what ways have I allowed my thinking to be shaped more by the world than by the Word?
 
-Transformation does not begin with changed behavior, but with a renewed mind. What voices most influence my assumptions, my fears, my ambitions, and my definition of success? Where do I resist God—not outwardly, but quietly—by holding on to patterns of thought that feel familiar or safe?
+Transformation does not begin with changed behavior, but with a renewed mind. What voices most influence my assumptions, my fears, my ambitions, and my definition of success?
 
 True worship costs more than attendance or agreement. It requires surrender—daily, ongoing, and sometimes painful. Yet it is in that surrender that freedom is found.
 
@@ -97,7 +96,8 @@ Am I willing to be transformed, or do I merely want to be affirmed?
 > Father,  
 > By Your mercy, I offer myself to You.
 
-> I confess that I am often tempted to conform—to think like the world, to reason like the world, to protect myself the way the world does. Renew my mind. Expose what is false. Replace it with truth.
+> I confess that I am often tempted to conform—to think like the world, to reason like the world, to protect myself the way the world does. 
+> Renew my mind. Expose what is false. Replace it with truth.
 
 > Form in me the mind of Christ.  
 > Teach me to love what You love and desire what You desire.

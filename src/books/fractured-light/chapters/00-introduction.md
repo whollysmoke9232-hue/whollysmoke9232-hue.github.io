@@ -6,6 +6,7 @@ order: 0
 author: "Steve Wilkins"
 permalink: "/books/fractured-light/introduction/"
 category: books
+tags: fractured-light
 ---
 
 I didn't set out to write this book. I set out to survive.

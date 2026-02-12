@@ -55,14 +55,30 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("marginsBook", function (collectionApi) {
     return collectionApi
-      .getFilteredByTag("margins-where-god-begins")
-      .sort((a, b) => a.data.order - b.data.order);
+      .getAll()
+      .filter(item => {
+        if (!item.url) return false;
+        if (!item.url.includes("/books/margins-where-god-begins/")) return false;
+        // Exclude index and TOC pages
+        if (item.url.endsWith("/books/margins-where-god-begins/")) return false;
+        if (item.url.includes("/toc/")) return false;
+        return true;
+      })
+      .sort((a, b) => (a.data.order || 0) - (b.data.order || 0));
   });
 
   eleventyConfig.addCollection("fracturedLight", function (collectionApi) {
     return collectionApi
-      .getFilteredByTag("fractured-light")
-      .sort((a, b) => a.data.order - b.data.order);
+      .getAll()
+      .filter(item => {
+        if (!item.url) return false;
+        if (!item.url.includes("/books/fractured-light/")) return false;
+        // Exclude index and TOC pages
+        if (item.url.endsWith("/books/fractured-light/")) return false;
+        if (item.url.includes("/toc/")) return false;
+        return true;
+      })
+      .sort((a, b) => (a.data.order || 0) - (b.data.order || 0));
   });
 
   eleventyConfig.addFilter("getPreviousCollectionItem", function (collection, page) {

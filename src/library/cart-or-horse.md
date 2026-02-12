@@ -28,15 +28,15 @@ What makes this so striking is that David himself could not fully meet the stand
 
 And that is where the paradox sharpens.
 
-Psalm 15 does not describe the price of admission into God’s presence so much as the **portrait of a life shaped by it**. David is not placing holiness before grace, but grace before holiness. He understood that access to God had always depended on God’s mercy, not human worthiness.
+Psalm 15 does not describe the price of admission into God’s presence so much as the ***portrait of a life shaped by it***. David is not placing holiness before grace, but grace before holiness. He understood that access to God had always depended on God’s mercy, not human worthiness.
 
-The heart drawn toward God’s holiness is the heart God graciously credits with righteousness. And in God’s presence, those credited attributes begin—slowly, imperfectly—to become manifested attributes. Worship does not reward righteousness; it produces it.
+The heart drawn toward God’s holiness is the heart God graciously credits with righteousness. And in God’s presence, those *credited* attributes begin—slowly, imperfectly—to become *manifested* attributes. Worship does not reward righteousness; it produces it.
 
 David could speak confidently about who may dwell with God precisely because he knew that standing before God was always an act of grace.
 
 That question—and its answer—has not changed. God is still holy. Access to His presence still requires purity of heart. But what David longed for, Christ has accomplished.
 
-Because Jesus purchased our purity on the cross, our access is no longer uncertain. Paul tells us we may draw near **boldly**. Not because we are worthy, but because Christ is. Like David, we enter by grace—and in God’s presence, we are changed.
+Because Jesus purchased our purity on the cross, our access is no longer uncertain. Paul tells us we may draw near ***boldly***. Not because *we* are worthy, but because Christ is. Like David, we enter by grace—and in God’s presence, we are changed.
 
 I know how often I hesitate to worship because of my sin. I feel unworthy to approach God, as though I must first fix myself before coming near. But isn’t that the very mistake Psalm 15 exposes?
 
