@@ -53,6 +53,7 @@ Numbers.
 Deuteronomy.  
 The histories.  
 The prophets.  
+The Gospels.  
 The letters.  
 
 Until I finished Revelation.
@@ -126,8 +127,7 @@ No moment—and no person—appears by accident.
 
 Take **Levi**, the tax collector.
 
-> “After these things, He went out and saw a tax collector named Levi sitting in the tax office. And He said to him, ‘Follow Me.’ So he left all, rose up, and followed Him.”  
-> —Luke 5:27–28
+> *“After these things, He went out and saw a tax collector named Levi sitting in the tax office. And He said to him, ‘Follow Me.’ So he left all, rose up, and followed Him.”* **—Luke 5:27–28**
 
 Levi wasn’t scenery.
 
@@ -141,8 +141,7 @@ Every one of those moments conspired to place him **at that desk, on that day**,
 
 God orchestrated it all.
 
-The same is true of Abraham. Moses. David. Isaiah. John. Zacchaeus.  
-(Just imagine the lengths God went to protect that sycamore tree.)
+The same is true of Abraham. Moses. David. Isaiah. John. Zacchaeus (Just imagine the lengths God went through to protect that sycamore tree.).
 
 God knows.  
 God plans.  
@@ -170,10 +169,7 @@ Before words.
 
 Everything from *Genesis 1:1* to *Revelation 22:21*—and beyond—was already fully known.
 
-> *“Your eyes saw my unformed body.*  
-> *All the days ordained for me were written in Your book*  
-> *before one of them came to be.”*  
-> **—Psalm 139:16**
+> *“Your eyes saw my unformed body. All the days ordained for me were written in Your book before one of them came to be.”* **—Psalm 139:16**
 
 > *“The Lamb who was slain from the creation of the world.”* **—Revelation 13:8**
 

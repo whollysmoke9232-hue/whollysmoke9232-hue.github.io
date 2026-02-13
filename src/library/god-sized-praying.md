@@ -1,7 +1,7 @@
 ---
 title: "God-Sized Praying"
 author: Steve Wilkins
-date: 2012-10-01
+date: 2023-10-01
 layout: article.njk
 category: meditations
 excerpt: "Perhaps the invitation of prayer is not to ask more quickly, but to ask more deeply."

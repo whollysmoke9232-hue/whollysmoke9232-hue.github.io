@@ -12,9 +12,7 @@ scripture:
   - Psalm 125:2
 ---
 
-## Key Scripture
-
-> *“As the mountains surround :contentReference[oaicite:1]{index=1},*  
+> *“As the mountains surround Jerusalem,*  
 > *so the LORD surrounds his people*  
 > *both now and forevermore.”* > **—Psalm 125:2**
 
@@ -34,7 +32,7 @@ Yet God’s majesty never becomes impersonal.
 
 Imagine standing in Jerusalem. You can see the mountains stretching across the horizon, but you can also feel the breeze they channel into the streets. In the same way, the God who surrounds His people is also the God who draws near to the individual soul.
 
-He surrounds **you**.
+He surrounds ***you***.
 
 Your specific fears.  
 Your quiet hopes.  
@@ -42,7 +40,7 @@ Your unseen battles.
 
 His presence is not merely a wall in the distance—it is the very atmosphere you breathe. The same power that established the mountains is the same tenderness that shields your fragile heart. He knows your name. He sees your path. His vast, eternal nature is focused with loving precision on the details of your life.
 
-And this promise is sealed with time: **“both now and forevermore.”**
+And this promise is sealed with time: ***“both now and forevermore.”***
 
 This is not a temporary shelter. The security you have in Him today is the same security that will hold you at the end of your days and carry you into eternity. Mountains do not wander away. They define steadfastness. So does the Lord.
 

@@ -32,9 +32,9 @@ The triune God—Father, Son, and Holy Spirit—existed in perfect unity before 
 
 Love longs to be shared. But love cannot be programmed. It requires freedom. Relationship. Choice.
 
-That is why humanity was created with the capacity to say yes—or no. Not as machines built to obey, but as beings able to respond to love with love.
+That is why humanity was created with the capacity to say yes—or no. Not as machines built to obey, but as beings able to respond *to* love *with* love.
 
-In the beginning, Adam lived in abundance. One boundary. One invitation to trust. One opportunity to say, “God, I believe You know what is best.”
+In the beginning, Adam lived in abundance. One boundary. One invitation to trust. One opportunity to say, *“God, I believe You know what is best.”*
 
 But love must be free to refuse.
 
@@ -87,7 +87,7 @@ And then came Jesus.
 
 God did what the law could never do. He sent His Son as a sin offering. Jesus became the Lamb. Jesus became the Scapegoat.
 
-On the cross, He carried our rejection, our shame, our death. And when He cried, “It is finished,” every sacrifice found its fulfillment.
+On the cross, He carried our rejection, our shame, our death. And when He cried, *“It is finished,”* **(John 19:30)** every sacrifice found its fulfillment.
 
 No more barriers.  
 No more rituals.  
@@ -97,7 +97,7 @@ Only grace.
 
 ## Dead Men See His Face
 
-Scripture describes sacrifices as “a pleasing aroma to the Lord”—not because of scent, but because of surrender.
+Scripture describes sacrifices as *“a pleasing aroma to the Lord”*—not because of scent, but because of surrender.
 
 God draws near to places where self-rule has ended. Pride, self-will, and flesh cannot survive His holiness.
 
@@ -129,7 +129,7 @@ The more we die to self, the more fully we live in Him.
 > Lord Jesus, thank You for becoming the Scapegoat I could never be.  
 > Thank You for carrying my sin, my shame, and my death.  
 > Teach me to die daily—to surrender pride, fear, and self-will.  
-> Draw me near, not to know about You, but to truly know You.  
+> Draw me near, not that I may know about You, but to truly know You.  
 > Cover me, cleanse me, and lead me deeper into Your presence.  
 > Amen.
 

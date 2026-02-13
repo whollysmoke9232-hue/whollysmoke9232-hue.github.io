@@ -22,13 +22,11 @@ scripture:
 > *Great is Your faithfulness.”*  
 > **—Lamentations 3:22–23**
 
----
-
 There is no end to the creative ways God reveals His love. Just when I think He’s exhausted every method—**BOOM**—another masterpiece of mercy. A sunset. A flower. A memory. A smile from a stranger, or even a whispered correction. Each one becomes a brushstroke in His eternal mural of compassion.
 
 > **“The LORD’S lovingkindnesses indeed never cease.”**
 
-He knows my heart, my frailty, my thoughts—because He made me. He designed every response, every longing. And when I’m hurting, afraid, lonely, or confused, He meets me with the perfect passage of Scripture. Not as a distant deity, but as Immanuel—God with us. God *with me*.
+He knows my heart, my frailty, my thoughts—because He made me. He designed every response, every longing. And when I’m hurting, afraid, lonely, or confused, He meets me with the perfect passage of Scripture, or song, or word from a friend. Not as a distant deity, but as Immanuel—God with us. God *with me*.
 
 > **“For His compassions never fail.”**
 

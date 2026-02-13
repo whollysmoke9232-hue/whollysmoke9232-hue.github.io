@@ -1,7 +1,7 @@
 ---
 title: "Mustard Seed Faith"
 author: "Steve Wilkins"
-date: 2024-08-22
+date: 2023-08-22
 layout: article.njk
 category: devotionals
 excerpt: "Even little faith is powerful when pointed toward Jesus. Mustard seed faith moves mountains—and multiplies miracles."
@@ -20,24 +20,20 @@ scripture:
   - Matthew 14:15-33
 ---
 
-## Key Scripture
-
 > _“…I tell you the truth, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there’ and it will move…”_ **—Matthew 17:20**
-
----
 
 I used to think that verse was good news—if I ever needed to move a mountain.
 
 But then I began to notice the kind of faith so many displayed when Jesus walked among them. It wasn’t flashy or loud. It was persistent, expectant, and deeply rooted:
 
-- The woman with the issue of blood _(Luke 8:43)_  
-- The lame man at the Pool of Bethesda _(John 5:1)_  
-- The paralytic lowered through the roof _(Mark 2:3)_  
-- The groom at Cana _(John 2:1)_  
-- The grieving mother in Nain _(Luke 7:11)_  
-- The man with a withered hand _(Mark 3:1)_
+- The woman with the issue of blood **(Luke 8:43)** 
+- The lame man at the Pool of Bethesda **(John 5:1)**  
+- The paralytic lowered through the roof **(Mark 2:3)**  
+- The groom at Cana **(John 2:1)**  
+- The grieving mother in Nain **(Luke 7:11)**  
+- The man with a withered hand **(Mark 3:1)**
 
-And then—perhaps most remarkably—the miracle of multiplication in _Matthew 14:15–33_. Five loaves. Two fish. Twenty thousand hungry people. And twelve disciples who had no idea that *today*, they’d be part of the miracle.
+And then—perhaps most remarkably—the miracle of multiplication in **Matthew 14:15–33**. Five loaves. Two fish. Twenty thousand hungry people. And twelve disciples who had no idea that *today*, they’d be part of the miracle.
 
 Jesus blessed the bread, broke it, and handed a piece to the first disciple. Yet somehow, both the disciple and Jesus were holding full loaves. The miracle continued—disciple by disciple, recipient by recipient.
 
@@ -56,9 +52,8 @@ In the boat, the disciples trembled as Jesus walked toward them on the water. Pe
 
 When Peter began to sink, Jesus caught him immediately.
 
-> _“O you of little faith…”_
-
-His words weren’t a rebuke. They were a reminder:
+> _“... O you of little faith ...”_ **—Matthew 14:31**
+It's easy to fault Peter for his doubt. But don't lose sight of what Peter did - *he walked on water!* ***With"little faith!*** Jesus' words weren’t a rebuke. They were a reminder:
 
 **Even little faith is powerful when pointed toward Me.**
 

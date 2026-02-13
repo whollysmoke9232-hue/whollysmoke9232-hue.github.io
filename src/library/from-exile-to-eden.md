@@ -3,10 +3,10 @@ title: "From Exile to Eden"
 author: Steve Wilkins
 date: 2026-01-19
 layout: article.njk
+excludeFromLibrary: true
 category: testimonies
 excerpt: "A story of addiction, surrender, confinement, and grace. This testimony stands on its own—offered not as instruction, but as witness—to the slow, unexpected work of God in a life brought to the end of itself."
 tags: 
-  - testimony
   - grace
   - surrender
   - restoration

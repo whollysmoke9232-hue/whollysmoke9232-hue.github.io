@@ -4,6 +4,7 @@ author: Steve Wilkins
 date: 2026-01-28
 layout: article.njk
 category: testimonies
+excludeFromLibrary: true
 excerpt: "Knowing the truth is not the same as being changed by it. This is the story of a slow undoing—where grace met me when my resolve finally ran out."
 tags: 
 - surrender

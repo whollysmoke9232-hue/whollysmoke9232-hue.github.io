@@ -16,12 +16,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/meditations/god-sized-praying/</loc>
-    <lastmod>2012-10-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/meditations/learning-to-stand-where-jesus-stood/</loc>
+    <loc>https://www.marginsdevotionals.com/meditations/stand-where-jesus-stood/</loc>
     <lastmod>2013-03-07</lastmod>
     <priority>0.8</priority>
   </url>
@@ -51,6 +46,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.marginsdevotionals.com/devotionals/mustard-seed-faith/</loc>
+    <lastmod>2023-08-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.marginsdevotionals.com/devotionals/be-transformed-v2/</loc>
     <lastmod>2023-08-26</lastmod>
     <priority>0.8</priority>
@@ -63,6 +63,11 @@
   <url>
     <loc>https://www.marginsdevotionals.com/meditations/faith-to-faith/</loc>
     <lastmod>2023-09-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/meditations/god-sized-praying/</loc>
+    <lastmod>2023-10-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -108,11 +113,6 @@
   <url>
     <loc>https://www.marginsdevotionals.com/devotionals/be-still/</loc>
     <lastmod>2024-07-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/devotionals/mustard-seed-faith/</loc>
-    <lastmod>2024-08-22</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -698,6 +698,26 @@
   <url>
     <loc>https://www.marginsdevotionals.com/testimonies/from-exile-to-surrender/</loc>
     <lastmod>2026-02-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/meditations/in-his-image/</loc>
+    <lastmod>2026-02-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/reflections/unpacking-holiness/</loc>
+    <lastmod>2026-02-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/reflections/waves/</loc>
+    <lastmod>2026-02-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/reflections/worship-the-lord/</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

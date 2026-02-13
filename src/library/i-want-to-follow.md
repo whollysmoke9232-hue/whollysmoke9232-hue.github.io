@@ -18,7 +18,7 @@ scripture_references:
 
 The sequence is significant.
 
-First, lead me. Cause me to walk in a direction. Be close enough to follow. There is a clear implication of relationship. Earlier, David prays, “Make me know Your ways, O LORD…” (Psalm 25:4). His priority is not information, but companionship. Not instruction first, but intimacy.
+First, lead me. Cause me to walk in a direction. Be close enough to follow. There is a clear implication of relationship. Earlier, David prays, *“Make me know Your ways, O LORD…”* **(Psalm 25:4)**. His priority is not information, but companionship. Not instruction first, but intimacy.
 
 David longs to walk with God—to live in fellowship along the journey. It is in the following, in the shared path, that David’s heart found union with God’s. Nearness is what he desires most, and we see that longing echoed again and again throughout the Book of Psalms.
 
@@ -32,9 +32,9 @@ When the sequence is reversed, the results are very different. Knowledge without
 
 God calls us to relationship first.
 
-> “Lead me in Your truth and teach me,  
-> for You are the God of my salvation;  
-> for You I wait all the day.” — Psalm 25:5
+> *“Lead me in Your truth and teach me,*  
+> *for You are the God of my salvation;*  
+> *for You I wait all the day.”* **— Psalm 25:5**
 
 ---
 

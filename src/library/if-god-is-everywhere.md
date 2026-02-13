@@ -1,5 +1,5 @@
 ---
-title: "If God Is Everywhere All The Time…"
+title: "If God Is Everywhere"
 author: "Steve Wilkins"
 date: 2026-01-03
 layout: article.njk

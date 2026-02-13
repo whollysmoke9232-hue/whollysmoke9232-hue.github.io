@@ -86,13 +86,11 @@ If His light leads me, I am not wandering.
 If His truth guides me, I am not lost.  
 And if I arrive in His presence—even with unanswered prayers still in my hands—I have not failed to reach home.
 
-From *How long, O Lord?*  
-to *Lead me.*
+From *How long, O Lord?* to *Lead me.*
 
 This is the quiet journey of faith—  
 not a straight line upward,  
-but a repeated turning back toward the One  
-who has never stopped being there.
+but a repeated turning back toward the One who has never stopped being there.
 
 ---
 
