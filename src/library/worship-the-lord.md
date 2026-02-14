@@ -6,11 +6,8 @@ layout: article.njk
 category: reflections
 excerpt: "Worship begins not with music, but with surrender—bowing low and entrusting what we love most into God’s hands."
 tags:
-  - worship
-  - surrender
-  - obedience
-  - sacrifice
-  - humility
+   - surrender
+   - obedience
 scripture_references:
   - Genesis 22:5
   - 2 Samuel 24:24
@@ -22,7 +19,7 @@ I’m not generally a big fan of deep diving into the original Hebrew text, but 
 
 The first mention we find of “worship” in the Bible is found in the account of Abraham’s offering of Issaic.  
 
-Abraham said to his young men; 
+Abraham said to his young men, 
 > *“Stay here with the donkey, and I and the lad will go over there; and we will worship and return to you.”* **—Genesis 22:5**  
 
 The context here is important. Worship is first connected to sacrifice. It involves obedience that costs something deeply personal.  
@@ -61,7 +58,8 @@ We must remember that worship is not about what appeals to us. It is about physi
 
 Just as Abraham understood that his worship would cost him dearly, we need to come to terms with what it could cost us.  
 
-David said, “…I will not offer burnt offerings to the LORD my God which cost me nothing…” —2 Samuel 24:24  
+David said, 
+> *“…I will not offer burnt offerings to the LORD my God which cost me nothing…”* **—2 Samuel 24:24**  
 
 Worship – such as is pleasing to God – will always cost me something.  
 
