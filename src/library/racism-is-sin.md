@@ -5,7 +5,7 @@ date: 2017-08-19
 layout: article.njk
 category: reflections
 excerpt: >
-  Originally written in response to Charlottesville in 2017 and revisited now, this reflection affirms that racism is sin and that reconciliation remains a central calling of the Christian life.
+  A personal reflection on Charlottesville, friendship, and the Christian call to reconciliation—arguing that racism is sin and that the work of Christ’s people is not outrage or silence, but costly, relational love across dividing lines.
 tags: []
 scripture_reference:
   - Genesis 1:27
@@ -21,12 +21,12 @@ scripture_reference:
 
 Some of my dearest friends are a married couple I’ve walked alongside for years — friends who do not look like me, but who feel as close as family. Over time, our lives have become intertwined through shared meals, conversations, laughter, and faith. They are gifted, faithful, generous people, and my life is richer because they are in it.
 
-In August of 2017, as news from Charlottesville filled the airwaves, I remember feeling the weight of it settle differently than it had before. I wasn’t processing headlines in the abstract. I was thinking about how hatred and violence land on people you love — how easily someone else’s ideology can turn your friends into targets simply because they look different than you do.
+In August of 2017, as news from Charlottesville filled the airwaves, I remember feeling the weight of it settle differently than it had before. I wasn’t processing headlines in the abstract. I was thinking about how hatred and violence land on people I love — how easily someone else’s ideology can turn my friends into targets simply because they look different than I do.
 
 That was the moment I realized I could not remain silent.
 
 Racism is sin.  
-Racism — in any form — is sin.
+Racism — *in any form* — is sin.
 
 Racism in the name of Christianity is not merely inconsistent; it is an abomination. Scripture is unambiguous about the worth and shared origin of humanity. The Bible does not speak in terms of “race,” but of nations, tribes, tongues, and families. Humanity is presented not as competing categories, but as one people with a common beginning — created in God’s image, descended from one another.
 
@@ -38,11 +38,13 @@ God’s intention has always been unity. Not uniformity, but reconciliation. Fro
 
 In Christ, we are not merely forgiven; we are entrusted. God reconciled us to Himself through Christ and then gave us the ministry of reconciliation. That ministry is not optional, and it is not abstract. It must take shape in real lives, real relationships, and real choices.
 
-Standing idly by is not an option.
+Standing idly by is not an option. 
+
+Complacency is complicity.  
 
 Reconciliation is not a slogan or a sentiment. It is slow, relational, and costly. It reshapes who we listen to, who we learn from, who we share life with. If our closest circles include only people who look like us, worship like us, think like us, and experience the world exactly as we do, then something in our discipleship has been left untouched.
 
-Nearly a decade later, what grieves me most is how little seems to have changed. Racism has not disappeared; it has simply evolved. In many spaces, it has been replaced with identity-driven outrage that still depends on division to survive. There are voices — both black and white — that appear more interested in keeping us opposed to one another than in doing the long, humbling work of reconciliation.
+Nearly a decade later, what grieves me most is how little seems to have changed. Racism has not disappeared; it has simply evolved. In many spaces, it has been replaced with identity-driven outrage that still depends on division to survive. There are voices — from all colors — that appear more interested in keeping us opposed to one another than in doing the long, humbling work of reconciliation.
 
 That should trouble followers of Jesus.
 

@@ -20,7 +20,7 @@ scripture_references:
   - Romans 3:21-22
 ---
 
-> *“But seek first His kingdom and His righteousness, and all these things will be added to you.”* **— Matthew 6:33** 
+> *“But seek first His kingdom and His righteousness, and all these things will be added to you.”* **—Matthew 6:33** 
 
 ### What "things?"
 

@@ -62,10 +62,9 @@ When the focus shifts from the **Giver** to the gifts, from **His presence** to 
 
 ---
 
-So maybe the prayer isn’t,  
-“God, do something new,”  
+So maybe the prayer isn’t, “God, do something new,”  
 but rather,  
-“God, help me stop getting in the way of what You are already doing.”
+*“God, help me stop getting in the way of what You are already doing.”*
 
 If you want something you’ve never had,  
 you may need to release something you’ve been holding too tightly.

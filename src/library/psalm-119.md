@@ -24,7 +24,7 @@ scripture:
   - Psalm 119:176
 ---
 
-Psalm 119 has become, for me, less a chapter to be studied and more a companion to be lived with. Over time, its verses have not merely instructed me—they have named my experience, often more clearly than I could myself. What follows is not a commentary in the academic sense, but a reflection anchored in several verses that have shaped how I understand God’s Word, affliction, desire, and trust.
+Psalm 119 has become, for me, less a chapter to study and more a companion to live with. Over time, its verses have not merely instructed me—they have named my experience, often more clearly than I could myself. What follows is not a commentary in the academic sense, but a reflection anchored in several verses that have shaped how I understand God’s Word, affliction, desire, and trust.
 
 ---
 
@@ -38,7 +38,7 @@ The language of *portion* reaches back to Israel’s inheritance of the Promised
 
 This truth quietly reorders everything. Obedience becomes response, not leverage. Faith becomes allegiance, not transaction. If God is my portion, then nothing essential can be taken from me—even when much else is lost. 
 
-> *"Whom have I in heaven but You? And besides You, I desire nothing on earth."* --Psalms 73:25
+> *"Whom have I in heaven but You? And besides You, I desire nothing on earth."* —Psalms 73:25
 
 ---
 
@@ -52,6 +52,8 @@ These are not discoveries of intellect. They are gifts of illumination. They rev
 
 The more I know Him, the more I realize how little I truly know. I need Him. I need His Word. I need Him to open my eyes.
 
+> *Then He opened their minds to understand the Scriptures* ***—Luke 24:45***
+
 ---
 
 ## Not Neglecting the Word (Psalm 119:16)
@@ -64,6 +66,8 @@ I have learned that life seems to conspire against attentiveness to Scripture. D
 
 God’s Word is not something I master; it is something I return to. And in that returning, growth happens quietly, faithfully, often unnoticed until I look back.
 
+> *But prove yourselves doers of the word, and not merely hearers who delude themselves.* **—James 1:22**
+
 ---
 
 ## Afflicted—and Kept Alive (Psalm 119:92, 107)
@@ -74,9 +78,12 @@ God’s Word is not something I master; it is something I return to. And in that
 For years, I associated the word *afflicted* with my addiction—and rightly so. Psalm 119 does not deny affliction, nor does it romanticize it. The psalmist does not ask for immediate removal of suffering. He asks for **revival**.
 
 God’s Word did not instantly remove my affliction. It sustained me **within** it. It kept me alive—spiritually, morally, relationally—when I might otherwise have perished.
-That assumes something profound: the affliction may remain, the circumstances may not change, and the struggle may continue.
+That assumes something profound. The affliction may remain. The circumstances may not change. The struggle may continue.  
+
 But life is still possible inside it.
 This is not desperation. It is survival by grace.
+
+> *“My grace is sufficient for you, for power is perfected in weakness.”* **—2 Corinthians 12:9**
 
 ---
 
@@ -90,11 +97,13 @@ The Word doesn’t always tell me where to go. It changes how I see. Obstacles b
 
 The lamp does not floodlight the future. It gives enough light for the next step and protection from stumbling, not certainty about the destination—and that has proven to be enough.
 
-Trying harder says:“Don’t step there.”
+Trying harder says: “Don’t step there.”
 The Word-as-light says: “That place no longer looks appealing.”
 
 When the Word is active within you, you don’t hunt for the path.
 You find yourself already walking on it.
+
+> *Then Jesus again spoke to them, saying, “I am the Light of the world; he who follows Me will not walk in the darkness, but will have the Light of life.”* **—John 8:12**
 
 ---
 
@@ -102,12 +111,14 @@ You find yourself already walking on it.
 
 > *“You are my hiding place and my shield; I wait for Your word.”*
 
-A hiding place is where I run for shelter. A shield is what stands between me and danger. And *waiting for God’s Word* is not waiting for a memorized quote, but resting in the assurance His Word has already formed within me. “Your word”is not some memorized quote, but the assurance we have as a result of His word
+A hiding place is where I run for shelter. A shield is what stands between me and danger. And *waiting for God’s Word* is not waiting for a memorized quote, but resting in the assurance His Word has already formed within me. 
 The Word becomes internalized confidence, not external quotation.
 That’s why this waiting is active, not passive.
 It’s expectant trust shaped by long exposure to God’s truth.
 
 This is not about feeling safe. It is about being **kept**.
+
+> *For you have died and your life is hidden with Christ in God.* **—Colossians 3:3**
 
 ---
 
@@ -124,6 +135,10 @@ The psalmist isn’t saying: “I remember Your commands.”
 He’s saying: “My inner life is now aligned with them.”
 This is not suppression. It is freedom.
 
+> *I WILL PUT MY LAWS INTO THEIR MINDS,*
+> *AND I WILL WRITE THEM ON THEIR HEARTS.* 
+> **—Hebrews 8:10**
+
 ---
 
 ## Quiet Confidence (Psalm 119:173)
@@ -133,6 +148,8 @@ This is not suppression. It is freedom.
 This is not a prayer for instant relief. It is a prayer of settled assurance.
 
 The psalmist has found refuge, shelter, and a shield. He knows he will not be left alone. God’s hand need only be *ready*—because presence, not immediacy, is the ground of his confidence.
+
+> *“I WILL NEVER DESERT YOU, NOR WILL I EVER FORSAKE YOU,”* **—Hebrews 13:5**
 
 ---
 
@@ -145,6 +162,8 @@ The psalm ends not with triumph, but with trust.
 The psalmist does not ask to be dragged back into the fold. He asks to be **sought**—confident that if God looks for him, God will find him. And that once restored to God’s presence, the path will realign.
 
 Even while gone astray, the Word has not been forgotten. There is no urgency here—only quiet faith.
+
+> *“What man among you, if he has a hundred sheep and has lost one of them, does not leave the ninety-nine in the open pasture and go after the one which is lost until he finds it?* **—Luke 15:4**
 
 ---
 

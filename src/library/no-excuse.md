@@ -48,14 +48,6 @@ Because God has made Himself so clearly known—through creation and conscience�
 
 ---
 
-## Reflection
-
-1. Where have you recently seen God’s eternal power displayed—in nature, in Scripture, or in your own life?
-2. How does your conscience affirm what you already know about God’s character?
-3. Knowing that God has made Himself plain, what response is He inviting from you today?
-
----
-
 ## Prayer
 
 > Lord, thank You for revealing Yourself so clearly—in the skies above, in the intricacies within, and in the quiet convictions of my heart. Help me live not in denial of what I know, but in humble surrender to who You are. 

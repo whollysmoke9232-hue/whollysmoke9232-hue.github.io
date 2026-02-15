@@ -30,7 +30,7 @@ For women especially, the pressure has often been severe. The “ideal” body i
 
 This conditioning begins early. Children absorb it before they have the tools to question it. Characters that fit the ideal are celebrated; those who do not are often sidelined, mocked, or reduced to caricatures. Over time, we learn—quietly but effectively—what earns approval and what does not.
 
-Men, including well-meaning and sincere men of faith, are not neutral observers in this process. Too often, we reinforce the very standards we claim to reject. We say that appearance does not define worth, that love is not conditional, that beauty runs deeper than the surface— and then we turn around and give our attention, admiration, and desire to the very standards we claim to reject—teaching, by our actions, that conformity is the price of being seen. The contradiction speaks louder than our words. It teaches conformity, not freedom.
+Men, including well-meaning and sincere men of faith, are not neutral observers in this process. Too often, we reinforce the very standards we claim to reject. We say that appearance does not define worth, that love is not conditional, that beauty runs deeper than the surface— and then we turn around and give our attention, admiration, and desire to the very standards we claim to reject—teaching, by our actions, that conformity is the price of being seen. The contradiction speaks louder than our words. It teaches compliance, not freedom.
 
 The problem is not simply cultural; it is spiritual.
 

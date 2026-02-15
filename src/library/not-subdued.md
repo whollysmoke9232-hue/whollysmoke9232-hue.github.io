@@ -53,7 +53,7 @@ Over time, life becomes unmanageable. Worship, once free and honest, becomes for
 
 It can feel as though our temple has been destroyed. Defiled. As though we have been completely subdued.
 
-Or have we?
+But have we?
 
 We possess something Israel did not yet have: the completed Word of God—and the finished work of Christ. The blood of Jesus.
 

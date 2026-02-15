@@ -28,7 +28,7 @@ I mean, I just did something out of the ordinary.
 Something that caused others to stop and listen.  
 God should be impressed, shouldn’t He?
 
-And for a moment, I forget the Psalm.
+And for a moment, I forget this Psalm.
 
 I forget that God is not scanning the earth for brilliance, originality, or eloquence.  
 He is not pausing over my clever phrasing or nodding at my theological precision.  
@@ -70,7 +70,7 @@ if no one understands,
 if no one truly seeks God—  
 then the only hope left is that God seeks us.
 
-Which He does.
+***Which He does.***
 
 Grace begins not where effort improves,  
 but where self-confidence finally collapses.  
