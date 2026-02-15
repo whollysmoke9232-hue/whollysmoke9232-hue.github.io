@@ -9,11 +9,11 @@ tags:
   - trust
   - faith
 scripture_references:
-  - Psalm 23:1–6
+  - Psalm 23:1-6
 ---
 
 > *“The LORD is my shepherd;*  
-> *I shall not want.”* **— Psalm 23:1**
+> *I shall not want.”* **—Psalm 23:1**
 
 Psalm 23 does not begin with a wish or a hope. It opens with a declaration of reality.
 
@@ -35,7 +35,11 @@ The Shepherd does more than protect—He provides. He prepares a table in the pr
 
 The Shepherd anoints the sheep’s head with oil—to heal wounds, to repel irritants, and, in David’s experience, to consecrate and set apart. Care is personal and attentive. And the cup overflows. God does not merely give enough. He gives more than is required, more than is expected—the sheep are invited to celebrate the excess.
 
-The Psalm closes with quiet confidence: *“Surely goodness and lovingkindness will follow me all the days of my life.”* This is not optimism; it is assurance. Everything God allows will ultimately serve His good purposes. His lovingkindness—His covenant-bound love—does not let go. It is rooted in promise, not performance. The sheep are not chasing God’s goodness and mercy; they are being pursued by them—not only on good days, nor only on obedient days, nor only on worship-filled days, but **all the days**.
+The Psalm closes with quiet confidence: *“Surely goodness and lovingkindness will follow me all the days of my life.”* This is not optimism; it is assurance.  
+
+> ***Everything God allows will ultimately serve His good purposes.***  
+
+His lovingkindness—His covenant-bound love—does not let go. It is rooted in promise, not performance. The sheep are not chasing God’s goodness and mercy; they are being pursued by them—not only on good days, nor only on obedient days, nor only on worship-filled days, but **all the days**.
 
 And the journey ends where it has always been headed: *“I will dwell in the house of the LORD forever.”* Goodness and lovingkindness do not merely accompany David through life; they escort him all the way home. Whatever else eternity may hold, it will include unbroken proximity to God’s presence. Eternity is defined not by location, but by nearness.
 

@@ -25,27 +25,24 @@ scripture:
 
 We ask big questions.
 
-What is God’s will for my life?  
+> What is God’s will for my life?  
 Who should I marry?  
 What is my calling?  
 What is God saying about this crisis, this relationship, this ache I carry?
 
-And yet, with all our longing for answers, we often neglect the clearest voice we’ve been given—the Word of God.
-
-We search elsewhere.  
-A song that moved us.  
+And yet, with all our longing for answers, we often neglect the clearest voice we’ve been given—the Word of God. We search elsewhere.  
+> A song that moved us.  
 A sermon that stirred something.  
 A conversation that resonated.
 
-These may carry echoes of truth. Glimpses of God’s heart.  
-But if King Jesus is who we most want to hear from, why do we so rarely sit with His words?
+These may carry echoes of truth. Glimpses of God’s heart. But if King Jesus is who we most want to hear from, why do we so rarely sit with His words?
 
 Ask yourself honestly:  
-Do I believe the Bible is God-breathed? Alive? Sharp?  
+> Do I believe the Bible is God-breathed? Alive? Sharp?  
 Not merely inspirational—but formative?
 
 Here is a gentle but revealing question—not as a rule, but as a mirror:  
-Can you quote one Scripture from memory for every year you’ve walked with Jesus?
+> Can you quote one Scripture from memory for every year you’ve walked with Jesus?
 
 We celebrate the Bible culturally.  
 We defend it publicly.  
@@ -62,8 +59,7 @@ By the finished work of Jesus, you are already as righteous as you will ever nee
 But something is misaligned if nothing feels off about neglecting God’s Word—because Scripture is not about earning holiness; it is about shaping desire.
 
 We are students by nature.
-
-We study headlines.  
+> We study headlines.  
 Sports statistics.  
 Music lyrics.  
 Market trends.
@@ -71,12 +67,13 @@ Market trends.
 The deeper question is not *whether* we are being formed—but *by what*.
 
 What do you consistently feed your mind?  
+
 What do you allow to shape your reflexes, your imagination, your instincts?
 
 Psalm 119 invites us to re-orient our appetite—to remember that the Word of God is not a side dish. It is daily bread.
 
 Open it.  
-Eat.  
+Eat it.  
 Sit with it.  
 Let it dwell richly.
 

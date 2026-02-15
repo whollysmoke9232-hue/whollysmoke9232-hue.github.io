@@ -46,18 +46,18 @@ In other words:
 
 The miracle of the Gospel is the answer to David’s question.
 
-Our value is not determined by our size or our place in the cosmos.  
-Our significance is measured by the attention of the Creator.
+Our value is not determined by our size or our place in the cosmos. Our significance is measured by the attention of the Creator.  
 
 God’s creative work was not merely a display of power; it was personal. The psalmist describes the heavens as the work of God’s *fingers*—the language of an artist’s intimate touch, not a ruler’s distant command.
 
 And the same careful attention God gave to ordaining the stars is directed toward you.
 
-The God who knows every star by name also knows the number of hairs on your head.  
-The God who orchestrates the dance of galaxies also bends down to listen to your quietest prayer.
+The God who knows every star by name also knows the number of hairs on your head. The God who orchestrates the dance of galaxies also bends down to listen to your quietest prayer.
 
 You are not an afterthought.  
+
 You are not a cosmic accident.  
+
 You are a deliberate thought in the mind of God—someone He actively *takes thought of* and deeply *cares for*.
 
 ---
@@ -70,9 +70,7 @@ Remember that the same God who hung the stars in the sky has, in an act of breat
 
 ## Prayer
 
-> Lord, thank You for the humbling majesty of Your creation.  
-> When I feel small and forgotten, remind me that I am seen and cared for by You—the Maker of the heavens.  
-> Help me to find my true value not in myself, but in Your astonishing love for me.  
+> Lord, thank You for the humbling majesty of Your creation. > When I feel small and forgotten, remind me that I am seen and cared for by You—the Maker of the heavens. > Help me to find my true value not in myself, but in Your astonishing love for me.  
 > Amen.
 
 

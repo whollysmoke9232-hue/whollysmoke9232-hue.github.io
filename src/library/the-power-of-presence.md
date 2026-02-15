@@ -19,8 +19,7 @@ But Your right hand and Your arm and the light of Your presence,
 For You favored them.*  
 **—Psalm 44:3**
 
-“…***and the light of Your presence.***”  
-AAAAuuuugggghhhhhhhhhhhhhhhh!!!!!! There is so much power in that phrase!
+“…***and the light of Your presence?***” AAAAuuuugggghhhhhhhhhhhhhhhh!!!!!! There is so much power in that phrase!
 
 Yes, His hand and His arm were necessary—but the overcoming power was not merely in what God *did*, but in **where God was**. Victory flowed from His presence.
 

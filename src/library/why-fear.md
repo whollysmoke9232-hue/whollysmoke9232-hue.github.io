@@ -27,11 +27,11 @@ As we allow ourselves to sink deeper into fear, God begins to shrink in our thin
 
 The beauty of faith is that at any point in this freefall, God’s word can derail the process and restore our trust.  
 
-“This I know, God is for me!”
+> *“This I know, God is for me!”*
 
 That is foundational. That is our wide place. That is our solid ground. That is where we stop the slide. Even if everything else in all creation is standing against me, God is standing for me. Not only am I not facing this battle alone, but I don’t have to face it at all. If God is for me, then all I have to do is walk behind Him – and allow Him to face it for me.
 
-“In God I have put my trust, I shall not be afraid.”
+> *“In God I have put my trust, I shall not be afraid.”*
 
 There is no fear “In God.” In God is strength, confidence, and victory. I am more than a conqueror. I don’t just win, I overcome. My future is secure. And nothing can change that.
 
@@ -42,27 +42,9 @@ Nothing.
 ## Prayer
 
 > Father,
-> You know how easily my heart drifts into fear.  
-> You see the thoughts I rehearse, the futures I imagine,  
-> and the weight I carry before anything has even happened.  
-
-> Today, I choose to anchor myself in what is true:  
-> that You are for me.  
-> Not distant. Not undecided. Not reluctant.  
-> For me.
-
-> When fear whispers, remind me of Your faithfulness.  
-> When my imagination runs ahead of Your promises,  
-> slow my heart and steady my mind.  
-> Teach me again what it means to trust You—  
-> not just to believe, but to lean.  
-
-> I place my future in Your hands.  
-> I release the need to control outcomes.  
-> I will walk behind You and let You face what lies ahead.  
-
-> In You, I put my trust.  
-> I will not be afraid.  
+You are for me — even when my thoughts run ahead of You.
+Quiet what I imagine and steady what I know.
+Teach my heart to trust You even when I cannot see.
 
 > Amen.
 

@@ -27,7 +27,7 @@ And in what felt like the blink of an eye, the seven days were gone, and we were
 
 During the ride home, my mind drifted back over the past year. The cruise itself had been amazing, filled with incredible memories that I still cherish. But that year leading up to it? Where had it gone?
 
-I had spent over 300 days fixated on a trip that lasted only seven. In that obsession, I realized I had missed so much of what was happening right in front of me. The previous year, as far as truly meaningful, present-moment memories were concerned, felt a bit like a waste.
+I had spent over 300 days fixated on a trip that lasted only seven. In that obsession, I realized that I had missed so much of what was happening right in front of me. The previous year, as far as truly meaningful, present-moment memories were concerned, felt a bit like a waste.
 
 ---
 
@@ -45,7 +45,7 @@ I was reminded of an interview I once saw with actor Matt Damon. He reflected on
 
 When we truly live in the now, the reward is not just a future achievement, but a better version of ourselves today—especially when we invite the Holy Spirit to use every minute of every day to mold us and make us more like Jesus.
 
-The journey itself becomes the prize, shaping us into the people God intends us to be, whether or not the “awards” of life ever come. The true reward is found in His presence, in the unfolding of His grace, and in the blessed gift of each present moment.
+The journey itself becomes the prize, shaping us into the people God intends us to be, whether the “awards” of life ever come...or not.  The true reward is found in His presence, in the unfolding of His grace, and in the blessed gift of each present moment.
 
 ---
 

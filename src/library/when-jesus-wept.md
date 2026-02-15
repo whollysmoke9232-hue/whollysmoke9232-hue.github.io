@@ -24,7 +24,7 @@ scripture:
 
 It’s the shortest verse in the Bible—just two words. And yet, those two words carry the weight of eternity.
 
-**“Jesus wept.”**
+***“Jesus wept.”***
 
 Why would the Son of God—who knew He was about to raise Lazarus from the dead—pause to weep at a tomb?
 
@@ -52,7 +52,9 @@ So when Jesus stood at Lazarus’ tomb and saw Mary weeping, Scripture tells us 
 
 The Greek word used here suggests more than sadness—it implies indignation, even outrage.
 
-Jesus wasn’t angry at the people.  
+Jesus wasn't sad. He was angry.
+
+He wasn’t angry at the people.  
 He wasn’t angry at their grief.  
 He was angry at what sin had done.
 
@@ -77,10 +79,14 @@ But because He loves.
 
 And love always grieves what wounds the beloved.
 
-Jesus hates sin—not merely because it is rebellion,  
-but because of what it does to us.  
+Jesus hates sin—not merely because it is rebellion, but because of what it does to us.  
+
 To His creation.  
 To His children.
+
+And one day, He will wipe away every tear…  
+
+***because He wept first.***
 
 ---
 
@@ -94,14 +100,6 @@ To His children.
 > Amen.
 
 ---
-
-## Takeaway Thought
-
-Jesus doesn’t just hate sin because it’s rebellion—  
-He hates it because it breaks what He loves.
-
-And one day, He will wipe away every tear…  
-**because He wept first.**
 
 <br>
 <br>

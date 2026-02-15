@@ -1,5 +1,5 @@
 ---
-title: "The House That Calls to the Simple"
+title: "The Counterfeit Feast"
 author: "Steve Wilkins"
 date: 2026-01-03
 layout: article.njk
@@ -15,9 +15,11 @@ scripture:
 
 ## Key Scripture
 
-> _“Stolen water is sweet; food eaten in secret is delicious!  
-> But little do they know that the dead are there, that her guests are deep in the realm of the dead.”_  
-> **—Proverbs 9:17–18**
+> _““Stolen water is sweet;
+And bread eaten in secret is pleasant.”
+But he does not know that the dead are there,
+That her guests are in the depths of Sheol.”_  
+> **—Proverbs 9:17-18** (NIV)
 
 ---
 
@@ -31,7 +33,9 @@ Using parallel imagery of a house and a feast, the writer exposes the true natur
 
 ## The Character of Folly 
 
-> _“Folly is an unruly woman; she is simple and knows nothing.”_ **—Proverbs 9:13**
+> _“The woman of folly is boisterous,
+She is naive and knows nothing”_  
+**—Proverbs 9:13**
 
 The introduction to Folly is immediate and unflattering. Unlike the order, preparation, and substance of Lady Wisdom, Folly is loud, chaotic, and disruptive. Her appeal is not rooted in truth or confidence, but in noise—demanding attention through sheer volume.
 
@@ -41,7 +45,9 @@ Though she presents herself as authoritative, she is fundamentally ignorant. She
 
 ## The Brazen Invitation 
 
-> _“She sits at the door of her house, on a seat at the highest point of the city…”_ **—Proverbs 9:14–16**
+> _“She sits at the doorway of her house,
+On a seat by the high places of the city”_  
+**—Proverbs 9:14**
 
 Folly openly imitates Wisdom. Just as Wisdom sends out her call from the heights of the city, Folly establishes her competing invitation in the same public space. Evil rarely announces itself as evil—it often presents itself as a reasonable alternative.
 
@@ -53,7 +59,7 @@ This reveals one of the great dangers of temptation: it often sounds familiar, r
 
 ## The Secret Allure 
 
-> _“Stolen water is sweet; food eaten in secret is delicious!”_ **—Proverbs 9:17**
+> _“Stolen water is sweet; bread eaten in secret is pleasant!”_ **—Proverbs 9:17**
 
 This is the heart of Folly’s appeal. She does not promise life or virtue; she promises thrill. Her logic rests on the lie that what is forbidden is more satisfying than what is freely given.
 
@@ -65,7 +71,7 @@ This is the ancient logic of temptation: appealing to pride, appetite, and the d
 
 ## The Grim Reality 
 
-> _“But little do they know that the dead are there…”_ **—Proverbs 9:18
+> _“But does not know that the dead are there…”_ **—Proverbs 9:18
 
 The writer pulls back the curtain. The guest who believes they are entering a private feast is actually walking into a tomb. The house is already filled with the dead—former guests whose choices led not to fulfillment, but to ruin.
 
@@ -91,11 +97,12 @@ By grace, we are not left to guess. God does not merely warn us—He invites us 
 
 ## Prayer
 
-> O Lord, our refuge and our wisdom, thank You for setting before us a clear choice between life and death. I confess that my heart is often drawn to the loud voice of Folly and the promise of secret pleasures.
+> O Lord, thank You for setting before us a clear choice between life and death. I confess that my heart is often drawn to the loud voice of Folly and the promise of secret pleasures.
 
 > Grant me discernment to see temptation for what it truly is—an empty imitation of Your truth. When Folly calls from the high places, help me hear the deeper voice of Wisdom inviting me to Your life-giving feast.
 
 > Keep my feet on the path of life. Let me find my satisfaction not in secrecy, but in the open, honest abundance You provide.  
+
 > Amen.
 
 

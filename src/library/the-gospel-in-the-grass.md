@@ -18,7 +18,7 @@ scripture:
 > You care for the land and water it; you enrich it abundantly.  
 > The streams of God are filled with water to provide the people with grain,  
 > for so you have ordained it.”_  
-> **—Psalm 65:8–9**
+> **—Psalm 65:8–9** (NIV)
 
 ---
 
@@ -34,8 +34,7 @@ And then there’s us—the only part of creation that worries about tomorrow.
 
 Our bodies are miracles of growth, reproduction, and healing. A fertilized egg becomes a mature adult—how? We may understand the biology, but the mystery remains. Who imagined white blood cells—those microscopic soldiers that defend us from infection? Who designed the eye to convert light into images the brain can interpret? How is memory stored and recalled? Muscles, nerves, bones, tendons. Even our emotions remind us that we are more than flesh and bone—we are souls, designed to feel, remember, and belong.
 
-Creation doesn’t just reveal how things work—it reveals the heart of the One who made them.  
-And the gospel tells us that this same Creator did not remain distant, but entered His creation to redeem what was broken and restore what He loves.
+Creation doesn’t just reveal how things work—it reveals the heart of the One who made them. And the gospel tells us that this same Creator did not remain distant, but entered His creation to redeem what was broken and restore what He loves.
 
 We are fearfully and wonderfully made.
 

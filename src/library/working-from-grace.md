@@ -13,11 +13,9 @@ scripture:
   - Philippians 2:12-13
 ---
 
-## Key Scripture
-
 > _“Work out your own salvation with fear and trembling,  
 > for it is God who works in you, both to will and to work for His good pleasure.”_  
-> **—Philippians 2:12b–13**
+> **—Philippians 2:12–13**
 
 ---
 
@@ -74,13 +72,6 @@ Not for approval.
 Not to prove anything.
 
 We do it because God delights in seeing His grace take shape in our lives. When we walk in step with Him, our obedience becomes evidence of His work—and that brings pleasure to His heart.
-
----
-
-## Reflection
-
-Where might you be tempted to rely on your own strength instead of God’s grace?  
-What would it look like today to obey—not to earn God’s favor, but because He is already at work within you?
 
 ---
 
