@@ -103,4 +103,4 @@ One word of caution: resistance will come. Anything that keeps us from prayer ke
 ---
 
 **Continue reading:**  
-[Seek Him](/reflections/seek-him/)
+[<u>Seek Him</u>](/reflections/seek-him/)

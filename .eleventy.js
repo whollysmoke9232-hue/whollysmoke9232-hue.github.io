@@ -215,6 +215,14 @@ module.exports = function (eleventyConfig) {
     return scriptureMap;
   });
 
+  const scriptureLink = require("./src/_filters/scriptureLink");
+  eleventyConfig.addFilter("scriptureLink", scriptureLink);
+
+  const autoScriptureLinks = require("./src/_transforms/autoScriptureLinks");
+  eleventyConfig.addTransform("autoScriptureLinks", autoScriptureLinks);
+
+
+
   // ===============================
   // PASSTHROUGH COPY
   // ===============================

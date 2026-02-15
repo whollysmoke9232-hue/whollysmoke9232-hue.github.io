@@ -5,9 +5,25 @@ date: 2010-10-20
 layout: article.njk
 category: reflections
 excerpt: "God is painting on a canvas bigger than we can see—even when loss, confusion, or silence fills the frame."
+scripture-reference: 
+- Job:1:8
+- Genesis 3:21
+- Genesis 22:2
+- Exodus 2:15
+- Judges 16:17
+- Genesis 37:28
+- II Samuel 11:1
+- Isaiah 6:1
+- Matthew 1:18
+- Luke 22:4
 ---
 
-*Written in 2010, this reflection comes from a season when I understood God’s providence more clearly than I understood my own fragility. I leave it unchanged as a witness—not to certainty, but to faith as it was held then.*
+*Written as a letter to a friend in 2010, this reflection comes from a season when I understood God’s providence more clearly than I understood my own fragility. I leave it unchanged as a witness—not to certainty, but to faith as it was held then.*
+
+---
+
+> *The LORD said to Satan, “Have you considered My servant Job? For there is no one like him on the earth, a blameless and upright man, fearing God and turning away from evil.”* **—Job 1:8**  
+
 
 ## The Big Picture
 
@@ -29,7 +45,7 @@ When Joseph's brothers sold him into slavery (Genesis 37:28); when David should 
 
 When I was fired from two different churches, God was painting on a canvas that was bigger than what I could see.
 
-While I stood on our National Lawn with nearly 1,000,000 other Promise Keepers – committing to be more faithful in my walk, my marriage, and my ministry – God was painting on a canvas that was bigger than what I could see.
+While I stood on our National Lawn with nearly 1,000,000 other <a href="https://promisekeepers.org/" target="_blank" rel="noopener noreferrer">Promise Keepers</a> – committing to be more faithful in my walk, my marriage, and my ministry – God was painting on a canvas that was bigger than what I could see.
 
 There have been times when God has lifted the veil to allow a glimpse of a portion of His painting. When Isaiah got a glimpse, he fell down as a dead man. When John got a glimpse, he fell down as a dead man. Many prophets were murdered when they spoke of what they saw.
 
@@ -48,20 +64,3 @@ He is in control. And He is never surprised by what happens in our lives.
 
 I pray that this truth will soak into your soul and usher into your spirit the peace that surpasses understanding.
 
-## Prayer
-
-> Father,
-
-> You see what I cannot see.
-
-> When the canvas feels dark, when events unfold without explanation, when loss and confusion cloud my understanding — remind me that You are still at work. You are not reacting. You are not adjusting. You are painting with purpose.
-
-> Forgive me for the times I demand clarity instead of trust. Forgive me for measuring Your faithfulness by what I can understand. Teach me to live by faith when the veil remains closed.
-
-> When I experience laughter or tears, success or failure, joy or pain, anchor my heart in this truth: nothing in my life lies outside Your sovereign hand.
-
-> Move me where You will. Teach me what I need to learn. Break what must be broken. Build what must be built. And through it all, let me rest in the certainty that Your plan is perfect — even when it is hidden.
-
-> Grant me the peace that surpasses understanding. Not because I see the whole picture, but because I trust the Artist.
-
-> Amen.

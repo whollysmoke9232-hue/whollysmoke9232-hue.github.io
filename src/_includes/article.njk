@@ -20,7 +20,6 @@ layout: layout.njk
       </time>
     </p>
   {% endif %}
-
 </header>
 
 <article class="article-content">
@@ -37,6 +36,22 @@ layout: layout.njk
       Read the full book: <strong><em>Fractured Light</em></strong>
     </a>
   </div>
+{% endif %}
+
+{# ------------------ Scripture References (NASB links) ------------------ #}
+{% if scripture_references %}
+<div class="article-scriptures">
+  <strong>Scripture References</strong>
+  <ul>
+    {% for ref in scripture_references %}
+      <li>
+        <a href="{{ ref | scriptureLink }}" target="_blank" rel="noopener">
+          {{ ref }} (NASB)
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
 {% endif %}
 
 {% if tags %}
@@ -82,6 +97,20 @@ layout: layout.njk
   .book-return-link a {
     text-decoration: underline;
     color: #5a3e2b;
+  }
+
+  .article-scriptures {
+    margin-top: 2rem;
+    font-size: 0.95rem;
+  }
+
+  .article-scriptures ul {
+    margin-top: 0.5rem;
+    padding-left: 1.2rem;
+  }
+
+  .article-scriptures a {
+    text-decoration: underline;
   }
 
   .article-tags {

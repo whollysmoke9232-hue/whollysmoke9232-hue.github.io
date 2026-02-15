@@ -36,10 +36,10 @@ Psalm 127 reminds us that all our striving is in vain unless the Lord is at the 
 ## Shift the Focus
 
 God doesn’t want to be a means to an end.  
-**He is the end.**  
-**He is the reward.**
+He *is* the end.  
+He *is* the reward.
 
-And when we seek Him—not for what He can do, but for who He is—we find rest. We find peace. We find purpose.
+And when we seek Him—not for what He can do, but for who He *is*—we find rest. We find peace. We find purpose.
 
 ---
 
@@ -54,9 +54,9 @@ But this truth extends beyond children. Every blessing from God—whether it’s
 - Opportunity  
 - Peace  
 
-—is ultimately a byproduct of His presence.
+> —is ultimately a byproduct of His presence.
 
-When we dwell with Him, we walk in confidence—not because of what we have, but because of **who is with us**.
+When we dwell with Him, we walk in confidence—not because of what we have, but because of *who is with us*.
 
 ---
 

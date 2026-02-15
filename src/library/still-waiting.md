@@ -31,7 +31,7 @@ None of these are wrong; but none bring relief.
 
 Then in the midst of my anxiety, I wander into Psalm 39, and here comes the cold water again to shake me from my funk and remind me of where I actually stand.
 
-I ask myself, *“For real, Steve! What are you waiting for? What exactly are you thinking you can do to make any real difference in your present or future?”* It causes me to refocus on Whose I am.
+I'm reminded ask myself, *“For real, Steve! What are you waiting for? What exactly are you thinking you can do to make any real difference in your present or future?”* It causes me to refocus on Whose I am.
 
 I rediscover that in order to focus on my fears, I first have to take my eyes off of Jesus.
 

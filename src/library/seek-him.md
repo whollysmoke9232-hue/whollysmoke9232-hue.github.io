@@ -8,8 +8,10 @@ excerpt: "Prayer does not begin with effort or obligation, but with relationship
 paired_with: "Coming Into a Place of Prayer"
 ---
 
-This reflection is meant to be read alongside **_Coming Into a Place of Prayer_**.  
+This reflection is meant to be read alongside [<u>Coming Into a Place of Prayer</u>](/reflections/coming-into-a-place-of-prayer/).  
 If that piece asks *how* we come to God in prayer, this one asks a more foundational question: *why* we come at all.
+
+---
 
 At the center of the Christian faith is not a method, a discipline, or a checklist—but a Person.
 
@@ -18,7 +20,7 @@ The most important thing is to have a living relationship with the Lord Jesus Ch
 Everything about our faith is centered in Him. Christianity is not *Jesus plus something else*. It is not Jesus plus prayer, Jesus plus study, Jesus plus service. Jesus **is** God’s plan.
 
 When we ask, *“What must I do to become a Christian?”* the answer is surprisingly simple:  
-there is nothing left to do except believe what has already been done.
+there is nothing for us to do except believe what has already been done.
 
 He did it all.
 
@@ -45,7 +47,7 @@ I *oughta* pray more, study more, witness more, do more.
 Eventually, the weight of those expectations becomes unbearable.
 
 You might say, *“I can’t do all of that.”*  
-That’s okay.
+That’s okay. Because *you* can't!
 
 You don’t have to do everything. You only have to respond to what **He** is giving you to do.
 
@@ -57,15 +59,15 @@ Our calling is not to work harder—it is to respond.
 
 A simple prayer changes everything:
 
-> “Lord, I want to respond to You.  
+> *“Lord, I want to respond to You.  
 > I only want to do what You are giving me to do.  
-> What would You have me do today?”
+> What would You have me do today?”*
 
 Very often, the answer is not an assignment, but an invitation:
 
-**Draw near to Me.  
-Rest in Me.  
-Seek Me.**
+> **Draw near to Me.  
+> Rest in Me.  
+> Seek Me.**
 
 We get busy because we worry.  
 And we worry because we are insecure in our relationship with Him.
@@ -94,9 +96,9 @@ We seek because there is more available than we realize:
 
 Jesus promises:
 
-> “Ask and keep asking.  
+> *“Ask and keep asking.  
 > Seek and keep seeking.  
-> Knock and keep knocking.” (Matthew 7:7–8)
+> Knock and keep knocking.”* ***—Matthew 7:7–8**
 
 And in a beautiful reversal of perspective, we are reminded:
 
@@ -134,4 +136,4 @@ It is responding to a God who has already drawn near.
 
 
 **Previously:**  
-[Coming Into a Place of Prayer](/reflections/coming-into-a-place-of-prayer/)
+[<u>Coming Into a Place of Prayer</u>](/reflections/coming-into-a-place-of-prayer/)
