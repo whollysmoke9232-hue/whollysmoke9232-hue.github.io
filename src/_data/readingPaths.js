@@ -24,7 +24,7 @@ module.exports = {
   ],
 
   'about-the-author': [
-    { url: '/testimonies/from-exile-to-eden/', title: 'From Exile to Eden' },
+    { url: '/testimonies/from-exile-to-surrender/', title: 'From Exile to Surrender' },
     { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
     { url: '/excerpts/fractured-light/chapter-4/', title: 'Fractured Light — Chapter 4' },
     { url: '/meditations/a-psalm-from-confinement/', title: 'A Psalm From Confinement' },

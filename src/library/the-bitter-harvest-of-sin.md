@@ -12,7 +12,6 @@ tags:
   - scripture
 scripture:
   - Romans 6:21
-permalink: /testimonies/bitter-harvest-of-sin/
 ---
 
 > _“What benefit did you reap at that time from the things you are now ashamed of? Those things result in death!”_ **—Romans 6:21**
