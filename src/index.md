@@ -7,15 +7,16 @@ layout: layout.njk
 
   <div style="text-align: center; margin-bottom: 0.5rem;">
     <a href="{{ '/begin/' | url }}"
+       title="Begin"
        style="font-size: 1.18rem; color: #6b4f2c; text-decoration: underline; font-weight: bold; letter-spacing: 0.02em;">
-      If this is your first visit, begin here
+      Begin Here
     </a>
   </div>
 
-  <a href="{{ '/begin/' | url }}">
+  <a href="{{ '/begin/' | url }}" title="Begin">
     <img src="{{ '/images/path-2.png' | url }}"
          alt=""
-         title="A good place to start"
+         title="Begin"
          style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   </a>
 
@@ -29,7 +30,7 @@ layout: layout.njk
   <a href="{{ '/about/' | url }}">
     <img src="{{ '/images/heavens-declare.png' | url }}"
          alt="The heavens declare the glory of God"
-         title="Why this place exists"
+      title="About"
          style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   </a>
 
@@ -51,6 +52,13 @@ layout: layout.njk
     <a href="{{ '/testimonies/' | url }}" style="color: #5a3e2b; text-decoration: none;">Testimonies</a>
     &nbsp;•&nbsp;
     <a href="{{ '/books/' | url }}" style="color: #5a3e2b; text-decoration: none;">Books</a>
+  </div>
+
+  <div style="text-align: center; margin: 0;">
+    <a href="{{ '/begin/' | url }}"
+       style="text-decoration: underline; color: #8b7355;">
+      Reading Paths
+    </a>
   </div>
 
   <div style="text-align: center; margin: 0;">

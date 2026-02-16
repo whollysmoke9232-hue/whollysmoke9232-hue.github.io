@@ -25,7 +25,7 @@ This library is offered as it is, not as instruction, but as witness — in the 
   <div>
     <h3>
       <a href="/bondage-and-release/" title="Bondage and Release">
-        If you are caught in patterns you cannot break
+        When life is falling apart
       </a>
     </h3>
     <p>
@@ -37,7 +37,7 @@ This library is offered as it is, not as instruction, but as witness — in the 
   <div>
     <h3>
       <a href="/hurt-and-restoration#/" title="Hurt and Restoration">
-        If you have been wounded by others
+        When you’ve been hurt
       </a>
     </h3>
     <p>
@@ -57,7 +57,7 @@ This library is offered as it is, not as instruction, but as witness — in the 
   <div>
     <h3>
       <a href="/weariness-and-renewal#/" title="Weariness and Renewal">
-        If you are weary and need encouragement
+        When you have nothing left to give
       </a>
     </h3>
     <p>
@@ -65,23 +65,55 @@ This library is offered as it is, not as instruction, but as witness — in the 
       </p>
   </div>
 
-  <!-- Row 4 — Written in Confinement -->
+  <!-- Row 4 — Learning to follow -->
   <div>
     <h3>
-      <a href="/tags/confinement/" title="Written in Confinement">
-        If you have met God in a place you did not choose
+      <a href="/start-here/" title="Start Here">
+        Learning to follow
       </a>
     </h3>
     <p>
-      These writings were composed in quiet confinement — not polished, not curated, but lived. They are offered as they were written: immediate, surrendered, and honest.
+      Guided paths for first steps, hard seasons, and the steady work of walking with God over time.
     </p>
   </div>
 
-  <a href="/tags/confinement/" title="Written in Confinement">
-    <img src="{{ '/images/cell-desk.png' | url }}" alt="Written in Confinement" style="max-width: 100%; border-radius: 8px;">
+  <a href="/start-here/" title="Start Here">
+    <img src="{{ '/images/chatgpt-path-fork.png' | url }}" alt="Learning to follow" style="max-width: 100%; border-radius: 8px;">
   </a>
 
-  <!-- Row 5 — About the Author -->
+  <!-- Row 5 — Learning to listen -->
+  <a href="/hearing-god/" title="Hearing God">
+    <img src="{{ '/images/chatgpt-hand-on-bible.png' | url }}" alt="Learning to listen" style="max-width: 100%; border-radius: 8px;">
+  </a>
+
+  <div>
+    <h3>
+      <a href="/hearing-god/" title="Hearing God">
+        Learning to listen
+      </a>
+    </h3>
+    <p>
+      Readings for quieting noise, attending to Scripture, and responding to God’s voice with discernment and obedience.
+    </p>
+  </div>
+
+  <!-- Row 6 — Learning to know Him -->
+  <div>
+    <h3>
+      <a href="/knowing-god/" title="Knowing God">
+        Learning to know Him
+      </a>
+    </h3>
+    <p>
+      Paths focused on God’s character, worship, and the kind of trust that grows through faithful practice.
+    </p>
+  </div>
+
+  <a href="/knowing-god/" title="Knowing God">
+    <img src="{{ '/images/chatgpt-shared_table_two_chairs.png' | url }}" alt="Learning to know Him" style="max-width: 100%; border-radius: 8px;">
+  </a>
+
+  <!-- Row 7 — About the Author -->
   <a href="/about-the-author#/" title="About the author">
     <img src="{{ '/images/chatgpt-steve.png' | url }}" alt="About the Author" style="max-width: 100%; border-radius: 8px;">
   </a>
@@ -101,12 +133,6 @@ This library is offered as it is, not as instruction, but as witness — in the 
 
 ---
 
-<div style="text-align: center; margin: 2.5rem 0 1.5rem 0; font-size: 1.08rem;">
-  <strong>For more reading paths:</strong><br>
-  <a href="/start-here/">Start Here</a> &middot;
-  <a href="/hearing-god/">Hearing God</a>
-</div>
-
 <div style="text-align: center; margin-bottom: 1.5rem; font-size: 1.08rem;">
   <strong>There’s more to explore:</strong><br>
   <a href="/devotionals/">Devotionals</a> &middot;
@@ -115,11 +141,18 @@ This library is offered as it is, not as instruction, but as witness — in the 
   <a href="/stories/">Stories</a> &middot;
   <a href="/testimonies/">Testimonies</a> &middot;
   <a href="/books/">Books</a><br>
-  <a href="/scripture/">Scripture Index</a>
+  <a href="/scripture/">Scripture Index</a><br>
+  <a href="/tags/">Tab Index</a>
 </div>
 
 <div style="text-align: center;">
-  <a href="/youre-not-alone/">
+  <a href="/youre-not-alone/" title="You’re Not Alone">
     If pornography or sexual compulsion has been part of your story, there’s a place for you too.
+  </a>
+</div>
+
+<div style="text-align: center; margin-top: 0.75rem;">
+  <a href="/youre-not-alone/" title="You’re Not Alone">
+    <img src="{{ '/images/chatgpt-lake-ribbon.png' | url }}" alt="You’re Not Alone" style="max-width: 100%; border-radius: 8px;">
   </a>
 </div>

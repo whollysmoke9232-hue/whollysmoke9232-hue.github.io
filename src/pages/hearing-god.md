@@ -81,7 +81,16 @@ There are seasons when suffering becomes the loudest voice in the room. These re
 
 Responding to what has been heard
 
-
+{% set entries = readingPaths['discernment-and-obedience'] %}
+<ul>
+{% for entry in entries %}
+  <li>
+    <a href="{{ entry.url }}?path=discernment-and-obedience">
+      {{ entry.title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
 
 ---
 
