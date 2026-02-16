@@ -66,7 +66,7 @@ module.exports = {
   'start-here-story-image': [
     { url: '/stories/the-gospel-in-the-grass/', title: 'The Gospel in the Grass' },
     { url: '/stories/dance-like-enoch/', title: 'I Wanna Dance Like Enoch Danced' },
-    { url: '/stories/the-house-that-calls-to-the-simple/', title: 'The House That Calls to the Simple' },
+    { url: '/stories/the-counterfeit-feast/', title: 'The Counterfeit Feast' },
     { url: '/excerpts/fractured-light/chapter-3/', title: 'Fractured Light' }
   ],
 
@@ -87,7 +87,7 @@ module.exports = {
   ],
 
   'start-here-seeking-wisdom': [
-    { url: '/stories/the-house-that-calls-to-the-simple/', title: 'The House That Calls to the Simple' },
+    { url: '/stories/the-counterfeit-feast/', title: 'The Counterfeit Feast' },
     { url: '/reflections/roadblocks/', title: 'Roadblocks' },
     { url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
     { url: '/reflections/psalm-119/', title: 'Psalm 119' }
