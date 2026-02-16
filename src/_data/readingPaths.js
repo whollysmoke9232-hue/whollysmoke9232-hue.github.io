@@ -1,7 +1,7 @@
 module.exports = {
 
   'bondage-and-release': [
-    { url: '/testimonies/the-bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
+    { url: '/reflections/the-bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
     { url: '/testimonies/jesus-the-scapegoat/', title: 'Jesus – The Scapegoat' },
     { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
     { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
@@ -41,7 +41,7 @@ module.exports = {
   ],
 
   'start-here-sin-failure-shame': [
-    { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
+    { url: '/reflections/the-bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
     { url: '/testimonies/jesus-the-scapegoat/', title: 'Jesus – The Scapegoat' },
     { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
     { url: '/testimonies/from-ashes-to-glory/', title: 'From Ashes to Glory' },
@@ -127,7 +127,7 @@ module.exports = {
 
   'youre-not-alone-relapse': [
     { url: '/testimonies/from-exile-to-surrender/', title: 'From Exile to Surrender' },
-    { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
+    { url: '/reflections/the-bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
     { url: '/reflections/roadblocks/', title: 'Roadblocks' },
     { url: '/reflections/not-subdued/', title: 'Not Subdued' },
     { url: '/reflections/sons-of-brokenness/', title: 'Sons of Brokenness' }

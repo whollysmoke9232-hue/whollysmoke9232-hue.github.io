@@ -2,7 +2,7 @@
 title: "The Bitter Harvest of Sin"
 author: "Steve Wilkins"
 date: 2025-08-02
-category: testimonies
+category: reflections
 layout: article.njk
 excerpt: "Sin promises satisfaction but delivers shame. What once felt thrilling leaves a bitter harvest—yet grace still invites us into life."
 tags:

@@ -21,7 +21,7 @@
     ],
 
     "start-here-sin-failure-shame": [
-      "/testimonies/bitter-harvest-of-sin/",
+      "/reflections/the-bitter-harvest-of-sin/",
       "/testimonies/jesus-the-scapegoat/",
       "/devotionals/purify-my-heart/",
       "/testimonies/from-ashes-to-glory/",
