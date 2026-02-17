@@ -6,8 +6,10 @@ layout: article.njk
 category: meditations
 excerpt: "A meditation on formation, faithfulness, and the quiet, unseen work of the church beyond its largest gatherings."
 tags:
+  - repentance
+  - surrender
+  - control
   - church
-  - formation
 scripture_references:
   - Acts 2:42–47
 ---

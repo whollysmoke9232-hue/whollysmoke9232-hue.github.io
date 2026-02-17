@@ -7,7 +7,9 @@ category: testimonies
 excerpt: "From the garden to the cross, God’s answer to sin has always been substitution. Jesus bore our shame so we could return to the love we were created for."
 tags:
   - grace
-  - gospels
+  - sin
+  - repentance
+  - restoration
 scripture:
   - 2 Corinthians 5:21
   - Genesis 3:21

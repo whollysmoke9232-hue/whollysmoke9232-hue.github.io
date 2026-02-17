@@ -6,6 +6,10 @@ layout: article.njk
 category: reflections
 excerpt: "Prayer does not begin with effort or obligation, but with relationship. We seek God not to earn His favor, but because He has already drawn near to us."
 paired_with: "Coming Into a Place of Prayer"
+tags:
+- seeking
+- faith
+- trust
 ---
 
 This reflection is meant to be read alongside [<u>Coming Into a Place of Prayer</u>](/reflections/coming-into-a-place-of-prayer/).  

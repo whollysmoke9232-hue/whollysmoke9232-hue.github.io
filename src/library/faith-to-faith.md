@@ -7,8 +7,8 @@ category: meditations
 excerpt: "The righteousness that saves us is credited by God, received by faith, and lived out by faith—from beginning to end."
 tags:
   - faith
-  - grace
-  - scripture
+  - transformation
+  - trust
   - confinement
 scripture:
   - Romans 1:17

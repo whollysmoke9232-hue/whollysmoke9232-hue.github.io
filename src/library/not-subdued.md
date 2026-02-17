@@ -6,10 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: "The enemy’s aim has always been to silence worship—but because of Christ, what feels destroyed is never beyond restoration, and what seems subdued is never truly lost."
 tags:
-  - sin
-  - grace
-  - restoration
-  - scripture
+  - surrender
+  - trust
+  - obedience
 scripture:
   - Psalm 74:3-8
   - James 1:14-15

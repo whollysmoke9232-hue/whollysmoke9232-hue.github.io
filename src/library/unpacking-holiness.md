@@ -6,13 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: "A reflection on the movement of God’s holiness—from wilderness fire to indwelling Spirit—and the mercy found in His nearness."
 tags:
-  - scripture
-  - faith
-  - formation
-  - repentance
-  - obedience
-  - grace
-  - church
+  - holiness
+  - transformation
+  - presence
 scripture_references:
   - Exodus 25–40
   - Leviticus 16

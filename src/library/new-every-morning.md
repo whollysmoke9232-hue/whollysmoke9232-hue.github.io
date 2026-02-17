@@ -7,9 +7,9 @@ category: devotionals
 excerpt: "God’s mercies are not recycled—they’re freshly painted across each sunrise. His faithfulness is the rhythm behind every breath."
 tags:
   - grace
-  - hope
+  - trust
   - restoration
-  - psalms
+  - waiting
 scripture:
   - Lamentations 3:22-23
 ---

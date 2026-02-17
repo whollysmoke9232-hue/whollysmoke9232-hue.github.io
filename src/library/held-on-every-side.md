@@ -6,8 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: "As mountains encircle Jerusalem, God’s presence surrounds His people—corporately and personally—now and forever."
 tags:
-  - weakness
-  - grace
+  - suffering
+  - refuge
+  - trust
 scripture:
   - Psalm 125:2
 ---

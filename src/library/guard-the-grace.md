@@ -8,7 +8,8 @@ excerpt: "A reflection on how churches respond to sexual sin—and what those re
 tags:
   - grace
   - restoration
-  - sin
+  - repentance
+  - church
 ---
 
 **On Sexual Sin, Confession, and the Cost of Belonging**

@@ -6,8 +6,9 @@ layout: article.njk
 category: reflections
 exerpt: The world has a quiet way of shaping how we think, often without our awareness. Renewal begins not with effort, but with learning to notice—and unlearn—the patterns that have been forming us.
 tags:
-- formation
-- grace
+- transformation
+- obedience
+- faith
 scripture_references:
   - Romans 12:2
   - Matthew 6:33

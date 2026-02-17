@@ -6,7 +6,10 @@ layout: article.njk
 category: reflections
 excerpt: "A meditation on Exodus 20 and the unseen waves our choices send forward—into our families, our futures, and generations we will never know."
 tags:
-  - obedience
+  - waiting
+  - trust
+  - sovereignty
+  - faith
 scripture_references:
   - Exodus 20:5–6
 ---

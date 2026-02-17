@@ -6,7 +6,9 @@ layout: article.njk
 category: stories
 excerpt: "Creation proclaims God’s provision, beauty, and care—inviting us to trust the One who tends both the earth and our lives."
 tags:
-  - psalms
+  - grace
+  - identity
+  - presence
 scripture:
   - Psalm 65:8-9
 ---

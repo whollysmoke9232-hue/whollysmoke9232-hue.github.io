@@ -6,7 +6,9 @@ layout: article.njk
 category: meditations
 excerpt: "When we look up at the vastness of creation, we are confronted with a humbling question—why does God care for us at all?"
 tags:
-  - psalms
+  - identity
+  - worship
+  - presence
 scripture:
   - Psalm 8:3-4
 ---

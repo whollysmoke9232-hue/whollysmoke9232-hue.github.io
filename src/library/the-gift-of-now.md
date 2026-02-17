@@ -6,7 +6,8 @@ layout: article.njk
 category: meditations
 excerpt: "We often rush past the present while waiting for something better. This devotional invites us to receive the current moment as God’s gift, where His presence is already at work."
 tags:
-  - waiting
+  - presence
+  - hurt
 scripture:
   - Matthew 6:34
 ---

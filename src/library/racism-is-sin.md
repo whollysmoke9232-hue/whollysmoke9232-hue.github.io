@@ -6,7 +6,11 @@ layout: article.njk
 category: reflections
 excerpt: >
   A personal reflection on Charlottesville, friendship, and the Christian call to reconciliation—arguing that racism is sin and that the work of Christ’s people is not outrage or silence, but costly, relational love across dividing lines.
-tags: []
+tags: 
+- sin
+- repentance
+- obedience
+- church
 scripture_reference:
   - Genesis 1:27
   - Acts 17:26

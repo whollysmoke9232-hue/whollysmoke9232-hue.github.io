@@ -6,8 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: "Psalm 15 raises a searching question about who may dwell in God’s presence—and reveals that holiness is not the price of access, but the fruit of grace."
 tags:
-  - psalms
-  - grace
+  - obedience
+  - faith
+  - control
 scripture:
   - Psalm 15:1
 ---

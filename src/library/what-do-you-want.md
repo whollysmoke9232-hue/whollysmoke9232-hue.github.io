@@ -6,7 +6,10 @@ layout: article.njk
 category: devotionals
 excerpt: "A reflection on Psalm 42 and the honest longing to desire God more deeply—even when our hunger feels weak or divided."
 tags:
-  - psalms
+  - longing
+  - seeking
+  - transformation
+  - prayer
 scripture:
   - Psalm 42:1-2
   - Psalm 42:4

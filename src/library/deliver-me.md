@@ -6,8 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: "A prayer of mercy, refuge, and trust when deliverance does not guarantee escape."
 tags:
-  - psalms
-  - suffering
+  - refuge
+  - prayer
+  - trust
 scripture_references:
   - Psalm 25:7
   - Psalm 25:15

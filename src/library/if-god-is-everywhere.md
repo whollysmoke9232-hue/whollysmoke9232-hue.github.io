@@ -6,7 +6,9 @@ layout: article.njk
 category: meditations
 excerpt: "God’s omnipresence means we are never outside His presence or purposes. This meditation explores identity, rest, and belonging in a God who is always near."
 tags:
-  - scripture
+  - presence
+  - sovereignty
+  - seeking
 scripture:
   - Psalm 139:7
 ---

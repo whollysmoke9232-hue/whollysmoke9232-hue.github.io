@@ -6,8 +6,8 @@ layout: article.njk
 category: meditations
 excerpt: "A meditation of surrender—looking back on flight, self-reliance, and the quiet persistence of grace."
 tags:
-  - repentance
-  - surrender
+  - presence
+  - trust
   - confinement
 ---
 

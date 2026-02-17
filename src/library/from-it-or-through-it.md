@@ -7,7 +7,9 @@ category: reflections
 excerpt: "Trusting God’s sovereignty when deliverance comes differently than we expect—and discovering His presence in the fire."
 tags:
   - suffering
-  - scripture
+  - trust
+  - sovereignty
+  - refuge
   - confinement
 scripture:
   - Daniel 3:17-18

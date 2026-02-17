@@ -8,7 +8,7 @@ excerpt: "God’s revelation is not hidden—it’s everywhere. Creation declare
 tags:
   - repentance
   - obedience
-  - scripture
+  - sin
   - confinement
 scripture:
   - Romans 1:19-20

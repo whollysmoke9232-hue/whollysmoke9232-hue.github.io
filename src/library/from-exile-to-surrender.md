@@ -6,6 +6,10 @@ layout: article.njk
 category: testimonies
 excerpt: "A condensed account of addiction, collapse, confinement, and the slow surrender that reshaped my life."
 tags:
+  - surrender
+  - repentance
+  - transformation
+  - sovereignty
   - grace
 scripture_references:
   - Galatians 2:20

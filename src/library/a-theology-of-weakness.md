@@ -5,12 +5,11 @@ date: 2026-01-19
 layout: article.njk
 category: reflections
 excerpt: "God is not threatened by human weakness, nor surprised by failure. Again and again, Scripture shows that grace takes root not in strength, but in the soil of humility and dependence."
-ttags:
+tags:
   - weakness
   - grace
   - repentance
-  - faithfulness
-  - humility
+  - sovereignty
 scripture_references:
   - 2 Corinthians 12:9
   - Luke 22:54-62

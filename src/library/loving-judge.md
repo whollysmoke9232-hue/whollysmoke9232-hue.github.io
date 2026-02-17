@@ -6,7 +6,8 @@ layout: article.njk
 category: reflections
 excerpt: "David’s prayer for judgment is not reckless bravado, but quiet trust in a God whose justice is shaped by grace and whose scrutiny is meant to heal."
 tags:
-  - psalms
+  - holiness
+  - sin
   - grace
 scripture:
   - Psalm 17:2

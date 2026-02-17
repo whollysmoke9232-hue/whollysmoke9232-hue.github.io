@@ -6,8 +6,8 @@ layout: article.njk
 category: reflections
 excerpt: A quiet reflection on faith, trust, and learning to depend on God amid the vast unseen realities that surround us.
 tags:
-  - trust
-  - dependence
+  - seeking
+  - transformation
   - faith
 scripture_references:
   - 2 Corinthians 4:18

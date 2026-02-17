@@ -7,7 +7,8 @@ category: reflections
 excerpt: "Psalm 23 is not a wish or a sentiment, but a declaration of settled reality. In valley and pasture alike, the Shepherd’s presence—not the absence of danger—is the source of comfort and confidence."
 tags:
   - trust
-  - faith
+  - refuge
+  - presence
 scripture_references:
   - Psalm 23:1-6
 ---

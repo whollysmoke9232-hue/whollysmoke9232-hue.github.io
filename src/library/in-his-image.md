@@ -6,7 +6,9 @@ layout: article.njk
 category: meditations
 excerpt: "What does it mean to be made in the image of a holy God? A meditation on eternity in fragile bodies and the longing for unending communion with the Infinite One."
 tags:
-
+- identity
+- holiness
+- transformation
 scripture_references:
   - Genesis 1:26
   - Ecclesiastes 3:11

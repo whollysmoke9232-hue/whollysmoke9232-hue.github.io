@@ -6,8 +6,9 @@ layout: article.njk
 category: meditations
 excerpt: "From Sinai’s thunder to the whisper of the Spirit, God has always chosen voice over image—inviting us not to behold Him, but to listen."
 tags:
-  - faith
-  - scripture
+  - prayer
+  - presence
+  - trust
 scripture:
   - Deuteronomy 4:11-12
   - Exodus 20:4-5

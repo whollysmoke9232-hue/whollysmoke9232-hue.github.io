@@ -6,11 +6,10 @@ layout: article.njk
 category: testimonies
 excerpt: "A single testimony drawn from years of conviction, correction, and quiet reframing—about what happens when the Church keeps God at the center and lets everything else follow."
 tags:
-  - church
-  - formation
-  - prayer
-  - scripture
+  - obedience
   - grace
+  - transformation
+  - church
 ---
 
 ## Introduction

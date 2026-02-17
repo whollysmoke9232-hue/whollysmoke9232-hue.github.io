@@ -7,7 +7,8 @@ category: devotionals
 excerpt: "Even little faith is powerful when pointed toward Jesus. Mustard seed faith moves mountains—and multiplies miracles."
 tags:
   - faith
-  - gospels
+  - weakness
+  - trust
   - confinement
 scripture:
   - Matthew 17:20

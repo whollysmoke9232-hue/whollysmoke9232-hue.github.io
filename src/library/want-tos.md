@@ -6,8 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: "When I learned to delight in the Lord rather than in what He could give, I discovered that He was quietly reshaping my desires all along."
 tags:
-  - trust
-  - prayer
+  - obedience
+  - transformation
+  - surrender
 scripture_references:
   - Psalm 37:4
   - Psalm 37:7

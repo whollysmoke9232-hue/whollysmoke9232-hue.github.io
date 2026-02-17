@@ -7,7 +7,9 @@ category: reflections
 excerpt: "From the aftermath of Korah’s rebellion emerged a lineage shaped by holy fear, humility, and grace—voices whose worship was forged in brokenness and preserved in the Psalms."
 tags:
   - grace
-  - psalms
+  - sin
+  - weakness
+  - restoration
 scripture:
   - Numbers 26:11
   - Psalm 42:1

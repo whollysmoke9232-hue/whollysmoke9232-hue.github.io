@@ -6,9 +6,10 @@ layout: article.njk
 category: devotionals
 excerpt: "The psalms teach us that faith does not move in straight lines—from despair to trust, and from trust to being led again toward God Himself."
 tags:
-  - psalms
-  - suffering
-  - waiting
+  - restoration
+  - grace
+  - trust
+  - sovereignty
 scripture:
   - Psalm 13
   - Psalm 43:3

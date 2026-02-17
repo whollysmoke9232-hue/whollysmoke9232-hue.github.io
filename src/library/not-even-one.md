@@ -5,6 +5,10 @@ date: 2026-01-23
 layout: article.njk
 category: reflections
 excerpt: "When Scripture strips away self-confidence, grace is revealed not as an idea to admire, but as a Person to depend on."
+tags:
+- sin
+- grace
+- repentance
 scripture_references:
   - Psalm 53:2–3
   - Romans 3:10–12

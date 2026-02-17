@@ -7,8 +7,8 @@ category: reflections
 excerpt: "Sanctification is not passive drifting or self-reliance, but faithful obedience empowered by God’s grace at work within us."
 tags:
   - grace
-  - obedience
-  - scripture
+  - identity
+  - transformation
 scripture:
   - Philippians 2:12—13
 ---

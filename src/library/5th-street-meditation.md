@@ -6,7 +6,8 @@ layout: article.njk
 excerpt: "If Your presence does not go with us, do not lead us up from here."
 category: meditations
 tags:
-  - formation
+  - peace
+  - seeking
   - grace
 scripture_references:
   - Exodus 33:15

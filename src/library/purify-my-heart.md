@@ -7,7 +7,9 @@ category: devotionals
 excerpt: "A prayer of surrender and longing—for a clean heart that desires God alone and seeks His presence above all else."
 tags:
   - repentance
-  - psalms
+  - sin
+  - holiness
+  - surrender
   - confinement
 scripture:
   - Matthew 5:8

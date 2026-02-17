@@ -8,9 +8,7 @@ excerpt: "Perhaps the invitation of prayer is not to ask more quickly, but to as
 tags:
   - prayer
   - trust
-  - faith
-  - formation
-  - dependence
+  - surrender
 scripture_references:
   - Matthew 7:7–11
   - Ephesians 3:20–21

@@ -8,6 +8,8 @@ excerpt: "Worship begins not with music, but with surrender—bowing low and ent
 tags:
    - surrender
    - obedience
+   - holiness
+   - church
 scripture_references:
   - Genesis 22:5
   - 2 Samuel 24:24

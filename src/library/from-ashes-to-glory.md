@@ -7,8 +7,8 @@ category: testimonies
 excerpt: "When the holy place is defiled and left in ruins, God does not abandon it—He rebuilds His dwelling within us with greater glory than before."
 tags:
   - restoration
-  - repentance
-  - scripture
+  - grace
+  - sovereignty
 scripture:
   - Psalm 79:1
   - 1 Corinthians 6:19

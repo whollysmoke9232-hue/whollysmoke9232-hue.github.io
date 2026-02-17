@@ -5,6 +5,9 @@ date: 2010-10-20
 layout: article.njk
 category: reflections
 excerpt: "God is painting on a canvas bigger than we can see—even when loss, confusion, or silence fills the frame."
+tags:
+- sovereignty
+- trust
 scripture-reference: 
 - Job:1:8
 - Genesis 3:21

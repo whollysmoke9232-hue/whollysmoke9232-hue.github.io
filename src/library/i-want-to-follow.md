@@ -6,8 +6,11 @@ layout: article.njk
 category: devotionals
 excerpt: "Relationship comes before understanding. God leads us into truth before He teaches us."
 tags: 
-- formation
+- surrender
 - obedience
+- faith
+- seeking
+- trust
 scripture_references:
   - Psalm 25:4–5
 ---

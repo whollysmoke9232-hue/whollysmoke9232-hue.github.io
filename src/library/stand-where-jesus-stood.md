@@ -6,9 +6,10 @@ layout: article.njk
 category: meditations
 excerpt: "Before the miracles, before the crowds, Jesus entered the wilderness and learned dependence."
 tags:
-  - dependence
-  - surrender
-  - formation
+  - obedience
+  - faith
+  - identity
+  - church
 scripture_references:
   - John 14:12
   - Matthew 4:1–11

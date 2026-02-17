@@ -6,7 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: "What we consume shapes what we become—and the Word of God is meant to be our daily bread."
 tags:
-  - scripture
+  - sin
+  - obedience
+  - transformation
   - confinement
 scripture:
   - Psalm 119:9

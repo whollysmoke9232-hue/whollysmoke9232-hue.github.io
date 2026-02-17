@@ -6,8 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: "What does it really mean to seek first the Kingdom of God? A reflection on priority, focus, righteousness by faith, and the quiet promise that the Father will provide what we truly need."
 tags:
-  - faith
+  - obedience
   - trust
+  - sovereignty
 scripture_references:
   - Matthew 6:25
   - Matthew 6:31

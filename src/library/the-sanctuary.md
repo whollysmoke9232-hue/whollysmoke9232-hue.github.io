@@ -6,8 +6,9 @@ layout: article.njk
 category: meditations
 excerpt: "A meditation on entering the presence of God, where His holiness reorders our understanding, humbles our pride, and brings clarity that cannot be found anywhere else.."
 tags:
-  - psalms
-  - scripture
+  - holiness
+  - presence
+  - refuge
 scripture:
   - Psalm 73:16-17
   - Revelation 4:8

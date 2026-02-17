@@ -6,8 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: "How close can a person be to Jesus — and still miss Him? Judas’ life confronts our assumptions about proximity, ministry, and surrender."
 tags: 
-- weakness
-- repentance
+- sin
+- sovereignty
+- grace
 scripture_references: 
 - Matthew 26:14-16
 - Matthew 26:50

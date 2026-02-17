@@ -7,9 +7,9 @@ category: reflections
 excerpt: Life does not always come together in ways we can understand. Faith holds to the promise that God is at work even when meaning feels hidden, and nothing is ultimately wasted.
 tags:
 - trust
-- suffering
-- waiting
-- hope
+- sovereignty
+- faith
+- grace
 scripture_references:
   - Psalm 57:2
   - Philippians 1:6

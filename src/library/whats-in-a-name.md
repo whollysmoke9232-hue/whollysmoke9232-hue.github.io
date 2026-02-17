@@ -6,8 +6,10 @@ layout: article.njk
 category: reflections
 excerpt: "Discovering how identity shapes destiny—and how God’s name over us changes everything."
 tags:
-  - obedience
-  - scripture
+  - identity
+  - holiness
+  - seeking
+  - transformation
 scripture:
   - Daniel 1
   - Daniel 3

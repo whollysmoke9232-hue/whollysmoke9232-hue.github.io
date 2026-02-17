@@ -6,7 +6,9 @@ layout: article.njk
 category: testimonies
 excerpt: "A reflection on Scripture, time, and the holy space before the beginning—where God already knew every moment of our lives."
 tags:
-  - scripture
+  - weakness
+  - presence
+  - grace
   - confinement
 scripture:
   - Luke 5:27-28

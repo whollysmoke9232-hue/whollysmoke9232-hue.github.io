@@ -6,7 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: Scripture was not given to us as a weapon to wound others, but as a living word meant to search us, humble us, and lead us into love.
 tags:
-  - scripture
+  - identity
+  - weakness
+  - trust
 scripture:
  - Isaiah 55:11  
 ---

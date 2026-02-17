@@ -7,7 +7,8 @@ excerpt: "When pain strips away understanding, surrender becomes worship. This m
 category: meditations
 tags:
   - suffering
-  - hope
+  - trust
+  - presence
   - confinement
 scripture:
   - Psalm 69:7

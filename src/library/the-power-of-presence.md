@@ -6,9 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: "Israel’s victories were never secured by strength or strategy, but by the light of God’s presence—a truth that still exposes the danger of self-reliance."
 tags:
-  - obedience
-  - grace
-  - scripture
+  - presence
+  - refuge
+  - trust
 scripture:
   - Psalm 44:3
 ---

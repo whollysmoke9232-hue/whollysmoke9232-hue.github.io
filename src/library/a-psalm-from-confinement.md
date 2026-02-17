@@ -8,8 +8,10 @@ category: meditations
 tags:
   - suffering
   - waiting
-  - psalms
+  - refuge
+  - presence
   - confinement
+  - prayer
 ---
 
 Conceived in trouble  

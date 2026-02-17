@@ -6,10 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: "Psalm 119 reveals a faith shaped not by urgency or perfection, but by long obedience, quiet trust, and desires reformed through God’s Word."
 tags:
-  - scripture
-  - faith
+  - transformation
+  - seeking
   - obedience
-  - psalms
 scripture:
   - Psalm 119:57
   - Psalm 73:25

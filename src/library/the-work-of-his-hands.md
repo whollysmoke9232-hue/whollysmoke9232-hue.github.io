@@ -6,7 +6,9 @@ layout: article.njk
 category: meditations
 excerpt: "Like a craftsman with a vision, God sees us not for our flaws but for the purpose He lovingly designed. Even our dents and dings are part of the story."
 tags:
-  - grace
+  - identity
+  - worship
+  - sovereignty
 scripture:
   - Psalm 139:13-14
 ---

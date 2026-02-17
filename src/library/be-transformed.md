@@ -6,7 +6,10 @@ layout: article.njk
 category: devotionals
 excerpt: "True worship is not conformity to the world, but transformation through a renewed mind shaped by the righteousness of Christ."
 tags:
-  - scripture
+  - transformation
+  - surrender
+  - obedience
+  - grace
   - confinement
 scripture:
   - Romans 12:1-2

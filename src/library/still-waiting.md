@@ -8,9 +8,7 @@ excerpt: "When anxiety pulls me into endless what-ifs, Psalm 39:7 calls me back 
 tags: 
 - waiting
 - trust
-- surrender
-- hope
-- formation
+- refuge
 scripture: Psalm 39:7
 ---
 

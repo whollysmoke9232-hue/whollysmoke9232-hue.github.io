@@ -7,7 +7,9 @@ category: devotionals
 excerpt: "You don’t have to climb your way to God or fix yourself first. Just look to Jesus—and live."
 tags:
   - faith
-  - gospels
+  - repentance
+  - grace
+  - identity
 scripture:
   - John 3:14-15
 ---

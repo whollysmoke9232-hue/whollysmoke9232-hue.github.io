@@ -6,8 +6,9 @@ layout: article.njk
 category: reflections
 excerpt: "Reflecting on how we can unknowingly step out of alignment with what God is already doing—and what surrender truly looks like."
 tags:
-  - waiting
-  - obedience
+  - control
+  - surrender
+  - trust
 scripture:
   - Mark 4:18-19
 ---
