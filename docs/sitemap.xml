@@ -31,7 +31,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/stories/dance-like-enoch/</loc>
+    <loc>https://www.marginsdevotionals.com/stories/i-wanna-dance-like-enoch/</loc>
     <lastmod>2016-04-20</lastmod>
     <priority>0.8</priority>
   </url>
@@ -51,7 +51,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/devotionals/be-transformed-v2/</loc>
+    <loc>https://www.marginsdevotionals.com/devotionals/be-transformed/</loc>
     <lastmod>2023-08-26</lastmod>
     <priority>0.8</priority>
   </url>
@@ -261,12 +261,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/reflections/cart-or-horse/</loc>
+    <loc>https://www.marginsdevotionals.com/stories/margins-where-god-begins/</loc>
     <lastmod>2026-01-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/stories/margins-where-god-begins/</loc>
+    <loc>https://www.marginsdevotionals.com/reflections/the-cart-or-horse/</loc>
     <lastmod>2026-01-15</lastmod>
     <priority>0.8</priority>
   </url>
@@ -731,8 +731,23 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.marginsdevotionals.com/meditations/created-in-his-image/</loc>
+    <lastmod>2026-02-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.marginsdevotionals.com/reflections/near-enough-to-live/</loc>
     <lastmod>2026-02-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/reflections/complete-protection/</loc>
+    <lastmod>2026-02-18</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/google3eb551eecf4e1692/</loc>
+    <lastmod>2026-02-19</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

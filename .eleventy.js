@@ -146,7 +146,6 @@ module.exports = function (eleventyConfig) {
       .filter(item => {
         if (!item.url) return false;
         if (!item.url.includes("/books/margins-where-god-begins/")) return false;
-        // Exclude index and TOC pages
         if (item.url.endsWith("/books/margins-where-god-begins/")) return false;
         if (item.url.includes("/toc/")) return false;
         return true;
@@ -160,7 +159,6 @@ module.exports = function (eleventyConfig) {
       .filter(item => {
         if (!item.url) return false;
         if (!item.url.includes("/books/fractured-light/")) return false;
-        // Exclude index and TOC pages
         if (item.url.endsWith("/books/fractured-light/")) return false;
         if (item.url.includes("/toc/")) return false;
         return true;
@@ -221,8 +219,6 @@ module.exports = function (eleventyConfig) {
   const autoScriptureLinks = require("./src/_transforms/autoScriptureLinks");
   eleventyConfig.addTransform("autoScriptureLinks", autoScriptureLinks);
 
-
-
   // ===============================
   // PASSTHROUGH COPY
   // ===============================
@@ -230,6 +226,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/CNAME");
+  eleventyConfig.addPassthroughCopy("src/google3eb551eecf4e1692.html");
 
   // ===============================
   // DIRECTORY STRUCTURE
