@@ -11,10 +11,11 @@ scripture:
   - Psalm 73:25
 ---
 
+<!-- markdownlint-configure-file {"MD024": false} -->
+
 <div style="text-align: center; margin: 0.5rem 0; padding: 0.5rem; font-size: 0.85rem; color: #888;">
   <a href="/books/fractured-light/" style="color: #999; text-decoration: none; border-bottom: 1px dashed #ccc;">Prefer chapters?</a>
 </div>
-
 
 ## Table of Contents
 
@@ -1463,7 +1464,6 @@ And it's enough.
 <br>
 <br>
 
-
 I will leave you with a reflection written during my incarceration:
 
 <div style="font-family: 'Caveat', cursive; font-size: 1.5em;">
@@ -1473,4 +1473,3 @@ I will leave you with a reflection written during my incarceration:
  ***“The faithful love of the Lord never ends! His mercies never cease. Great is his faithfulness; His mercies begin afresh each morning. I say to myself, ‘The Lord is my inheritance; therefore I will hope in him’” –Lamentations 3:22-24 (NLT)***
 
  </div>
-
