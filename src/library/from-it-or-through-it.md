@@ -40,7 +40,7 @@ Daniel records a fourth man walking with them—one “like a son of the gods.�
 
 When they emerged, the evidence was undeniable:
 
-> _“…the fire had no effect on the bodies of these men nor was the hair of their head singed, nor were their trousers damaged, nor had the smell of fire even come upon them.”_ **—Daniel 3:27**
+> “…the fire had no effect on the bodies of these men nor was the hair of their head singed, nor were their trousers damaged, nor had the smell of fire even come upon them.”_ **—Daniel 3:27**
 
 Yet something *was* burned away—the ropes that bound them.
 
@@ -52,15 +52,13 @@ He still uses suffering not to consume us, but to refine us. And notice this: Je
 
 Scripture echoes this truth:
 
-> _“If any man’s work is burned up, he will suffer loss; but he himself will be saved, yet so as through fire.”_ **—1 Corinthians 3:15**
-
-> _“Behold, I have refined you, but not as silver; I have tested you in the furnace of affliction.”_ **—Isaiah 48:10**
+> *“If any man’s work is burned up, he will suffer loss; but he himself will be saved, yet so as through fire.”* **—1 Corinthians 3:15**
+> *“Behold, I have refined you, but not as silver; I have tested you in the furnace of affliction.”* **—Isaiah 48:10**
 
 If you are in the fire today—pressed by grief, fear, loss, or uncertainty—hear these promises:
 
-> _“The LORD is near to the brokenhearted and saves those who are crushed in spirit.”_ **—Psalm 34:18**
-
-> _“And now, Lord, for what do I wait? My hope is in You.”_ **—Psalm 39:7**
+> *“The LORD is near to the brokenhearted and saves those who are crushed in spirit.”* **—Psalm 34:18**
+> *“And now, Lord, for what do I wait? My hope is in You.”* **—Psalm 39:7**
 
 We can face any trial with confidence—not because we control the outcome, but because we know the Companion. God may deliver us from the fire, or He may walk with us through it. Either way, He is faithful. The fire refines, releases, and frees—consuming only what binds us.
 
@@ -70,7 +68,7 @@ We can face any trial with confidence—not because we control the outcome, but 
 
 > Lord, teach us to trust You not only in deliverance, but also in delay.  
 > When the flames rise and the path grows dark, remind us that You are not absent—you are near.  
-> Your presence is our greatest promise._ 
+> Your presence is our greatest promise.
 > Amen.
 
 ---

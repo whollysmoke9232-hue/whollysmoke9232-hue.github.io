@@ -190,19 +190,18 @@ And that, so far, has been enough.
 ## Prayer
 
 > Father,
+I am still in process.  
+Still learning.  
+Still waking up thinking it’s about me.  
 
-> I am still in process.  
-> Still learning.  
-> Still waking up thinking it’s about me.
+Teach me again today what surrender actually means.  
+Give me willingness when I don’t feel it.  
+Give me honesty when I want to hide.  
+Give me courage to stay in the light.  
 
-> Teach me again today what surrender actually means.  
-> Give me willingness when I don’t feel it.  
-> Give me honesty when I want to hide.  
-> Give me courage to stay in the light.
-
-> If Your grace truly is sufficient, let it be sufficient for me—today.  
-> Not because I deserve it.  
-> Not because I understand it.  
-> But because I need it.
+If Your grace truly is sufficient, let it be sufficient for me—today.  
+Not because I deserve it.  
+Not because I understand it.  
+But because I need it.  
 
 > Amen.
