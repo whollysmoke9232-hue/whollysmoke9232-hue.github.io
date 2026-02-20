@@ -1,0 +1,77 @@
+---
+title: Most Recent Additions
+layout: layout.njk
+permalink: /recent-additions/
+---
+
+<p>Content added in the last seven days (based on original Git add date).</p>
+
+<style>
+  .content-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .category-item {
+    margin-bottom: 2rem;
+    color: #5a3e2b;
+  }
+
+  .category-title {
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #5a3e2b;
+  }
+
+  .category-title:hover {
+    text-decoration: underline;
+  }
+
+  .category-date {
+    margin: 0.3rem 0 0.5rem 0;
+    font-size: 0.95rem;
+    color: #5a3e2b;
+  }
+
+  .category-excerpt {
+    font-size: 1.2rem;
+    margin: 0;
+    line-height: 1.6;
+    color: #5a3e2b;
+  }
+
+  .empty-note {
+    font-size: 1.05rem;
+    color: #5a3e2b;
+    opacity: 0.9;
+  }
+</style>
+
+{% set recent = collections.recentAdditions %}
+
+{% if recent and recent.length > 0 %}
+<ul class="content-list">
+  {% for item in recent %}
+    <li class="category-item">
+      <a href="{{ item.url }}" class="category-title">{{ item.data.title }}</a>
+
+      {% if item.data.date %}
+        <div class="category-date">{{ item.data.date | readableDate }}</div>
+      {% endif %}
+
+      {% if item.data.excerpt %}
+        <p class="category-excerpt">{{ item.data.excerpt | safe }}</p>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p class="empty-note">No new additions in the last seven days.</p>
+{% endif %}
+
+<hr>
+
+<nav class="explore-bubbles" aria-label="Return to Tag Index">
+  <a href="/tags/">← Return to Tag Index</a>
+</nav>
