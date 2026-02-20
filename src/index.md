@@ -5,6 +5,12 @@ layout: layout.njk
 
 <div class="article-content">
 
+  <style>
+    .article-content a:hover {
+      text-decoration: underline !important;
+    }
+  </style>
+
   <div style="text-align: center; margin-bottom: 0.5rem;">
     <a href="{{ '/begin/' | url }}"
        title="Begin"

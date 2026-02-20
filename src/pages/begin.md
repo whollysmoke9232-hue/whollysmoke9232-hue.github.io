@@ -5,6 +5,12 @@ permalink: /begin/
 templateEngineOverride: njk,md
 ---
 
+<style>
+  main .container a:hover {
+    text-decoration: underline !important;
+  }
+</style>
+
 ## Begin
 
 These writings were never created to fulfill a plan or advance an agenda.
