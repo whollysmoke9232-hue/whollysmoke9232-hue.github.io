@@ -56,35 +56,35 @@ layout: layout.njk
 
   <div style="text-align: center; margin: 0;">
     <a href="{{ '/begin/' | url }}"
-       style="text-decoration: underline; color: #8b7355;">
+       style="text-decoration: none; color: #8b7355;">
       Reading Paths
     </a>
   </div>
 
   <div style="text-align: center; margin: 0;">
     <a href="{{ '/scripture/' | url }}"
-       style="text-decoration: underline; color: #8b7355;">
+       style="text-decoration: none; color: #8b7355;">
       Scripture Index
     </a>
   </div>
 
   <div style="text-align: center; margin: 0;">
     <a href="{{ '/tags/' | url }}"
-       style="text-decoration: underline; color: #8b7355;">
+       style="text-decoration: none; color: #8b7355;">
       Tag Index
     </a>
   </div>
 
   <div style="text-align: center; margin: 0;">
     <a href="{{ '/recent-additions/' | url }}"
-       style="text-decoration: underline; color: #8b7355;">
+       style="text-decoration: none; color: #8b7355;">
       Most Recent Additions
     </a>
   </div>
 
   <div style="text-align: center; margin-top: 2rem;">
     <a href="{{'/about/' | url }}"
-       style="color: #5a3e2b; text-decoration: underline;">
+       style="color: #5a3e2b; text-decoration: none;">
       Why This Place Exists
     </a>
   </div>
