@@ -23,7 +23,6 @@ This testimony is offered as a single, complete story. It does not require famil
 
 ---
 
-# From Exile to Eden  
 *A Story of Recovery*
 
 ## Prologue — The Far Shore

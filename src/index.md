@@ -83,18 +83,17 @@ layout: layout.njk
   </div>
 
   <div style="text-align: center; margin-top: 2rem;">
-    <a href="{{ '/about/' | url }}"
+    <a href="{{'/about/' | url }}"
        style="color: #5a3e2b; text-decoration: underline;">
       Why This Place Exists
     </a>
   </div>
 
   <div style="text-align:center; margin:4rem 0 2rem 0; font-size:1rem; color:#6a5d4d;">
-    <a href="{{ '/youre-not-alone/' | url }}"
+    <a href="{{'/youre-not-alone/' | url }}"
        style="text-decoration:none; color:inherit;">
       There is a place here for what is hardest to name.
     </a>
   </div>
 
 </div>
-

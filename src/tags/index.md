@@ -7,7 +7,7 @@ Explore library writings by theme and topic. Each tag gathers related entries fr
 
 ---
 
-### All Tags
+## All Tags
 
 <div class="tag-cloud">
 {% for tag in collections.tagList | sort(false, true) %}

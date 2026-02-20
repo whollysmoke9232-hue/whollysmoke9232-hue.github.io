@@ -40,7 +40,7 @@ We are offered eternal life as a gift. God is eternal by nature.
 
 > *“He has “set eternity in the human heart.”* **— Ecclesiastes 3:11**  
 
-Because we are created in His image, there is something in us that longs for eternity. 
+Because we are created in His image, there is something in us that longs for eternity.  
 
 What a thought! We are designed for unending communion with the Infinite One.
 
@@ -65,7 +65,6 @@ There is a part of us that longs for the infinite — because we were made for e
 One day, after we shed the finite limitations of these bodies, we will finally embrace the fullness of God.  
 
 > *We will see Him as He is* **—1 John 3:2**  
-
 > *We will know fully as we are fully known* **—1 Corinthians 13:12**  
 
 But the Infinite can never be exhausted by the finite.  
