@@ -142,7 +142,8 @@ This library is offered as it is, not as instruction, but as witness — in the 
   <a href="/testimonies/">Testimonies</a> &middot;
   <a href="/books/">Books</a><br>
   <a href="/scripture/">Scripture Index</a><br>
-  <a href="/tags/">Tab Index</a>
+  <a href="/tags/">Tag Index</a><br>
+  <a href="/recent-additions/">Most Recent Additions</a>
 </div>
 
 <div style="text-align: center;">

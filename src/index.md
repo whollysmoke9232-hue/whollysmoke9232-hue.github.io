@@ -75,6 +75,13 @@ layout: layout.njk
     </a>
   </div>
 
+  <div style="text-align: center; margin: 0;">
+    <a href="{{ '/recent-additions/' | url }}"
+       style="text-decoration: underline; color: #8b7355;">
+      Most Recent Additions
+    </a>
+  </div>
+
   <div style="text-align: center; margin-top: 2rem;">
     <a href="{{ '/about/' | url }}"
        style="color: #5a3e2b; text-decoration: none;">
