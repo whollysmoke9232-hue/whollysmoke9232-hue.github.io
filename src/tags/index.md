@@ -15,6 +15,8 @@ Explore library writings by theme and topic. Each tag gathers related entries fr
 {% endfor %}
 </div>
 
+<p><a href="/recent-additions/">Most Recent Additions (Last 7 Days)</a></p>
+
 <style>
 .tag-cloud {
   display: flex;
