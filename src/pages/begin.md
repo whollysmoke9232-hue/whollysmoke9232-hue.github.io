@@ -143,7 +143,8 @@ This library is offered as it is, not as instruction, but as witness — in the 
   <a href="/books/">Books</a><br>
   <a href="/scripture/">Scripture Index</a><br>
   <a href="/tags/">Tag Index</a><br>
-  <a href="/recent-additions/">Most Recent Additions</a>
+  <a href="/recent-additions/">Most Recent Additions</a><br>
+  <a href="/about/" style="text-decoration: underline;">Why This Place Exists</a>
 </div>
 
 <div style="text-align: center;">

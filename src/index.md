@@ -84,7 +84,7 @@ layout: layout.njk
 
   <div style="text-align: center; margin-top: 2rem;">
     <a href="{{ '/about/' | url }}"
-       style="color: #5a3e2b; text-decoration: none;">
+       style="color: #5a3e2b; text-decoration: underline;">
       Why This Place Exists
     </a>
   </div>
