@@ -6,7 +6,18 @@
   if (!pathKey) return;
 
   const readingPaths = {{ readingPaths | dump | safe }};
-  const entries = readingPaths[pathKey];
+  const fallbackPaths = {
+    "out-of-control": [
+      { url: "/reflections/waves/", title: "Waves" },
+      { url: "/excerpts/fractured-light/chapter-7/", title: "Fractured Light — The Collapse" },
+      { url: "/reflections/still-waiting/", title: "Still Waiting" },
+      { url: "/reflections/a-theology-of-weakness/", title: "A Theology of Weakness" },
+      { url: "/reflections/held-on-every-side/", title: "Held on Every Side" },
+      { url: "/reflections/the-big-picture/", title: "The Big Picture" }
+    ]
+  };
+
+  const entries = readingPaths[pathKey] || fallbackPaths[pathKey];
   if (!entries || !entries.length) return;
 
   const normalize = (url) => {
