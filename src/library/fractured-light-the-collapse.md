@@ -2,6 +2,7 @@
 title: "Fractured Light: The Collapse"
 chapterSubtitle: "When the Body Breaks and the Soul Follows"
 layout: article.njk
+date: 2026-01-08
 order: 7
 author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-7/"

@@ -1,6 +1,7 @@
 ---
 title: "Fractured Light: The Altar"
 chapterSubtitle: "When Conviction Becomes Surrender"
+date: 2026-01-08
 layout: article.njk
 order: 4
 author: "Steve Wilkins"

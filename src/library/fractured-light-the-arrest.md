@@ -2,6 +2,7 @@
 title: "Fractured Light: The Arrest"
 chapterSubtitle: "Where Grace Builds Altars"
 layout: article.njk
+date: 2026-01-08
 order: 9
 author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-9/"

@@ -1,8 +1,6 @@
 const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
-const { execFileSync } = require("child_process");
-const path = require("path");
 
 module.exports = function (eleventyConfig) {
 
@@ -191,60 +189,30 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addCollection("recentAdditions", function (collectionApi) {
-    const repoRoot = __dirname;
-    const gitDateCache = new Map();
     const cutoff = DateTime.utc().minus({ days: 7 }).startOf("day");
 
-    function getOriginalGitDate(inputPath) {
-      if (!inputPath) return null;
+    function getPublishedDate(item) {
+      const value = item?.data?.date;
+      if (!value) return null;
 
-      const absolutePath = path.isAbsolute(inputPath)
-        ? inputPath
-        : path.resolve(repoRoot, String(inputPath));
-
-      const relPath = path
-        .relative(repoRoot, absolutePath)
-        .replace(/\\/g, "/")
-        .replace(/^\.\//, "");
-
-      if (gitDateCache.has(relPath)) {
-        return gitDateCache.get(relPath);
+      if (value instanceof Date) {
+        const dt = DateTime.fromJSDate(value, { zone: "utc" });
+        return dt.isValid ? dt : null;
       }
 
-      try {
-        const output = execFileSync(
-          "git",
-          ["log", "--follow", "--format=%aI", "--", relPath],
-          { cwd: repoRoot, encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] }
-        ).trim();
-
-        if (!output) {
-          gitDateCache.set(relPath, null);
-          return null;
-        }
-
-        const lines = output.split(/\r?\n/).filter(Boolean);
-        const oldest = lines[lines.length - 1];
-        const dt = DateTime.fromISO(oldest, { zone: "utc" });
-        const validDate = dt.isValid ? dt : null;
-        gitDateCache.set(relPath, validDate);
-        return validDate;
-      } catch {
-        gitDateCache.set(relPath, null);
-        return null;
-      }
+      const dt = DateTime.fromISO(String(value), { zone: "utc" });
+      return dt.isValid ? dt : null;
     }
 
     return collectionApi
       .getFilteredByGlob("./src/library/*.md")
       .filter((item) => {
-        const sourcePath = item.inputPath || item.page?.inputPath;
-        const dt = getOriginalGitDate(sourcePath);
+        const dt = getPublishedDate(item);
         return dt && dt.isValid && dt >= cutoff;
       })
       .sort((a, b) => {
-        const aDt = getOriginalGitDate(a.inputPath || a.page?.inputPath);
-        const bDt = getOriginalGitDate(b.inputPath || b.page?.inputPath);
+        const aDt = getPublishedDate(a);
+        const bDt = getPublishedDate(b);
 
         if (!aDt && !bDt) return 0;
         if (!aDt) return 1;

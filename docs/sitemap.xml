@@ -211,6 +211,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-4/</loc>
+    <lastmod>2026-01-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-9/</loc>
+    <lastmod>2026-01-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-7/</loc>
+    <lastmod>2026-01-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-3/</loc>
+    <lastmod>2026-01-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.marginsdevotionals.com/stories/fractured-light/</loc>
     <lastmod>2026-01-08</lastmod>
     <priority>0.8</priority>
@@ -596,26 +616,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-3/</loc>
-    <lastmod>2026-02-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-7/</loc>
-    <lastmod>2026-02-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-9/</loc>
-    <lastmod>2026-02-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-4/</loc>
-    <lastmod>2026-02-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/begin/</loc>
     <lastmod>2026-02-02</lastmod>
     <priority>0.8</priority>
@@ -773,6 +773,16 @@
   <url>
     <loc>https://www.marginsdevotionals.com/recent-additions/</loc>
     <lastmod>2026-02-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/meditations/confession/</loc>
+    <lastmod>2026-02-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/out-of-control/</loc>
+    <lastmod>2026-02-21</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
