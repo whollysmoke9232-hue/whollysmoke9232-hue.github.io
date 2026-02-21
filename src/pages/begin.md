@@ -71,7 +71,27 @@ This library is offered as it is, not as instruction, but as witness — in the 
       </p>
   </div>
 
-  <!-- Row 4 — Learning to follow -->
+  <!-- Row 4 — When Life Feels Out of Control -->
+  <div>
+    <h3>
+      <a href="/out-of-control/" title="Out of Control">
+        When Life Feels Out of Control
+      </a>
+    </h3>
+    <p>
+      When the ground shifts and you can’t see what God is doing, these reflections steady your footing and widen your view.
+    </p>
+  </div>
+
+  <a href="/out-of-control/" title="Out of Control">
+    <img src="{{ '/images/chatgpt-anchor.png' | url }}" alt="Out of Control" title="Out of Control" style="max-width: 100%; border-radius: 8px;">
+  </a>
+
+  <!-- Row 5 — Learning to follow -->
+  <a href="/start-here/" title="Start Here">
+    <img src="{{ '/images/chatgpt-path-fork.png' | url }}" alt="Learning to follow" style="max-width: 100%; border-radius: 8px;">
+  </a>
+
   <div>
     <h3>
       <a href="/start-here/" title="Start Here">
@@ -83,15 +103,7 @@ This library is offered as it is, not as instruction, but as witness — in the 
     </p>
   </div>
 
-  <a href="/start-here/" title="Start Here">
-    <img src="{{ '/images/chatgpt-path-fork.png' | url }}" alt="Learning to follow" style="max-width: 100%; border-radius: 8px;">
-  </a>
-
-  <!-- Row 5 — Learning to listen -->
-  <a href="/hearing-god/" title="Hearing God">
-    <img src="{{ '/images/chatgpt-hand-on-bible.png' | url }}" alt="Learning to listen" style="max-width: 100%; border-radius: 8px;">
-  </a>
-
+  <!-- Row 6 — Learning to listen -->
   <div>
     <h3>
       <a href="/hearing-god/" title="Hearing God">
@@ -103,7 +115,15 @@ This library is offered as it is, not as instruction, but as witness — in the 
     </p>
   </div>
 
-  <!-- Row 6 — Learning to know Him -->
+  <a href="/hearing-god/" title="Hearing God">
+    <img src="{{ '/images/chatgpt-hand-on-bible.png' | url }}" alt="Learning to listen" style="max-width: 100%; border-radius: 8px;">
+  </a>
+
+  <!-- Row 7 — Learning to know Him -->
+  <a href="/knowing-god/" title="Knowing God">
+    <img src="{{ '/images/chatgpt-shared_table_two_chairs.png' | url }}" alt="Learning to know Him" style="max-width: 100%; border-radius: 8px;">
+  </a>
+
   <div>
     <h3>
       <a href="/knowing-god/" title="Knowing God">
@@ -115,15 +135,7 @@ This library is offered as it is, not as instruction, but as witness — in the 
     </p>
   </div>
 
-  <a href="/knowing-god/" title="Knowing God">
-    <img src="{{ '/images/chatgpt-shared_table_two_chairs.png' | url }}" alt="Learning to know Him" style="max-width: 100%; border-radius: 8px;">
-  </a>
-
-  <!-- Row 7 — About the Author -->
-  <a href="/about-the-author#/" title="About the author">
-    <img src="{{ '/images/chatgpt-steve.png' | url }}" alt="About the Author" style="max-width: 100%; border-radius: 8px;">
-  </a>
-
+  <!-- Row 8 — About the Author -->
   <div>
     <h3>
       <a href="/about-the-author#/" title="About the author">
@@ -134,6 +146,10 @@ This library is offered as it is, not as instruction, but as witness — in the 
       If you would like to understand the voice behind these writings, this path gathers pieces that reflect the journey, failures, questions, and grace that have shaped this work.
     </p>
   </div>
+
+  <a href="/about-the-author#/" title="About the author">
+    <img src="{{ '/images/chatgpt-steve.png' | url }}" alt="About the Author" style="max-width: 100%; border-radius: 8px;">
+  </a>
 
 </div>
 

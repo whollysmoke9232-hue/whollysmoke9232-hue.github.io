@@ -23,6 +23,15 @@ module.exports = {
 { url: '/devotionals/look-and-live/', title: 'Look and Live' }
 ],
 
+'out-of-control': [
+{ url: '/reflections/waves/', title: 'Waves' },
+{ url: '/excerpts/fractured-light/chapter-7/', title: 'Fractured Light — The Collapse' },
+{ url: '/reflections/still-waiting/', title: 'Still Waiting' },
+{ url: '/reflections/a-theology-of-weakness/', title: 'A Theology of Weakness' },
+{ url: '/reflections/held-on-every-side/', title: 'Held on Every Side' },
+{ url: '/reflections/the-big-picture/', title: 'The Big Picture' }
+],
+
 'about-the-author': [
 { url: '/testimonies/from-exile-to-surrender/', title: 'From Exile to Surrender' },
 { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
