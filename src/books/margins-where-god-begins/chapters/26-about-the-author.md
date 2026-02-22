@@ -18,4 +18,4 @@ At the heart of Steve’s writing is a simple conviction: God is not reacting to
 Steve lives with a deep love for Scripture, a reverence for honest questions, and a passion for helping others recognize God’s presence in the ordinary, the overlooked, and the margins of life. When he’s not reading or writing, he can often be found quietly listening—trusting that God still speaks, and that wonder is still a holy response.
 
 Steve can be reached at  
-**stevewilkins@me.com**
+**SteveWilkins@MarginsDevotionals.com**

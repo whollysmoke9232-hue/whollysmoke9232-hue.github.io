@@ -16,7 +16,7 @@ scripture_references:
   - Romans 8:14–17
 ---
 
-> _“Then Moses said to Him, ‘If Your presence does not go with us, do not lead us up from here.’”_ **—Exodus 33:15** 
+> _“Then Moses said to Him, ‘If Your presence does not go with us, do not lead us up from here.’”_ **—Exodus 33:15**
 
 Moses understood something essential:  
 If You do not lead, I am not going anywhere.
@@ -28,7 +28,7 @@ Everything Moses had seen and experienced of God convinced him that there must b
 Jesus knew this too.  
 He consistently bypassed the religious elite and chose instead to share tables with the poor, the profane, and those written off as unworthy.
 
-People are not starving for stories *about* Jesus.  
+People are not starving for stories*about* Jesus.  
 They are starving for Jesus Himself.
 
 ---

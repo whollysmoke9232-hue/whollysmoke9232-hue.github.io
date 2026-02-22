@@ -51,5 +51,3 @@ If God is everywhere, then nothing is impossible for me. Because nothing is impo
 
 > Lord, expand my awareness of Your nearness. Help me to rest in the truth that I am never outside Your presence, never beyond Your reach, and never unseen by Your love. Teach me to live from that reality, with trust, humility, and awe.  
 > Amen.
-
-

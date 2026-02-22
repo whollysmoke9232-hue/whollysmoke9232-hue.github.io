@@ -39,7 +39,6 @@ And even this faith is not self-generated.
 
 Faith itself is a gift—given by the Holy Spirit.
 
-
 <!-- end-of-article -->
 
 <br>

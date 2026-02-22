@@ -13,6 +13,7 @@ excerpt: "A contemplative exploration of God's presence in the spaces we often o
 
 ## Table of Contents
 
+- [Front Cover](#front-cover)
 - [Foreword](#foreword)
 - [Introduction](#introduction)
 - [Part 1: The Eternal Margin](#part-1-the-eternal-margin)
@@ -40,10 +41,17 @@ excerpt: "A contemplative exploration of God's presence in the spaces we often o
 - [Postlude: If God Is Everywhere…](#postlude-if-god-is-everywhere)
 - [Appendix](#appendix)
 - [About the Author](#about-the-author)
+- [Back Cover](#back-cover)
 
 ---
 
-# Foreword
+## Front Cover
+
+![Margins Front Cover](/images/margins-front-cover.jpg)
+
+---
+
+## Foreword
 
 There are books that explain Scripture, and there are books that invite you to enter it.  
 This is the latter.
@@ -85,7 +93,7 @@ And God was already there.
 
 ---
 
-# Introduction
+## Introduction
 
 What’s your favorite place in the Bible?
 
@@ -117,7 +125,7 @@ Where God’s plan begins.
 
 ---
 
-# Part 1: The Eternal Margin
+## Part 1: The Eternal Margin
 
 Before time began, God already knew.
 
@@ -980,11 +988,9 @@ To align your life with His truth.
 📖 **Psalm 119:9–16 (ESV)**
 
 > How can a young man keep his way pure?  
-> By guarding it according to your word.  
->  
-> With my whole heart I seek you; let me not wander from your commandments!  
->  
-> I have storedup your word in my heart, that I might not sin against you.  
+By guarding it according to your word.  
+With my whole heart I seek you; let me not wander from your commandments!  
+I have storedup your word in my heart, that I might not sin against you.  
 Blessed are you, O Lord; teach me your statutes!  
 With my lips I declare all the rules of your mouth.  
 In the way of your testimonies I delight as much as in all riches.  
@@ -1533,5 +1539,10 @@ At the heart of Steve’s writing is a simple conviction: God is not reacting to
 Steve lives with a deep love for Scripture, a reverence for honest questions, and a passion for helping others recognize God’s presence in the ordinary, the overlooked, and the margins of life. When he’s not reading or writing, he can often be found quietly listening—trusting that God still speaks, and that wonder is still a holy response.
 
 Steve can be reached at  
-**stevewilkins@me.com**
+**SteveWilkins@MarginsDevotionals.com**
 
+---
+
+## Back Cover
+
+![Margins Back Cover](/images/margins-back-cover-500x800.png)

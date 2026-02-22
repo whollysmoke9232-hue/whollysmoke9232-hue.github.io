@@ -18,7 +18,6 @@ scripture_references:
 
 ## Renew My Mind
 
-
 > _“And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.”_ **—Romans 12:2**  
 
 The world we live in has a powerful way of shaping how we think—often without our permission.

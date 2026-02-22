@@ -54,8 +54,6 @@ There is nowhere I would rather be.
 > Be glorified in me, even here._  
 > Amen.
 
-
-
 <!-- end-of-article -->
 
 <br>
@@ -64,4 +62,3 @@ There is nowhere I would rather be.
 <span style="font-size: 0.85em;">
 *Written in confinement.*
 </span>
-

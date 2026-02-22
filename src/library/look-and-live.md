@@ -44,5 +44,5 @@ Jesus is the Judge, yes—but He didn’t come to slam the gavel. He came to ope
 
 ## Prayer
 
-> Lord Jesus, thank You for being lifted up for me. I confess that I often try to earn what You’ve already given. Help me to simply look to You in faith. Thank You for loving me before I ever loved You. Today, I choose to believe. I choose to live. 
+> Lord Jesus, thank You for being lifted up for me. I confess that I often try to earn what You’ve already given. Help me to simply look to You in faith. Thank You for loving me before I ever loved You. Today, I choose to believe. I choose to live.  
 > Amen.

@@ -19,6 +19,7 @@ This testimony gathers convictions first written years ago and carries them forw
 ---
 
 ## When the Order Matters  
+
 *A Testimony*
 
 There was a season of my life when I was deeply concerned with the Church.

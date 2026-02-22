@@ -42,7 +42,7 @@ That is why David can pray again, without fear:
 > _“Search me, O God, and know my heart;_  
 > _Try me and know my anxious thoughts;_  
 > _And see if there be any hurtful way in me,_  
-> _And lead me in the everlasting way.”_ 
+> _And lead me in the everlasting way.”_  
 > **—Psalm 139:23–24**
 
 Judgment, in God’s hands, is not exposure for condemnation.  

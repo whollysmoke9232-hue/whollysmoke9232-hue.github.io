@@ -42,7 +42,7 @@ God’s intention has always been unity. Not uniformity, but reconciliation. Fro
 
 In Christ, we are not merely forgiven; we are entrusted. God reconciled us to Himself through Christ and then gave us the ministry of reconciliation. That ministry is not optional, and it is not abstract. It must take shape in real lives, real relationships, and real choices.
 
-Standing idly by is not an option. 
+Standing idly by is not an option.  
 
 Complacency is complicity.  
 

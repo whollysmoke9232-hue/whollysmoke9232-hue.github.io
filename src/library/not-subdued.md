@@ -86,4 +86,3 @@ I am not subdued.
 > and my confidence anchored in Christ alone.
 
 > Amen.
-

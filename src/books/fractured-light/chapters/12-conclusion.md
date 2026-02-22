@@ -84,7 +84,6 @@ And it's enough.
 <br>
 <br>
 
-
 I will leave you with a reflection written during my incarceration:
 
 <div style="font-family: 'Caveat', cursive; font-size: 1.5em;">

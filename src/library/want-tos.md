@@ -34,15 +34,15 @@ I paused at *“Delight yourself in the LORD.”* I realized that in the past, I
 
 What I needed was not more stuff or control. What I needed was proper focus. I needed to turn my eyes to Jesus and His profound love for me. Otherwise, like Peter, I would begin to sink beneath the weight of the doubts that I had allowed to slip into my spirit.
 
-The truth is that 
+The truth is that  
 
 > *“… those who wait for the LORD, they will inherit the land.”* **—Psalms 37:9**.  
 
 Waiting for the LORD has become the new focus of my life. Actively waiting, yes. But still waiting.
 
-When I intentionally delight myself in Jesus, He slowly changes my want to’s. The change is mostly imperceptible. In fact, I’ve never sat back and pondered just what my want to’s are. But I can clearly see that His answers to my prayers land in a much deeper place than before. They are completely satisfying. 
+When I intentionally delight myself in Jesus, He slowly changes my want to’s. The change is mostly imperceptible. In fact, I’ve never sat back and pondered just what my want to’s are. But I can clearly see that His answers to my prayers land in a much deeper place than before. They are completely satisfying.  
 
-As I seek Him and His righteousness, my desires begin to mirror His. I begin to want those things that He wants. And the things that He doesn’t provide, I’ve found that I can live without, as I wait to see what He is doing. 
+As I seek Him and His righteousness, my desires begin to mirror His. I begin to want those things that He wants. And the things that He doesn’t provide, I’ve found that I can live without, as I wait to see what He is doing.  
 
 He has promised to provide for all my needs. And He has proven faithful to that task. In the process, I find that I am receiving many good gifts that I didn’t realize I wanted.
 
@@ -67,4 +67,3 @@ What a satisfying way to live this has become. My prayers have been greatly simp
 > and to rest in the quiet confidence that You are enough.  
 
 > Amen.
-

@@ -33,7 +33,7 @@ Using parallel imagery of a house and a feast, the writer exposes the true natur
 
 ---
 
-## The Character of Folly 
+## The Character of Folly  
 
 > _“The woman of folly is boisterous,
 She is naive and knows nothing”_  
@@ -45,7 +45,7 @@ Though she presents herself as authoritative, she is fundamentally ignorant. She
 
 ---
 
-## The Brazen Invitation 
+## The Brazen Invitation  
 
 > _“She sits at the doorway of her house,
 On a seat by the high places of the city”_  
@@ -59,7 +59,7 @@ This reveals one of the great dangers of temptation: it often sounds familiar, r
 
 ---
 
-## The Secret Allure 
+## The Secret Allure  
 
 > _“Stolen water is sweet; bread eaten in secret is pleasant!”_ **—Proverbs 9:17**
 
@@ -71,7 +71,7 @@ This is the ancient logic of temptation: appealing to pride, appetite, and the d
 
 ---
 
-## The Grim Reality 
+## The Grim Reality  
 
 > _“But does not know that the dead are there…”_ **—Proverbs 9:18
 
@@ -106,5 +106,3 @@ By grace, we are not left to guess. God does not merely warn us—He invites us 
 > Keep my feet on the path of life. Let me find my satisfaction not in secrecy, but in the open, honest abundance You provide.  
 
 > Amen.
-
-

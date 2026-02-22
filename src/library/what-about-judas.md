@@ -36,7 +36,7 @@ At the table of the Last Supper.
 > Jesus washed Judas’ feet.  
 Jesus shared bread with him.  
 Jesus addressed him as “Friend” **(Matthew 26:50)**.  
-When Jesus handed him the morsel **(John 13:26)**, in that culture it was a gesture of closeness and honor. 
+When Jesus handed him the morsel **(John 13:26)**, in that culture it was a gesture of closeness and honor.  
 
 Yet, in all four of the Gospels, the first time we hear Judas’ name, he is identified as the one who betrayed Jesus. That sets a tone. It unfortunately clouds our understanding of who Judas actually was. Because the Gospel writers identify his beginning through the lens of his end, we tend to write him off as nothing more than betrayer. But we must not forget that he was a real man. A man who lived on this earth and walked with Jesus.
 

@@ -13,27 +13,18 @@ tags:
   - confinement
   - faith
 scripture:
-  - Psalm 46:7-11
+  - Psalm 46:8-10
 ---
 
-> _“The LORD of hosts is with us;  
-> The God of Jacob is our stronghold.  
-> Selah.  
->  
-> Come, behold the works of the LORD,  
-> Who has wrought desolations in the earth.  
-> He makes wars to cease to the end of the earth;  
-> He breaks the bow and cuts the spear in two;  
-> He burns the chariots with fire.  
->  
-> ‘Cease striving and know that I am God;  
-> I will be exalted among the nations,  
-> I will be exalted in the earth.’  
->  
-> The LORD of hosts is with us;  
-> The God of Jacob is our stronghold.  
-> Selah.”_  
-> **—Psalm 46:7–11 (NIV)**
+> _Come, behold the works of the LORD,  
+Who has wrought desolations in the earth.  
+He makes wars to cease to the end of the earth;  
+He breaks the bow and cuts the spear in two;  
+He burns the chariots with fire.  
+‘Cease striving and know that I am God;  
+I will be exalted among the nations,  
+I will be exalted in the earth.’_  
+> **—Psalm 46:8-10 (NIV)**
 
 ---
 
@@ -88,12 +79,12 @@ Take a moment to be still. Picture yourself laying down the tools of self-effort
 
 ## Prayer
 
-> Lord, forgive me for trusting in my own strength. 
-> I confess that I am weak and powerless to change myself. 
-> Today, I cease my striving. 
-> I choose to be still and know that You are God. 
-> Thank You that Your power is made perfect in my weakness. 
-> Take control of my struggles, my sins, and my efforts. 
+> Lord, forgive me for trusting in my own strength.  
+> I confess that I am weak and powerless to change myself.  
+> Today, I cease my striving.  
+> I choose to be still and know that You are God.  
+> Thank You that Your power is made perfect in my weakness.  
+> Take control of my struggles, my sins, and my efforts.  
 > Be exalted in my life today.  
 > Amen.
 

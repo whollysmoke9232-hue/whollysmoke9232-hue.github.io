@@ -22,7 +22,6 @@ scripture:
 ---
 
 > _“After He had removed him, He raised up David to be their king, concerning whom He also testified and said, ‘I HAVE FOUND DAVID the son of Jesse, A MAN AFTER MY HEART, who will do all My will.’”_ **—Acts 13:22**
-
 > _“Man looks at the outward appearance, but the LORD looks at the heart.”_ **—1 Samuel 16:7**
 
 ---
@@ -30,7 +29,6 @@ scripture:
 ### The Paradox of David
 
 ***“All My will?”***
-
 David’s record does not immediately affirm that claim.  
 He was passive with Joab (2 Samuel 3:27), reckless with the Ark (2 Samuel 6:1–7), and grievously sinful in his encounter with Bathsheba—marked by complacency, lust, deception, and murder (2 Samuel 11).
 
@@ -95,10 +93,10 @@ It is to live without hiding.
 
 ## Prayer
 
-> Merciful Father, thank You that You look beyond outward appearances and see the heart. 
-> Thank You that You know me completely, including my weaknesses, and that Your grace is sufficient for all of it. 
-> Forgive me for the times I despair over my failures or try to hide them from You. 
-> Shape in me a heart that quickly repents, consistently returns, and rests fully in Your mercy. 
+> Merciful Father, thank You that You look beyond outward appearances and see the heart.
+> Thank You that You know me completely, including my weaknesses, and that Your grace is sufficient for all of it.
+> Forgive me for the times I despair over my failures or try to hide them from You.
+> Shape in me a heart that quickly repents, consistently returns, and rests fully in Your mercy.
 > Amen.
 
 ---

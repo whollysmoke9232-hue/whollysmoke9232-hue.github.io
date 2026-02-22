@@ -15,7 +15,7 @@ scripture:
 ---
 
 > *Keep me as the apple of the eye;
-Hide me in the shadow of Your wings* **—Psalms 17:8** 
+Hide me in the shadow of Your wings* **—Psalms 17:8**  
 
 This is not decorative poetry. David is not reaching for a sentimental picture of closeness. He is drawing from an image his listeners would physically feel.
 
@@ -25,7 +25,7 @@ David and his readers were certainly familiar with the frailty of the eye. Minor
 
 It does not require any scientific understanding to realize that we instinctively protect our eyes. Whenever an object flies toward our face, or a finger nears our eye, or in bright sunlight: blinking, throwing our hands up, even turning our faces away from perceived danger. These responses require no thought or evaluation. They are hard-wired into the subconscious.
 
-David is praying, 
+David is praying,  
 
 > *“Guard me with the same reflex You guard Your own sight.”*  
 
@@ -35,7 +35,7 @@ This type of protection is dependent on proximity. It requires that God be near.
 
 Which naturally leads David to the next expression of protection:
 
-***“Hide me in the shadow of Your wings”*** 
+***“Hide me in the shadow of Your wings”***  
 
 In David’s experience, this was a familiar, powerful scene: When danger appeared, chicks ran instinctively under the mother. Her wings became a living shield. The chicks could not fight, flee, or understand — they could only trust.
 

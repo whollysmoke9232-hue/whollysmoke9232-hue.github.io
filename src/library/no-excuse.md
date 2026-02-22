@@ -50,11 +50,10 @@ Because God has made Himself so clearly known—through creation and conscience�
 
 ## Prayer
 
-> Lord, thank You for revealing Yourself so clearly—in the skies above, in the intricacies within, and in the quiet convictions of my heart. Help me live not in denial of what I know, but in humble surrender to who You are. 
+> Lord, thank You for revealing Yourself so clearly—in the skies above, in the intricacies within, and in the quiet convictions of my heart. Help me live not in denial of what I know, but in humble surrender to who You are.  
 > Amen.
 
 ---
-
 
 <!-- end-of-article -->
 

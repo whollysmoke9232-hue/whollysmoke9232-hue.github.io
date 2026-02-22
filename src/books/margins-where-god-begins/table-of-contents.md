@@ -6,8 +6,8 @@ category: books
 ---
 
 <style>
-  .article-content > header.site-header { 
-    display: none !important; 
+  .article-content > header.site-header {  
+    display: none !important;  
   }
   .toc-container {
     max-width: 700px;
@@ -77,9 +77,10 @@ category: books
   <a href="/stories/margins-where-god-begins/" class="reading-mode-link">View Continuous Reading Mode</a>
 
   <ul class="toc-links">
+    <li><a href="/books/margins-where-god-begins/front-cover/">Front Cover</a></li>
     <li><a href="/books/margins-where-god-begins/foreword/">Foreword</a></li>
     <li><a href="/books/margins-where-god-begins/introduction/">Introduction</a></li>
-    
+
     <li class="toc-section">Part 1: The Eternal Margin</li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/part-1/">Part 1: The Eternal Margin</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/chapter-1/">Chapter 1: The Margin Before Genesis</a></li>
@@ -111,5 +112,6 @@ category: books
     <li><a href="/books/margins-where-god-begins/postlude/">Postlude: If God Is Everywhere…</a></li>
     <li><a href="/books/margins-where-god-begins/appendix/">Appendix</a></li>
     <li><a href="/books/margins-where-god-begins/about-the-author/">About the Author</a></li>
+    <li><a href="/books/margins-where-god-begins/back-cover/">Back Cover</a></li>
   </ul>
 </div>

@@ -21,21 +21,21 @@ scripture_references:
   - Romans 3:21-22
 ---
 
-> *“But seek first His kingdom and His righteousness, and all these things will be added to you.”* **—Matthew 6:33** 
+> *“But seek first His kingdom and His righteousness, and all these things will be added to you.”* **—Matthew 6:33**  
 
 ### What "things?"
 
 > *“do not be worried about your life”*  
-> *“Do not worry then, saying, `What will we eat?' or `What will we drink?' or `What will we wear for clothing?”*  
-> **—Matthew 6:25,31** 
+> *“Do not worry then, saying, What will we eat? or What will we drink? or What will we wear for clothing?”*  
+> **—Matthew 6:25,31**  
 
-He'll take care of everything! 
+He'll take care of everything!  
 
 ### "His righteousness"
 
 > *"For in [the gospel] the righteousness of God is revealed from faith to faith; as it is written, "BUT THE RIGHTEOUS man SHALL LIVE BY FAITH.”* **—Romans 1:17**  
 
-> *“But now apart from the Law the righteousness of God has been manifested, being witnessed by the Law and the Prophets, even the righteousness of God through faith in Jesus Christ for all those who believe”* **—Romans 3:21-22** 
+> *“But now apart from the Law the righteousness of God has been manifested, being witnessed by the Law and the Prophets, even the righteousness of God through faith in Jesus Christ for all those who believe”* **—Romans 3:21-22**  
 
 His righteousness is not something we earn or deserve. It is a gift.
 
@@ -47,7 +47,7 @@ His righteousness is not something we earn or deserve. It is a gift.
 
 Where Jesus is, the Kingdom of Heaven is!  
 
-> *"Pray, then, in this way: `Our Father who is in heaven, Hallowed be Your name. `Your kingdom come. Your will be done, On earth as it is in heaven.”* **—Matthew 6:9-10** 
+> *"Pray, then, in this way: Our Father who is in heaven, Hallowed be Your name. Your kingdom come. Your will be done, On earth as it is in heaven.”* **—Matthew 6:9-10**  
 
 ### But seek first
 

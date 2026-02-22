@@ -27,7 +27,7 @@ I used to think that verse was good news—if I ever needed to move a mountain.
 
 But then I began to notice the kind of faith so many displayed when Jesus walked among them. It wasn’t flashy or loud. It was persistent, expectant, and deeply rooted:
 
-- The woman with the issue of blood **(Luke 8:43)** 
+- The woman with the issue of blood **(Luke 8:43)**  
 - The lame man at the Pool of Bethesda **(John 5:1)**  
 - The paralytic lowered through the roof **(Mark 2:3)**  
 - The groom at Cana **(John 2:1)**  

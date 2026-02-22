@@ -154,4 +154,3 @@ Let it be the foundation I build my life on.
 
 In Jesus’ name,  
 Amen.
-

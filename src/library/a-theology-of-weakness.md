@@ -26,7 +26,7 @@ It turns out that God is not threatened by human weakness, nor surprised by fail
 
 If we were not weak – and aware of our weakness – we would become too prideful to be truly useful to God.
 
-We tend to view our sin as an end of sorts. We have become convinced that God cannot use those who continue to sin. So we set unrealistic goals for ourselves and become demoralized. Hopeless. We believe that every time we fail, God is somehow disappointed at best; angry with us at worst. But scripture simply does not support that idea. It is more likely that when we come to the father after a failure, that He leans toward us with a kind, loving smile, and gently says, *“I know.”* He then picks us up, holds us close, and starts us back on the way He prepared for us before the creation of the world. In this transaction, we must remember that our attitude is always one of repentance. We are saddened by our sin because we realize that those attitudes and actions are inconsistent with the new creation that we are in Christ. But God sees us differently than we tend to assume. 
+We tend to view our sin as an end of sorts. We have become convinced that God cannot use those who continue to sin. So we set unrealistic goals for ourselves and become demoralized. Hopeless. We believe that every time we fail, God is somehow disappointed at best; angry with us at worst. But scripture simply does not support that idea. It is more likely that when we come to the father after a failure, that He leans toward us with a kind, loving smile, and gently says, _“I know.”_ He then picks us up, holds us close, and starts us back on the way He prepared for us before the creation of the world. In this transaction, we must remember that our attitude is always one of repentance. We are saddened by our sin because we realize that those attitudes and actions are inconsistent with the new creation that we are in Christ. But God sees us differently than we tend to assume.
 
 God sees the weaknesses that we think make us unfit as the soil for the seeds of strength.
 
@@ -40,18 +40,11 @@ This is not an excuse for sin, nor a denial of responsibility. It is a confessio
 
 ## Prayer
 
-> Father,
-
-> I confess that I am often afraid of my weakness. I try to hide it, overcome it, or pretend it does not exist. I measure myself by my performance and assume You do the same.
-
-> Forgive me.
-
-> Teach me to see my weakness the way You do — not as disqualification, but as invitation. When I stumble, draw me quickly back to You. Give me a heart that is soft, repentant, and honest. Guard me from pride when I succeed and from despair when I fail.
-
-> Remind me that Your grace is sufficient. That Your power is perfected not in my strength, but in my dependence.
-
-> Use even my wounds as soil for deeper faith. Transform my failures into testimony. And make me a person who boasts not in myself, but in Your mercy.
-
-> Today, I return to You again — trusting that You are not surprised, not threatened, and not finished with me.
-
-> Amen.
+Father,
+I confess that I am often afraid of my weakness. I try to hide it, overcome it, or pretend it does not exist. I measure myself by my performance and assume You do the same.
+Forgive me.
+Teach me to see my weakness the way You do — not as disqualification, but as invitation. When I stumble, draw me quickly back to You. Give me a heart that is soft, repentant, and honest. Guard me from pride when I succeed and from despair when I fail.
+Remind me that Your grace is sufficient. That Your power is perfected not in my strength, but in my dependence.
+Use even my wounds as soil for deeper faith. Transform my failures into testimony. And make me a person who boasts not in myself, but in Your mercy.
+Today, I return to You again — trusting that You are not surprised, not threatened, and not finished with me.
+Amen.

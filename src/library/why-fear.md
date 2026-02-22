@@ -48,5 +48,3 @@ Quiet what I imagine and steady what I know.
 Teach my heart to trust You even when I cannot see.
 
 > Amen.
-
-

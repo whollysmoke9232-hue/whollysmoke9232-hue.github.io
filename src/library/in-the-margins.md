@@ -100,6 +100,7 @@ Then back to Genesis again.
 By the end of **22 months**, I had read the Bible cover to cover **14 times**.
 
 I now own multiple Bibles I’ve read all the way through:
+
 - NIV  
 - NASB  
 - NLT  

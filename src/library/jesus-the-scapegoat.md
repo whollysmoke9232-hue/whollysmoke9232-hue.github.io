@@ -16,9 +16,7 @@ scripture:
   - Leviticus 17:11
 ---
 
-## Author's Note:
-
-This message was originally preached during a communion service on December 29, 1996.
+**Author's Note:** This message was originally preached during a communion service on December 29, 1996.
 
 ## Key Scripture
 
@@ -134,5 +132,3 @@ The more we die to self, the more fully we live in Him.
 > Draw me near, not that I may know about You, but to truly know You.  
 > Cover me, cleanse me, and lead me deeper into Your presence.  
 > Amen.
-
-

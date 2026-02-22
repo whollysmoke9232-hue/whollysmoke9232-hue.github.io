@@ -15,13 +15,13 @@ scripture_references:
   - 2 Samuel 24:24
 ---
 
-# “Worship the LORD”
+## “Worship the LORD”
 
 I’m not generally a big fan of deep diving into the original Hebrew text, but this one has me a little bit concerned.
 
 The first mention we find of “worship” in the Bible is found in the account of Abraham’s offering of Issaic.  
 
-Abraham said to his young men, 
+Abraham said to his young men,  
 > *“Stay here with the donkey, and I and the lad will go over there; and we will worship and return to you.”* **—Genesis 22:5**  
 
 The context here is important. Worship is first connected to sacrifice. It involves obedience that costs something deeply personal.  
@@ -36,15 +36,15 @@ Worship, in scripture, begins not with music — but with surrender.
 
 It is in the context of:  
 
-•	A father  
-•	A son  
-•	A mountain  
-•	A knife  
-•	And radical obedience  
+•A father  
+•A son  
+•A mountain  
+•A knife  
+•And radical obedience  
 
 The Hebrew term that was translated “worship” basically means to bow down, to prostrate oneself, to bend low, to fall face-down.  
 
-So Biblically, worship begins with bowing and entrusting what you love most into God’s hands. It was expressed physically through bowing, kneeling, or prostration. 
+So Biblically, worship begins with bowing and entrusting what you love most into God’s hands. It was expressed physically through bowing, kneeling, or prostration.  
 
 ---
 
@@ -60,7 +60,7 @@ We must remember that worship is not about what appeals to us. It is about physi
 
 Just as Abraham understood that his worship would cost him dearly, we need to come to terms with what it could cost us.  
 
-David said, 
+David said,  
 > *“…I will not offer burnt offerings to the LORD my God which cost me nothing…”* **—2 Samuel 24:24**  
 
 Worship – such as is pleasing to God – will always cost me something.  

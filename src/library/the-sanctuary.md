@@ -38,4 +38,3 @@ I wish I lived there more than I do.
 ## A Prayer
 
 > Oh God, soften my heart and open my eyes, that I may see You in the splendor of Your holiness and be changed into the man You created me to be.
-

@@ -26,7 +26,7 @@ We rarely consider the eternal implications of our actions. Sure, we think about
 
 It reminds me of a Winter evening I spent camping on the shores of a local lake.  
 
-While the cold bit through to the bone, the grandeur of the evening sky pulled me into thoughts of the eternal. When early morning arrived, I was mesmerized by a single bass boat speeding across the lake. My focus was slowly directed to the wake left on the surface of the water.    
+While the cold bit through to the bone, the grandeur of the evening sky pulled me into thoughts of the eternal. When early morning arrived, I was mesmerized by a single bass boat speeding across the lake. My focus was slowly directed to the wake left on the surface of the water.  
 
 As a young water-skier, I had been aware that directly behind the boat, a single wake was created by the hull pressing through the water. But by the time that effect reached the end of my seventy-foot ski rope, there were two waves for me to navigate.  
 

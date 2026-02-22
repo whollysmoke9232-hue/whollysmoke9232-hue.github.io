@@ -87,7 +87,7 @@ You only need a willing heart—and the courage to keep showing up hungry.
 
 ## Prayer
 
-> Lord, awaken my hunger for Your Word. Forgive me for the ways I’ve searched for clarity everywhere except the place You’ve spoken most clearly. Shape my desires, train my appetite, and teach me to live on every word that comes from You. 
+> Lord, awaken my hunger for Your Word. Forgive me for the ways I’ve searched for clarity everywhere except the place You’ve spoken most clearly. Shape my desires, train my appetite, and teach me to live on every word that comes from You.  
 > Amen.
 
 ---

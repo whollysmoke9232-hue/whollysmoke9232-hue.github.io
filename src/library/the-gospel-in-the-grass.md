@@ -69,5 +69,3 @@ You are invited to trust Him with it.
 
 > Lord, open my eyes to Your wonders. Help me to see the beauty of Your creation and remember that I am part of it. Teach me to trust You, as the birds and flowers do, and to join all creation in songs of joy.  
 > Amen.
-
-

@@ -32,7 +32,7 @@ I wonder what might happen if even a small portion of the resources we devote to
 
 I realize that this is a tall order. These “Special Services” bring people in the door. These people bring money. And money is necessary for the church-as-a-business to function. But at what cost? Many of the people who are attracted to these big events are genuinely impressed by the spectacle. Some return the following week and are disappointed to learn that church isn’t always a big show. Even after several subsequent visits, they find that the emotional high isn’t repeated. They then leave with a distorted vision of what church is. Sadly, many never return.
 
-The training that would equip our members to do the actual, nitty-gritty — in the streets and communities — work of the church isn’t flashy. It won’t attract “lost” people. And it won’t—in the short term at least—keep the lights on. 
+The training that would equip our members to do the actual, nitty-gritty — in the streets and communities — work of the church isn’t flashy. It won’t attract “lost” people. And it won’t—in the short term at least—keep the lights on.  
 
 The careful sharpening of our congregations — allowing them to be shaped into effective carriers of the gospel of Jesus Christ in their world—would reap huge benefits. Some would move through their communities equipped to help ease the suffering of their poorest neighbors. Others would learn to listen well and observe carefully, developing eyes to perceive real and present needs. Still others would be trained to teach practical, marketable skills.
 

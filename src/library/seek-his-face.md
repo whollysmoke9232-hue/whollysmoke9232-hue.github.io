@@ -83,7 +83,6 @@ Because no matter what the world decides, you are held in the hand of the One wh
 
 ---
 
-
 <!-- end-of-article -->
 
 <br>

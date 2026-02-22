@@ -1,7 +1,8 @@
 ---
 title: "Margins: Where God Begins"
 layout: layout.njk
-permalink: "/books/margins-where-god-begins/manuscript/"
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 <div style="text-align: center; margin: 2rem 0; padding: 1rem; background: #f5f5f5; border-radius: 8px;">
@@ -18,41 +19,29 @@ Forward
 Introduction
 Part 1: The Eternal Margin
 Chapter 1: The Margin Before Genesis
-	Interlude: God’s Plan
+Interlude: God’s Plan
 Chapter 2: The God Who Knows
-	Interlude: Not A Remodel
+Interlude: Not A Remodel
 Chapter 3: The Tapestry of Time
-	Interlude: It’s About You
+Interlude: It’s About You
 Part 2: The Unfolding Margin
 Chapter 4: The Word Before the Word
-	Interlude: A Holy Moment
+Interlude: A Holy Moment
 Chapter 5: The Power of the Pause
-	Interlude: Mustard Seed Faith
+Interlude: Mustard Seed Faith
 Chapter 6: The Big Picture
-	Interlude: Righteousness
+Interlude: Righteousness
 Part 3: Living In the Margin
 Chapter 7: The Word of God
-	Interlude: A Starter Plan for Bible Reading
+Interlude: A Starter Plan for Bible Reading
 Chapter 8: Living In the Margin
-	Interlude: It Is Finished
+Interlude: It Is Finished
 Chapter 9: The Final Margin
-	Interlude: A Prayer
+Interlude: A Prayer
 Chapter 10: Invitation to Wonder
-	Postlude: If God Is Everywhere…
+Postlude: If God Is Everywhere…
 Appendix
-About The Author
- 
- 
-
-
-
-
-
-
-
-
-
-
+About The Author  
 
 Foreword
 There are books that explain Scripture, and there are books that invite you to enter it.
@@ -1057,31 +1046,27 @@ Day	Psalms to Read	Proverbs
 30	30, 60, 90, 120, 150	30
 31	119 (only)	31
 💡 Note: Psalm 119 is reserved for the 31st day of the month. On the 29th, skip it and read it only in months with 31 days.
+
 About the Author
 Steve Wilkins is a follower of Jesus, a lifelong student of Scripture, and a storyteller shaped by grace.
 After decades of walking with Christ through ministry, failure, restoration, and renewal, Steve entered a profound season of stillness that would forever change how he read the Bible—and how he understood God. During that time, he read Scripture cover to cover fourteen times in twenty-two months, immersing himself in the Word not for answers alone, but for encounter. What emerged was a deep awareness of God’s eternal presence, intentional design, and unwavering faithfulness—a vision that gave birth to Margins: Where God Begins.
 Steve writes not as a theologian looking down from the lectern, but as a fellow traveler learning to rest in the spaces between certainty and mystery. His reflections are shaped by years of pastoral ministry, personal loss, unexpected detours, and moments when God revealed Himself most clearly in silence rather than spectacle.
 At the heart of Steve’s writing is a simple conviction: God is not reacting to our lives—He is revealing Himself through them. We are not striving toward completion; we are awakening to what has already been finished in Christ.
 Steve lives with a deep love for Scripture, a reverence for honest questions, and a passion for helping others recognize God’s presence in the ordinary, the overlooked, and the margins of life. When he’s not reading or writing, he can often be found quietly listening—trusting that God still speaks, and that wonder is still a holy response.
-Steve can be reached at stevewilkins@me.com.
-
- 
- 
-
+Steve can be reached at SteveWilkins@MarginsDevotionals.com
 
 Back Cover Summary
 Margins: Where God Begins
 Before the first word of Scripture was written, God already knew the story.
 In this deeply personal and theologically rich reflection, Steve invites you into the sacred space before Genesis 1:1—the margin where God’s eternal plan was already alive. Drawing from a season of intense Scripture immersion and spiritual awakening, Margins: Where God Begins explores the wonder of God’s omnipresence, foreknowledge, and intimate involvement in every detail of our lives.
 Through poetic reflections, biblical insights, and powerful meditations, you’ll discover:
-•	Why the silence between the verses is often where God speaks loudest
-•	How your life is a thread in a divine tapestry
-•	What it means to live from completion, not striving
-•	How to find God in the pauses, the waiting, and the in-between
-•	Why eternity is not just ahead of you—but already within you
+•Why the silence between the verses is often where God speaks loudest
+•How your life is a thread in a divine tapestry
+•What it means to live from completion, not striving
+•How to find God in the pauses, the waiting, and the in-between
+•Why eternity is not just ahead of you—but already within you
  
 This book is not just a study. It’s an invitation.
 To slow down.
 To look again.
 To live in the margin—where God begins.
- 

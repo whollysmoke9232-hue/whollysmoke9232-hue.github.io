@@ -29,7 +29,7 @@ But He—and only He—is intimately aware of all that surrounds us, including t
 
 Only He, through the Holy Spirit, can lead us safely through this invisible and silent minefield. That is why it is not naïve, reckless, or irresponsible to seek Him first. It is essential. If we hope to navigate life on this earth with any wisdom at all, our focus must remain on knowing Him, trusting Him, and following where He leads.
 
-## Prayer 
+## Prayer  
 
-> Lord Jesus, teach me to trust You beyond what I can see or understand. Quiet my fear, loosen my grip on what I think I must control, and lead me by Your Spirit through all that is unseen. Help me seek You first—not as an escape from life, but as the only way to truly live it. 
+> Lord Jesus, teach me to trust You beyond what I can see or understand. Quiet my fear, loosen my grip on what I think I must control, and lead me by Your Spirit through all that is unseen. Help me seek You first—not as an escape from life, but as the only way to truly live it.  
 > Amen.

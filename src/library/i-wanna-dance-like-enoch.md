@@ -110,5 +110,3 @@ I want to dance like Enoch danced!
 > Let my worship be obedience, and my obedience intimacy.  
 > Draw me so close that heaven never feels foreign.  
 > Amen.
-
-

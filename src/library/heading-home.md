@@ -16,6 +16,7 @@ scripture:
 ---
 
 ### From How Long to Lead Me Home  
+
 **Psalms 13; 43:3**
 
 Life in faith is a roller coaster ride.

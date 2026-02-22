@@ -92,6 +92,3 @@ You were prepared for a purpose.
 
 > Heavenly Father, thank You for seeing us not for our flaws, but as Your wonderful work. Help us rest in the truth that we are fearfully and wonderfully made, created with intention, and loved unconditionally by You.  
 > Amen.
-
-
-

@@ -79,5 +79,3 @@ We do it because God delights in seeing His grace take shape in our lives. When 
 
 > Father, thank You for working in me. Thank You for giving me both the desire and the strength to follow You. Help me to take my walk with You seriously—to pursue holiness with reverence and joy. Let my life reflect Your grace at work in me, and may everything I do bring pleasure to Your heart.  
 > Amen.
-
-

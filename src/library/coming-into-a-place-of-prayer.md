@@ -23,7 +23,8 @@ When prayer fades, we often find ourselves overwhelmed by the trials of life. Di
 
 Prayer is one of the primary ways God carries us through life’s hurts and disappointments.
 
-### *“Lord, teach us to pray.”*  
+### *“Lord, teach us to pray.”*
+
 *(Luke 11:1–13)*
 
 Jesus’ disciples had already spent significant time with Him. They had watched Him pray. They had heard of John the Baptist’s discipline. And they understood that prayer was connected to spiritual life and endurance. So they asked, *“Lord, teach us to pray.”*

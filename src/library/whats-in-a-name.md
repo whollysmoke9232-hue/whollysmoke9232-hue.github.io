@@ -87,11 +87,11 @@ The Gospel announces something radical:
 
 In Christ, you are no longer defined by your past, your failures, or the labels others gave you. You now bear **His Name**.
 
-- Christ lives in me **(Galations 2:20)** 
-- Loved by God **(John 3:16)** 
-- The righteousness of God **(2 Corinthians 5:21)** 
-- Washed and redeemed **(I Corinthians 6:11)** 
-- Light of the world **(Matthew 5:14-16)** 
+- Christ lives in me **(Galations 2:20)**  
+- Loved by God **(John 3:16)**  
+- The righteousness of God **(2 Corinthians 5:21)**  
+- Washed and redeemed **(I Corinthians 6:11)**  
+- Light of the world **(Matthew 5:14-16)**  
 - More than a conqueror  **(Romans 8:37)**
 
 When we act out of step with this new identity, conviction rises—not as condemnation, but as confirmation. The discomfort proves something new has taken root.
@@ -99,6 +99,3 @@ When we act out of step with this new identity, conviction rises—not as condem
 They may call you many things.  
 
 But if they don’t use your true name, you don’t have to answer.
-
-
-

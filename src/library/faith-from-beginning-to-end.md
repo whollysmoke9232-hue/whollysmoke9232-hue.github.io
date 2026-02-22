@@ -55,5 +55,3 @@ We live righteous lives not *for* salvation, but *from* salvation—by faith, al
 > Keep me grounded not in performance, but in trust—  
 > and let my life be shaped by wonder, not striving.  
 > Amen.
-
-

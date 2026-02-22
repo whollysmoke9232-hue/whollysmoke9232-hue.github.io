@@ -23,21 +23,20 @@ I am writing without the benefit of hindsight, resolution, or certainty about th
 
 What follows is not an explanation of events, nor an attempt to read Scripture as a promise of escape. It is a prayerful wrestling with Psalm 25, written from within fear, hope, faith, and unresolved tension. These words reflect what I am bringing before God *now*, before I know what will happen next.
 
-
 ## Deliver Me
 
 > _Do not remember the sins of my youth or my transgressions;  
-> According to Your lovingkindness remember me,  
-> For Your goodness’ sake, O LORD._ **— Psalm 25:7**  
->  
+According to Your lovingkindness remember me,  
+For Your goodness’ sake, O LORD._ **— Psalm 25:7**  
+
 > _My eyes are continually toward the LORD,  
-> For He will pluck my feet out of the net._ **— Psalm 25:15**  
->  
+For He will pluck my feet out of the net._ **— Psalm 25:15**  
+
 > _Look upon my affliction and my trouble,  
-> And forgive all my sins._ **— Psalm 25:18**  
->  
+And forgive all my sins._ **— Psalm 25:18**  
+
 > _Guard my soul and deliver me;  
-> Do not let me be ashamed, for I take refuge in You._ **— Psalm 25:20**  
+Do not let me be ashamed, for I take refuge in You._ **— Psalm 25:20**  
 
 These verses are a source of both comfort and internal conflict.  
 While I take great comfort in God’s mercy and grace, I find it difficult to embrace the promise of deliverance from shame. I find that what I need is a deeper understanding of what deliverance looks like.
@@ -46,8 +45,8 @@ David is not timid here. He asks God to forgive all his sins—not only the obvi
 
 David refuses to separate forgiveness from rescue.
 
-> _“My eyes are continually toward the LORD,_  
-> _For He will pluck my feet out of the net.”_
+> _“My eyes are continually toward the LORD,  
+For He will pluck my feet out of the net.”_
 
 The net is not only sin—it is the trap of self-contempt, the quiet belief that we deserve to remain bound. David dares to believe that God’s goodness does not merely cancel debt but actively intervenes to free the ashamed.
 
@@ -86,7 +85,7 @@ David himself is praying from inside that kind of uncertainty. He is surrounded 
 
 ---
 
-## Refuge is not the same as escape. 
+## Refuge is not the same as escape  
 
 Refuge is what you run to when the storm does not stop. Refuge is safety that exists even while danger remains. Refuge is the hidden place where your soul can survive what your circumstances may not spare you from.
 
@@ -115,9 +114,9 @@ And that is the hardest part of faith—not believing that God forgives, but bel
 ### Prayer
 
 > God of mercy,  
-> I ask You for deliverance, and I ask You for honesty.  
-> If You do not change the outcome I fear, do not let shame interpret my story for me.  
-> Guard my soul.  
-> Be my refuge.  
-> Remain near—whatever lies ahead.  
-> Amen.
+I ask You for deliverance, and I ask You for honesty.  
+If You don't change the outcome I fear, don't let shame interpret my story for me.  
+Guard my soul.  
+Be my refuge.  
+Remain near—whatever lies ahead.  
+Amen.

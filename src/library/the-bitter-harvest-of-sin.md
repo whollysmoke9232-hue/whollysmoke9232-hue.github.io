@@ -66,6 +66,3 @@ Recognizing the true nature of sin is not condemnation—it is liberation. It te
 > Remind me that sin never brings life—only You do.  
 > Give me the courage to turn from foolishness and walk in freedom.  
 > Amen.
-
-
-

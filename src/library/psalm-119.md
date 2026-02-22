@@ -35,7 +35,7 @@ This may be one of the most important truths in all of Scripture.
 
 The language of *portion* reaches back to Israel’s inheritance of the Promised Land—measured plots of ground assigned to families as identity, security, and future. To say *“The LORD is my portion”* is to make a radical confession: God Himself is the inheritance. Not what He gives. Not what He fixes. **Him.**
 
-This truth quietly reorders everything. Obedience becomes response, not leverage. Faith becomes allegiance, not transaction. If God is my portion, then nothing essential can be taken from me—even when much else is lost. 
+This truth quietly reorders everything. Obedience becomes response, not leverage. Faith becomes allegiance, not transaction. If God is my portion, then nothing essential can be taken from me—even when much else is lost.  
 
 > *"Whom have I in heaven but You? And besides You, I desire nothing on earth."* —Psalms 73:25
 
@@ -110,7 +110,7 @@ You find yourself already walking on it.
 
 > *“You are my hiding place and my shield; I wait for Your word.”*
 
-A hiding place is where I run for shelter. A shield is what stands between me and danger. And *waiting for God’s Word* is not waiting for a memorized quote, but resting in the assurance His Word has already formed within me. 
+A hiding place is where I run for shelter. A shield is what stands between me and danger. And *waiting for God’s Word* is not waiting for a memorized quote, but resting in the assurance His Word has already formed within me.  
 The Word becomes internalized confidence, not external quotation.
 That’s why this waiting is active, not passive.
 It’s expectant trust shaped by long exposure to God’s truth.
@@ -135,7 +135,7 @@ He’s saying: “My inner life is now aligned with them.”
 This is not suppression. It is freedom.
 
 > *I WILL PUT MY LAWS INTO THEIR MINDS,*
-> *AND I WILL WRITE THEM ON THEIR HEARTS.* 
+> *AND I WILL WRITE THEM ON THEIR HEARTS.*  
 > **—Hebrews 8:10**
 
 ---
@@ -176,5 +176,3 @@ This is a quiet faith.
 But it is a strong one.
 
 And it is enough.
-
-

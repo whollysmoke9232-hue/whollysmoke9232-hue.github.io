@@ -30,7 +30,6 @@ The sun, the moon, stars in the sky
 
 <!-- end-of-article -->
 
-
 <br>
 <br>
 

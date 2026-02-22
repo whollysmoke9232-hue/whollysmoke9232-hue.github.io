@@ -88,7 +88,7 @@ I used to take great comfort in this verse:
 > *“As far as the east is from the west,
 so far has he removed our transgressions from us.”* **—Psalm 103:12**  
 
-I imagined my sin moving away from me—and from God—faster than the speed of light. 
+I imagined my sin moving away from me—and from God—faster than the speed of light.
 
 *Forever.*
 
@@ -121,7 +121,6 @@ What a question.
 I believe the answer is yes.
 
 Today’s stumbling blocks become tomorrow’s building blocks.
-
 
 **Prayer:**  
 

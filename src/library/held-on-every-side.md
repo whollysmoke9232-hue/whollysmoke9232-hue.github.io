@@ -13,9 +13,9 @@ scripture:
   - Psalm 125:2
 ---
 
-> *“As the mountains surround Jerusalem,*  
-> *so the LORD surrounds his people*  
-> *both now and forevermore.”* > **—Psalm 125:2**
+> *“As the mountains surround Jerusalem,  
+so the LORD surrounds his people  
+both now and forevermore.”* > **—Psalm 125:2**
 
 ---
 
@@ -53,5 +53,3 @@ To live in this truth is to walk with quiet confidence—to face uncertainty not
 
 > Father, thank You for being the mountains around me and around Your people. Help me rest in the security of Your corporate embrace, knowing I am part of a community held safely by You. And draw my heart into the intimacy of this promise—that You surround my life, my fears, and my future with Your faithful presence. Teach me to live today as one who is safely, completely, and eternally surrounded by Your love._  
 > Amen.
-
-

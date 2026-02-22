@@ -21,7 +21,7 @@ Every time I stumble across this verse, it feels like splashing my face with col
 
 I have a tendency to get lost in my fears. What if I never reconcile with my children? What if my ex-wife forgets me? What if I am never able to secure gainful employment? What if I never find a place to live that doesn’t rely on the kindness of friends? What if … What if … It goes on and on.
 
-When I get stuck in this loop, I spend an inordinate amount of time thinking of ways to avoid all my imagined fears. I should write letters to my kids. Send occasional gifts to my ex-wife. Push harder on getting resumes out. Find low-cost housing. I search the internet and query artificial intelligence. 
+When I get stuck in this loop, I spend an inordinate amount of time thinking of ways to avoid all my imagined fears. I should write letters to my kids. Send occasional gifts to my ex-wife. Push harder on getting resumes out. Find low-cost housing. I search the internet and query artificial intelligence.  
 
 I endlessly rework my budget and reexamine what I think I can live without. I look for ways to cut corners on expenses. I imagine conversations with family members. I bury myself in potential scenarios that could guide me in the direction I think I should go.
 

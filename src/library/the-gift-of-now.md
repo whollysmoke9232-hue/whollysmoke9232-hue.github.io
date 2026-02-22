@@ -54,5 +54,3 @@ The journey itself becomes the prize, shaping us into the people God intends us 
 
 > Lord, help me to release my grip on tomorrow and receive today as Your gift. Teach me to recognize Your presence in ordinary moments and to trust that You are at work right here, right now. Shape my heart to rest in You and to walk faithfully in this moment You have given.  
 > Amen.
-
-   

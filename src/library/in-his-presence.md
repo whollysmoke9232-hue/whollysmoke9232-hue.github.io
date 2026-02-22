@@ -21,12 +21,12 @@ From a scientific standpoint, ants do have awareness, but it’s sensory and ins
 
 Then I thought — would I recognize it if God passed over me?  
 
-Would I sense His presence, or understand His magnitude compared to mine? His footprint would be the size of the universe. 
+Would I sense His presence, or understand His magnitude compared to mine? His footprint would be the size of the universe.
 
 The Bible compares us to ants in **Proverbs 6:6-11**, reminding us to learn from their diligence and wisdom. But today, I thought of the ant as a picture of awareness.  
 
-How often does God move near me and I don’t even notice? Like Jacob said, 
-> *“Surely the Lord is in this place, and I did not know it.”* **—Genesis 28:16**   
+How often does God move near me and I don’t even notice? Like Jacob said,
+> *“Surely the Lord is in this place, and I did not know it.”* **—Genesis 28:16**
 
 Or Balaam, who couldn’t see the Lord standing in his path — though his donkey could **(Numbers 22-24)**. Isn’t that interesting? A brute beast sensed God’s presence when a prophet could not.
 
@@ -38,5 +38,5 @@ I wonder how many times I’ve walked right past an incredible manifestation of 
 
 **Prayer**
 
-Oh God, open the eyes of my heart. I want to see You. I pray to be in Your presence, yet I’m already in it — I can’t escape it. *“Where can I go from Your presence?”* says the psalmist. My prayer shouldn’t be, *“Lord, be with me,”* but rather, 
+Oh God, open the eyes of my heart. I want to see You. I pray to be in Your presence, yet I’m already in it — I can’t escape it. *“Where can I go from Your presence?”* says the psalmist. My prayer shouldn’t be, *“Lord, be with me,”* but rather,
 > *“Lord, make me aware that You are with me.”*

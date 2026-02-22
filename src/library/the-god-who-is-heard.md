@@ -35,6 +35,7 @@ Why? Because God was establishing something foundational: He is not like other g
 We often long for something visible, something tangible to reassure us. But God calls us to listen. To believe. To trust the unseen voice that speaks truth, comfort, and conviction.
 
 ### Prayer
+
 Lord, help me to quiet my heart and listen for Your voice. Teach me to trust what I hear, even when I cannot see.
 
 ---
@@ -53,6 +54,7 @@ The Israelites had just escaped Egypt, a land saturated with idols. They were en
 To hear God clearly, we must clear away the clutter. We must be willing to set aside the images, however meaningful they seem, so that nothing competes with His Word and His presence. Worship begins not with what we behold, but with Whom we believe.
 
 ### Prayer
+
 God, forgive me for the times I’ve tried to shape You into something I can control. Help me to worship You in spirit and truth—not in symbols and shadows, but in faith and obedience.
 
 ---
@@ -68,6 +70,7 @@ And fire—what a fitting symbol for the presence of God. It is never static. Ev
 This paradox still speaks today. God is near, yet holy. He is personal, yet infinite. He leads us not with idols we can shape, but with a voice that speaks from within the fire. Through Scripture. Through conviction. Through the Spirit’s whisper. We may not see a pillar of fire, but we are invited to follow the One who still burns with glory and speaks with love.
 
 ### Prayer
+
 Lord, You are the fire that leads and the voice that guides. Help me to follow even when the path is unclear. Teach me to trust Your presence—both comforting and holy—as I walk forward in faith.
 
 ---
@@ -85,6 +88,7 @@ And that voice still speaks. It speaks through the pages of Scripture, through t
 To grow in faith, we must grow in listening. Not just reading, not just reciting—but truly hearing. Letting the Word sink deep into our hearts and shape our lives. Faith is not a product of sight—it is the fruit of trust in what we’ve heard.
 
 ### Prayer
+
 Speak, Lord. Your servant is listening. Let Your Word take root in my heart and grow my faith. Strip away the noise and help me hear You clearly—again and again.
 
 ---

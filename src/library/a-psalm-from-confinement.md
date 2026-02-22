@@ -54,4 +54,3 @@ Come alive in me
 <li>No defense.</li>
 <li>Just truth.</li>
 </ul>
-

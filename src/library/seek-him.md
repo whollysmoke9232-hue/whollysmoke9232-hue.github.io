@@ -138,6 +138,5 @@ It is responding to a God who has already drawn near.
 
 ---
 
-
 **Previously:**  
 [<u>Coming Into a Place of Prayer</u>](/reflections/coming-into-a-place-of-prayer/)

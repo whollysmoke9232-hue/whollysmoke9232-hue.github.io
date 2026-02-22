@@ -19,7 +19,7 @@ scripture: Psalms 18:1-2
 The LORD is my rock and my fortress and my deliverer,
 My God, my rock, in whom I take refuge;
 My shield and the horn of my salvation, my stronghold.*
-> **—Psalms 18:1-2** 
+> **—Psalms 18:1-2**  
 
 This opening explodes in declaration of Who God is and what He has done for David. You can sense that rather than being something he planned to say, this is what he ***can’t not say***.
 
@@ -95,14 +95,14 @@ It suggests strategic elevation or secure positioning. It allows perspective ove
 
 **The Movement of the Verse**  
 Notice the progression:  
-1.	Strength — inward empowerment  
-2.	Rock — stability  
-3.	Fortress — defense  
-4.	Deliverer — rescue  
-5.	Refuge — relational trust  
-6.	Shield — active protection  
-7.	Horn — victorious power  
-8.	Stronghold — secure elevation  
+1.Strength — inward empowerment
+2.Rock — stability  
+3.Fortress — defense  
+4.Deliverer — rescue  
+5.Refuge — relational trust  
+6.Shield — active protection  
+7.Horn — victorious power  
+8.Stronghold — secure elevation  
 
 David isn’t being repetitive. He’s saying:  
 > You steady me.  
@@ -146,8 +146,7 @@ We, too, live surrounded by His provision. Not always ease. Not always safety.
 
 But strength beneath us. Refuge available. A shield in the fight.  
 
-The question is not whether He ***is*** these things.   
+The question is not whether He ***is*** these things.  
 
 The question is  
 > *Will I love Him in the midst of a battle He has already won?*  
-

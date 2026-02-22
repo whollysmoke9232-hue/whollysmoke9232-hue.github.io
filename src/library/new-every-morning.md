@@ -44,4 +44,3 @@ He is constant. Unchanging. Faithful in every season. The sun never skips a morn
 
 > Lord, thank You for pursuing me endlessly, for loving me creatively and faithfully. Let my mornings greet Your mercy and my nights rest in Your compassion. And even when I don’t feel it—when my heart forgets—remind me again, like sunrise after darkness, that Your love has never ceased.  
 > Amen.
-

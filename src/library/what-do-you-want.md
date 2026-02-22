@@ -76,7 +76,7 @@ I have to take my eyes off of myself and fix them on Him.
 
 ---
 
-Could it be that this is where the seed of desperation is cultivated? In remembrance? 
+Could it be that this is where the seed of desperation is cultivated? In remembrance?  
 
 I must discipline my mind to remain fixed on what God has already done. To thank Him. Praise Him. And in this remembering, to realize that God is so much more than these "things." The real gift is ***Him.***
 

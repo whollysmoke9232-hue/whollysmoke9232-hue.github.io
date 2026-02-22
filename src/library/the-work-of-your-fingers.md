@@ -74,6 +74,3 @@ Remember that the same God who hung the stars in the sky has, in an act of breat
 
 > Lord, thank You for the humbling majesty of Your creation. > When I feel small and forgotten, remind me that I am seen and cared for by You—the Maker of the heavens. > Help me to find my true value not in myself, but in Your astonishing love for me.  
 > Amen.
-
-
-
