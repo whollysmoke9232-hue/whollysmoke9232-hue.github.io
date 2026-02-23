@@ -19,15 +19,15 @@ To stand in awe of God is to stand at the same time both repelled and attracted;
 
 Throughout Scripture, encounters with God provoke both impulses: Moses hides his face **(Exodus 3:6)** yet draws closer. Peter says, “Depart from me,” **(Luke 5:8)** yet follows Jesus **(Luke 5:11)**.
 
-Holiness repels because it exposes; it attracts because it heals. What repels the false self draws the true self home.
+Holiness repels me because it exposes my flaws; it attracts me because it heals. What repels the false self draws the true self home.
 
 The terror isn’t that God is cruel; it’s that God is uncontrollable. The peace isn’t that God is predictable; it’s that God is *good*.
 
-Awe is what happens when we realize we are not managing the relationship—and yet we are not in danger. That paradox produces a calm deeper than reassurance.
+Awe is what happens when we realize *we* are not managing the relationship—and yet we are not in danger. That paradox produces a calm deeper than reassurance.
 
-Awe is our response when nothing is hidden. And yet nothing is withdrawn.
+Awe is our response when nothing within us is hidden. And yet God does not pull away.
 
-The exposure that should destroy us instead becomes the place of safety.
+The exposure that should have destroyed us instead became the place of safety.
 
 There is inexpressible freedom here. As I stand before Him – completely naked, He lovingly clothes me in royal, holy garments. As I tentatively lean in while stepping away, He gently reaches out and draws me in. And I am reminded once again that He does all the work in this relationship.
 
