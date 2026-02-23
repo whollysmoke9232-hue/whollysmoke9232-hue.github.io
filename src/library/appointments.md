@@ -50,3 +50,42 @@ As I look back on my past, I see that none of the events that shaped and directe
 God has used the path I’ve walked – the victories and failures, joys and pains – to accomplish His plan. Sometimes this is wonderful. Sometimes it is painful. But everything that has happened in my life shares one thing in common.
 
 They all opened the door to my next appointment.
+
+**A Cell and a Scrap of Paper**
+
+Recently, in jail, a man moved into my cell.
+
+He had been held in classification for nearly a week because of computer issues.
+He was first assigned to a different cell, but said it was too dirty.
+A deputy suggested he move in with *“the white guy.”*
+
+So into my cell he came.
+
+I had spent the better part of the day writing Bible verse references on small scraps of paper and placing them in a zip-lock bag. My habit was to hand them out during free time.
+
+That night I was asked to lead the first “Prayer Call” on our cell block in months.
+
+Back in the cell, during a conversation about forgiveness and righteousness, I reached into the bag and blindly selected a verse and handed it to him.
+
+It read: **“Romans 10:9”**
+> *(“If you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved.”)*
+
+He looked at it and said, *“Are you kidding me? Romans 10:9? That’s my sign.”*
+
+Years earlier, during his first time in jail at seventeen, he had tattooed “Romans 10:9” on his shoulder.
+
+He told me he had been praying that god — whichever one was real — would send him a sign.
+
+Computer glitches.  
+A dirty cell.  
+A deputy’s suggestion.  
+A zip-lock bag.  
+A random scrap of paper.  
+
+God had already prepared the tree.  
+He had already prepared the ram.  
+He had already prepared the fish.  
+
+And apparently, He prepares classification delays too.  
+
+God is not finished making and keeping appointments.

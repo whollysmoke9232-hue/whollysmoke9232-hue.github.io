@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "dev": "npx @11ty/eleventy --serve --incremental",
+    "build:fast": "npx @11ty/eleventy --incremental",
+    "build:prod": "npx @11ty/eleventy",
     "start": "eleventy --serve",
     "build": "npx @11ty/eleventy",
-    "push": "npm run build && git add docs/ && git diff --cached --quiet || git commit -m \"Auto-build: Update site files\" && git push"
+    "push": "npm run build:prod && git add -A && (git diff --cached --quiet || git commit -m \"Auto-build: Update src and docs\") && git push"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",

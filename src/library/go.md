@@ -9,7 +9,7 @@ tags: obedience, faith, trust, surrender, seeking, waiting
 scripture: Psalms 119:105
 ---
 
-It seems that God never intended for me to grow complacent in our waiting for His direction.  
+It seems that God never intended for me to grow complacent while waiting for His direction.  
 
 I tend to get comfortable with my present while waiting for God to call. Then when He says to go, I hesitate. I convince myself that I must have misheard Him. He certainly could not be calling me to leave my comfort. Could He?
 
