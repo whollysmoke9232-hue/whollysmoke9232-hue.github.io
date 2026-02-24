@@ -37,4 +37,3 @@ This is grace in the margins.
 ---
 
 [Who This Site Is For](/library/who-this-site-is-for/)
-
