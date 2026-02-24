@@ -20,6 +20,7 @@ module.exports = {
 { url: '/devotionals/be-still/', title: 'Be Still' },
 { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' },
 { url: '/devotionals/new-every-morning/', title: 'New Every Morning' },
+{ url: '/meditations/gods-got-this/', title: "God's Got This" },
 { url: '/devotionals/look-and-live/', title: 'Look and Live' }
 ],
 
