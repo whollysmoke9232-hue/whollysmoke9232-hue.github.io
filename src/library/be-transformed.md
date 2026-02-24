@@ -1,7 +1,7 @@
 ---
 title: "Be Transformed"
 author: "Steve Wilkins"
-date: 2023-08-26
+date: 2023-08-21
 layout: article.njk
 category: devotionals
 excerpt: "True worship is not conformity to the world, but transformation through a renewed mind shaped by the righteousness of Christ."

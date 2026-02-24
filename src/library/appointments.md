@@ -1,12 +1,17 @@
 ---
 title: Appointments
 author: Steve Wilkins
-date: 2026-02-20
+date: 2024-02-20
 layout: article.njk
 category: reflections
 excerpt: From a guarded sycamore tree to a ram in the thicket and a great fish in the sea, Scripture reveals a God who orchestrates divine appointments—arranging people, places, and moments for redemption.
 tags: sovereignty, trust, waiting, obedience, restoration, seeking
-scripture: Romans 8:28
+scripture:
+- Romans 8:28
+- Luke 19:4
+- Genesis 22:13
+- Jonah 1:17
+- Romans 10:9
 ---
 
 **Zaccheus**  

@@ -34,3 +34,7 @@ If you are ashamed, unsure, or waiting longer than you think you can endure—yo
 
 This is grace in the margins.
 
+---
+
+[Who This Site Is For](/library/who-this-site-is-for/)
+
