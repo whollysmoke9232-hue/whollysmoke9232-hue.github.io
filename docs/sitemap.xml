@@ -781,6 +781,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.marginsdevotionals.com/reflections/building-a-throne/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/testimonies/falling-into-his-grip/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.marginsdevotionals.com/reflections/go/</loc>
     <lastmod>2026-02-22</lastmod>
     <priority>0.8</priority>
@@ -791,7 +801,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.marginsdevotionals.com/reflections/never-told-why/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.marginsdevotionals.com/reflections/no-compromise/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/meditations/not-so-small-after-all/</loc>
     <lastmod>2026-02-22</lastmod>
     <priority>0.8</priority>
   </url>
@@ -802,6 +822,11 @@
   </url>
   <url>
     <loc>https://www.marginsdevotionals.com/meditations/stand-in-awe/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/meditations/whispers-in-the-dark/</loc>
     <lastmod>2026-02-22</lastmod>
     <priority>0.8</priority>
   </url>
@@ -818,6 +843,11 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/who-this-site-is-for/</loc>
     <lastmod>2026-02-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/the-confinement-journals/</loc>
+    <lastmod>2026-02-25</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

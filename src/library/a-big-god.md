@@ -5,7 +5,13 @@ date: 2026-02-20
 layout: article.njk
 category: meditations
 excerpt: In the vastness of a universe held within God, even our sin and suffering are not beyond His presence—inviting us to trust that He can transform what once tormented us into instruments of glory.
-tags: sovereignty, presence, sin, suffering, transformation, grace
+tags:
+- sovereignty
+- presence
+- sin
+- suffering
+- transformation
+- grace
 scripture: Acts 17:28
 ---
 

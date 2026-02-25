@@ -137,7 +137,27 @@ This library is offered as it is, not as instruction, but as witness — in the 
     </p>
   </div>
 
-  <!-- Row 8 — About the Author -->
+  <!-- Row 8 — The Confinement Journals -->
+  <div>
+    <h3>
+      <a href="/the-confinement-journals/" title="The Confinement Journals">
+        The Confinement Journals
+      </a>
+    </h3>
+    <p>
+      A guided path through writings born in confinement—moving from collapse and lament into presence, identity, endurance, and hope.
+    </p>
+  </div>
+
+  <a href="/the-confinement-journals/" title="The Confinement Journals">
+    <img src="{{ '/images/cell-desk.png' | url }}" alt="The Confinement Journals" style="max-width: 100%; border-radius: 8px;">
+  </a>
+
+  <!-- Row 9 — About the Author -->
+  <a href="/about-the-author#/" title="About the author">
+    <img src="{{ '/images/chatgpt-steve.png' | url }}" alt="About the Author" style="max-width: 100%; border-radius: 8px;">
+  </a>
+
   <div>
     <h3>
       <a href="/about-the-author#/" title="About the author">
@@ -148,10 +168,6 @@ This library is offered as it is, not as instruction, but as witness — in the 
       If you would like to understand the voice behind these writings, this path gathers pieces that reflect the journey, failures, questions, and grace that have shaped this work.
     </p>
   </div>
-
-  <a href="/about-the-author#/" title="About the author">
-    <img src="{{ '/images/chatgpt-steve.png' | url }}" alt="About the Author" style="max-width: 100%; border-radius: 8px;">
-  </a>
 
 </div>
 

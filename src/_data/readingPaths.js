@@ -33,6 +33,29 @@ module.exports = {
 { url: '/reflections/the-big-picture/', title: 'The Big Picture' }
 ],
 
+'the-confinement-journals': [
+{ url: '/testimonies/in-the-margins/', title: 'In the Margins' },
+{ url: '/testimonies/falling-into-his-grip/', title: 'Falling Into His Grip' },
+{ url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
+{ url: '/meditations/meditation-1/', title: 'Settled In You' },
+{ url: '/devotionals/be-still/', title: 'Be Still' },
+{ url: '/devotionals/when-jesus-wept/', title: 'When Jesus Wept' },
+{ url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation In Suffering' },
+{ url: '/devotionals/mustard-seed-faith/', title: 'Mustard Seed Faith' },
+{ url: '/devotionals/seek-his-face/', title: 'Seek His Face' },
+{ url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+{ url: '/meditations/a-psalm-from-confinement/', title: 'A Psalm From Confinement' },
+{ url: '/meditations/a-holy-moment/', title: 'A Holy Moment' },
+{ url: '/meditations/not-so-small-after-all/', title: 'Not So Small After All' },
+{ url: '/reflections/building-a-throne/', title: 'Building a Throne' },
+{ url: '/meditations/faith-to-faith/', title: 'Faith to Faith' },
+{ url: '/devotionals/be-transformed/', title: 'Be Transformed' },
+{ url: '/testimonies/after-gods-heart/', title: 'After God’s Heart' },
+{ url: '/reflections/from-it-or-through-it/', title: 'From It or Through It' },
+{ url: '/meditations/here-with-me/', title: 'Here With Me' },
+{ url: '/reflections/never-told-why/', title: 'Never Told Why' }
+],
+
 'about-the-author': [
 { url: '/testimonies/from-exile-to-surrender/', title: 'From Exile to Surrender' },
 { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
