@@ -9,6 +9,7 @@ tags:
   - presence
   - holiness
   - transformation
+  - confinement
 scripture:
   - Psalm 19:1-3
   - Revelation 1:10
