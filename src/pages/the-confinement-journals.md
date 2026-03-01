@@ -13,13 +13,13 @@ These words were not written from a place of comfort or with the benefit of hind
 
 {% set entries = readingPaths['the-confinement-journals'] %}
 {% set displayTitles = {
-		"Settled In You": "Meditation #1"
+    "Settled In You": "Meditation #1"
 } %}
 <ul>
 {% for entry in entries %}
-	<li>
-		<a href="{{ entry.url }}?path=the-confinement-journals">{{ displayTitles[entry.title] or entry.title }}</a>
-	</li>
+  <li>
+    <a href="{{ entry.url }}?path=the-confinement-journals">{{ displayTitles[entry.title] or entry.title }}</a>
+  </li>
 {% endfor %}
 </ul>
 
