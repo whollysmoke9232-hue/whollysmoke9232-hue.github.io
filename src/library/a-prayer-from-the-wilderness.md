@@ -21,13 +21,11 @@ scripture:
 
 There are seasons in life when the path ahead disappears and the future becomes uncertain. Scripture often describes those seasons as wilderness.
 
-While waiting for my legal case to reach court, I found myself in one of those places. One evening I sat down with Philippians 4:6–7 and tried to do exactly what Paul instructs: bring everything to God in prayer.
+In January 2026, While waiting for my legal case to reach court, I found myself in one of those places. One evening I sat down with Philippians 4:6–7 and tried to do exactly what Paul instructs: bring everything to God in prayer.
 
 This is the prayer that came out of that moment.
 
 ---
-
-## 1/21/2026  
 
 ### My Prayer
 
