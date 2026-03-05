@@ -5,7 +5,13 @@ date: 2026-02-22
 layout: article.njk
 category: reflections
 excerpt: God’s call to “Go” is rarely comfortable or fully explained. This reflection explores learning to move in faith—trusting the One who sees the whole road while we walk step by step.
-tags: obedience, faith, trust, surrender, seeking, waiting
+tags:
+- obedience
+- faith
+- trust
+- surrender
+- seeking
+- waiting
 scripture: Psalms 119:105
 ---
 

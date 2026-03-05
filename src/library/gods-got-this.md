@@ -9,10 +9,11 @@ tags:
 - trust
 - waiting
 - fear
-- sovereignty-
+- sovereignty
 - faith
 - strength
-scripture: Deuteronomy 7:22-23
+scripture:
+- Deuteronomy 7:22-23
 ---
 
 Sometimes it seems like God has forgotten. Like He brought me this far, and then just left. I can look at my past and see the path He’s carried me through. I see victory after victory. I see how He held me when I stumbled. How He encouraged me when I doubted.

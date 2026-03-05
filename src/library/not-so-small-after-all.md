@@ -5,8 +5,16 @@ date: 2026-02-22
 layout: article.njk
 category: meditations
 excerpt: Beneath the vastness of the heavens, I discovered that humanity is not insignificant but deeply loved—called by name by the One who set every star in place.
-tags: creation, awe, worship, identity, sovereignty, eternity
-scripture: Psalms 8:3-4
+tags:
+- creation
+- awe
+- worship
+- identity
+- sovereignty
+- eternity
+- confinement
+scripture:
+- Psalms 8:3-4
 ---
 
 > *“When I consider Your heavens, the work of Your fingers,  

@@ -5,8 +5,14 @@ date: 2025-09-26
 layout: article.njk
 category: devotionals
 excerpt: Like an ant sensing only vibrations of a passing shadow, we often miss the nearness of God. This meditation invites us to pray not for His presence, but for awareness of the Presence that already surrounds us.
-tags: presence, seeking, faith, awareness, sovereignty
-scripture: Genesis 28:16
+tags:
+- presence
+- seeking
+- faith
+- awareness
+- sovereignty
+scripture:
+- Genesis 28:16
 ---
 
 > *“Surely the Lord is in this place, and I did not know it.”* — Genesis 28:16

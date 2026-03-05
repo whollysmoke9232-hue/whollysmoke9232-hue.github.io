@@ -1,5 +1,5 @@
 ---
-title: "No Excuse"
+title: "Mustard Seed Faith"
 author: "Steve Wilkins"
 date: 2024-06-10
 layout: article.njk

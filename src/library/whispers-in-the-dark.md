@@ -5,8 +5,14 @@ date: 2026-02-22
 layout: article.njk
 category: meditations
 excerpt: In the quiet battles of confinement, I learned that the whispers of the enemy grow faint when the voice of my Deliverer becomes my focus.
-tags: spiritual warfare, trust, refuge, perseverance, hope, prayer
-scripture: Psalms 9:13
+tags:
+- trust
+- refuge
+- perseverance
+- hope
+- prayer
+scripture:
+- Psalms 9:13
 ---
 
 > *“LORD, see how my enemies persecute me!  

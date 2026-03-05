@@ -5,8 +5,15 @@ date: 2026-02-22
 layout: article.njk
 category: meditations
 excerpt: To stand in awe of God is to feel both drawn and undone—fully exposed yet completely safe. In His holiness we discover not danger, but the deepest peace.
-tags: awe, holiness, presence, fear, grace, surrender
-scripture: Psalms 22:23
+tags:
+- awe
+- holiness
+- presence
+- fear
+- grace
+- surrender
+scripture:
+- Psalms 22:23
 ---
 
 There is a constant tension in my life that I am rarely aware of — an uncertainty that keeps me slightly off-balance. It is typically during my morning quiet times, or in the stillness as I lie down at night, that the realization comes roaring to the forefront of my mind.

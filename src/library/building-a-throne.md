@@ -5,7 +5,13 @@ date: 2026-02-22
 layout: article.njk
 category: reflections
 excerpt: In a place stripped of comfort, I discovered that worship does not depend on abundance. It depends on who God is.
-tags: worship, gratitude, praise, holiness, perspective, confinement
+tags:
+- worship
+- gratitude
+- praise
+- holiness
+- perspective
+- confinement
 scripture: Psalms 22:3
 ---
 
