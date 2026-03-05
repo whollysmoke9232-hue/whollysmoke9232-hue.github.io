@@ -321,11 +321,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/reflections/a-prayer-from-the-wilderness/</loc>
-    <lastmod>2026-01-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/reflections/not-even-one/</loc>
     <lastmod>2026-01-23</lastmod>
     <priority>0.8</priority>
@@ -863,6 +858,11 @@
   <url>
     <loc>https://www.marginsdevotionals.com/reflections/returning-to-need/</loc>
     <lastmod>2026-02-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/reflections/a-prayer-from-the-wilderness/</loc>
+    <lastmod>2026-03-03</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
