@@ -4,14 +4,14 @@ module.exports = {
       // Preserve explicit permalinks
       if (data.permalink) return data.permalink;
 
-      // Use category (which you already added everywhere)
-      if (!data.category || !data.page?.fileSlug) {
+      // Library entries publish under /library/, categories publish separately.
+      if (!data.page?.fileSlug) {
         throw new Error(
-          `Missing category for ${data.page?.inputPath}`
+          `Missing file slug for ${data.page?.inputPath}`
         );
       }
 
-      return `/${data.category}/${data.page.fileSlug}/`;
+      return `/library/${data.page.fileSlug}/`;
     },
   },
 };

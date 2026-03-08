@@ -1,6 +1,7 @@
 ---
 title: Grace in the Margins
 layout: layout
+permalink: false
 ---
 
 

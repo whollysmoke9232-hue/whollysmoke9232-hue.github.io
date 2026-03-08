@@ -10,12 +10,12 @@ tags:
   - identity
   - transformation
 scripture:
-  - Philippians 2:12—13
+  - Philippians 2:12-13
 ---
 
 > _“Work out your own salvation with fear and trembling,  
 > for it is God who works in you, both to will and to work for His good pleasure.”_  
-> **—Philippians 2:12–13**
+> **—Philippians 2:12-13**
 
 ---
 

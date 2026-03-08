@@ -88,26 +88,63 @@ module.exports = function (eleventyConfig) {
     );
   });
 
-  // 📚 Content collections
+  // 📚 Content collections (front matter category-based)
+  function includeInLibrary(item) {
+    return String(item.data?.excludeFromLibrary || "").trim().toLowerCase() !== "true";
+  }
+
+  function byCategory(api, categoryName) {
+    return api.getAll().filter((item) => {
+      const category = String(item.data?.category || "").trim().toLowerCase();
+      return category === categoryName && includeInLibrary(item);
+    });
+  }
+
   eleventyConfig.addCollection("devotionals", (api) =>
-    api.getFilteredByGlob("./src/devotionals/*.md")
+    byCategory(api, "devotionals")
   );
 
   eleventyConfig.addCollection("reflections", (api) =>
-    api.getFilteredByGlob("./src/reflections/*.md")
+    byCategory(api, "reflections")
   );
 
   eleventyConfig.addCollection("meditations", (api) =>
-    api.getFilteredByGlob("./src/meditations/*.md")
+    byCategory(api, "meditations")
   );
 
   eleventyConfig.addCollection("stories", (api) =>
-    api.getFilteredByGlob("./src/stories/*.md")
+    byCategory(api, "stories")
   );
 
   eleventyConfig.addCollection("testimonies", (api) =>
-    api.getFilteredByGlob("./src/testimonies/*.md")
+    byCategory(api, "testimonies")
   );
+
+  // Books shown in Library come from top-level book index pages.
+  eleventyConfig.addCollection("books", (api) =>
+    api
+      .getFilteredByGlob("./src/books/*/index.md")
+      .filter((item) => includeInLibrary(item))
+      .sort((a, b) => String(a.data?.title || "").localeCompare(String(b.data?.title || "")))
+  );
+
+  // 🆕 Recent additions (strict last 7 days)
+  eleventyConfig.addCollection("recentAdditions", (api) => {
+    const now = new Date();
+    const cutoff = new Date(now);
+    cutoff.setDate(cutoff.getDate() - 7);
+
+    return api
+      .getAll()
+      .filter((item) => {
+        if (!item?.url) return false;
+        if (item.url === "/") return false;
+        if (item.data?.eleventyExcludeFromCollections) return false;
+        if (!(item.date instanceof Date)) return false;
+        return item.date >= cutoff && item.date <= now;
+      })
+      .sort((a, b) => b.date - a.date);
+  });
 
   // 🏷️ Tag list
   eleventyConfig.addCollection("tagList", function (collection) {

@@ -24,7 +24,10 @@ module.exports = function (eleventyConfig) {
       .filter(item =>
         String(item.data?.category || "")
           .trim()
-          .toLowerCase() === categoryName
+          .toLowerCase() === categoryName &&
+        String(item.data?.excludeFromLibrary || "")
+          .trim()
+          .toLowerCase() !== "true"
       );
   }
 
@@ -48,9 +51,16 @@ module.exports = function (eleventyConfig) {
     byCategory(api, "testimonies")
   );
 
-  // Books now defined by category instead of folder
+  // Books shown in Library come from top-level book index pages.
   eleventyConfig.addCollection("books", (api) =>
-    byCategory(api, "books")
+    api
+      .getFilteredByGlob("./src/books/*/index.md")
+      .filter((item) =>
+        String(item.data?.excludeFromLibrary || "")
+          .trim()
+          .toLowerCase() !== "true"
+      )
+      .sort((a, b) => String(a.data?.title || "").localeCompare(String(b.data?.title || "")))
   );
 
   eleventyConfig.addCollection("marginsBook", function (collectionApi) {
