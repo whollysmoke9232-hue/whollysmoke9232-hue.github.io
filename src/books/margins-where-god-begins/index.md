@@ -31,6 +31,7 @@ This book invites you to a different kind of attention—not to the words themse
 - [Introduction](/books/margins-where-god-begins/introduction/)
 
 **Part 1: The Eternal Margin**
+
 - [Part 1: The Eternal Margin](/books/margins-where-god-begins/part-1/)
 - [Chapter 1: The Margin Before Genesis](/books/margins-where-god-begins/chapter-1/)
 - [Interlude: God's Plan](/books/margins-where-god-begins/interlude-gods-plan/)
@@ -40,6 +41,7 @@ This book invites you to a different kind of attention—not to the words themse
 - [Interlude: It's About You](/books/margins-where-god-begins/interlude-its-about-you/)
 
 **Part 2: The Unfolding Margin**
+
 - [Part 2: The Unfolding Margin](/books/margins-where-god-begins/part-2/)
 - [Chapter 4: The Word Before the Word](/books/margins-where-god-begins/chapter-4/)
 - [Interlude: A Holy Moment](/books/margins-where-god-begins/interlude-a-holy-moment/)
@@ -49,6 +51,7 @@ This book invites you to a different kind of attention—not to the words themse
 - [Interlude: Righteousness](/books/margins-where-god-begins/interlude-righteousness/)
 
 **Part 3: The Living Margin**
+
 - [Part 3: The Living Margin](/books/margins-where-god-begins/part-3/)
 - [Chapter 7: The Word of God](/books/margins-where-god-begins/chapter-7/)
 - [Interlude: A Starter Plan for Daily Bible Reading](/books/margins-where-god-begins/interlude-a-starter-plan/)
@@ -57,7 +60,6 @@ This book invites you to a different kind of attention—not to the words themse
 - [Chapter 9: The Final Margin](/books/margins-where-god-begins/chapter-9/)
 - [Interlude: A Prayer](/books/margins-where-god-begins/interlude-a-prayer/)
 - [Chapter 10: Invitation to Wonder](/books/margins-where-god-begins/chapter-10/)
-
 - [Postlude: If God Is Everywhere…](/books/margins-where-god-begins/postlude/)
 - [Appendix](/books/margins-where-god-begins/appendix/)
 - [About the Author](/books/margins-where-god-begins/about-the-author/)

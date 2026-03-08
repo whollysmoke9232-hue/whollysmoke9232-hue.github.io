@@ -19,7 +19,6 @@ permalink: false
   Or, if you prefer to explore on your own…
 </p>
 
-
 <nav class="explore-bubbles" aria-label="Explore">
   <a href="/devotionals/">Devotionals</a>
   <a href="/meditations/">Meditations</a>
@@ -28,10 +27,6 @@ permalink: false
   <a href="/testimonies/">Testimonies</a>
   <a href="/books/">Books</a>
 </nav>
-
-
-
-
 
     <a href="/about/">
         <img src="/images/heavens-declare.png" alt="The heavens declare the glory of God" style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
@@ -73,5 +68,3 @@ permalink: false
       </p>
     </div>
     
-
- 
