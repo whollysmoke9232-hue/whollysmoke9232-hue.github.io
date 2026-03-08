@@ -1,7 +1,7 @@
 ---
 title: For Husbands
 author: Steve Wilkins
-date: 2026-03-08
+date: 2026-03-07
 layout: article.njk
 category: reflections
 excerpt: A critical spirit can quietly erode the person we claim to love. Learning to serve instead of correct may be one of the most important transformations a husband can experience.
@@ -19,7 +19,7 @@ scripture:
 
 Was it because my divorce occurred while I was incarcerated? Or was it because I was in such a season of scriptural saturation? I don’t know why it happened. I only know that somewhere along the way I began viewing the little things that used to annoy me very differently.
 
-Things like her spending habits, insistent house cleaning, lack of urgency. Or how she would breeze into the kitchen while I was cooking and start washing the tools I was still using.
+Things like her spending habits, incessant house cleaning, lack of urgency. Or how she would breeze into the kitchen while I was cooking and start washing the tools I was still using.
 
 I now see that this wasn’t just ***my*** problem. Many of the relationships I’ve witnessed display the same negative traits that I once carried. Chief among them is an overly critical spirit. Repeatedly pointing out insignificant shortcomings. Men talking down to their spouses, seemingly unaware of the damage they’re doing.
 
