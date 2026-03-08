@@ -1,0 +1,280 @@
+const { DateTime } = require("luxon");
+const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
+
+module.exports = function (eleventyConfig) {
+
+  // ===============================
+  // Markdown Configuration
+  // ===============================
+  const markdownLibrary = markdownIt({
+    html: true,
+    breaks: false,
+    linkify: true
+  }).use(markdownItAnchor, {
+    permalink: false,
+    level: [1, 2, 3, 4],
+    slugify: (s) =>
+      s.toLowerCase()
+        .replace(/[^\w\s-]/g, "")
+        .replace(/\s+/g, "-")
+  });
+
+  eleventyConfig.setLibrary("md", markdownLibrary);
+
+  // ===============================
+  // Utility Filters
+  // ===============================
+
+  eleventyConfig.addFilter("getPreviousCollectionItem", function (collection, page) {
+    const index = collection.findIndex(item => item.url === page.url);
+    return index > 0 ? collection[index - 1] : null;
+  });
+
+  eleventyConfig.addFilter("getNextCollectionItem", function (collection, page) {
+    const index = collection.findIndex(item => item.url === page.url);
+    return index < collection.length - 1 ? collection[index + 1] : null;
+  });
+
+  eleventyConfig.addFilter("readableDate", (dateValue) => {
+    if (!dateValue) return "";
+    if (dateValue instanceof Date) {
+      return DateTime.fromJSDate(dateValue, { zone: "utc" })
+        .toFormat("MMMM d, yyyy");
+    }
+    const dt = DateTime.fromISO(String(dateValue), { zone: "utc" });
+    return dt.isValid ? dt.toFormat("MMMM d, yyyy") : "";
+  });
+
+  eleventyConfig.addFilter("shortDate", (dateValue) => {
+    if (!dateValue) return "";
+    if (dateValue instanceof Date) {
+      return DateTime.fromJSDate(dateValue, { zone: "utc" })
+        .toFormat("LLL d yyyy");
+    }
+    const dt = DateTime.fromISO(String(dateValue), { zone: "utc" });
+    return dt.isValid ? dt.toFormat("LLL d yyyy") : "";
+  });
+
+  eleventyConfig.addFilter("isoDate", (dateObj) => {
+    if (!dateObj) return null;
+    return new Date(dateObj).toISOString().split("T")[0];
+  });
+
+  eleventyConfig.addFilter("slug", (str) => {
+    if (!str) return "";
+    return String(str)
+      .trim()
+      .toLowerCase()
+      .replace(/[^\w\s-]/g, "")
+      .replace(/\s+/g, "-");
+  });
+
+  eleventyConfig.addFilter("extractBlock", function (content, heading) {
+    if (!content || !heading) return "";
+    const regex = new RegExp(
+      `${heading}\\s*\\n([\\s\\S]*?)(?=\\n\\s*\\n|$)`,
+      "i"
+    );
+    const match = content.match(regex);
+    return match ? match[1].trim() : "";
+  });
+
+  eleventyConfig.addFilter("filterByTag", function (collection, tag) {
+    return (collection || []).filter(
+      (item) => item.data?.tags?.includes(tag)
+    );
+  });
+
+  // ===============================
+  // CORE LIBRARY COLLECTION
+  // ===============================
+
+  eleventyConfig.addCollection("libraryArticles", (api) =>
+    api.getFilteredByGlob("./src/library/*.md")
+      .filter(item => item.data?.excludeFromLibrary !== true)
+  );
+
+  // ===============================
+  // CATEGORY-BASED COLLECTIONS
+  // ===============================
+
+  function byCategory(api, categoryName) {
+    return api.getFilteredByGlob("./src/library/*.md")
+      .filter(item =>
+        String(item.data?.category || "")
+          .trim()
+          .toLowerCase() === categoryName
+      )
+      .filter(item => item.data?.excludeFromLibrary !== true);
+  }
+
+  eleventyConfig.addCollection("devotionals", (api) =>
+    byCategory(api, "devotionals")
+  );
+
+  eleventyConfig.addCollection("reflections", (api) =>
+    byCategory(api, "reflections")
+  );
+
+  eleventyConfig.addCollection("meditations", (api) =>
+    byCategory(api, "meditations")
+  );
+
+  eleventyConfig.addCollection("stories", (api) =>
+    byCategory(api, "stories")
+  );
+
+  eleventyConfig.addCollection("testimonies", (api) =>
+    byCategory(api, "testimonies")
+  );
+
+  // ===============================
+  // BOOKS COLLECTION
+  // ===============================
+
+  eleventyConfig.addCollection("books", (api) =>
+    api.getFilteredByGlob("./src/books/*/index.md")
+  );
+
+  // ===============================
+  // ORDERED BOOK CHAPTER COLLECTIONS
+  // ===============================
+
+  eleventyConfig.addCollection("marginsBook", function (collectionApi) {
+    return collectionApi
+      .getAll()
+      .filter(item => {
+        if (!item.url) return false;
+        if (!item.url.includes("/books/margins-where-god-begins/")) return false;
+        if (item.url.endsWith("/books/margins-where-god-begins/")) return false;
+        if (item.url.includes("/toc/")) return false;
+        return true;
+      })
+      .sort((a, b) => (a.data.order || 0) - (b.data.order || 0));
+  });
+
+  eleventyConfig.addCollection("fracturedLight", function (collectionApi) {
+    return collectionApi
+      .getAll()
+      .filter(item => {
+        if (!item.url) return false;
+        if (!item.url.includes("/books/fractured-light/")) return false;
+        if (item.url.endsWith("/books/fractured-light/")) return false;
+        if (item.url.includes("/toc/")) return false;
+        return true;
+      })
+      .sort((a, b) => (a.data.order || 0) - (b.data.order || 0));
+  });
+
+  // ===============================
+  // TAG SYSTEM
+  // ===============================
+
+  eleventyConfig.addCollection("tagList", function (collection) {
+    const tagSet = new Set();
+    const libraryItems = collection.getFilteredByGlob("./src/library/*.md");
+
+    libraryItems.forEach((item) => {
+      if (Array.isArray(item.data?.tags)) {
+        item.data.tags
+          .map((tag) => String(tag || "").trim())
+          .filter(Boolean)
+          .forEach((tag) => tagSet.add(tag));
+      }
+    });
+    return [...tagSet].sort((a, b) =>
+      String(a).localeCompare(String(b), "en", { sensitivity: "base" })
+    );
+  });
+
+  eleventyConfig.addCollection("recentAdditions", function (collectionApi) {
+    const cutoff = DateTime.utc().minus({ days: 7 }).startOf("day");
+
+    function getPublishedDate(item) {
+      const value = item?.data?.date;
+      if (!value) return null;
+
+      if (value instanceof Date) {
+        const dt = DateTime.fromJSDate(value, { zone: "utc" });
+        return dt.isValid ? dt : null;
+      }
+
+      const dt = DateTime.fromISO(String(value), { zone: "utc" });
+      return dt.isValid ? dt : null;
+    }
+
+    return collectionApi
+      .getFilteredByGlob("./src/library/*.md")
+      .filter((item) => {
+        const dt = getPublishedDate(item);
+        return dt && dt.isValid && dt >= cutoff;
+      })
+      .sort((a, b) => {
+        const aDt = getPublishedDate(a);
+        const bDt = getPublishedDate(b);
+
+        if (!aDt && !bDt) return 0;
+        if (!aDt) return 1;
+        if (!bDt) return -1;
+
+        return bDt.toMillis() - aDt.toMillis();
+      });
+  });
+
+  // ===============================
+  // SCRIPTURE SYSTEM
+  // ===============================
+
+  eleventyConfig.addCollection("scriptureList", function (collection) {
+    const scriptureSet = new Set();
+    collection.getAll().forEach((item) => {
+      if (Array.isArray(item.data?.scripture)) {
+        item.data.scripture.forEach((ref) => {
+          if (ref) scriptureSet.add(ref);
+        });
+      }
+    });
+    return [...scriptureSet].sort();
+  });
+
+  eleventyConfig.addCollection("scriptureMap", function (collection) {
+    const scriptureMap = {};
+    collection.getAll().forEach((item) => {
+      if (Array.isArray(item.data?.scripture)) {
+        item.data.scripture.forEach((ref) => {
+          if (!scriptureMap[ref]) scriptureMap[ref] = [];
+          scriptureMap[ref].push(item);
+        });
+      }
+    });
+    return scriptureMap;
+  });
+
+  const scriptureLink = require("./src/_filters/scriptureLink");
+  eleventyConfig.addFilter("scriptureLink", scriptureLink);
+
+  const autoScriptureLinks = require("./src/_transforms/autoScriptureLinks");
+  eleventyConfig.addTransform("autoScriptureLinks", autoScriptureLinks);
+
+  // ===============================
+  // PASSTHROUGH COPY
+  // ===============================
+
+  eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy("src/images");
+  eleventyConfig.addPassthroughCopy("src/CNAME");
+  eleventyConfig.addPassthroughCopy("src/google3eb551eecf4e1692.html");
+
+  // ===============================
+  // DIRECTORY STRUCTURE
+  // ===============================
+
+  return {
+    dir: {
+      input: "src",
+      includes: "_includes",
+      output: "docs",
+    },
+  };
+};

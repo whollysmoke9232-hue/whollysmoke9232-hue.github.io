@@ -1,0 +1,99 @@
+<script>
+(function () {
+
+  const params = new URLSearchParams(window.location.search);
+  const pathKey = params.get("path");
+  if (!pathKey) return;
+
+  const readingPaths = {{ readingPaths | dump | safe }};
+  const fallbackPaths = {
+    "out-of-control": [
+      { url: "/reflections/waves/", title: "Waves" },
+      { url: "/excerpts/fractured-light/chapter-7/", title: "Fractured Light — The Collapse" },
+      { url: "/reflections/still-waiting/", title: "Still Waiting" },
+      { url: "/reflections/a-theology-of-weakness/", title: "A Theology of Weakness" },
+      { url: "/reflections/held-on-every-side/", title: "Held on Every Side" },
+      { url: "/reflections/the-big-picture/", title: "The Big Picture" }
+    ]
+  };
+
+  const entries = readingPaths[pathKey] || fallbackPaths[pathKey];
+  if (!entries || !entries.length) return;
+
+  const normalize = (url) => {
+    if (!url) return "";
+    return url
+      .split('#')[0]
+      .split('?')[0]
+      .replace(/\/+$/, '');
+  };
+
+  const currentUrl = normalize(window.location.pathname);
+
+  const index = entries.findIndex(e =>
+    normalize(e.url) === currentUrl
+  );
+
+  if (index === -1) return;
+
+  const container = document.querySelector("[data-reading-path-nav]");
+  if (!container) return;
+
+  const subtitleMount = document.getElementById("reading-path-subtitle");
+
+  // Determine correct landing page
+  let pathUrl = "/" + pathKey + "/";
+
+  if (pathKey.startsWith("youre-not-alone")) {
+    pathUrl = "/youre-not-alone/";
+  }
+
+  if (pathKey.startsWith("start-here")) {
+    pathUrl = "/start-here/";
+  }
+
+  if (pathKey.startsWith("hearing-god")) {
+    pathUrl = "/hearing-god/";
+  }
+
+  const pathTitle = pathUrl
+    .replace(/\//g, '')
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, l => l.toUpperCase());
+
+  // Subtitle link
+  if (subtitleMount) {
+    subtitleMount.innerHTML =
+      `<a href="${pathUrl}" style="color:#666;text-decoration:none;">
+        ${pathTitle}
+      </a>`;
+  }
+
+  let html = '<hr><div style="display:flex;justify-content:space-between;align-items:center;margin:2rem 0;">';
+
+  if (index > 0) {
+    const prev = entries[index - 1];
+    html += `<a href="${prev.url}?path=${pathKey}">← ${prev.title}</a>`;
+  } else {
+    html += `<span></span>`;
+  }
+
+  html += `<a href="${pathUrl}" style="font-weight:500;">
+             ${pathTitle}
+           </a>`;
+
+  if (index < entries.length - 1) {
+    const next = entries[index + 1];
+    html += `<a href="${next.url}?path=${pathKey}">
+               ${next.title} →
+             </a>`;
+  } else {
+    html += `<span></span>`;
+  }
+
+  html += "</div><hr>";
+
+  container.innerHTML = html;
+
+})();
+</script>
