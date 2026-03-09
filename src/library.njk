@@ -63,6 +63,12 @@
   transform: none;
   text-align: left;
 }
+.library-group--testimonies .library-excerpt,
+.library-group--books .library-excerpt {
+  left: auto;
+  right: 105%;
+  text-align: left;
+}
 .library-list {
   list-style: none;
   padding: 0;
@@ -154,7 +160,7 @@
       {% endfor %}
     </ul>
   </div>
-  <div class="library-group">
+  <div class="library-group library-group--testimonies">
     <h2>Testimonies<span class="category-hover-note">Personal accounts of God's mercy, guidance, and transforming work in a life.</span></h2>
     <ul class="library-list">
       {% for item in collections.testimonies | sort(attribute='data.title') %}
