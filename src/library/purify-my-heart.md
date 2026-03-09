@@ -3,7 +3,7 @@ title: "Purify My Heart"
 author: "Steve Wilkins"
 date: 2024-01-29
 layout: article.njk
-category: devotionals
+category: poems
 excerpt: "A prayer of surrender and longing—for a clean heart that desires God alone and seeks His presence above all else."
 tags:
   - repentance

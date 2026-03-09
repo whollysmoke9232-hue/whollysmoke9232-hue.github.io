@@ -381,6 +381,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.marginsdevotionals.com/</loc>
+    <lastmod>2026-01-28</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.marginsdevotionals.com/library/</loc>
     <lastmod>2026-01-28</lastmod>
     <priority>0.8</priority>
@@ -872,6 +877,11 @@
   </url>
   <url>
     <loc>https://www.marginsdevotionals.com/library/i-need-you/</loc>
+    <lastmod>2026-03-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/poems/</loc>
     <lastmod>2026-03-08</lastmod>
     <priority>0.8</priority>
   </url>

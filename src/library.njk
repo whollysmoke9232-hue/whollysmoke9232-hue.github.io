@@ -11,9 +11,12 @@
 <style>
 .library-grid {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(7, 1fr);
   gap: 2rem 1.5rem;
-  margin: 2.5rem 0 2rem 0;
+  max-width: 1400px;
+  margin: 2.5rem auto 2rem auto;
+  padding: 0 1.5rem;
+  box-sizing: border-box;
 }
 .library-group {
   padding: 0 0.5rem;
@@ -24,6 +27,41 @@
   margin-bottom: 1rem;
   border-bottom: 2px solid #e0d6c3;
   padding-bottom: 0.5rem;
+  position: relative;
+  cursor: help;
+}
+.category-hover-note {
+  display: none;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: calc(100% + 0.45rem);
+  width: 260px;
+  background: #fffbe9;
+  color: #3a2a13;
+  border: 1px solid #e0d6c3;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 0.65rem 0.85rem;
+  z-index: 12;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  font-weight: normal;
+}
+.library-group h2:hover .category-hover-note,
+.library-group h2:focus-within .category-hover-note {
+  display: block;
+}
+.library-group--devotionals .category-hover-note {
+  left: 0;
+  transform: none;
+  text-align: left;
+}
+.library-group--books .category-hover-note {
+  left: auto;
+  right: 0;
+  transform: none;
+  text-align: left;
 }
 .library-list {
   list-style: none;
@@ -61,8 +99,8 @@
 </style>
 
 <div class="library-grid">
-  <div class="library-group">
-    <h2>Devotionals</h2>
+  <div class="library-group library-group--devotionals">
+    <h2>Devotionals<span class="category-hover-note">Short reflections on Scripture meant to encourage faith and obedience in everyday life.</span></h2>
     <ul class="library-list">
       {% for item in collections.devotionals | sort(attribute='data.title') %}
         <li>
@@ -73,7 +111,7 @@
     </ul>
   </div>
   <div class="library-group">
-    <h2>Meditations</h2>
+    <h2>Meditations<span class="category-hover-note">Quiet contemplations on Scripture and faith, written to be read slowly and thoughtfully.</span></h2>
     <ul class="library-list">
       {% for item in collections.meditations | sort(attribute='data.title') %}
         <li>
@@ -84,7 +122,18 @@
     </ul>
   </div>
   <div class="library-group">
-    <h2>Reflections</h2>
+    <h2>Poems & Prayers<span class="category-hover-note">Psalm-like expressions of worship, longing, confession, and trust offered before God.</span></h2>
+    <ul class="library-list">
+      {% for item in collections.poems | sort(attribute='data.title') %}
+        <li>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+          {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Reflections<span class="category-hover-note">Thoughtful explorations of Scripture, theology, and the deeper movements of the Christian life.</span></h2>
     <ul class="library-list">
       {% for item in collections.reflections | sort(attribute='data.title') %}
         <li>
@@ -95,7 +144,7 @@
     </ul>
   </div>
   <div class="library-group">
-    <h2>Stories</h2>
+    <h2>Stories<span class="category-hover-note">Narratives from life that reveal deeper spiritual truths through ordinary experiences.</span></h2>
     <ul class="library-list">
       {% for item in collections.stories | sort(attribute='data.title') %}
         <li>
@@ -106,7 +155,7 @@
     </ul>
   </div>
   <div class="library-group">
-    <h2>Testimonies</h2>
+    <h2>Testimonies<span class="category-hover-note">Personal accounts of God's mercy, guidance, and transforming work in a life.</span></h2>
     <ul class="library-list">
       {% for item in collections.testimonies | sort(attribute='data.title') %}
         <li>
@@ -116,8 +165,8 @@
       {% endfor %}
     </ul>
   </div>
-  <div class="library-group">
-    <h2>Books</h2>
+  <div class="library-group library-group--books">
+    <h2>Books<span class="category-hover-note">Longer works and serialized writings exploring faith, suffering, redemption, and spiritual growth.</span></h2>
     <ul class="library-list">
       {% for item in collections.books | sort(attribute='data.title') %}
         <li>

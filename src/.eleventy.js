@@ -19,7 +19,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setLibrary("md", markdownLibrary);
 
-  function byCategory(api, categoryName) {
+   function byCategory(api, categoryName) {
     return api.getAll()
       .filter(item =>
         String(item.data?.category || "")
@@ -39,6 +39,10 @@ module.exports = function (eleventyConfig) {
     byCategory(api, "reflections")
   );
 
+  eleventyConfig.addCollection("poems", (api) =>
+    byCategory(api, "poems")
+  );
+
   eleventyConfig.addCollection("meditations", (api) =>
     byCategory(api, "meditations")
   );
@@ -49,6 +53,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("testimonies", (api) =>
     byCategory(api, "testimonies")
+  );
+
+  eleventyConfig.addCollection("poems", (api) =>
+    byCategory(api, "poems")
   );
 
   // Books shown in Library come from top-level book index pages.

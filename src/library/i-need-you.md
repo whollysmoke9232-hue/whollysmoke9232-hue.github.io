@@ -3,7 +3,7 @@ title: I Need You
 author: Steve Wilkins
 date: 2026-03-08
 layout: article.njk
-category: reflections
+category: poems
 excerpt: A simple prayer of surrender—recognizing that loving and following Jesus is not something we can accomplish in our own strength.
 tags:
   - prayer
@@ -11,6 +11,7 @@ tags:
   - dependence
   - devotion
   - humility
+  - confinement
 scripture:
   - John 15:5
 ---
@@ -40,3 +41,12 @@ Be all in me.
 Take all of me.
 
 Have Your way in me.
+
+<!-- end-of-article -->
+
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
+*Written in confinement.*
+</span>

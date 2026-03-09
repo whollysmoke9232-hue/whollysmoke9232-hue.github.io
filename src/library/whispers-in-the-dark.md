@@ -3,7 +3,7 @@ title: Whispers in the Dark
 author: Steve Wilkins
 date: 2026-02-22
 layout: article.njk
-category: meditations
+category: poems
 excerpt: In the quiet battles of confinement, I learned that the whispers of the enemy grow faint when the voice of my Deliverer becomes my focus.
 tags:
 - trust

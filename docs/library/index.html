@@ -11,9 +11,12 @@
 <style>
 .library-grid {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(7, 1fr);
   gap: 2rem 1.5rem;
-  margin: 2.5rem 0 2rem 0;
+  max-width: 1400px;
+  margin: 2.5rem auto 2rem auto;
+  padding: 0 1.5rem;
+  box-sizing: border-box;
 }
 .library-group {
   padding: 0 0.5rem;
@@ -24,6 +27,41 @@
   margin-bottom: 1rem;
   border-bottom: 2px solid #e0d6c3;
   padding-bottom: 0.5rem;
+  position: relative;
+  cursor: help;
+}
+.category-hover-note {
+  display: none;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: calc(100% + 0.45rem);
+  width: 260px;
+  background: #fffbe9;
+  color: #3a2a13;
+  border: 1px solid #e0d6c3;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 0.65rem 0.85rem;
+  z-index: 12;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  font-weight: normal;
+}
+.library-group h2:hover .category-hover-note,
+.library-group h2:focus-within .category-hover-note {
+  display: block;
+}
+.library-group--devotionals .category-hover-note {
+  left: 0;
+  transform: none;
+  text-align: left;
+}
+.library-group--books .category-hover-note {
+  left: auto;
+  right: 0;
+  transform: none;
+  text-align: left;
 }
 .library-list {
   list-style: none;
@@ -61,8 +99,8 @@
 </style>
 
 <div class="library-grid">
-  <div class="library-group">
-    <h2>Devotionals</h2>
+  <div class="library-group library-group--devotionals">
+    <h2>Devotionals<span class="category-hover-note">Short reflections on Scripture meant to encourage faith and obedience in everyday life.</span></h2>
     <ul class="library-list">
       
         <li>
@@ -73,11 +111,6 @@
         <li>
           <a href="/library/be-transformed/">Be Transformed</a>
           <span class="library-excerpt">True worship is not conformity to the world, but transformation through a renewed mind shaped by the righteousness of Christ.</span>
-        </li>
-      
-        <li>
-          <a href="/devotionals/">Devotionals</a>
-          
         </li>
       
         <li>
@@ -116,11 +149,6 @@
         </li>
       
         <li>
-          <a href="/library/purify-my-heart/">Purify My Heart</a>
-          <span class="library-excerpt">A prayer of surrender and longing—for a clean heart that desires God alone and seeks His presence above all else.</span>
-        </li>
-      
-        <li>
           <a href="/library/seek-his-face/">Seek His Face</a>
           <span class="library-excerpt">God desires to be desired—not for what He can give, but for who He is. Psalm 127 reminds us that striving without Him is empty, but seeking Him brings rest and blessing.</span>
         </li>
@@ -143,7 +171,7 @@
     </ul>
   </div>
   <div class="library-group">
-    <h2>Meditations</h2>
+    <h2>Meditations<span class="category-hover-note">Quiet contemplations on Scripture and faith, written to be read slowly and thoughtfully.</span></h2>
     <ul class="library-list">
       
         <li>
@@ -159,16 +187,6 @@
         <li>
           <a href="/library/a-holy-moment/">A Holy Moment</a>
           <span class="library-excerpt">In the silent sway of trees and the thunderous hush of mountains, God’s love speaks without words.</span>
-        </li>
-      
-        <li>
-          <a href="/library/a-meditation-in-suffering/">A Meditation In Suffering</a>
-          <span class="library-excerpt">When pain strips away understanding, surrender becomes worship. This meditation offers suffering back to God as an act of trust and praise.</span>
-        </li>
-      
-        <li>
-          <a href="/library/a-psalm-from-confinement/">A Psalm From Confinement</a>
-          <span class="library-excerpt">A meditation of confession, grace, and longing—written when hope felt distant and mercy refused to let go.</span>
         </li>
       
         <li>
@@ -197,28 +215,8 @@
         </li>
       
         <li>
-          <a href="/library/here-with-me/">Here With Me</a>
-          <span class="library-excerpt">A meditation on God’s nearness—written in confinement, in awe of a presence that remains personal amid infinite scale.</span>
-        </li>
-      
-        <li>
-          <a href="/library/if-god-is-everywhere/">If God Is Everywhere</a>
-          <span class="library-excerpt">God’s omnipresence means we are never outside His presence or purposes. This meditation explores identity, rest, and belonging in a God who is always near.</span>
-        </li>
-      
-        <li>
           <a href="/library/in-his-image/">In His Image</a>
           <span class="library-excerpt">What does it mean to be made in the image of a holy God? A meditation on eternity in fragile bodies and the longing for unending communion with the Infinite One.</span>
-        </li>
-      
-        <li>
-          <a href="/library/meditation-1/">Meditation #1</a>
-          <span class="library-excerpt">A meditation of surrender—looking back on flight, self-reliance, and the quiet persistence of grace.</span>
-        </li>
-      
-        <li>
-          <a href="/meditations/">Meditations</a>
-          
         </li>
       
         <li>
@@ -266,6 +264,52 @@
           <span class="library-excerpt">When we look up at the vastness of creation, we are confronted with a humbling question—why does God care for us at all?</span>
         </li>
       
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Poems & Prayers<span class="category-hover-note">Psalm-like expressions of worship, longing, confession, and trust offered before God.</span></h2>
+    <ul class="library-list">
+      
+        <li>
+          <a href="/library/a-meditation-in-suffering/">A Meditation In Suffering</a>
+          <span class="library-excerpt">When pain strips away understanding, surrender becomes worship. This meditation offers suffering back to God as an act of trust and praise.</span>
+        </li>
+      
+        <li>
+          <a href="/library/a-psalm-from-confinement/">A Psalm From Confinement</a>
+          <span class="library-excerpt">A meditation of confession, grace, and longing—written when hope felt distant and mercy refused to let go.</span>
+        </li>
+      
+        <li>
+          <a href="/library/here-with-me/">Here With Me</a>
+          <span class="library-excerpt">A meditation on God’s nearness—written in confinement, in awe of a presence that remains personal amid infinite scale.</span>
+        </li>
+      
+        <li>
+          <a href="/library/i-need-you/">I Need You</a>
+          <span class="library-excerpt">A simple prayer of surrender—recognizing that loving and following Jesus is not something we can accomplish in our own strength.</span>
+        </li>
+      
+        <li>
+          <a href="/library/if-god-is-everywhere/">If God Is Everywhere</a>
+          <span class="library-excerpt">God’s omnipresence means we are never outside His presence or purposes. This meditation explores identity, rest, and belonging in a God who is always near.</span>
+        </li>
+      
+        <li>
+          <a href="/library/meditation-1/">Meditation #1</a>
+          <span class="library-excerpt">A meditation of surrender—looking back on flight, self-reliance, and the quiet persistence of grace.</span>
+        </li>
+      
+        <li>
+          <a href="/library/purify-my-heart/">Purify My Heart</a>
+          <span class="library-excerpt">A prayer of surrender and longing—for a clean heart that desires God alone and seeks His presence above all else.</span>
+        </li>
+      
+        <li>
+          <a href="/library/sunday-morning-faith/">Sunday Morning Faith</a>
+          <span class="library-excerpt">A contrast between well-worn sayings heard in church culture and enduring truth, this reflection calls for a faith that lives beyond Sunday—one that stands in weakness, walks through darkness, and overcomes through Christ.</span>
+        </li>
+      
         <li>
           <a href="/library/whispers-in-the-dark/">Whispers in the Dark</a>
           <span class="library-excerpt">In the quiet battles of confinement, I learned that the whispers of the enemy grow faint when the voice of my Deliverer becomes my focus.</span>
@@ -274,7 +318,7 @@
     </ul>
   </div>
   <div class="library-group">
-    <h2>Reflections</h2>
+    <h2>Reflections<span class="category-hover-note">Thoughtful explorations of Scripture, theology, and the deeper movements of the Christian life.</span></h2>
     <ul class="library-list">
       
         <li>
@@ -343,11 +387,6 @@
         </li>
       
         <li>
-          <a href="/library/i-need-you/">I Need You</a>
-          <span class="library-excerpt">A simple prayer of surrender—recognizing that loving and following Jesus is not something we can accomplish in our own strength.</span>
-        </li>
-      
-        <li>
           <a href="/library/loving-judge/">Loving Judge</a>
           <span class="library-excerpt">David’s prayer for judgment is not reckless bravado, but quiet trust in a God whose justice is shaped by grace and whose scrutiny is meant to heal.</span>
         </li>
@@ -399,11 +438,6 @@
         </li>
       
         <li>
-          <a href="/reflections/">Reflections</a>
-          
-        </li>
-      
-        <li>
           <a href="/library/renew-my-mind/">Renew My Mind</a>
           
         </li>
@@ -441,11 +475,6 @@
         <li>
           <a href="/library/still-waiting/">Still Waiting</a>
           <span class="library-excerpt">When anxiety pulls me into endless what-ifs, Psalm 39:7 calls me back to the only secure ground: My hope is in You.</span>
-        </li>
-      
-        <li>
-          <a href="/library/sunday-morning-faith/">Sunday Morning Faith</a>
-          <span class="library-excerpt">A contrast between well-worn sayings heard in church culture and enduring truth, this reflection calls for a faith that lives beyond Sunday—one that stands in weakness, walks through darkness, and overcomes through Christ.</span>
         </li>
       
         <li>
@@ -521,7 +550,7 @@
     </ul>
   </div>
   <div class="library-group">
-    <h2>Stories</h2>
+    <h2>Stories<span class="category-hover-note">Narratives from life that reveal deeper spiritual truths through ordinary experiences.</span></h2>
     <ul class="library-list">
       
         <li>
@@ -545,11 +574,6 @@
         </li>
       
         <li>
-          <a href="/stories/">Stories</a>
-          
-        </li>
-      
-        <li>
           <a href="/library/the-counterfeit-feast/">The Counterfeit Feast</a>
           <span class="library-excerpt">A sober look at Proverbs 9 and the deceptive invitation of folly that mimics wisdom but ultimately leads to death.</span>
         </li>
@@ -562,7 +586,7 @@
     </ul>
   </div>
   <div class="library-group">
-    <h2>Testimonies</h2>
+    <h2>Testimonies<span class="category-hover-note">Personal accounts of God's mercy, guidance, and transforming work in a life.</span></h2>
     <ul class="library-list">
       
         <li>
@@ -602,8 +626,8 @@
       
     </ul>
   </div>
-  <div class="library-group">
-    <h2>Books</h2>
+  <div class="library-group library-group--books">
+    <h2>Books<span class="category-hover-note">Longer works and serialized writings exploring faith, suffering, redemption, and spiritual growth.</span></h2>
     <ul class="library-list">
       
         <li>

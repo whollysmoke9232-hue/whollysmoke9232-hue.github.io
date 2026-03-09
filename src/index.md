@@ -1,70 +1,107 @@
 ---
 title: Grace in the Margins
-layout: layout
-permalink: false
+layout: layout.njk
 ---
 
+<div class="article-content">
 
-<!-- START HERE OPTION -->
-<nav class="explore-bubbles" aria-label="Start Here">
-  <a href="/start-here/">
-    For reading path suggestions, Start Here
-  </a>
-  <a href="/hearing-god/">
-    Hearing God
-  </a>
-</nav>
+  <style>
+    .article-content a:hover {
+      text-decoration: underline !important;
+    }
+  </style>
 
-<p class="explore-own">
-  Or, if you prefer to explore on your own…
-</p>
-
-<nav class="explore-bubbles" aria-label="Explore">
-  <a href="/devotionals/">Devotionals</a>
-  <a href="/meditations/">Meditations</a>
-  <a href="/reflections/">Reflections</a>
-  <a href="/stories/">Stories</a>
-  <a href="/testimonies/">Testimonies</a>
-  <a href="/books/">Books</a>
-</nav>
-
-    <a href="/about/">
-        <img src="/images/heavens-declare.png" alt="The heavens declare the glory of God" style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  <div style="text-align: center; margin-bottom: 0.5rem;">
+    <a href="{{ '/begin/' | url }}"
+       title="Begin"
+       style="font-size: 1.18rem; color: #6b4f2c; text-decoration: underline; font-weight: bold; letter-spacing: 0.02em;">
+      Begin Here
     </a>
+  </div>
 
-    <div class="homepage-intro">
-      <p>Grace in the margins, hope in the silence</p>
-      <p>God’s sovereignty in life’s interruptions</p>
-      <p>Join a journey of faith, creativity, and renewal</p>
-    </div>
+  <a href="{{ '/begin/' | url }}" title="Begin">
+    <img src="{{ '/images/path-2.png' | url }}"
+         alt=""
+         title="Begin"
+         style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  </a>
 
-    <section class="psalm-verse">
-      <p style="font-size: 1.5rem; font-style: italic;">
-        "Thy word is a lamp unto my feet, and a light unto my path." Psalm 119:105 (KJV)</p>
-        </section>
+  <div style="text-align: center; margin: 1.2rem 0;">
+    <a href="{{ '/library/' | url }}"
+       style="font-size: 1.18rem; color: #6b4f2c; text-decoration: underline; font-weight: bold; letter-spacing: 0.02em;">
+      Complete Library
+    </a>
+  </div>
 
-    <p style="text-align: center; font-weight: bold; font-size: 1.2rem;">〰〰〰〰〰〰〰</p>
-    <p style="text-align: center; font-weight: bold; font-size: 1.2rem; color: #1a73e8;">
-      A space where God's presence meets life's detours
+  <a href="{{ '/about/' | url }}">
+    <img src="{{ '/images/heavens-declare.png' | url }}"
+         alt="The heavens declare the glory of God"
+      title="About"
+         style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  </a>
+
+  <section class="psalm-verse" style="text-align: center;">
+    <p style="font-size: 1.5rem; font-style: italic;">
+      "Thy word is a lamp unto my feet, and a light unto my path." Psalm 119:105 (KJV)
     </p>
-    <p style="text-align: center; font-weight: bold; font-size: 1.2rem;">〰〰〰〰〰〰〰</p>
+  </section>
 
-    <!-- BOTTOM LINKS (inside border) -->
-    <nav class="explore-bubbles" aria-label="Explore">
-      <a href="/devotionals/">Devotionals</a>
-      <a href="/meditations/">Meditations</a>
-      <a href="/reflections/">Reflections</a>
-      <a href="/stories/">Stories</a>
-      <a href="/testimonies/">Testimonies</a>
-      <a href="/books/">Books</a>
-    </nav>
+  <div style="text-align: center; margin: 2rem 0 0.3rem 0; font-size: 1.05rem;">
+    <a href="{{ '/devotionals/' | url }}" style="color: #5a3e2b; text-decoration: none;">Devotionals</a>
+    &nbsp;•&nbsp;
+    <a href="{{ '/meditations/' | url }}" style="color: #5a3e2b; text-decoration: none;">Meditations</a>
+    &nbsp;•&nbsp;
+    <a href="{{ '/poems/' | url }}" style="color: #5a3e2b; text-decoration: none;">Poems & Prayers</a>
+    &nbsp;•&nbsp;
+    <a href="{{ '/reflections/' | url }}" style="color: #5a3e2b; text-decoration: none;">Reflections</a>
+    &nbsp;•&nbsp;
+    <a href="{{ '/stories/' | url }}" style="color: #5a3e2b; text-decoration: none;">Stories</a>
+    &nbsp;•&nbsp;
+    <a href="{{ '/testimonies/' | url }}" style="color: #5a3e2b; text-decoration: none;">Testimonies</a>
+    &nbsp;•&nbsp;
+    <a href="{{ '/books/' | url }}" style="color: #5a3e2b; text-decoration: none;">Books</a>
+  </div>
 
-    <div style="text-align: center; margin-top: 0.5rem;">
-      <nav class="explore-bubbles" aria-label="About">
-        <a href="/about/">Why This Place Exists</a>
-      </nav>
-      <p style="margin-top: 1rem; font-size: 0.95rem;">
-        <a href="/scripture/" style="text-decoration: underline; color: #8b7355;">Scripture Index</a>
-      </p>
-    </div>
-    
+  <div style="text-align: center; margin: 0;">
+    <a href="{{ '/begin/' | url }}"
+       style="text-decoration: none; color: #8b7355;">
+      Reading Paths
+    </a>
+  </div>
+
+  <div style="text-align: center; margin: 0;">
+    <a href="{{ '/scripture/' | url }}"
+       style="text-decoration: none; color: #8b7355;">
+      Scripture Index
+    </a>
+  </div>
+
+  <div style="text-align: center; margin: 0;">
+    <a href="{{ '/tags/' | url }}"
+       style="text-decoration: none; color: #8b7355;">
+      Tag Index
+    </a>
+  </div>
+
+  <div style="text-align: center; margin: 0;">
+    <a href="{{ '/recent-additions/' | url }}"
+       style="text-decoration: none; color: #8b7355;">
+      Most Recent Additions
+    </a>
+  </div>
+
+  <div style="text-align: center; margin-top: 2rem;">
+    <a href="{{'/about/' | url }}"
+       style="color: #5a3e2b; text-decoration: none;">
+      Why This Place Exists
+    </a>
+  </div>
+
+  <div style="text-align:center; margin:4rem 0 2rem 0; font-size:1rem; color:#6a5d4d;">
+    <a href="{{'/youre-not-alone/' | url }}"
+       style="text-decoration:none; color:inherit;">
+      There is a place here for what is hardest to name.
+    </a>
+  </div>
+
+</div>

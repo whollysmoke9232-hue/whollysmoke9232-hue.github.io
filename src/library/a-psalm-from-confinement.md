@@ -4,7 +4,7 @@ author: "Steve Wilkins"
 date: 2024-06-01
 layout: article.njk
 excerpt: "A meditation of confession, grace, and longing—written when hope felt distant and mercy refused to let go."
-category: meditations
+category: poems
 tags:
   - suffering
   - waiting

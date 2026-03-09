@@ -4,7 +4,7 @@ author: "Steve Wilkins"
 date: 2023-10-15
 layout: article.njk
 excerpt: "When pain strips away understanding, surrender becomes worship. This meditation offers suffering back to God as an act of trust and praise."
-category: meditations
+category: poems
 tags:
   - suffering
   - trust

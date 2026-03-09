@@ -3,7 +3,7 @@ title: "Meditation #1"
 author: "Steve Wilkins"
 date: 2024-09-20
 layout: article.njk
-category: meditations
+category: poems
 excerpt: "A meditation of surrender—looking back on flight, self-reliance, and the quiet persistence of grace."
 tags:
   - presence
