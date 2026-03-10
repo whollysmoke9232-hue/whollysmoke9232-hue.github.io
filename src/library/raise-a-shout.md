@@ -17,17 +17,17 @@ scripture:
 - Psalms 100:5
 ---
 
-> *Shout joyfully to the LORD, all the earth.
-Serve the LORD with gladness;
-Come before Him with joyful singing.
-Know that the LORD Himself is God;
-It is He who has made us, and not we ourselves;
-We are His people and the sheep of His pasture.
-Enter His gates with thanksgiving
-And His courts with praise.
-Give thanks to Him, bless His name.
-For the LORD is good;
-His lovingkindness is everlasting
+> *Shout joyfully to the LORD, all the earth.  
+Serve the LORD with gladness;  
+Come before Him with joyful singing.  
+Know that the LORD Himself is God;  
+It is He who has made us, and not we ourselves;  
+We are His people and the sheep of His pasture.  
+Enter His gates with thanksgiving  
+And His courts with praise.  
+Give thanks to Him, bless His name.  
+For the LORD is good;  
+His lovingkindness is everlasting  
 And His faithfulness to all generations.* **—Psalm 100**
 
 ---
