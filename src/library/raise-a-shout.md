@@ -28,7 +28,7 @@ And His courts with praise.
 Give thanks to Him, bless His name.  
 For the LORD is good;  
 His lovingkindness is everlasting  
-And His faithfulness to all generations.* **—Psalm 100**
+And His faithfulness to all generations.* **—Psalm 100:1-5**
 
 ---
 
