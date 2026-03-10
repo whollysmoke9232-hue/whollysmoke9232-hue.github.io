@@ -13,8 +13,8 @@ tags:
 - meditation
 - scripture
 scripture:
-- Psalms 100
-- Psalms 100:5
+- Psalm 100:1-5
+- Psalm 100:5
 ---
 
 > *Shout joyfully to the LORD, all the earth.  

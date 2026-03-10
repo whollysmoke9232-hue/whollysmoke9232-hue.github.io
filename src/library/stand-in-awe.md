@@ -13,14 +13,14 @@ tags:
 - grace
 - surrender
 scripture:
-- Psalms 22:23
+- Psalm 22:23
 ---
 
 There is a constant tension in my life that I am rarely aware of — an uncertainty that keeps me slightly off-balance. It is typically during my morning quiet times, or in the stillness as I lie down at night, that the realization comes roaring to the forefront of my mind.
 
 I have a deep desire to stay close to God. But I am reluctant to move in too close. I fear Him because He knows everything about me. But in those quiet moments I am reminded that He knows everything about me.
 
-> *And stand in awe of Him, all you descendants of Israel.* **—Psalms 22:23**
+> *And stand in awe of Him, all you descendants of Israel.* **—Psalm 22:23**
 
 To stand in awe of God is to stand at the same time both repelled and attracted; both terrified and peaceful; both fully known and deeply loved.
 

@@ -12,11 +12,11 @@ tags:
 - hope
 - prayer
 scripture:
-- Psalms 9:13
+- Psalm 9:13
 ---
 
 > *“LORD, see how my enemies persecute me!  
-Have mercy and lift me up from the gates of death,”* **—Psalms 9:13 (NIV)**
+Have mercy and lift me up from the gates of death,”* **—Psalm 9:13 (NIV)**
 
 *6/9/2024 (Written in confinement)*
 

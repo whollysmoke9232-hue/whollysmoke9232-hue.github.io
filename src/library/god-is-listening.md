@@ -13,14 +13,14 @@ tags:
   - restoration
   - meditation
 scripture:
-  - Psalms 40:1
-  - Psalms 40:2-3
-  - Psalms 40:12
-  - Psalms 40:17
+  - Psalm 40:1
+  - Psalm 40:2-3
+  - Psalm 40:12
+  - Psalm 40:17
 ---
 
 > *“I waited patiently for the LORD;  
-And He inclined to me and heard my cry.”* **—Psalms 40:1**
+And He inclined to me and heard my cry.”* **—Psalm 40:1**
 
 I have read this Psalm on the tenth day of most months for the last forty years or so. That is well over four hundred times. Yet how many times have I read it and missed the beauty of this verse?
 
@@ -30,7 +30,7 @@ As I linger over this Psalm, I begin to read it out of order:
 
 > *“My iniquities have overtaken me, so that I am not able to see;  
 They are more numerous than the hairs of my head,  
-And my heart has failed me.”* **—Psalms 40:12**
+And my heart has failed me.”* **—Psalm 40:12**
 
 Many times this has described my desperation as I’ve cried out in prayer. Too often I’ve waited until my folly has gotten out of hand to turn my focus back to God. In these moments it’s easy to feel like my prayers are bouncing off the ceiling. Like God can’t hear — or isn’t listening. He seems distant. Unapproachable. I begin to feel alone. Cut off. It is so easy to give up and stop praying.
 
@@ -71,11 +71,11 @@ Because David is certain that God is paying close attention, he can boldly pray:
 > *“Since I am afflicted and needy,  
 Let the Lord be mindful of me.  
 You are my help and my deliverer;  
-Do not delay, O my God.”* **—Psalms 40:17**
+Do not delay, O my God.”* **—Psalm 40:17**
 
 And David is confident of God’s response…
 
 > *“He set my feet upon a rock making my footsteps firm.  
-He put a new song in my mouth, a song of praise to our God.”* **—Psalms 40:2–3**
+He put a new song in my mouth, a song of praise to our God.”* **—Psalm 40:2–3**
 
 Amen.

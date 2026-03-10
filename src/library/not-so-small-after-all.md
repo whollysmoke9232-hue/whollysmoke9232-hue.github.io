@@ -14,13 +14,13 @@ tags:
 - eternity
 - confinement
 scripture:
-- Psalms 8:3-4
+- Psalm 8:3-4
 ---
 
 > *“When I consider Your heavens, the work of Your fingers,  
 The moon and the stars, which You have ordained;  
 What is man that You take thought of him,  
-And the son of man that You care for him?”* **—Psalms 8:3-4**
+And the son of man that You care for him?”* **—Psalm 8:3-4**
 
 *6/8/2024 (Written in confinement)*
 
