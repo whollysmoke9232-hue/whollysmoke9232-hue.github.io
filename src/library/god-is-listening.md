@@ -34,7 +34,11 @@ And my heart has failed me.”* **—Psalms 40:12**
 
 Many times this has described my desperation as I’ve cried out in prayer. Too often I’ve waited until my folly has gotten out of hand to turn my focus back to God. In these moments it’s easy to feel like my prayers are bouncing off the ceiling. Like God can’t hear — or isn’t listening. He seems distant. Unapproachable. I begin to feel alone. Cut off. It is so easy to give up and stop praying.
 
-David sheds more light on this condition in verse 2 when he confesses that he had been in *“the pit of destruction.”* The Hebrew imagery here is quite distinctive. What David is referring to is having fallen into a deep, narrow hole, with the bottom filled with thick, sticky mud. The image is of one who is slipping and sinking, unable to climb out — and all the while surrounded by loud chaos and ruin.
+David sheds more light on this condition in verse 2 when he confesses that he had been in:
+
+> *“the pit of destruction.”*  
+
+The Hebrew imagery here is quite distinctive. What David is referring to is having fallen into a deep, narrow hole, with the bottom filled with thick, sticky mud. The image is of one who is slipping and sinking, unable to climb out — and all the while surrounded by loud chaos and ruin.
 
 Verses 2 and 12, taken together, speak of a desperation that can find no relief.
 
@@ -58,7 +62,7 @@ Yet David describes God as *“inclining.”* That means leaning in — somethin
 
 David sees God actively listening — and hearing.
 
-What an amazing jewel! God doesn’t simply hear our prayers — in the sense that He is merely aware that we are praying. He listens intently. He doesn’t miss a single word. 
+What an amazing jewel! God doesn’t simply hear our prayers — in the sense that He is merely aware that we are praying. He listens intently. He doesn’t miss a single word.  
 
 **In fact, our Heavenly Father listens beyond our words to the cry of our hearts.**
 
@@ -75,4 +79,3 @@ And David is confident of God’s response…
 He put a new song in my mouth, a song of praise to our God.”* **—Psalms 40:2–3**
 
 Amen.
-```
