@@ -20,16 +20,16 @@ scripture:
 > *“Why are you in despair, O my soul?  
 And why have you become disturbed within me?  
 Hope in God, for I shall again praise Him  
-For the help of His presence.  
+For the help of His presence.*  
 
-O my God, my soul is in despair within me;  
+> *O my God, my soul is in despair within me;  
 Therefore I remember You from the land of the Jordan  
-And the peaks of Hermon, from Mount Mizar.  
+And the peaks of Hermon, from Mount Mizar.*  
 
-Deep calls to deep at the sound of Your waterfalls;  
-All Your breakers and Your waves have rolled over me.  
+> *Deep calls to deep at the sound of Your waterfalls;  
+All Your breakers and Your waves have rolled over me.*  
 
-The LORD will command His lovingkindness in the daytime;  
+> *The LORD will command His lovingkindness in the daytime;  
 And His song will be with me in the night,  
 A prayer to the God of my life.”* **—Psalm 42:5–8**
 
@@ -80,4 +80,6 @@ And why have you become disturbed within me?
 Hope in God, for I shall yet praise Him,  
 The help of my countenance and my God.”* **—Psalm 42:11**
 
-For more on Psalm 42, see [What Do You Want](https://marginsdevotionals.com/library/what-do-you-want/)
+---
+
+*For more on Psalm 42, see* [What Do You Want](https://marginsdevotionals.com/library/what-do-you-want/)
