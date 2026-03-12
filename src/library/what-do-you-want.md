@@ -95,3 +95,7 @@ the ways You have carried me, sustained me, and remained faithful when I was wea
 > I want You.
 
 > Amen.
+
+---
+
+*For more on Psalm 42, see* [Why Indeed](https://marginsdevotionals.com/library/why-indeed/)
