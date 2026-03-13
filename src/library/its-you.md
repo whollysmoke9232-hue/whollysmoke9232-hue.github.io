@@ -1,7 +1,7 @@
 ---
 title: It’s You
 author: Steve Wilkins
-date: 2026-03-12
+date: 2026-03-13
 layout: article.njk
 category: devotionals
 excerpt: When we ask God to lead us, we often expect direction toward circumstances or outcomes. Psalm 43 reveals that His ultimate destination for us is not a place or achievement—but Himself.
