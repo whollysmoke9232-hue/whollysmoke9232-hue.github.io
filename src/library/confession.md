@@ -12,7 +12,7 @@ tags:
 - identity
 - restoration
 - trust
-scripture: Psalms 51:1
+scripture: Psalm 51:1
 ---
 
 *Author’s note: This is not about how to get forgiven. It’s about learning to live like you already are.*
@@ -26,7 +26,7 @@ I simply cannot believe that God intends that we continue to carry the burden of
 So I return to Psalm 51.
 
 > *Be gracious to me, O God, according to Your lovingkindness;  
-According to the greatness of Your compassion blot out my transgressions.* **—Psalms 51:1**
+According to the greatness of Your compassion blot out my transgressions.* **—Psalm 51:1**
 
 David knew a thing or two about forgiveness and freedom. We would do well to consider and follow his example.
 
