@@ -686,11 +686,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/library/showers-of-blessing/</loc>
-    <lastmod>2026-03-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/why-indeed/</loc>
     <lastmod>2026-03-12</lastmod>
     <priority>0.8</priority>
@@ -913,6 +908,11 @@
   <url>
     <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/back-cover/</loc>
     <lastmod>2026-03-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/showers-of-blessing/</loc>
+    <lastmod>2026-03-14</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

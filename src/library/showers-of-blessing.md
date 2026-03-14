@@ -1,7 +1,7 @@
 ---
 title: Showers of Blessing
 author: Steve Wilkins
-date: 2026-03-12
+date: 2026-03-14
 layout: article.njk
 category: devotionals
 excerpt: The Psalms repeatedly call God’s people to shout in worship. True praise is not polite restraint but the joyful declaration that our victorious King reigns.
