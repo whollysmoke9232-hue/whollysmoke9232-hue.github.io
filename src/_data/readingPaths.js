@@ -5,7 +5,7 @@ module.exports = {
 { url: '/testimonies/jesus-the-scapegoat/', title: 'Jesus – The Scapegoat' },
 { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
 { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
-{ url: '/excerpts/fractured-light/chapter-3/', title: 'Fractured Light — Chapter 3' }
+{ url: '/excerpts/fractured-light/chapter-3/', title: 'Fractured Light — The Spiral' }
 ],
 
 'hurt-and-restoration': [
