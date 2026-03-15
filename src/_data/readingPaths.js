@@ -13,7 +13,7 @@ module.exports = {
 { url: '/devotionals/when-jesus-wept/', title: 'When Jesus Wept' },
 { url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation in Suffering' },
 { url: '/testimonies/after-gods-heart/', title: "After God's Heart" },
-{ url: '/excerpts/fractured-light/chapter-9/', title: 'Fractured Light — Chapter 9' }
+{ url: '/excerpts/fractured-light/chapter-9/', title: 'Fractured Light — The Arrest' }
 ],
 
 'weariness-and-renewal': [
@@ -59,7 +59,7 @@ module.exports = {
 'about-the-author': [
 { url: '/testimonies/from-exile-to-surrender/', title: 'From Exile to Surrender' },
 { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
-{ url: '/excerpts/fractured-light/chapter-4/', title: 'Fractured Light — Chapter 4' },
+{ url: '/excerpts/fractured-light/chapter-4/', title: 'Fractured Light — The Altar' },
 { url: '/meditations/a-psalm-from-confinement/', title: 'A Psalm From Confinement' },
 { url: '/reflections/the-big-picture/', title: 'The Big Picture' }
 ],
@@ -100,7 +100,7 @@ module.exports = {
 { url: '/stories/the-gospel-in-the-grass/', title: 'The Gospel in the Grass' },
 { url: '/stories/dance-like-enoch/', title: 'I Wanna Dance Like Enoch Danced' },
 { url: '/stories/the-counterfeit-feast/', title: 'The Counterfeit Feast' },
-{ url: '/excerpts/fractured-light/chapter-3/', title: 'Fractured Light' }
+{ url: '/excerpts/fractured-light/chapter-3/', title: 'Fractured Light — The Spiral' }
 ],
 
 'start-here-sit-with-god': [
