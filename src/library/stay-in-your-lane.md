@@ -98,10 +98,10 @@ The road I've been on always leads me back to the same place. Death.
 I've got to get off this road and stay off this road.  
 
 I’m reminded of a story:
-> *A man walking down the road, didn’t see the hole and fell in.
-The man walking down the same road, saw the hole, but still fell in.
-The man walking down the same road, saw the hole, and went around it.
-The man walked down a different road.*
+> *A man walking down the road, didn’t see the hole and fell in.  
+The man walking down the same road, saw the hole, but still fell in.  
+The man walking down the same road, saw the hole, and went around it.  
+The man walked down a different road.*  
 
 I believe I found the right exit. It's in pursuing the Kingdom of God with everything I have. But I need help to do it. Lots of help. And I have to take full advantage of the time I have in here to get myself as full of the word of God as possible. I need to establish this habit. And keep the habit for the rest of my life. I have to stay busy with the work of the Kingdom after I’m out.  
 
