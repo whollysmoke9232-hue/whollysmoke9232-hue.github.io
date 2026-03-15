@@ -36,10 +36,9 @@ After failure in the past, I have thrown my hands up and declared, “This is im
 
 Well not anymore! I will surrender my will daily - as many times a day as necessary - until my will has been replaced by his.  
 
+---
 
 I have lamented about my addiction.  
-
-
 
 I've used the addiction as an excuse for so much sinful behavior.  
 
