@@ -1,7 +1,7 @@
 ---
 title: Finding the Treasure
 author: Steve Wilkins
-date: 2026-03-12
+date: 2026-03-14
 layout: article.njk
 category: reflections
 excerpt: The kingdom of heaven is the greatest treasure a person can ever find. True surrender begins when we realize that God Himself—not His gifts—is the prize.
