@@ -7,6 +7,42 @@ layout: default.njk
 
 ---
 
+## [Standing In Awe](/books/standing-in-awe/)
+
+Thirteen reflections that call the heart to wonder, trust, prayer, and vision in the presence of God.
+
+*Standing In Awe* gathers meditations on prayer, suffering, perspective, and trust—inviting readers to see God clearly in both quiet and difficult places.
+
+<nav class="explore-bubbles" aria-label="Books">
+  <a href="/books/standing-in-awe/">Read Standing In Awe</a>
+</nav>
+
+---
+
+## [The Confinement Journals](/books/the-confinement-journals/)
+
+Twenty reflections, prayers, and meditations written during a season of confinement—tracing the journey from descent to encounter.
+
+*The Confinement Journals: Finding God in the Silence* moves from entering the silence, to learning to be still, to the hunger of seeking, through awakening, and into the unshakeable grip of trust.
+
+<nav class="explore-bubbles" aria-label="Books">
+  <a href="/books/the-confinement-journals/">Read The Confinement Journals</a>
+</nav>
+
+---
+
+## [Letters From Confinement](/books/letters-from-confinement/)
+
+A book-length sequence of reflections, prayers, and meditations shaped by confinement.
+
+*Letters From Confinement* moves from collapse to solitude with God, from honest prayer to confession, awakening, and new sight. This scaffolded edition collects the book's sections into a chapter-based reading experience with a continuous manuscript view.
+
+<nav class="explore-bubbles" aria-label="Books">
+  <a href="/books/letters-from-confinement/">Read Letters From Confinement</a>
+</nav>
+
+---
+
 ## [Margins: Where God Begins](/books/margins-where-god-begins/)
 
 Before the first word of Scripture was written, God already knew the story.

@@ -141,12 +141,16 @@ layout: layout.njk
 <div class="book-content">
   {% set chapterTags = tags if tags else [] %}
   {% set isFracturedLight = "fractured-light" in chapterTags %}
-  {% set isMargins = "margins-where-god-begins" in chapterTags %}
-  {% set bookCollection = collections.fracturedLight if isFracturedLight else collections.marginsBook %}
-  {% set continuousUrl = "/stories/fractured-light/" if isFracturedLight else "/books/margins-where-god-begins/manuscript/" %}
-  {% set tocUrl = "/books/fractured-light/toc/" if isFracturedLight else "/books/margins-where-god-begins/toc/" %}
-  {% set contentsUrl = "/books/fractured-light/" if isFracturedLight else "/books/margins-where-god-begins/" %}
-  {% set bookTitle = "Fractured Light" if isFracturedLight else "Margins: Where God Begins" %}
+  {% set defaultBookCollection = collections.fracturedLight if isFracturedLight else collections.marginsBook %}
+  {% set defaultContinuousUrl = "/stories/fractured-light/" if isFracturedLight else "/books/margins-where-god-begins/manuscript/" %}
+  {% set defaultTocUrl = "/books/fractured-light/toc/" if isFracturedLight else "/books/margins-where-god-begins/toc/" %}
+  {% set defaultContentsUrl = "/books/fractured-light/" if isFracturedLight else "/books/margins-where-god-begins/" %}
+  {% set defaultBookTitle = "Fractured Light" if isFracturedLight else "Margins: Where God Begins" %}
+  {% set resolvedBookCollection = collections[bookCollection] if bookCollection else defaultBookCollection %}
+  {% set continuousUrl = continuousReadingUrl if continuousReadingUrl else defaultContinuousUrl %}
+  {% set tocUrl = bookTocUrl if bookTocUrl else defaultTocUrl %}
+  {% set contentsUrl = bookContentsUrl if bookContentsUrl else defaultContentsUrl %}
+  {% set resolvedBookTitle = bookDisplayTitle if bookDisplayTitle else defaultBookTitle %}
 
   <!-- Reading mode toggle -->
   <div class="reading-mode-toggle">
@@ -156,7 +160,7 @@ layout: layout.njk
   <!-- Book header with TOC link -->
   <header class="book-header">
     <p style="margin: 0 0 0.5rem 0; font-size: 0.75rem; color: #999; text-transform: uppercase; letter-spacing: 0.05em;">
-      <a href="{{ contentsUrl }}" style="color: inherit; text-decoration: none;">{{ bookTitle }}</a>
+      <a href="{{ contentsUrl }}" style="color: inherit; text-decoration: none;">{{ resolvedBookTitle }}</a>
     </p>
     <h1 class="chapter-title">
       <a href="{{ tocUrl }}">{{ title }}</a>
@@ -174,8 +178,8 @@ layout: layout.njk
   <!-- Chapter navigation -->
   <nav class="chapter-nav-container" aria-label="Chapter Navigation">
     <div>
-      {% if bookCollection %}
-        {% set previousPost = bookCollection | getPreviousCollectionItem(page) %}
+      {% if resolvedBookCollection %}
+        {% set previousPost = resolvedBookCollection | getPreviousCollectionItem(page) %}
         {% if previousPost %}
           <a href="{{ previousPost.url }}" class="chapter-nav-btn" id="prev-chapter-link">
             ← {{ previousPost.data.title }}
@@ -189,8 +193,8 @@ layout: layout.njk
     </div>
 
     <div>
-      {% if bookCollection %}
-        {% set nextPost = bookCollection | getNextCollectionItem(page) %}
+      {% if resolvedBookCollection %}
+        {% set nextPost = resolvedBookCollection | getNextCollectionItem(page) %}
         {% if nextPost %}
           <a href="{{ nextPost.url }}" class="chapter-nav-btn" id="next-chapter-link">
             {{ nextPost.data.title }} →
