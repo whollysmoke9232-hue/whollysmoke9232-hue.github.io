@@ -1,5 +1,5 @@
 ---
-title: “Go”
+title: Go
 author: Steve Wilkins
 date: 2026-02-22
 layout: article.njk
