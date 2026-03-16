@@ -12,7 +12,12 @@ tags:
 - surrender
 - seeking
 - waiting
-scripture: Psalms 119:105
+scripture:
+- Genesis 12:1
+- Judges 7:10
+- Jonah 1:2
+- Matthew 28:19
+- Psalms 119:105
 ---
 
 It seems that God never intended for me to grow complacent while waiting for His direction.  
