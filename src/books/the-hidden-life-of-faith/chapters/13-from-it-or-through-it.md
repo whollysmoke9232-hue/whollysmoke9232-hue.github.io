@@ -1,0 +1,76 @@
+﻿---
+title: "From It or Through It"
+layout: book-chapter.njk
+order: 13
+tags:
+  - the-hidden-life-of-faith
+author: "Steve Wilkins"
+bookCollection: "theHiddenLifeOfFaith"
+bookDisplayTitle: "The Hidden Life of Faith"
+bookContentsUrl: "/books/the-hidden-life-of-faith/"
+bookTocUrl: "/books/the-hidden-life-of-faith/toc/"
+continuousReadingUrl: "/books/the-hidden-life-of-faith/manuscript/"
+permalink: "/books/the-hidden-life-of-faith/from-it-or-through-it/"
+---
+
+> *“…our God whom we serve is able to deliver us from the furnace of blazing fire; and He will deliver us out of your hand, O king.*  
+> *But even if He does not, let it be known to you, O king, that we are not going to serve your gods or worship the golden image that you have set up.”*  
+> **—Daniel 3:17–18**
+
+---
+
+Imagine the scene: three teenagers—Shadrach, Meshach, and Abednego—standing before King Nebuchadnezzar, the most powerful man in the known world. Their crime was refusing to bow before his golden statue. Facing certain, agonizing death in a superheated furnace, their response was not a plea for mercy, but a declaration of faith.
+
+Their surrender was not to the flame, but to the sovereignty of God.
+
+*“Our God is able to deliver us,”* they proclaimed. But then came the defining words: ***“But even if He does not…”***
+
+This was not a lack of faith; it was the purest expression of it. They trusted God completely—without demanding a specific outcome. In essence, they were saying, “God will save us—either from the fire, or through the fire.”
+
+Enraged, the king ordered the furnace heated seven times hotter and had them thrown in. But they were not alone.
+
+Daniel records a fourth man walking with them—one “like a son of the gods.” Many see in this a divine presence, possibly even a pre-incarnate appearance of Christ. However we understand it, the message is unmistakable: **God entered the fire with them.**
+
+When they emerged, the evidence was undeniable:
+
+> “…the fire had no effect on the bodies of these men nor was the hair of their head singed, nor were their trousers damaged, nor had the smell of fire even come upon them.”_ **—Daniel 3:27**
+
+Yet something *was* burned away—the ropes that bound them.
+
+The fire meant to destroy them became the means of their freedom. What the enemy intended for harm, God used for release. They came out untouched, unscorched, and unbound.
+
+God has not changed.
+
+He still uses suffering not to consume us, but to refine us. And notice this: Jesus did not wait outside the fire for them to emerge. He walked *in it* with them. He is found in the deepest waters, the darkest valleys, and the fiercest trials of our lives.
+
+Scripture echoes this truth:
+
+> *“If any man’s work is burned up, he will suffer loss; but he himself will be saved, yet so as through fire.”* **—1 Corinthians 3:15**
+> *“Behold, I have refined you, but not as silver; I have tested you in the furnace of affliction.”* **—Isaiah 48:10**
+
+If you are in the fire today—pressed by grief, fear, loss, or uncertainty—hear these promises:
+
+> *“The LORD is near to the brokenhearted and saves those who are crushed in spirit.”* **—Psalm 34:18**
+> *“And now, Lord, for what do I wait? My hope is in You.”* **—Psalm 39:7**
+
+We can face any trial with confidence—not because we control the outcome, but because we know the Companion. God may deliver us from the fire, or He may walk with us through it. Either way, He is faithful. The fire refines, releases, and frees—consuming only what binds us.
+
+---
+
+## Prayer
+
+> Lord, teach us to trust You not only in deliverance, but also in delay.  
+> When the flames rise and the path grows dark, remind us that You are not absent—you are near.  
+> Your presence is our greatest promise.
+> Amen.
+
+---
+
+<!-- end-of-article -->
+
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
+*Written in confinement.*
+</span>

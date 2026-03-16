@@ -7,6 +7,18 @@ layout: default.njk
 
 ---
 
+## [The Hidden Life of Faith](/books/the-hidden-life-of-faith/)
+
+Fourteen reflections on the inward journey of faith—stillness, surrender, holiness, prayer, and wholehearted devotion to God in the hidden places.
+
+*The Hidden Life of Faith* traces the quiet disciplines that shape an authentic walk with God: ceasing striving, seeking His face, renewing the mind, pressing on through failure, and living always after God's own heart.
+
+<nav class="explore-bubbles" aria-label="Books">
+  <a href="/books/the-hidden-life-of-faith/">Read The Hidden Life of Faith</a>
+</nav>
+
+---
+
 ## [Standing In Awe](/books/standing-in-awe/)
 
 Thirteen reflections that call the heart to wonder, trust, prayer, and vision in the presence of God.
