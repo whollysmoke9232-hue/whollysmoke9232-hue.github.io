@@ -1,0 +1,69 @@
+﻿---
+title: "Mustard Seed Faith"
+layout: book-chapter.njk
+order: 7
+tags:
+  - hold-my-hand-walking-with-god
+author: "Steve Wilkins"
+bookCollection: "holdMyHandWalkingWithGod"
+bookDisplayTitle: "Hold My Hand: Walking With God"
+bookContentsUrl: "/books/hold-my-hand-walking-with-god/"
+bookTocUrl: "/books/hold-my-hand-walking-with-god/toc/"
+continuousReadingUrl: "/books/hold-my-hand-walking-with-god/manuscript/"
+permalink: "/books/hold-my-hand-walking-with-god/mustard-seed-faith/"
+---
+
+> _“…I tell you the truth, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there’ and it will move…”_ **—Matthew 17:20**
+
+I used to think that verse was good news—if I ever needed to move a mountain.
+
+But then I began to notice the kind of faith so many displayed when Jesus walked among them. It wasn’t flashy or loud. It was persistent, expectant, and deeply rooted:
+
+- The woman with the issue of blood **(Luke 8:43)**  
+- The lame man at the Pool of Bethesda **(John 5:1)**  
+- The paralytic lowered through the roof **(Mark 2:3)**  
+- The groom at Cana **(John 2:1)**  
+- The grieving mother in Nain **(Luke 7:11)**  
+- The man with a withered hand **(Mark 3:1)**
+
+And then—perhaps most remarkably—the miracle of multiplication in **Matthew 14:15–33**. Five loaves. Two fish. Twenty thousand hungry people. And twelve disciples who had no idea that *today*, they’d be part of the miracle.
+
+Jesus blessed the bread, broke it, and handed a piece to the first disciple. Yet somehow, both the disciple and Jesus were holding full loaves. The miracle continued—disciple by disciple, recipient by recipient.
+
+Not only did they **see** the miracle.  
+They **took part** in it.
+
+Then, as if to seal the moment, Jesus had each disciple collect a basket overflowing with leftovers—tangible evidence of faith meeting divine abundance.
+
+---
+
+## Faith in the Storm
+
+But just hours later, fear returned.
+
+In the boat, the disciples trembled as Jesus walked toward them on the water. Peter dared to believe—mustard seed faith—and for a moment, he walked on the waves. But doubt crept in when he focused more on the wind than the Savior.
+
+When Peter began to sink, Jesus caught him immediately.
+
+> _“... O you of little faith ...”_ **—Matthew 14:31**
+It's easy to fault Peter for his doubt. But don't lose sight of what Peter did - *he walked on water!* ***With"little faith!*** Jesus' words weren’t a rebuke. They were a reminder:
+
+**Even little faith is powerful when pointed toward Me.**
+
+---
+
+## Prayer
+
+> Lord, help us not despise the days of small faith. Thank You for catching us when we sink. Remind us that mustard seed faith is more than enough in Your hands. Teach us to fix our eyes on You—through storms and through wonder—and trust that You will never let us fall.  
+> Amen.
+
+---
+
+<!-- end-of-article -->
+
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
+*Written in confinement.*
+</span>

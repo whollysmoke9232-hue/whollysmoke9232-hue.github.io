@@ -3,7 +3,51 @@ title: "Books"
 layout: default.njk
 ---
 
-# Books by Steve Wilkins
+## [Parables and Reflections](/books/parables-and-reflections/)
+
+Five reflections and narrative meditations that reveal God's truth in ordinary scenes, personal stories, and spiritual roadblocks.
+
+*Parables and Reflections* gathers concise, story-shaped devotionals that uncover grace in the everyday and call us to deeper trust, clearer vision, and faithful obedience.
+
+<nav class="explore-bubbles" aria-label="Books">
+  <a href="/books/parables-and-reflections/">Read Parables and Reflections</a>
+</nav>
+
+---
+
+## [Hold My Hand: Walking With God](/books/hold-my-hand-walking-with-god/)
+
+Seven reflections on trust, surrender, obedience, and steady faith for those learning to walk closely with God.
+
+*Hold My Hand: Walking With God* gathers meditations that help readers move from striving to companionship with Christ through daily dependence, attentive obedience, and resilient trust.
+
+<nav class="explore-bubbles" aria-label="Books">
+  <a href="/books/hold-my-hand-walking-with-god/">Read Hold My Hand</a>
+</nav>
+
+---
+
+## [Speak Up Lord: I Don't Hear So Well](/books/speak-up-lord-i-dont-hear-so-well/)
+
+Seven reflections for learning to hear God in quiet places through stillness, scripture, surrender, and attentive prayer.
+
+*Speak Up Lord: I Don't Hear So Well* gathers meditations that retrain the heart toward attentiveness, helping readers recognize God's voice in the ordinary, the difficult, and the deeply personal moments of faith.
+
+<nav class="explore-bubbles" aria-label="Books">
+  <a href="/books/speak-up-lord-i-dont-hear-so-well/">Read Speak Up Lord</a>
+</nav>
+
+---
+
+## [When Life Hurts: Finding Purpose in the Pain](/books/when-life-hurts-finding-purpose-in-the-pain/)
+
+Seven reflections for seasons of sorrow, waiting, and weakness, discovering the nearness and faithfulness of God in suffering.
+
+*When Life Hurts: Finding Purpose in the Pain* brings together meditations on grief, endurance, trust, and God's sustaining presence when the path is painful and answers are few.
+
+<nav class="explore-bubbles" aria-label="Books">
+  <a href="/books/when-life-hurts-finding-purpose-in-the-pain/">Read When Life Hurts</a>
+</nav>
 
 ---
 
@@ -31,7 +75,7 @@ Thirteen reflections that call the heart to wonder, trust, prayer, and vision in
 
 ---
 
-## [The Confinement Journals](/books/the-confinement-journals/)
+## [The Confinement Journals: Finding God in the Silence](/books/the-confinement-journals/)
 
 Twenty reflections, prayers, and meditations written during a season of confinement—tracing the journey from descent to encounter.
 
