@@ -42,3 +42,5 @@ You are not outside of His love.
 You are already in the margin.  
 
 Where God’s plan begins.
+
+Welcome to the journey.

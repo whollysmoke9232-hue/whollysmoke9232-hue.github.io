@@ -11,11 +11,11 @@
 <style>
 .library-grid {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
-  gap: 2rem 1.5rem;
-  max-width: 1400px;
+  grid-template-columns: repeat(8, minmax(200px, 1fr));
+  gap: 2rem 2rem;
+  width: min(99vw, 3200px);
   margin: 2.5rem auto 2rem auto;
-  padding: 0 1.5rem;
+  padding: 0 0.5rem;
   box-sizing: border-box;
 }
 .library-group {
@@ -57,14 +57,7 @@
   transform: none;
   text-align: left;
 }
-.library-group--books .category-hover-note {
-  left: auto;
-  right: 0;
-  transform: none;
-  text-align: left;
-}
-.library-group--testimonies .library-excerpt,
-.library-group--books .library-excerpt {
+.library-group--testimonies .library-excerpt {
   left: auto;
   right: 105%;
   text-align: left;
@@ -105,6 +98,67 @@
 </style>
 
 <div class="library-grid">
+  <div class="library-group library-group--books">
+    <h2>Books<span class="category-hover-note">Longer works and serialized writings exploring faith, suffering, redemption, and spiritual growth.</span></h2>
+    <ul class="library-list">
+      
+        <li>
+          <a href="/books/fractured-light/">Fractured Light</a>
+          <span class="library-excerpt">A testimony of brokenness, mercy, and the quiet work of God in the darkest places—where grace refracts through what has been shattered.</span>
+        </li>
+      
+        <li>
+          <a href="/books/hold-my-hand-walking-with-god/">Hold My Hand: Walking With God</a>
+          <span class="library-excerpt">Seven reflections on trust, surrender, obedience, and steady faith for those learning to walk closely with God.</span>
+        </li>
+      
+        <li>
+          <a href="/books/letters-from-confinement/">Letters From Confinement</a>
+          <span class="library-excerpt">A book-length sequence of reflections, prayers, and meditations shaped by confinement, moving from collapse to new sight.</span>
+        </li>
+      
+        <li>
+          <a href="/books/margins-where-god-begins/">Margins: Where God Begins</a>
+          <span class="library-excerpt">Before the first word of Scripture was written, God already knew the story. A contemplative exploration of God&#39;s presence in the spaces we often overlook—the margins where nothing seems to happen, yet everything begins.</span>
+        </li>
+      
+        <li>
+          <a href="/books/my-story-from-brokenness-to-grace/">My Story: From Brokenness to Grace</a>
+          <span class="library-excerpt">A three-act spiritual memoir tracing fracture, collapse, and awakening as God&#39;s grace meets brokenness and leads toward restoration.</span>
+        </li>
+      
+        <li>
+          <a href="/books/parables-and-reflections/">Parables and Reflections</a>
+          <span class="library-excerpt">Five reflections and narrative meditations that reveal God&#39;s truth in ordinary scenes, personal stories, and spiritual roadblocks.</span>
+        </li>
+      
+        <li>
+          <a href="/books/speak-up-lord-i-dont-hear-so-well/">Speak Up Lord: I Don&#39;t Hear So Well</a>
+          <span class="library-excerpt">Seven reflections for learning to hear God in quiet places through stillness, scripture, surrender, and attentive prayer.</span>
+        </li>
+      
+        <li>
+          <a href="/books/standing-in-awe/">Standing In Awe</a>
+          <span class="library-excerpt">Thirteen reflections that call the heart to wonder, trust, prayer, and vision in the presence of God.</span>
+        </li>
+      
+        <li>
+          <a href="/books/the-confinement-journals/">The Confinement Journals: Finding God in the Silence</a>
+          <span class="library-excerpt">Twenty reflections, prayers, and meditations written during a season of confinement—tracing the journey from descent to encounter.</span>
+        </li>
+      
+        <li>
+          <a href="/books/the-hidden-life-of-faith/">The Hidden Life of Faith</a>
+          <span class="library-excerpt">Fourteen reflections on the inward journey of faithâ€”stillness, surrender, holiness, prayer, and wholehearted devotion to God in the hidden places.</span>
+        </li>
+      
+        <li>
+          <a href="/books/when-life-hurts-finding-purpose-in-the-pain/">When Life Hurts: Finding Purpose in the Pain</a>
+          <span class="library-excerpt">Seven reflections for seasons of sorrow, waiting, and weakness, discovering the nearness and faithfulness of God in suffering.</span>
+        </li>
+      
+    </ul>
+  </div>
   <div class="library-group library-group--devotionals">
     <h2>Devotionals<span class="category-hover-note">Short reflections on Scripture meant to encourage faith and obedience in everyday life.</span></h2>
     <ul class="library-list">
@@ -202,6 +256,87 @@
         <li>
           <a href="/library/why-indeed/">Why Indeed</a>
           <span class="library-excerpt">When despair rises and the future feels uncertain, Psalm 42 reminds us that even the overwhelming waves of life are under God’s control—and His presence remains with us.</span>
+        </li>
+      
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Excerpts<span class="category-hover-note">Selected passages and shorter sections drawn from longer book projects.</span></h2>
+    <ul class="library-list">
+      
+        <li>
+          <a href="/library/a-prayer/">A Prayer</a>
+          <span class="library-excerpt">A prayer for purification of heart and a deeper longing to see and know God more fully.</span>
+        </li>
+      
+        <li>
+          <a href="/library/gods-plan/">God’s Plan</a>
+          <span class="library-excerpt">A reflection on the road of life, where every event becomes preparation for what lies ahead in God’s unfolding plan.</span>
+        </li>
+      
+        <li>
+          <a href="/library/introduction/">Introduction</a>
+          <span class="library-excerpt">An invitation to step into the margin before Genesis 1:1 and see life as part of the greater story already written within the mind of God.</span>
+        </li>
+      
+        <li>
+          <a href="/library/invitation-to-wonder/">Invitation to Wonder</a>
+          <span class="library-excerpt">An invitation to step back into the margins of life and rediscover the wonder of living in the constant presence of God.</span>
+        </li>
+      
+        <li>
+          <a href="/library/its-about-you/">It’s About You</a>
+          <span class="library-excerpt">A quiet surrender to the truth that life is not ultimately about us, but about the glory of God and His redeeming work.</span>
+        </li>
+      
+        <li>
+          <a href="/library/living-in-the-margin/">Living in the Margin</a>
+          <span class="library-excerpt">The quiet margins of life are not wasted space. They are often where God prepares us, meets us, and reveals His presence most clearly.</span>
+        </li>
+      
+        <li>
+          <a href="/library/not-a-remodel/">Not A Remodel</a>
+          <span class="library-excerpt">A reflection on discovering that God’s work in our lives is not a simple renovation, but a complete transformation into a dwelling place fit for His presence.</span>
+        </li>
+      
+        <li>
+          <a href="/library/righteousness-a-gift-from-first-to-last/">Righteousness: A Gift From First to Last</a>
+          <span class="library-excerpt">The righteousness revealed in the Gospel is not something we earn through effort, but a gift credited to us by faith—from the first moment of belief to the final step of our journey.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-final-margin/">The Final Margin</a>
+          <span class="library-excerpt">Just as there was a margin before creation, there is also a margin before eternity’s fullness—a space where hope anchors us as God draws His story toward completion.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-god-who-knowns/">The God Who Knows</a>
+          <span class="library-excerpt">A reflection on the God who knows every moment of our lives before they unfold, revealing that nothing in our story surprises Him and that His plan was never an afterthought.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-margin-before-genesis/">The Margin Before Genesis</a>
+          <span class="library-excerpt">A reflection on the sacred margin before Genesis 1:1—where the entire story of creation, redemption, and every human life already existed within the mind of God.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-power-of-the-pause/">The Power of the Pause</a>
+          <span class="library-excerpt">In the stillness and silence of life’s pauses, God is often doing His deepest work—preparing, aligning, and shaping what comes next.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-tapestry-of-time/">The Tapestry of Time</a>
+          <span class="library-excerpt">A reflection on how God weaves every life, event, and moment into a greater design—reminding us that nothing in our story is wasted.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-word-before-the-word/">The Word Before the Word</a>
+          <span class="library-excerpt">Before creation began, the Word already existed. Jesus was present before time, before light, and before the first page of the story.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-word-of-god/">The Word of God</a>
+          <span class="library-excerpt">When we ask for God’s will, the deeper question is often where we are looking for the answer. The Word of God is not merely information—it is the living voice of God guiding our lives.</span>
         </li>
       
     </ul>
@@ -708,62 +843,6 @@
         <li>
           <a href="/library/when-the-order-matters/">When the Order Matters</a>
           <span class="library-excerpt">A single testimony drawn from years of conviction, correction, and quiet reframing—about what happens when the Church keeps God at the center and lets everything else follow.</span>
-        </li>
-      
-    </ul>
-  </div>
-  <div class="library-group library-group--books">
-    <h2>Books<span class="category-hover-note">Longer works and serialized writings exploring faith, suffering, redemption, and spiritual growth.</span></h2>
-    <ul class="library-list">
-      
-        <li>
-          <a href="/books/fractured-light/">Fractured Light</a>
-          <span class="library-excerpt">A testimony of brokenness, mercy, and the quiet work of God in the darkest places—where grace refracts through what has been shattered.</span>
-        </li>
-      
-        <li>
-          <a href="/books/hold-my-hand-walking-with-god/">Hold My Hand: Walking With God</a>
-          <span class="library-excerpt">Seven reflections on trust, surrender, obedience, and steady faith for those learning to walk closely with God.</span>
-        </li>
-      
-        <li>
-          <a href="/books/letters-from-confinement/">Letters From Confinement</a>
-          <span class="library-excerpt">A book-length sequence of reflections, prayers, and meditations shaped by confinement, moving from collapse to new sight.</span>
-        </li>
-      
-        <li>
-          <a href="/books/margins-where-god-begins/">Margins: Where God Begins</a>
-          <span class="library-excerpt">Before the first word of Scripture was written, God already knew the story. A contemplative exploration of God&#39;s presence in the spaces we often overlook—the margins where nothing seems to happen, yet everything begins.</span>
-        </li>
-      
-        <li>
-          <a href="/books/parables-and-reflections/">Parables and Reflections</a>
-          <span class="library-excerpt">Five reflections and narrative meditations that reveal God&#39;s truth in ordinary scenes, personal stories, and spiritual roadblocks.</span>
-        </li>
-      
-        <li>
-          <a href="/books/speak-up-lord-i-dont-hear-so-well/">Speak Up Lord: I Don&#39;t Hear So Well</a>
-          <span class="library-excerpt">Seven reflections for learning to hear God in quiet places through stillness, scripture, surrender, and attentive prayer.</span>
-        </li>
-      
-        <li>
-          <a href="/books/standing-in-awe/">Standing In Awe</a>
-          <span class="library-excerpt">Thirteen reflections that call the heart to wonder, trust, prayer, and vision in the presence of God.</span>
-        </li>
-      
-        <li>
-          <a href="/books/the-confinement-journals/">The Confinement Journals: Finding God in the Silence</a>
-          <span class="library-excerpt">Twenty reflections, prayers, and meditations written during a season of confinement—tracing the journey from descent to encounter.</span>
-        </li>
-      
-        <li>
-          <a href="/books/the-hidden-life-of-faith/">The Hidden Life of Faith</a>
-          <span class="library-excerpt">Fourteen reflections on the inward journey of faithâ€”stillness, surrender, holiness, prayer, and wholehearted devotion to God in the hidden places.</span>
-        </li>
-      
-        <li>
-          <a href="/books/when-life-hurts-finding-purpose-in-the-pain/">When Life Hurts: Finding Purpose in the Pain</a>
-          <span class="library-excerpt">Seven reflections for seasons of sorrow, waiting, and weakness, discovering the nearness and faithfulness of God in suffering.</span>
         </li>
       
     </ul>

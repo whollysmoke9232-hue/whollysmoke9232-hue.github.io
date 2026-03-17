@@ -3,126 +3,121 @@ title: "Books"
 layout: default.njk
 ---
 
-## [Parables and Reflections](/books/parables-and-reflections/)
+<style>
+  .books-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.9rem;
+    margin: 1rem 0 0;
+  }
 
-Five reflections and narrative meditations that reveal God's truth in ordinary scenes, personal stories, and spiritual roadblocks.
+  .book-link {
+    display: block;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.18);
+  }
 
-*Parables and Reflections* gathers concise, story-shaped devotionals that uncover grace in the everyday and call us to deeper trust, clearer vision, and faithful obedience.
+  .book-link::after {
+    content: attr(data-hover);
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0.8rem;
+    color: #fff;
+    font-size: 1rem;
+    line-height: 1.3;
+    background: rgba(35, 24, 16, 0.72);
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    pointer-events: none;
+  }
 
-<nav class="explore-bubbles" aria-label="Books">
-  <a href="/books/parables-and-reflections/">Read Parables and Reflections</a>
-</nav>
+  .book-link img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
 
----
+  .book-link:hover::after {
+    opacity: 1;
+  }
 
-## [Hold My Hand: Walking With God](/books/hold-my-hand-walking-with-god/)
+  .book-pos-1 { grid-column: 2; grid-row: 1; }
+  .book-pos-2 { grid-column: 3; grid-row: 1; }
+  .book-pos-3 { grid-column: 1; grid-row: 2; }
+  .book-pos-4 { grid-column: 2; grid-row: 2; }
+  .book-pos-5 { grid-column: 3; grid-row: 2; }
+  .book-pos-6 { grid-column: 4; grid-row: 2; }
+  .book-pos-7 { grid-column: 1; grid-row: 3; }
+  .book-pos-8 { grid-column: 2; grid-row: 3; }
+  .book-pos-9 { grid-column: 3; grid-row: 3; }
+  .book-pos-10 { grid-column: 4; grid-row: 3; }
 
-Seven reflections on trust, surrender, obedience, and steady faith for those learning to walk closely with God.
+  @media (max-width: 900px) {
+    .books-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
 
-*Hold My Hand: Walking With God* gathers meditations that help readers move from striving to companionship with Christ through daily dependence, attentive obedience, and resilient trust.
+    .book-pos-1, .book-pos-2, .book-pos-3, .book-pos-4, .book-pos-5,
+    .book-pos-6, .book-pos-7, .book-pos-8, .book-pos-9, .book-pos-10 {
+      grid-column: auto;
+      grid-row: auto;
+    }
+  }
 
-<nav class="explore-bubbles" aria-label="Books">
-  <a href="/books/hold-my-hand-walking-with-god/">Read Hold My Hand</a>
-</nav>
+  @media (max-width: 640px) {
+    .books-grid {
+      grid-template-columns: 1fr;
+      gap: 0.6rem;
+    }
+  }
+</style>
 
----
+## Book Collection
 
-## [Speak Up Lord: I Don't Hear So Well](/books/speak-up-lord-i-dont-hear-so-well/)
+<div class="books-grid">
+  <a class="book-link book-pos-1" href="/books/margins-where-god-begins/" data-hover="Finding presence in the places we overlook" aria-label="Margins: Where God Begins">
+    <img src="/images/margins-front-cover.jpg" alt="Margins: Where God Begins cover">
+  </a>
 
-Seven reflections for learning to hear God in quiet places through stillness, scripture, surrender, and attentive prayer.
+  <a class="book-link book-pos-2" href="/books/fractured-light/" data-hover="In times of brokenness and darkness, a journey of hope toward the light, discovering grace in unexpected places." aria-label="Fractured Light">
+    <img src="/images/fractured-light.png" alt="Fractured Light cover">
+  </a>
 
-*Speak Up Lord: I Don't Hear So Well* gathers meditations that retrain the heart toward attentiveness, helping readers recognize God's voice in the ordinary, the difficult, and the deeply personal moments of faith.
+  <a class="book-link book-pos-3" href="/books/letters-from-confinement/" data-hover="Powerful reflections and letters written from inside jail, grappling with faith and dispair during a time of confinement and solitude" aria-label="Letters from Confinement">
+    <img src="/images/letters-from-confinement.png" alt="Letters from Confinement cover">
+  </a>
 
-<nav class="explore-bubbles" aria-label="Books">
-  <a href="/books/speak-up-lord-i-dont-hear-so-well/">Read Speak Up Lord</a>
-</nav>
+  <a class="book-link book-pos-4" href="/books/the-confinement-journals/" data-hover="A heartfelt and intimate series of journal entries writtten from inside jail, exploring themes of faith and discovery amidst deep isolation" aria-label="The Confinement Journals: Finding God in the Silence">
+    <img src="/images/the-confinement-journals.png" alt="The Confinement Journals cover">
+  </a>
 
----
+  <a class="book-link book-pos-5" href="/books/the-hidden-life-of-faith/" data-hover="Exploring the quiet and often overlooked ways in which God works in our hearts and lives" aria-label="The Hidden Life of Faith">
+    <img src="/images/the-hidden-life-of-faith.png" alt="The Hidden Life of Faith cover">
+  </a>
 
-## [When Life Hurts: Finding Purpose in the Pain](/books/when-life-hurts-finding-purpose-in-the-pain/)
+  <a class="book-link book-pos-6" href="/books/hold-my-hand-walking-with-god/" data-hover="Encouragement and reflections for journeying through life hand in hand with God" aria-label="Hold My Hand: Walking With God">
+    <img src="/images/hold-my-hand.png" alt="Hold My Hand cover">
+  </a>
 
-Seven reflections for seasons of sorrow, waiting, and weakness, discovering the nearness and faithfulness of God in suffering.
+  <a class="book-link book-pos-7" href="/books/speak-up-lord-i-dont-hear-so-well/" data-hover="Honest reflections and devotions on listening for God's voice through the noise of life" aria-label="Speak Up Lord: I Don't Hear So Well">
+    <img src="/images/speak-up-lord.png" alt="Speak Up Lord cover">
+  </a>
 
-*When Life Hurts: Finding Purpose in the Pain* brings together meditations on grief, endurance, trust, and God's sustaining presence when the path is painful and answers are few.
+  <a class="book-link book-pos-8" href="/books/standing-in-awe/" data-hover="Reflections and devotions inspiring awe of God's majesty and presence in our everyday lives" aria-label="Standing in Awe">
+    <img src="/images/sanding-in-awe.png" alt="Standing in Awe cover">
+  </a>
 
-<nav class="explore-bubbles" aria-label="Books">
-  <a href="/books/when-life-hurts-finding-purpose-in-the-pain/">Read When Life Hurts</a>
-</nav>
+  <a class="book-link book-pos-9" href="/books/when-life-hurts-finding-purpose-in-the-pain/" data-hover="Honest reflections and encouragement for those seeking meaning and hope in seasons of suffering" aria-label="When Life Hurts: Finding Purpose in the Pain">
+    <img src="/images/when-life-hurts.png" alt="When Life Hurts cover">
+  </a>
 
----
-
-## [The Hidden Life of Faith](/books/the-hidden-life-of-faith/)
-
-Fourteen reflections on the inward journey of faith—stillness, surrender, holiness, prayer, and wholehearted devotion to God in the hidden places.
-
-*The Hidden Life of Faith* traces the quiet disciplines that shape an authentic walk with God: ceasing striving, seeking His face, renewing the mind, pressing on through failure, and living always after God's own heart.
-
-<nav class="explore-bubbles" aria-label="Books">
-  <a href="/books/the-hidden-life-of-faith/">Read The Hidden Life of Faith</a>
-</nav>
-
----
-
-## [Standing In Awe](/books/standing-in-awe/)
-
-Thirteen reflections that call the heart to wonder, trust, prayer, and vision in the presence of God.
-
-*Standing In Awe* gathers meditations on prayer, suffering, perspective, and trust—inviting readers to see God clearly in both quiet and difficult places.
-
-<nav class="explore-bubbles" aria-label="Books">
-  <a href="/books/standing-in-awe/">Read Standing In Awe</a>
-</nav>
-
----
-
-## [The Confinement Journals: Finding God in the Silence](/books/the-confinement-journals/)
-
-Twenty reflections, prayers, and meditations written during a season of confinement—tracing the journey from descent to encounter.
-
-*The Confinement Journals: Finding God in the Silence* moves from entering the silence, to learning to be still, to the hunger of seeking, through awakening, and into the unshakeable grip of trust.
-
-<nav class="explore-bubbles" aria-label="Books">
-  <a href="/books/the-confinement-journals/">Read The Confinement Journals</a>
-</nav>
-
----
-
-## [Letters From Confinement](/books/letters-from-confinement/)
-
-A book-length sequence of reflections, prayers, and meditations shaped by confinement.
-
-*Letters From Confinement* moves from collapse to solitude with God, from honest prayer to confession, awakening, and new sight. This scaffolded edition collects the book's sections into a chapter-based reading experience with a continuous manuscript view.
-
-<nav class="explore-bubbles" aria-label="Books">
-  <a href="/books/letters-from-confinement/">Read Letters From Confinement</a>
-</nav>
-
----
-
-## [Margins: Where God Begins](/books/margins-where-god-begins/)
-
-Before the first word of Scripture was written, God already knew the story.
-
-In this deeply personal and theologically rich reflection, Steve invites you into the sacred space before Genesis 1:1—the margin where God's eternal plan was already alive. Drawing from a season of intense Scripture immersion and spiritual awakening, *Margins: Where God Begins* explores the wonder of God's omnipresence, foreknowledge, and intimate involvement in every detail of our lives.
-
-This book is not just a study. It's an invitation to slow down, to look again, and to live in the margin—where God begins.
-
-<nav class="explore-bubbles" aria-label="Books">
-  <a href="/books/margins-where-god-begins/">Read Margins: Where God Begins</a>
-</nav>
-
----
-
-## [Fractured Light](/books/fractured-light/)
-
-A testimony of brokenness, mercy, and the quiet work of God in the darkest places—where grace refracts through what has been shattered.
-
-*Fractured Light* is a personal testimony—written from seasons of failure, loss, incarceration, homelessness, and deep spiritual reckoning. It is not a story of arriving, but of being met. Not a record of triumph, but of grace breaking through places where light seemed least likely to reach.
-
-The light that remains is not our own. It is His.
-
-<nav class="explore-bubbles" aria-label="Books">
-  <a href="/books/fractured-light/">Read Fractured Light</a>
-</nav>
-
----
+  <a class="book-link book-pos-10" href="/books/parables-and-reflections/" data-hover="Exploring timeless lessons and spiritual truths through stories that illuminate faith and life" aria-label="Parables and Reflections">
+    <img src="/images/parables-and-reflections.png" alt="Parables and Reflections cover">
+  </a>
+</div>

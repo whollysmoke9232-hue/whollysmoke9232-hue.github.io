@@ -11,11 +11,11 @@
 <style>
 .library-grid {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
-  gap: 2rem 1.5rem;
-  max-width: 1400px;
+  grid-template-columns: repeat(8, minmax(200px, 1fr));
+  gap: 2rem 2rem;
+  width: min(99vw, 3200px);
   margin: 2.5rem auto 2rem auto;
-  padding: 0 1.5rem;
+  padding: 0 0.5rem;
   box-sizing: border-box;
 }
 .library-group {
@@ -57,14 +57,7 @@
   transform: none;
   text-align: left;
 }
-.library-group--books .category-hover-note {
-  left: auto;
-  right: 0;
-  transform: none;
-  text-align: left;
-}
-.library-group--testimonies .library-excerpt,
-.library-group--books .library-excerpt {
+.library-group--testimonies .library-excerpt {
   left: auto;
   right: 105%;
   text-align: left;
@@ -105,10 +98,32 @@
 </style>
 
 <div class="library-grid">
+  <div class="library-group library-group--books">
+    <h2>Books<span class="category-hover-note">Longer works and serialized writings exploring faith, suffering, redemption, and spiritual growth.</span></h2>
+    <ul class="library-list">
+      {% for item in collections.books | sort(attribute='data.title') %}
+        <li>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+          {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
   <div class="library-group library-group--devotionals">
     <h2>Devotionals<span class="category-hover-note">Short reflections on Scripture meant to encourage faith and obedience in everyday life.</span></h2>
     <ul class="library-list">
       {% for item in collections.devotionals | sort(attribute='data.title') %}
+        <li>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+          {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Excerpts<span class="category-hover-note">Selected passages and shorter sections drawn from longer book projects.</span></h2>
+    <ul class="library-list">
+      {% for item in collections.excerpts | sort(attribute='data.title') %}
         <li>
           <a href="{{ item.url }}">{{ item.data.title }}</a>
           {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
@@ -164,17 +179,6 @@
     <h2>Testimonies<span class="category-hover-note">Personal accounts of God's mercy, guidance, and transforming work in a life.</span></h2>
     <ul class="library-list">
       {% for item in collections.testimonies | sort(attribute='data.title') %}
-        <li>
-          <a href="{{ item.url }}">{{ item.data.title }}</a>
-          {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-  <div class="library-group library-group--books">
-    <h2>Books<span class="category-hover-note">Longer works and serialized writings exploring faith, suffering, redemption, and spiritual growth.</span></h2>
-    <ul class="library-list">
-      {% for item in collections.books | sort(attribute='data.title') %}
         <li>
           <a href="{{ item.url }}">{{ item.data.title }}</a>
           {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
