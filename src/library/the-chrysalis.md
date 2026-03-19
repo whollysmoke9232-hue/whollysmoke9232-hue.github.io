@@ -1,11 +1,17 @@
 ---
 title: The Chrysalis
+author: Steve Wilkins
 date: 2026-03-18
+layout: article.njk
+category: poems
+excerpt: In the stillness of confinement, transformation begins—where surrender gives way to renewal and a new man emerges in Christ.
 tags:
   - transformation
   - identity
   - repentance
   - renewal
+  - surrender
+  - confinement
 scripture:
   - 2 Corinthians 5:17
 ---
@@ -25,7 +31,7 @@ Not because of the price I was paying,
 &nbsp;&nbsp;&nbsp;&nbsp;but because of the amazing gifts that God had already given me  
 &nbsp;&nbsp;&nbsp;&nbsp;and the overwhelming magnitude of the gifts that He promised.  
 
-I was reminded daily of the man who I had been created and called to be.  
+I was reminded daily of the man God had created and called me to be.  
 
 But that was not the man I saw in the mirror.  
 
