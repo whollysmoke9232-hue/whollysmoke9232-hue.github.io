@@ -67,15 +67,15 @@ And I am still held.
 
 Jesus rarely did His deepest work in the center.
 
-He touched lepers.
+He touched lepers. (Mark 1:40-43)
 
-He ate with sinners.
+He ate with sinners. (Matthew 9:10-13)
 
-He spoke with Samaritans.
+He spoke with Samaritans. (John 4:1-42)
 
-He noticed the bleeding woman.
+He noticed the bleeding woman. (Luke 8:43-48)
 
-He defended the adulteress.
+He defended the adulteress. (John 8:1-11)
 
 He did not wait for people to move toward holiness.
 

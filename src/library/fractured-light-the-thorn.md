@@ -17,8 +17,6 @@ scripture:
 excludeFromLibrary: true
 ---
 
-The Thorn
-
 After fourteen years in Youth Ministry, I stepped into a new role as Worship Leader. It was another season of stretching and growth. I was now helping lead the entire church. Nearly every church I served was transitioning from traditional to contemporary worship—a rocky, tumultuous process. But it proved to be a role I was suited for. And God walked me through every bump and bruise.
 
 During that time, I joined several international mission trips. I saw poverty I'd never imagined—rampant hunger and homelessness, overwhelming desperation, churches with only one Bible passed from family to family. And yet, the people were joyous. Content. Their worship was more intense than anything I had witnessed before.
@@ -41,7 +39,7 @@ Looking back, I ask: Who can take a life so fractured and use it to bring healin
 
 God can.
 
-## Biblical Parallel: Paul's Thorn and God's Power in Weakness
+## Biblical Parallel: Paul's Thorn and God's Power in Weakness (2 Corinthians 12:7-10)
 
 Paul explains that to keep him from becoming proud because of the surpassing greatness of the revelations he received, he was given a thorn in the flesh—a persistent affliction that tormented him. He pleaded with the Lord three times to remove it.
 
@@ -49,7 +47,7 @@ God's answer was not deliverance.
 
 It was grace.
 
-"My grace is sufficient for you," the Lord told him, "for my power is made perfect in weakness."
+> *But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.* **—2 Corinthians 12:9**
 
 Paul came to understand that the thorn was not a liability, but a platform. Instead of hiding it, he began to boast in it—not because suffering is good, but because weakness became the place where Christ's power rested most fully.
 

@@ -89,7 +89,7 @@ Until truth pierced the spiral.
 
 Until David broke.
 
-"Against You, and You only, have I sinned," he cried in Psalm 51.
+"Against You, and You only, have I sinned," he cried in **Psalm 51:4**.
 
 He didn't blame Bathsheba.
 

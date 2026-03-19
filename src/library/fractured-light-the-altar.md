@@ -87,7 +87,9 @@ How dopamine depletion drives darker desires.
 
 How spiritual slavery isn't just metaphor—it's reality.
 
-Jesus said, "Everyone who practices sin is a slave to sin." (John 8:34)
+Jesus said,  
+
+> *"Everyone who practices sin is a slave to sin." (John 8:34)*
 
 That was me.
 
@@ -117,7 +119,7 @@ And Isaiah didn't celebrate.
 
 He collapsed.
 
-"Woe to me!" he cried. "I am ruined! For I am a man of unclean lips…"
+> *“Woe to me!” I cried. “I am ruined! For I am a man of unclean lips..."* **Isaiah 6:5**
 
 Conviction.
 

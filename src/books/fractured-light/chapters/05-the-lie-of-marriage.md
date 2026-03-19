@@ -121,9 +121,9 @@ Hosea's love wasn't blind.
 
 It was relentless.
 
-And God said, "This is how I love Israel."
-
-This is how I love you.
+And God said,  
+> *"This is how I love Israel.
+This is how I love you."*
 
 ## Reflection: Love Isn't the Cure—Grace Is
 

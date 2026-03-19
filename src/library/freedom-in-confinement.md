@@ -40,7 +40,11 @@ Free!
 
 He has shown me the path that I must follow, and I will follow it. Stay active in twelve-step groups, get involved in a local church, serve, serve, serve, be diligent in seeking Him through his Word, prayer, and meditation, and to live simply and honor the vows I made in my youth.  
 
-I know that I will be divorced - in the eyes of the law and man - and this is the good and right thing to do. While I know that I have forsaken my marriage vow, I also know that God restores what is broken. I don't think Jesus was giving a command, I think he was stating a fact; “What God has joined together, man cannot separate.” So even though our marriage will be legally annulled, in God's eyes I will always be a married man. I realize that I might be wrong about this, and being wrong would certainly make my life easier, but until God shows me otherwise this is how I choose to live my life.  
+I know that I will be divorced - in the eyes of the law and man - and this is the good and right thing to do. While I know that I have forsaken my marriage vow, I also know that God restores what is broken. I don't think Jesus was giving a command, I think he was stating a fact;  
+
+> *"What therefore God has joined together, let no man separate.* **—Matthew 19:6**  
+
+So even though our marriage will be legally annulled, in God's eyes I will always be a married man. I realize that I might be wrong about this, and being wrong would certainly make my life easier, but until God shows me otherwise this is how I choose to live my life.  
 
 I will certainly strive to make friends in my new city, but I will strive like a married man. This will all be new to me. And I can only pray that God grant me the grace and strength to live it out. But this is my conviction. I am a married man, and I will conduct my affairs as a married man.  
 

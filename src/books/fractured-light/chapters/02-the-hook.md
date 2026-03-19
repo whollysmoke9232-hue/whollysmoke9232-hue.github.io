@@ -37,7 +37,7 @@ Then came the whisper: "Did God really say…?"
 
 Then came the bite.
 
-Then came the shame.
+Followed by the shame.
 
 Adam and Eve didn't know what sin was. They just knew they weren't supposed to eat. But the fruit looked good. Pleasing. Desirable. So they reached. They tasted. And everything changed.
 

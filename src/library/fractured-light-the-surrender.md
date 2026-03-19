@@ -16,13 +16,11 @@ scripture:
 excludeFromLibrary: true
 ---
 
-The Surrender
-
 Elijah had just called down fire from heaven. He had just defeated the prophets of Baal. He had just watched God move in undeniable power. And then he collapsed.
 
 When Jezebel threatened him, fear overtook reason and Elijah ran. He fled into the wilderness, found a broom tree, sat down beneath it, and prayed to die.
 
-"I've had enough, Lord," he said. "Take my life."
+> *“I have had enough, LORD,” he said. “Take my life...* **—1 Kings 19:4**
 
 He wasn't weak. He was exhausted.
 

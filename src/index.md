@@ -123,6 +123,8 @@ layout: layout.njk
   <div style="text-align: center; margin: 0.8rem 0 0 0; font-size: 1.02rem; line-height: 1.8;">
     <div><a href="{{ '/library/introduction/' | url }}" style="text-decoration: none; color: #8b7355;">Introduction</a></div>
     <div><a href="{{ '/recent-additions/' | url }}" style="text-decoration: none; color: #8b7355;">Most Recent Additions</a></div>
+    <div><a href="{{ '/scripture/' | url }}" style="text-decoration: none; color: #8b7355;">Scripture Index</a></div>
+    <div><a href="{{ '/tags/' | url }}" style="text-decoration: none; color: #8b7355;">Tag Index</a></div>
     <div><a href="{{ '/about/' | url }}" style="text-decoration: none; color: #8b7355;">Why This Place Exists</a></div>
     <div><a href="{{ '/books/my-story-from-brokenness-to-grace/' | url }}" style="text-decoration: none; color: #8b7355;">My Story</a></div>
     <div><a href="{{ '/begin/' | url }}" style="text-decoration: none; color: #8b7355;">Begin Here</a></div>

@@ -31,7 +31,7 @@ Looking back, I ask: Who can take a life so fractured and use it to bring healin
 
 God can.
 
-## Biblical Parallel: Paul's Thorn and God's Power in Weakness
+## Biblical Parallel: Paul's Thorn and God's Power in Weakness (2 Corinthians 12:7-10)
 
 Paul explains that to keep him from becoming proud because of the surpassing greatness of the revelations he received, he was given a thorn in the flesh—a persistent affliction that tormented him. He pleaded with the Lord three times to remove it.
 
