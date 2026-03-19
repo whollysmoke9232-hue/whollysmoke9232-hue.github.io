@@ -9,122 +9,180 @@ author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-9/"
 ---
 
-I never set out to write this story.
+One afternoon, during a layover with sleeping students on board, I thought I was safe.  
 
-I lived it.
+No one could see what I was doing.  
 
-For most of my life, I survived in the margins—of certainty, of belonging, of myself. I learned early how to live inward, how to endure loneliness, how to escape into imagination when reality felt unbearable. That way of surviving carried me farther than it should have. It also carried a cost I didn't understand until much later.
+So I dove into the spiral.  
 
-Addiction deepened the margins.
+A parent approached my bus.  
 
-Shame fortified them.
+I scrambled.  
 
-Silence made them feel permanent.
+Hid my tablet screen.  
 
-And somewhere along the way, I became convinced that God belonged to the center—while I belonged somewhere outside of it.
+Covered myself.  
 
-I was wrong.
+But I knew—I had been discovered.  
 
-I didn't meet God when everything came together.
+My panic didn’t stop me.  
 
-I met Him when it fell apart.
+I finished the routine minutes later.  
 
-I met Him in jail cells and hospital rooms.
+The next day, I was terminated.  
 
-In silence.
+The day after, I confided in a trusted friend.  
 
-In Scripture.
+For the first time, I admitted the full scope of my addiction.  
 
-In the long work of becoming honest.
+He recommended internet monitoring software.  
 
-The margins weren't where my story ended.
+I installed it that same day: February 23, 2023.  
 
-They were where God finally met me without pretense.
+That marked the beginning of my current sobriety.  
 
-This book isn't a testimony of victory tied in a bow.
+Four days later, I was arrested.  
 
-It's a record of survival reshaped by grace.
+Charged with four counts of Indecent Exposure and Child Molestation.  
 
-A slow emergence from secrecy into light.
+I knew I hadn’t exposed myself.  
 
-Not dramatic.
+I hadn’t touched or injured a child.  
 
-Not complete.
+But the charges stuck.  
 
-But real.
+I spent twenty-two months in jail.  
 
-I am not whole.
+Afraid.  
 
-But I am present.
+Waiting.  
 
-I am honest.
+Wondering.  
 
-And I am still held.
+Wrestling.  
 
-## Biblical Parallel: Jesus in the Margins
+In May, my wife asked for a divorce.  
 
-Jesus rarely did His deepest work in the center.
+I didn’t want it. But I didn’t want to hurt her any more.  
 
-He touched lepers.
+It was finalized in September.  
 
-He ate with sinners.
+I was released on bond in December 2024.  
 
-He spoke with Samaritans.
+I’m still awaiting trial.  
 
-He noticed the bleeding woman.
+While inside, I turned to words—and the Word.  
 
-He defended the adulteress.
+Twelve to fourteen hours a day, I read.  
 
-He did not wait for people to move toward holiness.
+Fourteen times through the Bible.  
 
-He stepped into their exile.
+Front to back.  
 
-The margins were not a detour for Him.
+Absorbing each word.  
 
-They were the mission.
+My daily prayer:  
+> *“God, make me a different man than the one who entered this jail in 2023.”*  
 
-And they still are.
+I believe He did.  
 
-## Reflection: The Margins Are Holy Ground
+## Biblical Parallel: Joseph in Prison
 
-We often think holiness lives in sanctuaries and certainty.
+*Genesis 39–41: When Innocence Is Accused*  
+Joseph was faithful.  
 
-But more often, it takes shape in silence.
+He resisted temptation.  
 
-In waiting.
+He honored God.  
 
-In places we didn't choose.
+And he was falsely accused.  
 
-God builds altars where we learn to stop pretending.
+Potiphar’s wife claimed he tried to assault her.  
 
-Where survival gives way to truth.
+Joseph was thrown into prison.  
 
-Where imagination no longer has to carry the weight of reality alone.
+No trial.  
 
-If you are in the margins—
+No defense.  
 
-if you feel unseen, unfinished, or disqualified—
+Just silence.  
 
-you are not beyond grace.
+He waited.  
 
-You may be closer to it than you realize.
+Years passed.  
 
-## Invitation: Stay
+Dreams were forgotten.  
 
-Where are your margins?
+Hope was tested.  
 
-Where have you learned to survive instead of belong?
+But God was with him.  
 
-You don't need to leave them yet.
+In the prison.  
 
-You don't need to fix them.
+In the silence.  
 
-You don't need to explain them.
+In the injustice.  
 
-Just stay.
+And when the time came, God raised him up.  
 
-Because grace does not rush us out of the margins.
+Not because Joseph fought his way out.  
 
-It meets us there.
+Because God never left.  
 
-And it stays.
+Reflection: Grace in the Cell  
+
+Sometimes the cell is where God speaks loudest.  
+
+Not through thunder.  
+
+Through scripture.  
+
+Through silence.  
+
+Through surrender.  
+
+I didn’t find freedom in court.  
+
+I found it in the Word.  
+
+Joseph didn’t escape.  
+
+He endured.  
+
+And God was with him.  
+
+I didn’t deserve mercy.  
+
+But I received it.  
+
+Not because I was innocent.  
+
+But because God is good.  
+
+## Invitation: Meet God in the Cell
+
+Are you facing accusation?  
+
+Are you buried in shame?  
+
+Are you waiting for justice?  
+
+You’re not alone.  
+
+Write down what feels unfair.  
+
+What feels unbearable.  
+
+What feels unredeemable.  
+
+Then ask God to meet you there.  
+
+Not to erase the consequences.  
+
+But to enter the cell.  
+
+Because grace doesn’t wait for acquittal.  
+
+It walks into the prison.  
+
+And it stays.  
