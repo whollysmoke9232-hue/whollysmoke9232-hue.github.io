@@ -43,7 +43,7 @@ module.exports = {
 { url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation In Suffering' },
 { url: '/devotionals/mustard-seed-faith/', title: 'Mustard Seed Faith' },
 { url: '/devotionals/seek-his-face/', title: 'Seek His Face' },
-{ url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+{ url: '/library/what-are-you-feeding/', title: 'What Are You Feeding?' },
 { url: '/meditations/a-psalm-from-confinement/', title: 'A Psalm From Confinement' },
 { url: '/meditations/a-holy-moment/', title: 'A Holy Moment' },
 { url: '/meditations/not-so-small-after-all/', title: 'Not So Small After All' },
@@ -82,7 +82,7 @@ module.exports = {
 ],
 
 'start-here-numb-dry-disconnected': [
-{ url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+{ url: '/library/what-are-you-feeding/', title: 'What Are You Feeding?' },
 { url: '/devotionals/seek-his-face/', title: 'Seek His Face, Not Just His Hand' },
 { url: '/devotionals/mustard-seed-faith/', title: 'Mustard Seed Faith' },
 { url: '/devotionals/look-and-live/', title: 'Look and Live' },
@@ -122,7 +122,7 @@ module.exports = {
 'start-here-seeking-wisdom': [
 { url: '/stories/the-counterfeit-feast/', title: 'The Counterfeit Feast' },
 { url: '/reflections/roadblocks/', title: 'Roadblocks' },
-{ url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+{ url: '/library/what-are-you-feeding/', title: 'What Are You Feeding?' },
 { url: '/reflections/psalm-119/', title: 'Psalm 119' }
 ],
 
@@ -135,7 +135,7 @@ module.exports = {
 
 'hearing-god-removing-noise': [
 { url: '/devotionals/seek-his-face/', title: 'Seek His Face' },
-{ url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+{ url: '/library/what-are-you-feeding/', title: 'What Are You Feeding?' },
 { url: '/testimonies/in-the-margins/', title: 'In the Margins' }
 ],
 
@@ -161,7 +161,7 @@ module.exports = {
 'youre-not-alone-understand': [
 { url: '/reflections/not-even-one/', title: 'Not Even One' },
 { url: '/reflections/a-theology-of-weakness/', title: 'A Theology of Weakness' },
-{ url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+{ url: '/library/what-are-you-feeding/', title: 'What Are You Feeding?' },
 { url: '/reflections/all-things/', title: 'All Things' },
 { url: '/reflections/the-big-picture/', title: 'The Big Picture' }
 ],
