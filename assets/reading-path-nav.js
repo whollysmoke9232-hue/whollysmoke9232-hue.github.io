@@ -53,7 +53,7 @@
     "you-are-not-alone-understand": [
       "/reflections/not-even-one/",
       "/reflections/a-theology-of-weakness/",
-      "/reflections/what-are-you-feeding/",
+      "/library/what-are-you-feeding/",
       "/reflections/all-things/",
       "/reflections/the-big-picture/"
     ]

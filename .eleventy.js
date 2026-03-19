@@ -33,6 +33,60 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => a.data.order - b.data.order);
   });
 
+  eleventyConfig.addCollection("lettersFromConfinement", function (collectionApi) {
+    return collectionApi
+      .getFilteredByTag("letters-from-confinement")
+      .sort((a, b) => a.data.order - b.data.order);
+  });
+
+  eleventyConfig.addCollection("theConfinementJournals", function (collectionApi) {
+    return collectionApi
+      .getFilteredByTag("the-confinement-journals")
+      .sort((a, b) => a.data.order - b.data.order);
+  });
+
+  eleventyConfig.addCollection("standingInAwe", function (collectionApi) {
+    return collectionApi
+      .getFilteredByTag("standing-in-awe")
+      .sort((a, b) => a.data.order - b.data.order);
+  });
+
+  eleventyConfig.addCollection("theHiddenLifeOfFaith", function (collectionApi) {
+    return collectionApi
+      .getFilteredByTag("the-hidden-life-of-faith")
+      .sort((a, b) => a.data.order - b.data.order);
+  });
+
+  eleventyConfig.addCollection("whenLifeHurtsFindingPurposeInThePain", function (collectionApi) {
+    return collectionApi
+      .getFilteredByTag("when-life-hurts-finding-purpose-in-the-pain")
+      .sort((a, b) => a.data.order - b.data.order);
+  });
+
+  eleventyConfig.addCollection("speakUpLordIDontHearSoWell", function (collectionApi) {
+    return collectionApi
+      .getFilteredByTag("speak-up-lord-i-dont-hear-so-well")
+      .sort((a, b) => a.data.order - b.data.order);
+  });
+
+  eleventyConfig.addCollection("holdMyHandWalkingWithGod", function (collectionApi) {
+    return collectionApi
+      .getFilteredByTag("hold-my-hand-walking-with-god")
+      .sort((a, b) => a.data.order - b.data.order);
+  });
+
+  eleventyConfig.addCollection("parablesAndReflections", function (collectionApi) {
+    return collectionApi
+      .getFilteredByTag("parables-and-reflections")
+      .sort((a, b) => a.data.order - b.data.order);
+  });
+
+  eleventyConfig.addCollection("myStoryFromBrokennessToGrace", function (collectionApi) {
+    return collectionApi
+      .getFilteredByTag("my-story-from-brokenness-to-grace")
+      .sort((a, b) => a.data.order - b.data.order);
+  });
+
   // 🔄 Collection navigation filters
   eleventyConfig.addFilter("getPreviousCollectionItem", function (collection, page) {
     const index = collection.findIndex(item => item.url === page.url);
@@ -104,6 +158,10 @@ module.exports = function (eleventyConfig) {
     byCategory(api, "devotionals")
   );
 
+  eleventyConfig.addCollection("excerpts", (api) =>
+    byCategory(api, "excerpts")
+  );
+
   eleventyConfig.addCollection("reflections", (api) =>
     byCategory(api, "reflections")
   );
@@ -114,6 +172,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("stories", (api) =>
     byCategory(api, "stories")
+  );
+
+  eleventyConfig.addCollection("poems", (api) =>
+    byCategory(api, "poems")
   );
 
   eleventyConfig.addCollection("testimonies", (api) =>
@@ -141,6 +203,10 @@ module.exports = function (eleventyConfig) {
         if (item.url === "/") return false;
         if (item.data?.eleventyExcludeFromCollections) return false;
         if (!(item.date instanceof Date)) return false;
+        const isLibraryEntry = item.url.startsWith("/library/");
+        const isPoemsHub = item.url === "/poems/";
+        if (!isLibraryEntry && !isPoemsHub) return false;
+        if (isLibraryEntry && !includeInLibrary(item)) return false;
         return item.date >= cutoff && item.date <= now;
       })
       .sort((a, b) => b.date - a.date);
