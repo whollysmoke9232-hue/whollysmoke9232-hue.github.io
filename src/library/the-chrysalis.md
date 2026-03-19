@@ -1,4 +1,14 @@
-# The Chrysalis
+---
+title: The Chrysalis
+date: 2026-03-18
+tags:
+  - transformation
+  - identity
+  - repentance
+  - renewal
+scripture:
+  - 2 Corinthians 5:17
+---
 
 Immersed in His Word.  
 
