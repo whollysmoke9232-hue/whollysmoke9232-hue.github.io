@@ -15,7 +15,7 @@ Hearing God is not primarily about technique, but attention. These readings expl
 
 These readings invite you into quiet attention—where stillness becomes not absence, but awareness.
 
-{% set entries = readingPaths['hearing-god'] %}
+{% set entries = readingPaths['hearing-god-be-still'] %}
 <ul>
 {% for entry in entries %}
   <li>
@@ -81,11 +81,11 @@ There are seasons when suffering becomes the loudest voice in the room. These re
 
 Responding to what has been heard
 
-{% set entries = readingPaths['discernment-and-obedience'] %}
+{% set entries = readingPaths['hearing-god-discernment-and-obedience'] %}
 <ul>
 {% for entry in entries %}
   <li>
-    <a href="{{ entry.url }}?path=discernment-and-obedience">
+    <a href="{{ entry.url }}?path=hearing-god-discernment-and-obedience">
       {{ entry.title }}
     </a>
   </li>
