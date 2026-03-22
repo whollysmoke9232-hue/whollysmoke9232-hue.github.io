@@ -1,6 +1,13 @@
 # Deploy script for Grace in the Margins
 # This script handles everything: check for changes, build, commit, and push
 
+# Always run from this script's directory so build output paths are consistent.
+$scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
+Set-Location $scriptDir
+
+$currentBranch = (git rev-parse --abbrev-ref HEAD).Trim()
+$upstreamRef = "origin/$currentBranch"
+
 Write-Host "`n=== Checking for changes ===" -ForegroundColor Cyan
 
 # Check if there are any uncommitted changes
@@ -9,8 +16,8 @@ if (-not $status) {
     Write-Host "No uncommitted changes found." -ForegroundColor Yellow
     
     # Check if local is ahead of remote
-    git fetch origin main 2>&1 | Out-Null
-    $ahead = git rev-list --count origin/main..HEAD
+    git fetch origin $currentBranch 2>&1 | Out-Null
+    $ahead = git rev-list --count "$upstreamRef..HEAD"
     
     if ($ahead -eq 0) {
         Write-Host "Everything is up to date. Nothing to push." -ForegroundColor Green
