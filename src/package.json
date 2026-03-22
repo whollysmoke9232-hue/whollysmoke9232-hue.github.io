@@ -8,7 +8,7 @@
     "build:prod": "npx @11ty/eleventy",
     "start": "eleventy --serve",
     "build": "npx @11ty/eleventy",
-    "push": "npm run build:prod && git add -A && (git diff --cached --quiet || git commit -m \"Auto-build: Update src and docs\") && git push"
+    "push": "powershell -ExecutionPolicy Bypass -File ..\\deploy.ps1"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
