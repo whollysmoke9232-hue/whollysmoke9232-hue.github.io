@@ -6,8 +6,7 @@ layout: article.njk
 order: 4
 author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-4/"
-category: stories
-excludeFromLibrary: true
+category: excerpts
 bookParent: "/books/fractured/light/"
 ---
 

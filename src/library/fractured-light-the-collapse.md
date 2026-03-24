@@ -6,8 +6,7 @@ date: 2026-01-08
 order: 7
 author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-7/"
-category: stories
-excludeFromLibrary: true
+category: excerpts
 bookParent: "/books/fractured/light/"
 ---
 
