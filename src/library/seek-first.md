@@ -3,7 +3,7 @@ title: "Seek First"
 author: "Steve Wilkins"
 date: 2026-02-14
 layout: article.njk
-category: meditations
+category: devotionals
 excerpt: "What does it really mean to seek first the Kingdom of God? A reflection on priority, focus, righteousness by faith, and the quiet promise that the Father will provide what we truly need."
 tags:
   - obedience

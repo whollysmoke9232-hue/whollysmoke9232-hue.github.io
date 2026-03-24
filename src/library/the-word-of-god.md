@@ -13,6 +13,7 @@ tags:
   - faith
 scripture:
   - Psalm 119:9-16
+excludeFromLibrary: true
 ---
 
 People often ask, “What is God’s will for my life?”

@@ -14,6 +14,7 @@ tags:
 scripture:
   - Revelation 22:20-21
   - Hebrews 6:19
+excludeFromLibrary: true
 ---
 
 The Final Margin

@@ -15,6 +15,7 @@ scripture:
   - Luke 5:27-28
   - Luke 19:4
   - Romans 8:28
+excludeFromLibrary: true
 ---
 
 The Tapestry of Time

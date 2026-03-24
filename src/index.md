@@ -107,8 +107,6 @@ layout: layout.njk
     &nbsp;•&nbsp;
     <a href="{{ '/devotionals/' | url }}" style="color: #5a3e2b; text-decoration: none;">Devotionals</a>
     &nbsp;•&nbsp;
-    <a href="{{ '/excerpts/' | url }}" style="color: #5a3e2b; text-decoration: none;">Excerpts</a>
-    &nbsp;•&nbsp;
     <a href="{{ '/meditations/' | url }}" style="color: #5a3e2b; text-decoration: none;">Meditations</a>
     &nbsp;•&nbsp;
     <a href="{{ '/poems/' | url }}" style="color: #5a3e2b; text-decoration: none;">Poems & Prayers</a>

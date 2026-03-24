@@ -14,6 +14,7 @@ tags:
 scripture:
   - Psalm 46:10
   - Ecclesiastes 3:1
+excludeFromLibrary: true
 ---
 
 The Power of the Pause

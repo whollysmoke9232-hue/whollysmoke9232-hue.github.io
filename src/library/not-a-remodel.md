@@ -13,6 +13,7 @@ tags:
   - faith
 scripture:
   - 1 Corinthians 6:19
+excludeFromLibrary: true
 ---
 
 <div style="text-align: center; font-style: italic;">

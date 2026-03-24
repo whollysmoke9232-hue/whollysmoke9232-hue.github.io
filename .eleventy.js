@@ -270,6 +270,7 @@ module.exports = function (eleventyConfig) {
 
   // 📁 Directory structure
   return {
+    cleanOutputDir: true,
     dir: {
       input: "src",
       includes: "_includes",

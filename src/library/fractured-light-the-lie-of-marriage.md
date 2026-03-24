@@ -14,6 +14,7 @@ tags:
 scripture:
   - Hosea 1-3
   - John 8:34
+excludeFromLibrary: true
 ---
 
 She was the answer to my prayer.

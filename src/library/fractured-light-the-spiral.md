@@ -8,6 +8,7 @@ author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-3/"
 category: excerpts
 bookParent: "/books/fractured/light/"
+excludeFromLibrary: true
 ---
 
 Adolescence didn't slow the spiral—it accelerated it.

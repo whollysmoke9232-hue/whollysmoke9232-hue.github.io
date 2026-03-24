@@ -3,7 +3,7 @@ title: "Stand Where Jesus Stood"
 author: Steve Wilkins
 date: 2013-03-07
 layout: article.njk
-category: meditations
+category: devotionals
 excerpt: "Before the miracles, before the crowds, Jesus entered the wilderness and learned dependence."
 tags:
   - obedience

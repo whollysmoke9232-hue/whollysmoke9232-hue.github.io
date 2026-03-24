@@ -13,6 +13,7 @@ tags:
 scripture:
   - Genesis 1:1
   - John 3:16
+excludeFromLibrary: true
 ---
 
 What’s your favorite place in the Bible?

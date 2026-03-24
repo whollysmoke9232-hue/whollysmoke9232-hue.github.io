@@ -13,6 +13,7 @@ tags:
   - restoration
 scripture:
   - Genesis 3:1-13
+excludeFromLibrary: true
 ---
 
 I was nine years old when the hook was set.

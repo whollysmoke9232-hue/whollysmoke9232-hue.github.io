@@ -15,6 +15,7 @@ scripture:
   - Genesis 28:16
   - Ephesians 2:10
   - II Corinthians 5:21
+excludeFromLibrary: true
 ---
 
 Living in the Margin

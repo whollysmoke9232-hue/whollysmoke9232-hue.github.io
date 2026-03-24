@@ -13,6 +13,7 @@ tags:
   - faith
 scripture:
   - 1 Kings 19:1-13
+excludeFromLibrary: true
 ---
 
 Elijah had just called down fire from heaven. He had just defeated the prophets of Baal. He had just watched God move in undeniable power. And then he collapsed.

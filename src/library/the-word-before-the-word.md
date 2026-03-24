@@ -15,6 +15,7 @@ scripture:
   - John 1:1-3
   - John 1:14
   - Hebrews 4:12
+excludeFromLibrary: true
 ---
 
 Before there was light, there was the Word.  

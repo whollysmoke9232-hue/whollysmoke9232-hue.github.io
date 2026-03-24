@@ -8,6 +8,7 @@ author: "Steve Wilkins"
 permalink: "/excerpts/fractured-light/chapter-9/"
 category: excerpts
 bookParent: "/books/fractured/light/"
+excludeFromLibrary: true
 ---
 
 One afternoon, during a layover with sleeping students on board, I thought I was safe.  

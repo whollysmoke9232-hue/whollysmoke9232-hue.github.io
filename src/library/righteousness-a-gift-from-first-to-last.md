@@ -14,6 +14,7 @@ tags:
 scripture:
   - Romans 1:17
   - Genesis 15:6
+excludeFromLibrary: true
 ---
 
 > *“For in the gospel the righteousness of God is revealed —a righteousness that is by faith from first to last, just as it is written: ‘The righteous will live by faith.’”* **—Romans 1:17**

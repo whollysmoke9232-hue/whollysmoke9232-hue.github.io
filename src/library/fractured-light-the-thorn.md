@@ -14,6 +14,7 @@ tags:
 scripture:
   - Psalm 73:25
   - II Corinthians 12:7-9
+excludeFromLibrary: true
 ---
 
 After fourteen years in Youth Ministry, I stepped into a new role as Worship Leader. It was another season of stretching and growth. I was now helping lead the entire church. Nearly every church I served was transitioning from traditional to contemporary worship—a rocky, tumultuous process. But it proved to be a role I was suited for. And God walked me through every bump and bruise.
