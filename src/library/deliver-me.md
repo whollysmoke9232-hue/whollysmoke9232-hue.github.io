@@ -3,7 +3,7 @@ title: "Deliver Me"
 author: Steve Wilkins
 date: 2026-01-26
 layout: article.njk
-category: reflections
+category: poems
 excerpt: "A prayer of mercy, refuge, and trust when deliverance does not guarantee escape."
 tags:
   - refuge

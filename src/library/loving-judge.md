@@ -3,7 +3,7 @@ title: "Loving Judge"
 author: "Steve Wilkins"
 date: 2026-01-17
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "David’s prayer for judgment is not reckless bravado, but quiet trust in a God whose justice is shaped by grace and whose scrutiny is meant to heal."
 tags:
   - holiness

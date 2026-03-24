@@ -3,7 +3,7 @@ title: A Prayer From the Wilderness
 author: Steve Wilkins
 date: 2026-03-03
 layout: article.njk
-category: reflections
+category: poems
 excerpt: In a season of uncertainty, I tried to obey Philippians 4 by bringing everything to God. This is a prayer that came out of the wilderness.
 tags:
   - prayer

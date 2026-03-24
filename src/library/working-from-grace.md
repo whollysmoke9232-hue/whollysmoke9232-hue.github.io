@@ -3,7 +3,7 @@ title: "Working From Grace"
 author: "Steve Wilkins"
 date: 2026-01-03
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "Sanctification is not passive drifting or self-reliance, but faithful obedience empowered by God’s grace at work within us."
 tags:
   - grace

@@ -3,7 +3,7 @@ title: "Worship the LORD"
 author: Steve Wilkins
 date: 2026-02-13
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "Worship begins not with music, but with surrender—bowing low and entrusting what we love most into God’s hands."
 tags:
    - surrender

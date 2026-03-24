@@ -3,7 +3,7 @@ title: "Coming Into a Place of Prayer"
 author: Steve Wilkins
 date: 2026-01-26
 layout: article.njk
-category: reflections
+category: poems
 excerpt: "Prayer is not about proving devotion or logging hours. It is about coming—boldly, simply, as children—to a Father who is already willing to give what we need."
 tags:
 - prayer

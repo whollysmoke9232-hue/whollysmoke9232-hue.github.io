@@ -3,7 +3,7 @@ title: "Waves"
 author: Steve Wilkins
 date: 2026-02-13
 layout: article.njk
-category: reflections
+category: meditations
 excerpt: "A meditation on Exodus 20 and the unseen waves our choices send forward—into our families, our futures, and generations we will never know."
 tags:
   - waiting

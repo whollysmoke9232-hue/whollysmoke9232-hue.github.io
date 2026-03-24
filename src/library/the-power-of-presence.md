@@ -3,7 +3,7 @@ title: "The Power of Presence"
 author: "Steve Wilkins"
 date: 2026-01-14
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "Israel’s victories were never secured by strength or strategy, but by the light of God’s presence—a truth that still exposes the danger of self-reliance."
 tags:
   - presence

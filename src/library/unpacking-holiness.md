@@ -3,7 +3,7 @@ title: "Unpacking Holiness"
 author: Steve Wilkins
 date: 2026-02-13
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "A reflection on the movement of God’s holiness—from wilderness fire to indwelling Spirit—and the mercy found in His nearness."
 tags:
   - holiness

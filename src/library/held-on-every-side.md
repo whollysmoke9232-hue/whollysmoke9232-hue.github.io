@@ -3,7 +3,7 @@ title: "Held on Every Side"
 author: "Steve Wilkins"
 date: 2026-01-03
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "As mountains encircle Jerusalem, God’s presence surrounds His people—corporately and personally—now and forever."
 tags:
   - suffering

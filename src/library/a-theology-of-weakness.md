@@ -3,7 +3,7 @@ title: "A Theology of Weakness"
 author: Steve Wilkins
 date: 2026-01-19
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "God is not threatened by human weakness, nor surprised by failure. Again and again, Scripture shows that grace takes root not in strength, but in the soil of humility and dependence."
 tags:
   - weakness

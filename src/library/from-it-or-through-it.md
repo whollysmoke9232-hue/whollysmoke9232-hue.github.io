@@ -3,7 +3,7 @@ title: "From It or Through It"
 author: "Steve Wilkins"
 date: 2024-10-03
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "Trusting God’s sovereignty when deliverance comes differently than we expect—and discovering His presence in the fire."
 tags:
   - suffering

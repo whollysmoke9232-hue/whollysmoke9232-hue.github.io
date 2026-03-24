@@ -3,7 +3,7 @@ title: "All Things"
 author: Steve Wilkins
 date: 2026-01-27
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: Life does not always come together in ways we can understand. Faith holds to the promise that God is at work even when meaning feels hidden, and nothing is ultimately wasted.
 tags:
 - trust

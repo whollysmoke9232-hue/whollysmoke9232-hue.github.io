@@ -3,7 +3,7 @@ title: Returning to Need
 author: Steve Wilkins
 date: 2026-02-28
 layout: article.njk
-category: reflections
+category: meditations
 excerpt: Jesus calls us back to childlike dependence—not immaturity, but a return to trust, attachment, and the honest admission that we are powerless without Him.
 tags:
   - dependence

@@ -3,7 +3,7 @@ title: Guess Who I Saw Today
 author: Steve Wilkins
 date: 2026-02-28
 layout: article.njk
-category: reflections
+category: stories
 excerpt: What if every face we encounter carries the presence of Christ? Seeing others through this lens reshapes how we speak, judge, and love.
 tags:
   - identity

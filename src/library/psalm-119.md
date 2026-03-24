@@ -3,7 +3,7 @@ title: "Psalm 119: A Quiet Faith Formed in the Word"
 author: "Steve Wilkins"
 date: 2026-01-10
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "Psalm 119 reveals a faith shaped not by urgency or perfection, but by long obedience, quiet trust, and desires reformed through God’s Word."
 tags:
   - transformation

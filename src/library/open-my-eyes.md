@@ -3,7 +3,7 @@ title: "Open My Eyes"
 author: Steve Wilkins
 date: 2026-01-26
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: A quiet reflection on faith, trust, and learning to depend on God amid the vast unseen realities that surround us.
 tags:
   - seeking

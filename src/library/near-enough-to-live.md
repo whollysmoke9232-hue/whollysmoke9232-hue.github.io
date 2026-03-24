@@ -3,7 +3,7 @@ title: Near Enough to Live
 author: Steve Wilkins
 date: 2026-02-17
 layout: article.njk
-category: reflections
+category: meditations
 excerpt: David asks not merely for protection, but to live close enough to God that danger must meet Him first.
 tags:
   - trust

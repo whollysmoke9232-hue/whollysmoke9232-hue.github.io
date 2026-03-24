@@ -3,7 +3,7 @@ title: Press On
 author: Steve Wilkins
 date: 2026-02-22
 layout: article.njk
-category: reflections
+category: meditations
 excerpt: "God sees more than our failures—He sees the fight. Even when defeat feels constant, His call is not condemnation but courage: Press on."
 tags:
 - perseverance

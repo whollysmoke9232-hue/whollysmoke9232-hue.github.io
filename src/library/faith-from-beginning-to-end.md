@@ -3,7 +3,7 @@ title: "Faith from Beginning to End"
 author: "Steve Wilkins"
 date: 2025-08-02
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "Righteousness isn’t earned—it’s credited by faith. From salvation to sanctification, the entire journey is a gift of grace, received through faith from beginning to end."
 tags:
    - faith

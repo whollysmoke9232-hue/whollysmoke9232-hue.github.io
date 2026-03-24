@@ -3,7 +3,7 @@ title: "The Big Picture"
 author: Steve Wilkins
 date: 2010-10-20
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "God is painting on a canvas bigger than we can see—even when loss, confusion, or silence fills the frame."
 tags:
 - sovereignty

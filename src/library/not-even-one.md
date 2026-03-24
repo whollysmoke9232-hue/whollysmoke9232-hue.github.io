@@ -3,7 +3,7 @@ title: "Not Even One"
 author: Steve Wilkins
 date: 2026-01-23
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "When Scripture strips away self-confidence, grace is revealed not as an idea to admire, but as a Person to depend on."
 tags:
 - sin

@@ -3,7 +3,7 @@ title: "What Are You Feeding?"
 author: "Steve Wilkins"
 date: 2023-08-07
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "What we consume shapes what we become—and the Word of God is meant to be our daily bread."
 tags:
   - sin

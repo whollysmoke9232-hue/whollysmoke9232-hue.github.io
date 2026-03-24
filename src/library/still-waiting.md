@@ -3,7 +3,7 @@ title: "Still Waiting"
 author: Steve Wilkins
 date: 2026-02-09
 layout: article.njk
-category: reflections
+category: meditations
 excerpt: "When anxiety pulls me into endless what-ifs, Psalm 39:7 calls me back to the only secure ground: My hope is in You."
 tags: 
 - waiting

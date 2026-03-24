@@ -3,7 +3,7 @@ title: Appointments
 author: Steve Wilkins
 date: 2024-02-20
 layout: article.njk
-category: reflections
+category: stories
 excerpt: From a guarded sycamore tree to a ram in the thicket and a great fish in the sea, Scripture reveals a God who orchestrates divine appointments—arranging people, places, and moments for redemption.
 tags: sovereignty, trust, waiting, obedience, restoration, seeking
 scripture:

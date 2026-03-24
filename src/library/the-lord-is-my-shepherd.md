@@ -3,7 +3,7 @@ title: "The LORD Is My Shepherd"
 author: Steve Wilkins
 date: 2026-01-23
 layout: article.njk
-category: reflections
+category: devotionals
 excerpt: "Psalm 23 is not a wish or a sentiment, but a declaration of settled reality. In valley and pasture alike, the Shepherd’s presence—not the absence of danger—is the source of comfort and confidence."
 tags:
   - trust
