@@ -3,7 +3,7 @@ title: A Prayer
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk
-category: excerpts
+category: poems
 excerpt: A prayer for purification of heart and a deeper longing to see and know God more fully.
 tags:
   - prayer

@@ -3,7 +3,7 @@ title: It’s About You
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk
-category: excerpts
+category: poems
 excerpt: A quiet surrender to the truth that life is not ultimately about us, but about the glory of God and His redeeming work.
 tags:
   - surrender

@@ -3,7 +3,7 @@ title: Invitation to Wonder
 author: Steve Wilkins
 date: 2025-02-01
 layout: article.njk
-category: excerpts
+category: poems
 excerpt: An invitation to step back into the margins of life and rediscover the wonder of living in the constant presence of God.
 tags:
   - presence
@@ -16,26 +16,26 @@ scripture:
 ---
 
 You’ve walked with me through the margins—  
-before the beginning,  
-through the silence,  
-into the Word,  
-and across the tapestry of time.
+&nbsp;&nbsp;&nbsp;&nbsp; Before the beginning,  
+&nbsp;&nbsp;&nbsp;&nbsp; Through the silence,  
+&nbsp;&nbsp;&nbsp;&nbsp; Into the Word,  
+&nbsp;&nbsp;&nbsp;&nbsp; Across the tapestry of time.
 
 You’ve seen that God is not just the Author of the story—  
-He is the space in which the story unfolds.
+&nbsp;&nbsp;&nbsp;&nbsp; He is the space in which the story unfolds.
 
 He is before all things,  
-and in Him, all things hold together.
+&nbsp;&nbsp;&nbsp;&nbsp; In Him, all things hold together.
 
 But this isn’t just a theological truth.  
-It’s a personal one.
+&nbsp;&nbsp;&nbsp;&nbsp; It’s a personal one.
 
 You are not outside of His reach.  
 You are not outside of His plan.  
 You are not outside of His love.
 
 You are already in the margin.  
-Where God lives.
+&nbsp;&nbsp;&nbsp;&nbsp; Where God lives.
 
 ---
 
@@ -43,9 +43,13 @@ Where God lives.
 
 To live in wonder is to live awake.
 
-Awake to the presence of God in the ordinary.  
-Awake to the eternal in the everyday.  
-Awake to the truth that you are fully known, fully loved, and fully held.
+Awake to the presence of God  
+&nbsp;&nbsp;&nbsp;&nbsp; In the ordinary.  
+Awake to the eternal  
+&nbsp;&nbsp;&nbsp;&nbsp; In the everyday.  
+Awake to the truth that you are fully known,  
+&nbsp;&nbsp;&nbsp;&nbsp; Fully loved,  
+&nbsp;&nbsp;&nbsp;&nbsp; Fully held.
 
 Wonder doesn’t require answers.  
 It requires awareness.
@@ -57,11 +61,12 @@ It’s about standing in awe of the One who already has.
 
 ## The Invitation
 
-So here’s the invitation:
-
-Live like you are already in the presence of God—because you are.  
-Live like your story is already known—because it is.  
-Live like the Word is still speaking—because He is.
+Live like you are already in the presence of God—  
+&nbsp;&nbsp;&nbsp;&nbsp; Because you are.  
+Live like your story is already known—  
+&nbsp;&nbsp;&nbsp;&nbsp; Because it is.  
+Live like the Word is still speaking—  
+&nbsp;&nbsp;&nbsp;&nbsp; Because He is.
 
 Return to the margin often.  
 Pause.  
@@ -69,5 +74,5 @@ Listen.
 Look again.
 
 Because in that sacred space,  
-you’ll find the One who was there before the beginning  
-and who will be there beyond the end.
+You’ll find the One who was there before the beginning  
+&nbsp;&nbsp;&nbsp;&nbsp; And who will be there beyond the end.
