@@ -1,5 +1,5 @@
 ---
-title: The Tapestry of Time
+title: "Margins: The Tapestry of Time"
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk

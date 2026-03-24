@@ -1,5 +1,5 @@
 ---
-title: The God Who Knows
+title: "Margins: The God Who Knows"
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk

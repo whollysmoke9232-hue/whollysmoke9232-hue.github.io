@@ -1,5 +1,5 @@
 ---
-title: The Word of God
+title: "Margins: The Word of God"
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk

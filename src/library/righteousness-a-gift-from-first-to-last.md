@@ -1,5 +1,5 @@
 ---
-title: "Righteousness: A Gift From First to Last"
+title: "Margins: Righteousness—A Gift From First to Last"
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk

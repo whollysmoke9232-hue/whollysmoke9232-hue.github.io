@@ -1,5 +1,5 @@
 ---
-title: Not A Remodel
+title: "Margins: Not A Remodel"
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk

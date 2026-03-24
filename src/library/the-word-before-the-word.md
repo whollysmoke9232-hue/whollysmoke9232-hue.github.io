@@ -1,5 +1,5 @@
 ---
-title: The Word Before the Word
+title: "Margins: The Word Before the Word"
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk
@@ -16,8 +16,6 @@ scripture:
   - John 1:14
   - Hebrews 4:12
 ---
-
-The Word Before the Word
 
 Before there was light, there was the Word.  
 Before there was time, there was the Word.  

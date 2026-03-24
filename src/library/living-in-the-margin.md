@@ -1,5 +1,5 @@
 ---
-title: Living in the Margin
+title: "Margins: Living in the Margin"
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk

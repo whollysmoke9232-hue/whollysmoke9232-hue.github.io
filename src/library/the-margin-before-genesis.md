@@ -1,5 +1,5 @@
 ---
-title: The Margin Before Genesis
+title: "Margins: The Margin Before Genesis"
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk

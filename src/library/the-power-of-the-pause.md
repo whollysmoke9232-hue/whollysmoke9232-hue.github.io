@@ -1,5 +1,5 @@
 ---
-title: The Power of the Pause
+title: "Margins: The Power of the Pause"
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk

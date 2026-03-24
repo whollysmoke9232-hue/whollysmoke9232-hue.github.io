@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: "Margins: Introduction"
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk
