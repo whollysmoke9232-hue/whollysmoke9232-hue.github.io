@@ -1,5 +1,5 @@
 ---
-title: The Surrender
+title: "Fractured Light: The Surrender"
 author: Steve Wilkins
 date: 2026-01-08
 layout: article.njk

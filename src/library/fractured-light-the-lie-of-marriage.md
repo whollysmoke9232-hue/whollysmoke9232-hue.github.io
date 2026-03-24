@@ -1,5 +1,5 @@
 ---
-title: The Lie of Marriage
+title: "Fractured Light: The Lie of Marriage"
 author: Steve Wilkins
 date: 2026-01-08
 layout: article.njk

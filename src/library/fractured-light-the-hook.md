@@ -1,5 +1,5 @@
 ---
-title: The Hook
+title: "Fractured Light: The Hook"
 author: Steve Wilkins
 date: 2026-01-08
 layout: article.njk

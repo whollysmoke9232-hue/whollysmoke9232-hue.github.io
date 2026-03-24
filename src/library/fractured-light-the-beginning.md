@@ -1,5 +1,5 @@
 ---
-title: The Beginning
+title: "Fractured Light: The Beginning"
 author: Steve Wilkins
 date: 2026-01-08
 layout: article.njk
