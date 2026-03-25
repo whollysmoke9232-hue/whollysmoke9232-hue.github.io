@@ -121,17 +121,6 @@
     </ul>
   </div>
   <div class="library-group">
-    <h2>Excerpts<span class="category-hover-note">Selected passages and shorter sections drawn from longer book projects.</span></h2>
-    <ul class="library-list">
-      {% for item in collections.excerpts | sort(attribute='data.title') %}
-        <li>
-          <a href="{{ item.url }}">{{ item.data.title }}</a>
-          {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-  <div class="library-group">
     <h2>Meditations<span class="category-hover-note">Quiet contemplations on Scripture and faith, written to be read slowly and thoughtfully.</span></h2>
     <ul class="library-list">
       {% for item in collections.meditations | sort(attribute='data.title') %}

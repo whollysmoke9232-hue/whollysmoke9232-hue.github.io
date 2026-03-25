@@ -16,6 +16,7 @@ scripture:
   - Revelation 13:8
   - Ephesians 1:4
   - Romans 8:29
+excludeFromLibrary: true
 ---
 
 Before the first word of creation was spoken, God already knew – or better, God already knows.

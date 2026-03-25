@@ -16,6 +16,7 @@ scripture:
   - Psalm 139:16
   - Ephesians 1:4
   - Revelation 13:8
+excludeFromLibrary: true
 ---
 
 Before the first word was spoken, before the first light pierced the darkness, before time itself began—there was a margin.
