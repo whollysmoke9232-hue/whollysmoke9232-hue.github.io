@@ -9,6 +9,7 @@ scripture:
   - Genesis 3
   - 2 Samuel 11-12
   - Psalm 73:25
+excludeFromLibrary: true
 ---
 
 <!-- markdownlint-configure-file {"MD024": false} -->
