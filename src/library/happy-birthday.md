@@ -65,4 +65,4 @@ He loves me.
 He accepts me.  
 He calls to me.  
 
-I answer, *“Here I am, Lord, take me.”*
+I answer, *“Here I am, Lord, send me.”*
