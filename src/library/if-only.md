@@ -40,7 +40,7 @@ The honest answer is complicated—because while there are things worth grieving
 It’s not wrong to wish certain things had never entered your life. That’s not ingratitude—that’s clarity. But at the same time, you recognize something deeper:
 
 *You can’t fully trace what those experiences prevented.*  
-&nbsp;&nbsp;&nbsp;&nbsp; When He allows us to walk into places we will later regret, I have to wonder, what is He saving us from?
+&nbsp;&nbsp;&nbsp;&nbsp; When He allows us to walk into places we will later regret, I have to wonder, ***what is He saving us from?***
 
 *You can’t fully measure what they produced.*  
 &nbsp;&nbsp;&nbsp;&nbsp;There are things happening in and through our lives that we will never see… this side of heaven.
