@@ -14,6 +14,11 @@ scripture:
   - 2 Corinthians 5:21
   - Genesis 3:21
   - Leviticus 17:11
+themes:
+  - repentance
+  - restoration
+  - suffering
+  - guilt
 ---
 
 **Author's Note:** This message was originally preached during a communion service on December 29, 1996.

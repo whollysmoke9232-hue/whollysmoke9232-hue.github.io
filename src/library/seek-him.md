@@ -10,6 +10,12 @@ tags:
 - seeking
 - faith
 - trust
+themes:
+  - longing
+  - trust
+  - prayer
+  - obedience
+scripture: Matthew 6:33
 ---
 
 This reflection is meant to be read alongside [<u>Coming Into a Place of Prayer</u>](/reflections/coming-into-a-place-of-prayer/).  
@@ -24,7 +30,7 @@ The most important thing is to have a living relationship with the Lord Jesus Ch
 Everything about our faith is centered in Him. Christianity is not *Jesus plus something else*. It is not Jesus plus prayer, Jesus plus study, Jesus plus service. Jesus **is** God’s plan.
 
 When we ask, *“What must I do to become a Christian?”* the answer is surprisingly simple:  
-there is nothing for us to do except believe what has already been done.
+there is nothing for us to do except *believe* what has already been done.
 
 He did it all.
 
@@ -32,13 +38,13 @@ He did it all.
 
 The book of Hebrews was written to people who believed—but were slowly drifting.
 
-> _“In the past God spoke to our forefathers through the prophets… but in these last days He has spoken to us by His Son…”_ **—Hebrews 1:1–3**
+> _“In the past God spoke to our forefathers through the prophets... but in these last days He has spoken to us by His Son...”_ **—Hebrews 1:1–3**
 
 The warning that follows is not about rebellion, but neglect:
 
-> _“We must pay more careful attention… so that we do not drift away.”_ **—Hebrews 2:1**
+> _“We must pay more careful attention... so that we do not drift away.”_ **—Hebrews 2:1**
 
-Drift rarely looks dramatic. It looks like busyness. Fatigue. Subtle distance. We still believe the right things—we just stop responding.
+Drift rarely looks dramatic. It looks like busyness, fatigue, subtle distance. We still believe the right things—we just stop responding.
 
 ### The Weight of the “Oughta’s”
 
@@ -64,14 +70,14 @@ Our calling is not to work harder—it is to respond.
 A simple prayer changes everything:
 
 > *“Lord, I want to respond to You.  
-> I only want to do what You are giving me to do.  
-> What would You have me do today?”*
+I only want to do what You are giving me to do.  
+What would You have me do today?”*
 
 Very often, the answer is not an assignment, but an invitation:
 
 > **Draw near to Me.  
-> Rest in Me.  
-> Seek Me.**
+Rest in Me.  
+Seek Me.**
 
 We get busy because we worry.  
 And we worry because we are insecure in our relationship with Him.
@@ -88,21 +94,22 @@ But it is the kind of trust Jesus calls us to.
 
 After saying there is nothing to *do* to earn salvation, Scripture still calls us to action—but a different kind of action.
 
-Seek Him.
+**Seek Him.**
 
 Prayer and worship are not religious duties; they are relational responses. We come honestly and simply:
 
-> “Here I am. I need You. I want You. Everything I have, I give to You.”
+> We declare, “Here I am. I need You. I want You. Everything I have, I give to You.”
 
 We seek because there is more available than we realize:
 
-> “_No eye has seen, no ear has heard… what God has prepared for those who love Him.”_ **—1 Corinthians 2:9**
+> _No eye has seen, no ear has heard… what God has prepared for those who love Him._ **—1 Corinthians 2:9**
 
-Jesus promises:
+Jesus urges:
 
 > *“Ask and keep asking.  
-> Seek and keep seeking.  
-> Knock and keep knocking.”* ***—Matthew 7:7–8**
+Seek and keep seeking.  
+Knock and keep knocking.”*  
+***—Matthew 7:7–8**
 
 And in a beautiful reversal of perspective, we are reminded:
 
@@ -124,17 +131,14 @@ It is responding to a God who has already drawn near.
 
 ---
 
-## Prayer
-
 > Lord Jesus,  
-
-> Free me from the weight of the “oughta’s.”  
-> Teach me to rest in what You have already done.  
-> Help me respond—not out of fear or obligation,  
-> but out of love and trust.  
-> Draw me near as I seek You,  
-> and remind me that You have been seeking me all along.  
-> Amen.
+Free me from the weight of the “oughta’s.”  
+Teach me to rest in what You have already done.  
+Help me respond—not out of fear or obligation,  
+but out of love and trust.  
+Draw me near as I seek You,  
+and remind me that You have been seeking me all along.  
+Amen.
 
 ---
 

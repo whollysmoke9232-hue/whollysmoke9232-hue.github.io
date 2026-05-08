@@ -13,6 +13,11 @@ tags:
 - trust
 scripture_references:
   - Psalm 25:4–5
+themes:
+  - longing
+  - surrender
+  - obedience
+  - trust
 ---
 
 ## I Want to Follow
@@ -21,9 +26,9 @@ scripture_references:
 
 The sequence is significant.
 
-First, lead me. Cause me to walk in a direction. Be close enough to follow. There is a clear implication of relationship. Earlier, David prays, *“Make me know Your ways, O LORD…”* **(Psalm 25:4)**. His priority is not information, but companionship. Not instruction first, but intimacy.
+First, lead me. Cause me to walk in a direction. Be close enough to follow. There is a clear implication of relationship. Earlier, David prays, *“Make me know Your ways, O LORD…”* **—Psalm 25:4**. His priority is not information, but companionship. Not instruction first, but intimacy.
 
-David longs to walk with God—to live in fellowship along the journey. It is in the following, in the shared path, that David’s heart found union with God’s. Nearness is what he desires most, and we see that longing echoed again and again throughout the Book of Psalms.
+David longs to walk with God—and to live in fellowship along the journey. It is in the following, in the shared path, that David’s heart found union with God’s. Nearness is what he desires most, and we see that longing echoed again and again throughout the Book of Psalms.
 
 This walking and following are acts of faith. The path is rarely clear beyond the next step—and sometimes even that step is hidden. There are seasons when God calls us simply to move forward, to trust Him enough to walk without certainty. And time and again, He reveals Himself in that next step. Faith grows. Intimacy deepens. Discernment sharpens. We learn to recognize His voice.
 

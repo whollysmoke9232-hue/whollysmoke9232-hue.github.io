@@ -1,29 +1,34 @@
----
+﻿---
 title: "Guard the Grace"
 author: "Steve Wilkins"
 date: 2026-01-12
 layout: article.njk
 category: stories
-excerpt: "A reflection on how churches respond to sexual sin—and what those responses quietly teach about confession, belonging, and grace."
+excerpt: A reflection on how many churches respond to sexual sin—and what those responses quietly teach about confession, belonging, and grace.
 tags:
   - grace
   - restoration
   - repentance
   - church
+themes:
+  - grace
+  - restoration
+  - repentance
+  - longing
 ---
 
 **On Sexual Sin, Confession, and the Cost of Belonging**
 
-**Author’s Note**  
-The reflections offered here are shaped by lived experience within the life of a church, including confession, consequence, and eventual separation. They are written without resentment and without an interest in assigning blame. The purpose is not to revisit particular decisions, but to help churches reflect on how truth, safety, and grace are held together when sexual sin enters a community.
+**Author's Note**  
+*The reflections offered here are shaped by lived experience within the life of a church, including confession, consequence, and eventual separation. They are written without resentment and without an interest in assigning blame. The purpose is not to revisit particular decisions, but to help us reflect on how truth, safety, and grace are held together when sexual sin enters a community.*
 
 ---
 
-Churches speak often about grace, repentance, and restoration. But there are moments when those commitments are tested—not in theory, but in real, costly situations where safety, trust, and reputation all feel at stake.
+Churches speak often about grace, repentance, and restoration. But there are moments when those commitments are tested—not in theory, but in real, costly situations—where safety, trust, and reputation all feel at stake.
 
 Sexual sin is one of those moments.
 
-When it enters the life of a congregation, the response is rarely neutral. Even when handled prayerfully and deliberately, it alters the atmosphere. Leaders feel the weight of responsibility. Members feel uncertainty. Questions arise that have no easy answers.
+When someone confessing sexual sin enters the life of a congregation, the response is rarely neutral. Even when handled prayerfully and deliberately, it alters the atmosphere. Leaders feel the weight of responsibility. Members feel uncertainty. Questions arise that have no easy answers.
 
 How the church responds in these moments matters deeply—not only for the person who has sinned, but for the spiritual formation of the entire community.
 
@@ -48,7 +53,7 @@ And yet, when circumstances escalate—when legal charges appear, when risk feel
 
 Sometimes this separation is framed gently.  
 Sometimes it is explained carefully.  
-Sometimes it is prayed over and spoken of as wisdom—or even as God’s will.
+Sometimes it is prayed over and spoken of as wisdom—or even as God's will.
 
 Still, the result is the same: belonging ends.
 
@@ -70,13 +75,13 @@ A church may believe it is acting faithfully—and still leave a deep wound if e
 
 ### Theological Language Carries Weight
 
-When decisions like these are framed explicitly as God’s will, the stakes rise even higher.
+When decisions like these are framed explicitly as God's will, the stakes rise even higher.
 
 Spiritual language does not merely explain a decision; it sanctifies it. It places the outcome beyond question, and it can leave the recipient unsure where to bring their grief—or whether grieving is even permitted.
 
 Leaders must handle such language with care.
 
-Invoking God’s will should never function as insulation against reflection, nor as a way to bypass the human cost of institutional decisions.
+Invoking God's will should never function as insulation against reflection, nor as a way to bypass the human cost of institutional decisions.
 
 ### Jesus and Proximity
 

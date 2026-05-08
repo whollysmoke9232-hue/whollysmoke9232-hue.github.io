@@ -13,6 +13,11 @@ scripture:
   - Proverbs 9:17-18
   - Proverbs 9:13
   - Proverbs 9:14-16
+themes:
+  - repentance
+  - restoration
+  - hope
+  - spiritual conflict
 ---
 
 ## Key Scripture
@@ -41,7 +46,7 @@ She is naive and knows nothing”_
 
 The introduction to Folly is immediate and unflattering. Unlike the order, preparation, and substance of Lady Wisdom, Folly is loud, chaotic, and disruptive. Her appeal is not rooted in truth or confidence, but in noise—demanding attention through sheer volume.
 
-Though she presents herself as authoritative, she is fundamentally ignorant. She lacks understanding, foresight, and the fear of the LORD, which is the beginning of wisdom. Her loud exterior masks a hollow core. Everything she offers is built on emptiness.
+Though she presents herself as authoritative, she is fundamentally ignorant. She lacks understanding, foresight, and the fear of the LORD (which is the beginning of wisdom). Her loud exterior masks a hollow core. Everything she offers is built on emptiness.
 
 ---
 
@@ -94,15 +99,3 @@ Examine the appeal. Be wary of what draws you primarily because it is hidden or 
 Consider the guest list. Wisdom’s house is filled with the living. Folly’s house is filled with the dead.
 
 By grace, we are not left to guess. God does not merely warn us—He invites us to life.
-
----
-
-## Prayer
-
-> O Lord, thank You for setting before us a clear choice between life and death. I confess that my heart is often drawn to the loud voice of Folly and the promise of secret pleasures.
-
-> Grant me discernment to see temptation for what it truly is—an empty imitation of Your truth. When Folly calls from the high places, help me hear the deeper voice of Wisdom inviting me to Your life-giving feast.
-
-> Keep my feet on the path of life. Let me find my satisfaction not in secrecy, but in the open, honest abundance You provide.  
-
-> Amen.

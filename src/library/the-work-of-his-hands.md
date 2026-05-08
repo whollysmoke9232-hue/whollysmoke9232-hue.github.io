@@ -11,18 +11,15 @@ tags:
   - sovereignty
 scripture:
   - Psalm 139:13-14
+themes:
+  - identity
+  - obedience
 ---
-
-## Key Scripture
 
 > _“For You created my inmost being;  
-> You knit me together in my mother’s womb.  
-> I praise You because I am fearfully and wonderfully made.”_  
-> **—Psalm 139:13–14**
-
----
-
-## The Story
+You knit me together in my mother’s womb.  
+I praise You because I am fearfully and wonderfully made.”_  
+**—Psalm 139:13–14**
 
 Before a single piece of wood was cut, the pantry existed in my mind.  
 I knew its purpose, how it needed to function, and the beauty I envisioned for it.  
@@ -34,9 +31,9 @@ Slowly, I began gluing boards into panels, shaping and smoothing them. Soon, the
 
 Next came the detailed work: cutting the joints, fabricating the mechanisms for adjustable shelves and soft-close drawers.  
 
-Then, assembly. Finally, it looked like a pantry.  
+Then, assembly. Finally, it began to look like a pantry.  
 
-But the most time-consuming work had just begun.
+But the most time-consuming work had only just begun.
 
 The sanding and smoothing process took longer than all the previous steps combined. During this phase, a casual observer might grow impatient, because the progress being made wasn’t always obvious to anyone but me.
 
@@ -56,9 +53,9 @@ Nothing that happened to it could ever change the way I saw it, for it had grown
 
 ---
 
-## Divine Perspective
-
 And isn’t this how our Creator sees us?
+
+There was a plan. Then dividing cells. A structure that resembled a fish. Birth. Complete Dependance. Childhood. Teenager. Young adult. Continuing developement until we enter eternity. Then finally... perfection.
 
 The psalmist David captures this divine perspective beautifully in Psalm 139.  
 
@@ -71,8 +68,6 @@ Yet none of them diminish His love.
 He loves us simply because we are His. We are His workmanship—born from a vision of love deep in His heart—and nothing can ever change that.
 
 ---
-
-## In the Hard Seasons
 
 You may be walking through a season of hardship, pain, or disappointment. In those moments, it can feel as though God has grown distant.
 
@@ -87,8 +82,6 @@ Be who you were created to be—dents, dings, scratches, and all.
 You were prepared for a purpose.
 
 ---
-
-## Prayer
 
 > Heavenly Father, thank You for seeing us not for our flaws, but as Your wonderful work. Help us rest in the truth that we are fearfully and wonderfully made, created with intention, and loved unconditionally by You.  
 > Amen.

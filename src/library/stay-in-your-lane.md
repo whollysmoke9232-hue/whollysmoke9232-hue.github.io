@@ -14,9 +14,16 @@ tags:
   - holiness
 scripture:
   - Proverbs 7:6-7
+themes:
+  - repentance
+  - obedience
+  - suffering
+  - renewal
 ---
 
 *Author’s Note: Written while incarcerated on 4/20/2023*
+
+---
 
 > *“For at the window of my house  
 I looked out through my lattice,  
@@ -30,9 +37,9 @@ In verses 7-9, the writer sees this young man who lacks sense. At first this man
 
 It seems that he is just flirting with the idea of her.  Letting his imagination run free.  
 
-But then we see him taking the road to her house in the twilight. His imagination has grown into intent. He is intentionally moving in her direction during the nighttime where they can hide in secrecy.  
+But then we see him taking the road to her house in the twilight. His imagination has grown into intent. He is intentionally moving in her direction during the nighttime where they can meet in secrecy.  
 
-In verses 10-12, we find that - wonder of wonders - there she is!  
+In verses 10-12, we find that—wonder of wonders—there she is!  
 
 Dressed seductively.  
 

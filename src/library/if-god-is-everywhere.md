@@ -11,18 +11,22 @@ tags:
   - seeking
 scripture:
   - Psalm 139:7
+themes:
+  - longing
+  - identity
+  - obedience
+  - loneliness
 ---
 
 ## Key Scripture
 
-> *“Where can I go from Your Spirit?*  
-> *Or where can I flee from Your presence?”*  
+> *“Where can I go from Your Spirit? Or where can I flee from Your presence?”*  
 > **—Psalm 139:7 (NIV)**
 
 ---
 
 If God is everywhere,  
-&nbsp;&nbsp;&nbsp;&nbsp;Then I do not merely walk with Him—I exist within Him.  
+&nbsp;&nbsp;&nbsp;&nbsp;Then I do not merely walk with Him—I exist *within* Him.  
 &nbsp;&nbsp;&nbsp;&nbsp;I breathe in His presence, and He breathes through mine.
 
 If God is everywhere,  
@@ -30,7 +34,7 @@ If God is everywhere,
 &nbsp;&nbsp;&nbsp;&nbsp;There is no exile from His love, no distance from His gaze.
 
 If God is everywhere,  
-&nbsp;&nbsp;&nbsp;&nbsp;Then He sees me as I am, as I was, and as I will be—all at once.  
+&nbsp;&nbsp;&nbsp;&nbsp;Then He sees me as I am, as I was, and as I will be—*all at once.*  
 &nbsp;&nbsp;&nbsp;&nbsp;Not in sequence, but in fullness.  
 &nbsp;&nbsp;&nbsp;&nbsp;Not in progress, but in completion.
 
@@ -54,7 +58,8 @@ If God is everywhere,
 &nbsp;&nbsp;&nbsp;&nbsp;I am not waiting for clarity—I am walking toward it.
 
 If God is everywhere,  
-&nbsp;&nbsp;&nbsp;&nbsp;Then maybe when I get to Heaven, &nbsp;&nbsp;&nbsp;&nbsp;I’ll realize I’ve been there all along.  
+&nbsp;&nbsp;&nbsp;&nbsp;Then maybe when I get to Heaven,  
+&nbsp;&nbsp;&nbsp;&nbsp;I’ll realize I’ve been there all along.  
 &nbsp;&nbsp;&nbsp;&nbsp;That eternity was never a destination, but a dimension I was always tethered to.
 
 If God is everywhere,  
@@ -62,7 +67,7 @@ If God is everywhere,
 &nbsp;&nbsp;&nbsp;&nbsp;Broken pieces made beautiful by the light of His grace.
 
 If God is everywhere,  
-&nbsp;&nbsp;&nbsp;&nbsp;Then the power that created galaxies and raised Jesus from the grave dwells in me.  
+&nbsp;&nbsp;&nbsp;&nbsp;Then the power that created galaxies and raised Jesus from the grave *dwells in me.*  
 &nbsp;&nbsp;&nbsp;&nbsp;Not metaphorically. Literally.
 
 If God is everywhere,  
@@ -70,7 +75,8 @@ If God is everywhere,
 &nbsp;&nbsp;&nbsp;&nbsp;Every atom, every angel, every moment, every miracle.
 
 If God is everywhere,  
-&nbsp;&nbsp;&nbsp;&nbsp;Then nothing is impossible for me. &nbsp;&nbsp;&nbsp;&nbsp;Because nothing is impossible for Him.  
+&nbsp;&nbsp;&nbsp;&nbsp;Then nothing is impossible for me.  
+&nbsp;&nbsp;&nbsp;&nbsp;Because nothing is impossible for Him.  
 &nbsp;&nbsp;&nbsp;&nbsp;And He is not just beside me—He is in me.  
 &nbsp;&nbsp;&nbsp;&nbsp;And I am in Him.
 

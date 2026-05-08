@@ -9,6 +9,11 @@ tags:
   - presence
   - trust
   - confinement
+themes:
+  - trust
+  - suffering
+  - surrender
+  - grace
 ---
 
 I’ve run from You  
@@ -36,7 +41,7 @@ I lied to myself
 He never gave up  
 &nbsp;&nbsp;&nbsp;&nbsp;continued to call  
 &nbsp;&nbsp;&nbsp;&nbsp;for me to surrender my heart  
-Now new life I’ve found  
+New life I’ve found  
 &nbsp;&nbsp;&nbsp;&nbsp;in the palm of His hand  
 &nbsp;&nbsp;&nbsp;&nbsp;in His love I’ve found a new start
 

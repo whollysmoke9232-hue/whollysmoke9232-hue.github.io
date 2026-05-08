@@ -1,23 +1,29 @@
 ---
 title: It’s About You
 author: Steve Wilkins
-date: 2025-02-21
+date: 2024-02-21
 layout: article.njk
 category: poems
 excerpt: A quiet surrender to the truth that life is not ultimately about us, but about the glory of God and His redeeming work.
 tags:
+  - confinement
   - surrender
   - worship
   - sovereignty
   - identity
 scripture:
   - Psalm 69:7
+themes:
+  - surrender
+  - identity
+  - restoration
+  - obedience
 ---
 
 <div style="text-align: center; font-style: italic;">
 
 O God, this isn’t about me at all;  
-it is about You.  
+it's about You.  
 It has always been about You.  
 You alone.
 
@@ -37,7 +43,15 @@ You who lifts my soul from the grave.
 My life is in Your hands.  
 There is nowhere I would rather be.
 
-> *“Because for Your sake I have borne reproach;  
-> dishonor has covered my face.”* **—Psalm 69:7**
+> *“Because for Your sake I have borne reproach; dishonor has covered my face.”*  
+**—Psalm 69:7**
 
 </div>
+<!-- end-of-article -->
+
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
+*Written in confinement.*
+</span>

@@ -12,6 +12,11 @@ tags:
   - grace
 scripture:
   - Romans 6:21
+themes:
+  - repentance
+  - restoration
+  - shame
+  - guilt
 ---
 
 > _“What benefit did you reap at that time from the things you are now ashamed of? Those things result in death!”_ **—Romans 6:21**
@@ -23,7 +28,7 @@ The Apostle Paul pulls back the curtain on a harsh truth about sin—one we ofte
 Sin is not only wrong.  
 It is irrational.
 
-In the moment, sin often feels like relief. Escape. Satisfaction. Freedom. There may be a rush—temporary pleasure or comfort that feels convincing and real. But Paul forces us to look beyond the moment and into the aftermath.
+In the moment, sin often feels like relief. Escape. Satisfaction. Freedom. There may be a rush, temporary pleasure, or comfort that feels convincing and real. But Paul forces us to look beyond the moment and into the aftermath.
 
 *“Those things result in death.”*
 
@@ -45,8 +50,6 @@ And yet—God does not leave us there.
 
 ---
 
-## From the Grave to the Garden
-
 Grace meets us in the aftermath.
 
 The gospel does not deny the damage of sin—it names it honestly. But it also refuses to let sin have the final word. In Christ, we are invited out of the grave and back into the garden.
@@ -57,12 +60,8 @@ There is no such thing as a hidden sin with a lasting reward. What once felt thr
 
 Recognizing the true nature of sin is not condemnation—it is liberation. It teaches us to flee what destroys and cling to what gives life.
 
----
-
-## Prayer
-
 > Lord, thank You for the clarity of Your Word.  
-> Help me recognize the traps that masquerade as treasures.  
-> Remind me that sin never brings life—only You do.  
-> Give me the courage to turn from foolishness and walk in freedom.  
-> Amen.
+Help me recognize the traps that masquerade as treasures.  
+Remind me that sin never brings life—only You do.  
+Give me the courage to turn from foolishness and walk in freedom.  
+Amen.

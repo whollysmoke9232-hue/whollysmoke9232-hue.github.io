@@ -18,6 +18,11 @@ scripture:
   - Psalm 46:10
   - Psalm 47:1
   - Psalm 84:10
+themes:
+  - grace
+  - restoration
+  - prayer
+  - fear
 ---
 
 As a result of *Korah’s Rebellion*, the entire families of Dathan and Abiram—along with their livestock and possessions—were swallowed by the earth. But scripture tells us that **not all of Korah’s family was destroyed** as a result of his rebellion. Some of his children were spared. I find myself wondering why.
@@ -32,7 +37,7 @@ We must remember that the people in this account were real men and families with
 
 Korah and his family were even tasked with transporting the **Ark of the Covenant**, along with the rest of the sacred furnishings. What an extraordinary honor.
 
-And yet, it seems that this was not enough.
+And yet, it seems that—in their mind—this was not enough.
 
 They desired more. They wanted the priesthood itself.
 
@@ -44,7 +49,7 @@ In rebelling against Moses, they failed to see that they were rebelling against 
 
 God's response was quick and severe.
 
-Yet Numbers 26:11 tells us plainly: **“The sons of Korah did not die.”**
+Yet Numbers 26:11 tells us plainly: **“The sons of Korah did *not* die.”**
 
 At least some of Korah’s children appear to have recognized the error in their father’s path. Whether through repentance, humility, or quiet obedience, they did not join in the rebellion. They understood the sacredness of their calling. They honored the boundaries God had set. They recognized that proximity to holiness is itself a gift—not a platform for ambition.
 
@@ -93,34 +98,12 @@ Their worship was not naïve. It was not casual. It was forged in brokenness, sh
 
 ---
 
-## Prayer
-
-> Holy God,
-
-> You are not casual with holiness,  
-> and You are not careless with mercy.
-
-> You set boundaries not to withhold Yourself from us,  
-> but to teach us how to live near You without being destroyed.
-
-> Forgive us when we despise the place You have given us.  
-> Forgive us when we confuse ambition with calling,  
-> and proximity with entitlement.
-
-> Teach us to fear You rightly—  
-> not with terror that drives us away,  
-> but with reverence that keeps us close.
-
-> Let our brokenness become humility,  
-> our humility become obedience,  
-> and our obedience become worship.
-
-> Give us hearts like the Sons of Korah—  
-> content to serve where You place us,  
-> grateful for mercy we did not earn,  
-> and eager to praise You for who You are.
-
-> Plant true worship deep within us, O Lord,  
-> and let it grow from soil softened by grace.
-
-> Amen.
+> Lord,
+keep my heart humble before You.  
+Teach me to be content with where You have placed me,  
+and to honor the boundaries You have set.  
+Let me walk in reverence, not entitlement—  
+grateful for Your mercy,  
+and mindful of Your holiness.  
+Form in me a heart that worships You rightly.  
+Amen.

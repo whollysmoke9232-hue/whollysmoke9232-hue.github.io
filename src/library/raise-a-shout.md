@@ -15,6 +15,9 @@ tags:
 scripture:
 - Psalm 100:1-5
 - Psalm 100:5
+themes:
+  - prayer
+  - obedience
 ---
 
 > *Shout joyfully to the LORD, all the earth.  

@@ -14,9 +14,11 @@ scripture:
   - John 11:35
   - Genesis 1:31
   - Genesis 3:17
+themes:
+  - suffering
+  - grace
+  - grief
 ---
-
-## Key Scripture
 
 > _“Jesus wept.”_ **—John 11:35**
 
@@ -30,11 +32,9 @@ Why would the Son of God—who knew He was about to raise Lazarus from the dead�
 
 ---
 
-## Back to the Beginning
+In the beginning, there was no death, no sorrow, no brokenness. Creation pulsed with harmony, beauty, and life.
 
 > _“God saw all that He had made, and it was very good.”_ **—Genesis 1:31**
-
-In the beginning, there was no death, no sorrow, no brokenness. Creation pulsed with harmony, beauty, and life.
 
 But then came the fall.
 
@@ -45,8 +45,6 @@ Sin entered the world through disobedience, and with it came the curse:
 From that moment on, everything changed. Sin infected not just human hearts, but the very fabric of creation. Death became a reality. Tears became a language. And the world began to groan under the weight of what was lost.
 
 ---
-
-## The Grief of God
 
 So when Jesus stood at Lazarus’ tomb and saw Mary weeping, Scripture tells us He was “deeply moved in spirit and troubled.”
 
@@ -62,10 +60,6 @@ At the pain.
 At the loss.  
 At the distortion of what was once “very good.”
 
----
-
-## Why Jesus Wept
-
 - Jesus wept because this was not how it was supposed to be.
 - He wept over the sting of death.
 - He wept over the sorrow of His friends.
@@ -75,16 +69,13 @@ And He still weeps today.
 
 Not because He is powerless.  
 Not because He is surprised.  
-But because He loves.
+*But because He loves.*
 
 And love always grieves what wounds the beloved.
 
-Jesus hates sin—not merely because it is rebellion, but because of what it does to us.  
+Jesus hates sin—not merely because it is rebellion, but because of what it does to us. To His creation. To His children.
 
-To His creation.  
-To His children.
-
-And one day, He will wipe away every tear…  
+But one day, He will wipe away every tear...  
 
 ***because He wept first.***
 
@@ -93,11 +84,11 @@ And one day, He will wipe away every tear…
 ## Prayer
 
 > Lord Jesus, thank You for being a Savior who weeps.  
-> Thank You for feeling the weight of our sorrow and the sting of our brokenness.  
-> Help me to hate sin—not just for what it is, but for what it does.  
-> Give me eyes to see the world as You see it, and a heart that longs for restoration.  
-> May I live in the hope that You are making all things new.  
-> Amen.
+Thank You for feeling the weight of our sorrow and the sting of our brokenness.  
+Help me to hate sin—not just for what it is, but for what it does.  
+Give me eyes to see the world as You see it, and a heart that longs for restoration.  
+May I live in the hope that You are making all things new.  
+Amen.
 
 ---
 

@@ -14,11 +14,14 @@ tags:
   - meditation
 scripture:
   - Psalm 43:3
+themes:
+  - surrender
+  - trust
+  - prayer
+  - obedience
 ---
 
-> *“O send out Your light and Your truth, let them lead me;  
-Let them bring me to Your holy hill  
-And to Your dwelling places.”* **—Psalm 43:3**
+> *“O send out Your light and Your truth, let them lead me; Let them bring me to Your holy hill and to Your dwelling places.”* **—Psalm 43:3**
 
 The cry of my heart is that God would lead me.
 
@@ -26,7 +29,7 @@ I confess that not only do I not know where I am going, I don’t really know wh
 
 I learned years ago that God’s plans are not my plans. His plan is always better.
 
-For example, there was a time as a young adult when I would have told you that I was going to be a professional musician. Music would define the rest of my life. I played in bands. I practiced diligently. I was on my way…
+For example, there was a time as a young adult when I would have told you that I was going to be a professional musician. Music would define the rest of my life. I played in bands. I practiced diligently. I was on my way...
 
 During that time, I volunteered with my church’s youth group. It was fun. I felt like I was helping a little. Teenagers seemed to respond to me. But if you had suggested that I pursue that as a vocation, I would have laughed in your face.
 
@@ -40,8 +43,7 @@ So today, I pray, “Lead me.”
 
 Today’s verse shines a brighter light on this “leading:”
 
-> *“Let them bring me to Your holy hill  
-And to Your dwelling places.”* **—Psalm 43:3**
+> *“Let them bring me to Your holy hill and to Your dwelling places.”* **—Psalm 43:3**
 
 The Psalmist’s prayer is essentially, “Lead me to You.”
 
@@ -51,7 +53,7 @@ I tend to pray only about the future that I can see. Or on good days, the future
 
 Could it be that all of these seemingly unanswered prayers have already been answered within His view?
 
-After all, His goal for me stretches so far beyond anything that I can imagine. I pray for “things.” Results. Answers that I can hold. Visualize.
+After all, His goal for me stretches far beyond anything that I can imagine. I pray for “things.” Results. Answers that I can hold. Visualize.
 
 **But His goal for me is Him!**
 
@@ -63,6 +65,6 @@ Just as He led me from chasing a musical career, He has redirected me repeatedly
 
 The Psalmist prays that God will lead him to God Himself.
 
-So today, I start a new prayer.
+So starting today, I echo *that* prayer.
 
 > *“Lord, lead me to You.”*

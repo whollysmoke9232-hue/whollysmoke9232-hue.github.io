@@ -13,6 +13,11 @@ tags:
 scripture:
   - Psalm 119:9
   - Psalm 119:11
+themes:
+  - suffering
+  - repentance
+  - renewal
+  - spiritual conflict
 ---
 
 ## Key Scripture
@@ -66,7 +71,7 @@ Sports statistics.
 Music lyrics.  
 Market trends.
 
-The deeper question is not *whether* we are being formed—but *by what*.
+The deeper question is not *whether* we are being formed—but *by what?*
 
 What do you consistently feed your mind?  
 
@@ -82,13 +87,6 @@ Let it dwell richly.
 You do not need credentials.  
 You do not need perfect understanding.  
 You only need a willing heart—and the courage to keep showing up hungry.
-
----
-
-## Prayer
-
-> Lord, awaken my hunger for Your Word. Forgive me for the ways I’ve searched for clarity everywhere except the place You’ve spoken most clearly. Shape my desires, train my appetite, and teach me to live on every word that comes from You.  
-> Amen.
 
 ---
 

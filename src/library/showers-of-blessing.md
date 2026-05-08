@@ -19,9 +19,14 @@ scripture:
   - Luke 19:40
   - Psalm 96:11–12
   - Psalm 98:8
+themes:
+  - prayer
+  - repentance
+  - trust
+  - obedience
 ---
 
-> *“Shout joyfully to God, all the earth.”* **—Psalm 66:1**
+> *Shout joyfully to God, all the earth.* **—Psalm 66:1**
 
 “Shout.” The Hebrew term translated *shout* appears more than fifteen times in the Psalms. It portrays loud, exuberant worship—shouting, clapping hands, trumpets and other instruments, and public celebration. It can mean “shout for joy,” “make a joyful noise,” or “raise a cry.”
 
@@ -31,13 +36,13 @@ The idea is not polite singing. It is a burst of sound that comes from excitemen
 
 It’s the same word used in Joshua 6:
 
-> *“…all the people shall shout with a great shout; and the wall of the city will fall down flat…”* **—Joshua 6:5**
+> *...all the people shall shout with a great shout; and the wall of the city will fall down flat...* **—Joshua 6:5**
 
 This is a war cry.
 
 When Solomon was crowned, we read:
 
-> *“Then they sounded the trumpet and all the people shouted, ‘Long live King Solomon!’”* **—1 Kings 1:39**
+> *Then they sounded the trumpet and all the people shouted, ‘Long live King Solomon!’* **—1 Kings 1:39**
 
 Rather than quiet reverence, this is more of a victory cheer—the roar of a crowd celebrating their king.
 
@@ -47,23 +52,23 @@ The biblical picture is one of noise, celebration, and proclamation combined.
 
 So when the Psalms say, “Shout to the LORD,” the image is closer to a crowd welcoming the victorious King.
 
-Many churches emphasize quiet, controlled worship, but the Psalms repeatedly call for loud, triumphant celebration.
+Many churches emphasize quiet, controlled worship—and there are certainly times when this is the only appropriate response—but the Psalms repeatedly call for loud, triumphant celebration.
 
 The Psalms describe worship as an explosive celebration of God’s kingship.
 
 In Luke, we find:
 
-> *“But Jesus answered, ‘I tell you, if these become silent, the stones will cry out!’”* **—Luke 19:40**
+> *But Jesus answered, ‘I tell you, if these become silent, the stones will cry out!’* **—Luke 19:40**
 
 The Psalmist writes:
 
-> *“Let the heavens be glad, and let the earth rejoice;  
+> *Let the heavens be glad, and let the earth rejoice;  
 Let the sea roar, and all it contains;  
 Let the field exult, and all that is in it.  
-Then all the trees of the forest will sing for joy.”* **—Psalm 96:11–12**
+Then all the trees of the forest will sing for joy.* **—Psalm 96:11–12**
 
-> *“Let the rivers clap their hands,  
-Let the mountains sing together for joy.”* **—Psalm 98:8**
+> *Let the rivers clap their hands,  
+Let the mountains sing together for joy.* **—Psalm 98:8**
 
 This is the natural order. All creation worships the Creator.
 
@@ -71,11 +76,11 @@ So why has our worship become so restrained?
 
 We used to sing:
 
-> *Showers of blessing,*  
-> *Showers of blessing we need;*  
-> *Mercy-drops round us are falling,*  
-> *But for the showers we plead.*
-> ("Let There Be Showers of Blessing," 1883, Public Domain)
+> *Showers of blessing,  
+Showers of blessing we need;  
+Mercy-drops round us are falling,  
+But for the showers we plead.  
+("Let There Be Showers of Blessing," 1883, Public Domain)
 
 “Mercy-drops round us are falling, but for the showers we plead.”  
 
@@ -103,7 +108,7 @@ The Psalms feel like they were written by people who expected showers.
 
 Biblical worship frequently happens before the outcome is visible. It is the declaration: *“God reigns, therefore victory is inevitable.”* That conviction produces the shouting worship we see in the Psalms.
 
-I fear that our restrained worship contributes to a diminished view and expectation of God—which leads to restrained worship—which leads to a diminished view… you get the point.
+I fear that our restrained worship contributes to a diminished view and expectation of God—which leads to restrained worship—which leads to a diminished view... you get the point.
 
 The psalmists didn’t picture worship as quiet politeness. Words like *exult, shout, rejoice, sing,* and *praise* suggest something much more alive.
 

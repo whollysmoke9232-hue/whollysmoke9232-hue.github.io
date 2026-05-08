@@ -1,5 +1,5 @@
 ---
-title: "If Only…"
+title: "If Only..."
 author: Steve Wilkins
 date: 2026-04-08
 layout: article.njk
@@ -14,16 +14,19 @@ tags:
   - grace
 scripture:
   - Psalm 8:2
+themes:
+  - grace
+  - obedience
 ---
 
-> *From the mouth of infants and nursing babes You have established strength Because of Your adversaries, To make the enemy and the revengeful cease*  
+> *From the mouth of infants and nursing babes You have established strength because of Your adversaries, to make the enemy and the revengeful cease*  
 > **—Psalm 8:2**
 
 While cooking my breakfast this morning (Grits Bowl), I was contemplating some of my life's choices. I found myself wishing I had never seen an image of a nude woman. Or never had a relationship with a particular person. Or never even knew that the porn industry existed.  
 
 But in the midst of those thoughts, I began to question God's purposes in those events, activities, and seasons. Who would I be today without those influences?  
 
-I thought about God's sovereignty. About His working "all" things for good.  
+I thought about God's sovereignty. About His working *all* things for good.  
 
 Then I sat down to eat and came across Psalm 8:2.  
 
@@ -33,7 +36,7 @@ God uses things that make no sense to accomplish His purposes.
 
 Psalm 8:2 is one of those verses that feels upside-down on purpose. God doesn’t just work despite weakness, confusion, or broken paths—He often works through them. Infants establishing strength. The small silencing the strong. It’s not how we would design it.
 
-“If I could edit my past… would I?”
+If I could edit my past… would I?
 
 The honest answer is complicated—because while there are things worth grieving, there are also things God has undeniably used.
 
@@ -43,10 +46,10 @@ It’s not wrong to wish certain things had never entered your life. That’s no
 &nbsp;&nbsp;&nbsp;&nbsp; When He allows us to walk into places we will later regret, I have to wonder, ***what is He saving us from?***
 
 *You can’t fully measure what they produced.*  
-&nbsp;&nbsp;&nbsp;&nbsp;There are things happening in and through our lives that we will never see… this side of heaven.
+&nbsp;&nbsp;&nbsp;&nbsp;There are things happening in and through our lives that we will never see... this side of heaven.
 
 *And you definitely can’t see what God is still doing with them.*  
-&nbsp;&nbsp;&nbsp;&nbsp; The ripple-effect of those things will continue to shape us long after the memories fade.
+&nbsp;&nbsp;&nbsp;&nbsp; The ripple—effect of those things will continue to shape us long after the memories fade.
 
 God uses things that make no sense to accomplish His purposes.
 
@@ -60,15 +63,17 @@ and
 
 **“God has brought good out of this”**
 
-And Psalm 8:2 adds one more layer:
+And Psalm 8:2 adds another layer,
 
-God doesn’t just redeem outcomes—He reshapes voices.
+> *From the mouth of infants..."*
 
-The very places that could have disqualified you…
+God doesn’t just redeem outcomes—He reshapes what our lives have to say.
+
+The very places that could have disqualified you...
 
 &nbsp;&nbsp;&nbsp;&nbsp; become places where your perspective carries weight.
 
-Not because of the experiences themselves—
+Not because of the experiences themselves...
 
 &nbsp;&nbsp;&nbsp;&nbsp; but because of what God has done in and through them.
 

@@ -15,6 +15,11 @@ scripture:
   - Psalm 42:4
   - Psalm 42:6
   - Psalm 42:11
+themes:
+  - longing
+  - prayer
+  - renewal
+  - obedience
 ---
 
 > *“As the deer pants for the water brooks,  
@@ -23,17 +28,19 @@ My soul thirsts for God, for the living God;
 When shall I come and appear before God?”*  
 **—Psalm 42:1–2**
 
+---
+
 I have often been challenged by this passage.
 
-When I compare David’s desire with my own, I find myself wanting. I absolutely want to be near God—but I don’t know that my desperation matches the thirst of the deer. My soul wants God, yes… but it is also distracted. Divided. Pulled in a dozen directions by lesser pursuits.
+When I compare David’s desire with my own, I find myself wanting. I absolutely want to be near God—but I don’t know that my desperation matches the thirst of the deer. My soul wants God, yes... but it is also distracted. Divided. Pulled in countless directions by lesser pursuits.
 
 I wonder if David’s words are less a declaration of spiritual achievement and more a prayer of longing—a prayer to be *desperate to be desperate*.
 
 That feels more human. And far more relatable.
 
-Perhaps this psalm was written in a moment of genuine crisis, when thirst had finally stripped away distraction. I find that in my own life, desperation comes easily—but usually only for a moment. When the pressure eases, my hunger often fades with it.
+Perhaps this psalm was written in a moment of genuine crisis, when thirst had finally stripped away distraction. I find in my own life, when I'm under pressure, desperation comes easily—but usually only for a moment. When the pressure eases, my hunger often fades with it.
 
-Still, whether this psalm was born in crisis or longing, it names a posture I want:
+Still, whether this Psalm was born in crisis or longing, it names a posture I want:
 
 I *want* my soul to pant for God the way a thirsty deer pants for water.
 
@@ -55,7 +62,7 @@ There is real benefit in reviewing what God has done *for me, in me, and through
 
 Perhaps if my mind were more practiced in remembering God’s past faithfulness, my present struggles would feel less intimidating—and I would turn to Him sooner, rather than only after repeated or certain failure.
 
-Then comes the wake-up call ...
+Then comes the wake-up call...
 
 ---
 
@@ -68,7 +75,7 @@ Sometimes I have to speak to my own soul with honesty—and firmness.
 
 Sometimes that looks less like gentle reassurance and more like standing in front of the mirror, reminding myself that I am in good hands. That I am not abandoned. That this obstacle, however real, is not ultimate.
 
-David reminds us that God Himself is our hope. And that once He has carried us through—again—we will see that it was in His hands all along.
+David reminds us that God Himself is our hope. And that once He has carried us through—again—we will see that we were in His hands all along.
 
 If we learned to rehearse the things God has already brought us through, praise would come more naturally. Gratitude would follow faith. And God would receive the glory He so rightly deserves.
 
@@ -79,22 +86,6 @@ I have to take my eyes off of myself and fix them on Him.
 Could it be that this is where the seed of desperation is cultivated? In remembrance?  
 
 I must discipline my mind to remain fixed on what God has already done. To thank Him. Praise Him. And in this remembering, to realize that God is so much more than these "things." The real gift is ***Him.***
-
-## Prayer
-
-> O God,  
-> I want to want *You* more.
-
-> My soul longs for You, but it is often distracted and divided. Teach me to desire You not only in moments of crisis, but in the quiet, ordinary spaces of my life. When my hunger fades, draw me back. When my eyes drift, refocus them on You.
-
-> Help me remember what You have already done—  
-the ways You have carried me, sustained me, and remained faithful when I was weak. Anchor my present fears in Your past faithfulness.
-
-> When my soul is downcast and disturbed within me, remind me that You are my hope. Lift my eyes beyond the obstacle before me and fix them on You, the One who holds all things—including me—in Your hands.
-
-> I want You.
-
-> Amen.
 
 ---
 

@@ -13,13 +13,11 @@ After fourteen years in Youth Ministry, I stepped into a new role as Worship Lea
 
 During that time, I joined several international mission trips. I saw poverty I'd never imagined—rampant hunger and homelessness, overwhelming desperation, churches with only one Bible passed from family to family. And yet, the people were joyous. Content. Their worship was more intense than anything I had witnessed before.
 
-For them, Jesus was everything.
-
-I learned the truth of the phrase: Jesus can never be all you need until He is all you have.
+For them, Jesus was everything. I learned the truth of: Jesus can never be all you need until He is all you have.
 
 I began to understand how the Psalmist could write,
 
-"Whom have I in heaven but you? And earth has nothing I desire besides you." —Psalm 73:25
+> *"Whom have I in heaven but you? And earth has nothing I desire besides you."* **—Psalm 73:25**
 
 That lesson became part of the fabric of my life. Over the years, I've seen countless souls come to faith in Jesus. I've walked with couples on the brink of divorce, sat with friends in their deepest valleys, and celebrated mountaintop moments. I've helped addicts find freedom through the healing power of the Holy Spirit—even while I remained bound myself.
 
@@ -29,91 +27,43 @@ God used me to lead others to deliverance, while I silently grieved my own capti
 
 Looking back, I ask: Who can take a life so fractured and use it to bring healing, hope, and redemption?
 
-God can.
+***God can!***
 
 ## Biblical Parallel: Paul's Thorn and God's Power in Weakness (2 Corinthians 12:7-10)
 
 Paul explains that to keep him from becoming proud because of the surpassing greatness of the revelations he received, he was given a thorn in the flesh—a persistent affliction that tormented him. He pleaded with the Lord three times to remove it.
 
-God's answer was not deliverance.
+God's answer was not deliverance. It was grace.
 
-It was grace.
-
-"My grace is sufficient for you," the Lord told him, "for my power is made perfect in weakness."
+> *But he said to me, "My grace is sufficient for you, for my power is made perfect in weakness.* **—2 Corinthians 12:9**
 
 Paul came to understand that the thorn was not a liability, but a platform. Instead of hiding it, he began to boast in it—not because suffering is good, but because weakness became the place where Christ's power rested most fully.
 
-Paul was no stranger to spiritual authority.
+Paul was no stranger to spiritual authority. He saw visions. He performed miracles. He planted churches. He wrote Scripture. But he also suffered.
 
-He saw visions.
-
-He performed miracles.
-
-He planted churches.
-
-He wrote Scripture.
-
-But he also suffered.
-
-Not publicly.
-
-Privately.
-
-Persistently.
-
-He begged God to take the thorn away.
-
-Not once.
-
-Three times.
+Not publicly. Privately. Persistently. He begged God to take the thorn away. Not once. Three times.
 
 And God said no.
 
-Not because He didn't love Paul.
+Not because He didn't love Paul. But because He did.
 
-Because He did.
+Paul didn't get relief. He got revelation.
 
-Paul didn't get relief.
-
-He got revelation.
-
-That weakness wasn't a liability.
-
-It was a platform.
+That weakness wasn't a liability. It was a platform.
 
 When Paul was weak, God was strong.
 
 ## Reflection: Ministry Isn't Proof of Wholeness—It's Evidence of Grace
 
-I led hundreds.
-
-I taught truth.
-
-I sang worship.
-
-I discipled the broken.
+I led hundreds. I taught truth. I sang worship. I discipled the broken.
 
 And all the while, I was breaking.
 
-God didn't pull me from the pulpit.
+God didn't pull me from the pulpit. He poured Himself into it.
 
-He poured Himself into it.
+My addiction didn't cancel my calling. It clarified it. Because I knew what it meant to need grace... not once, but daily.
 
-My addiction didn't cancel my calling.
-
-It clarified it.
-
-Because I knew what it meant to need grace—
-
-not once,
-
-but daily.
-
-I didn't minister from a pedestal.
-
-I ministered from a fracture.
-
-And that's where God shines brightest.
+I didn't minister from a pedestal. I ministered from a fracture. And that's where God shines brightest.
 
 ## Invitation: Boast in the Thorn
 
@@ -123,22 +73,12 @@ Name the thorn you've begged God to remove.
 
 Then name what God has done through it.
 
-Ask Him to show you how His power rests on your weakness—
+Ask Him to show you how His power rests on your weakness... how your fracture might become a fountain; how your story might become a sanctuary for others.
 
-how your fracture might become a fountain,
+Because grace doesn't wait for you to be clean. It meets you while you're bleeding.
 
-how your story might become a sanctuary for others.
+And when you ask, "Who could use a life like mine?"
 
-Because grace doesn't wait for you to be clean.
-
-It meets you while you're bleeding.
-
-And when you ask,
-
-"Who could use a life like mine?"
-
-He answers,
-
-"I can."
+He answers, "I can."
 
 God can.

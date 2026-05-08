@@ -11,16 +11,19 @@ tags:
   - presence
 scripture:
   - Psalm 65:8-9
+themes:
+  - grace
+  - identity
+  - trust
+  - obedience
 ---
 
-## Key Scripture
-
 > _“The whole earth is filled with awe at your wonders;  
-> where morning dawns, where evening fades, you call forth songs of joy.  
-> You care for the land and water it; you enrich it abundantly.  
-> The streams of God are filled with water to provide the people with grain,  
-> for so you have ordained it.”_  
-> **—Psalm 65:8–9** (NIV)
+where morning dawns, where evening fades, you call forth songs of joy.  
+You care for the land and water it; you enrich it abundantly.  
+The streams of God are filled with water to provide the people with grain,  
+for so you have ordained it.”_  
+**—Psalm 65:8–9** (NIV)
 
 ---
 
@@ -34,7 +37,7 @@ This cycle is not random. It is provision—ordained by God.
 
 And then there’s us—the only part of creation that worries about tomorrow.
 
-Our bodies are miracles of growth, reproduction, and healing. A fertilized egg becomes a mature adult—how? We may understand the biology, but the mystery remains. Who imagined white blood cells—those microscopic soldiers that defend us from infection? Who designed the eye to convert light into images the brain can interpret? How is memory stored and recalled? Muscles, nerves, bones, tendons. Even our emotions remind us that we are more than flesh and bone—we are souls, designed to feel, remember, and belong.
+Our bodies are miracles of growth, reproduction, and healing. A fertilized egg becomes a mature adult. How? We may understand the biology, but the mystery remains. Who imagined white blood cells—those microscopic soldiers that defend us from infection? Who designed the eye to convert light into images the brain can interpret? How is memory stored and recalled? Muscles, nerves, bones, tendons. Even our emotions remind us that we are more than flesh and bone—we are souls, designed to feel, remember, and belong.
 
 Creation doesn’t just reveal how things work—it reveals the heart of the One who made them. And the gospel tells us that this same Creator did not remain distant, but entered His creation to redeem what was broken and restore what He loves.
 
@@ -63,9 +66,5 @@ So today, pause. Step outside. Let the breeze remind you that you are held. Let 
 The same God who tends the grass also tends your life.  
 You are invited to trust Him with it.
 
----
-
-## Prayer
-
 > Lord, open my eyes to Your wonders. Help me to see the beauty of Your creation and remember that I am part of it. Teach me to trust You, as the birds and flowers do, and to join all creation in songs of joy.  
-> Amen.
+Amen.

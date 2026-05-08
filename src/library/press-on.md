@@ -15,6 +15,11 @@ tags:
 scripture:
 - Philippians 3:14
 - Jeremiah 29:11
+themes:
+  - hope
+  - restoration
+  - guilt
+  - weariness
 ---
 
 > *F.B. Meyer wrote,  
@@ -24,7 +29,7 @@ That settled into my spirit like a healing balm.
 
 For decades, I had viewed myself as a weak loser. Time and again, I had given in to the temptation to “act out” my addiction. But each stumble was preceded by a fight.
 
-I would start every morning praying that today would be different. Today I would overcome the temptation waiting around some corner. When the idea finally presented itself, I would resist and sweat — before finally falling yet again.
+I would start every morning praying that today would be different. Today I would overcome the temptation waiting around some corner. When the idea finally presented itself, I would resist and sweat—before finally falling yet again.
 
 In bed at the end of the day, I would cry out for forgiveness and healing, begging for strength to overcome tomorrow.
 
@@ -45,7 +50,7 @@ Praise God, He sees the fight.
 
 He notices the resistance.  
 He sees the sweat.  
-He records the attempts — not just the results.  
+He records the attempts—not just the results.  
 
 And He weeps with me.
 

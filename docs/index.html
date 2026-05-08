@@ -108,6 +108,55 @@
          title="Begin"
          style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   </a>
+  <section class="library-search" aria-labelledby="hp-library-search-heading" style="margin: 0.2rem 0 1.2rem 0; text-align: left;">
+    <h2 id="hp-library-search-heading" style="margin: 0 0 0.4rem 0; font-size: 1.25rem; color: #3a2a13;">Search the Library</h2>
+    <p data-library-search-status style="margin: 0.35rem 0 0.6rem 0; color: #6a5738;">Search by scripture, tags, themes, or article text.</p>
+    <label class="library-search-label" for="hp-library-search-input" style="display: block; margin-bottom: 0.3rem; font-size: 0.92rem; color: #5d4a2a;">Search</label>
+    <input
+      id="hp-library-search-input"
+      data-library-search-input
+      type="search"
+      placeholder="Try: Psalm 119, surrender, holiness, or any phrase"
+      autocomplete="off"
+      style="width: 100%; box-sizing: border-box; border: 1px solid #ccb993; border-radius: 6px; padding: 0.65rem 0.75rem; font-size: 1rem;"
+    />
+    <p class="library-search-count" data-library-search-count style="font-weight: 600; color: #4d3a1b; margin: 0.5rem 0;"></p>
+    <div class="library-search-results" data-library-search-results aria-live="polite" style="display: grid; gap: 0.85rem;"></div>
+  </section>
+  <style>
+    .library-search-item {
+      border: 1px solid #eadfc8;
+      border-radius: 6px;
+      background: #fffef9;
+      padding: 0.7rem 0.8rem;
+    }
+
+    .library-search-item h3 {
+      margin: 0;
+      font-size: 1.05rem;
+    }
+
+    .library-search-item h3 a {
+      color: #6b4f2c;
+    }
+
+    .library-search-preview {
+      margin: 0.45rem 0;
+      color: #4f412c;
+    }
+
+    .library-search-meta {
+      margin: 0;
+      font-size: 0.88rem;
+      color: #7a6645;
+    }
+
+    .library-search-empty {
+      margin: 0;
+      color: #6a5738;
+    }
+  </style>
+  <script src="/assets/js/search/library-search.js" defer></script>
   <a href="/reading-paths/" title="Reading Paths">
     <img src="/images/reading-paths.png"
          alt="Reading Paths"

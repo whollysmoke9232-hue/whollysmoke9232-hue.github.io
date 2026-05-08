@@ -10,6 +10,11 @@ tags:
   - seeking
   - trust
   - confinement
+themes:
+  - suffering
+  - longing
+  - identity
+  - loneliness
 ---
 
 Millions of people calling Your Name  

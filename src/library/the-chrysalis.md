@@ -14,6 +14,11 @@ tags:
   - confinement
 scripture:
   - 2 Corinthians 5:17
+themes:
+  - identity
+  - repentance
+  - renewal
+  - surrender
 ---
 
 Immersed in His Word.  

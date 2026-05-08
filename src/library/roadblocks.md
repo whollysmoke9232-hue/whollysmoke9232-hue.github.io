@@ -11,6 +11,10 @@ tags:
   - trust
 scripture:
   - Mark 4:18-19
+themes:
+  - surrender
+  - trust
+  - obedience
 ---
 
 Why is it so hard to get out of our own way?
@@ -21,9 +25,9 @@ If someone intended us harm, we’d instinctively flee.
 
 These are situations where our natural *fight or flight* response kicks in.
 
-But what about when something **good** is coming our way?
+But what about when something ***good*** is coming our way?
 
-It seems that one of the greatest obstacles to receiving what God desires to do in us is often… *us*.  
+It seems that one of the greatest obstacles to receiving what God desires to do in us is often... *us*.  
 Not because God is restrained—but because we are distracted, resistant, or misaligned with His work.
 
 ---
@@ -31,12 +35,9 @@ Not because God is restrained—but because we are distracted, resistant, or mis
 I’m reminded of a familiar preacher’s story—not as doctrine, but as illustration:
 
 > A man died and went to heaven, where Jesus showed him the wonders of eternity—family reunited, the beauty of heaven, and a mansion prepared for him.  
->  
-> Eventually, they came to a street of warehouses. One bore the man’s name. Inside were countless gifts.  
->  
-> “What is all this?” the man asked.  
->  
-> Jesus replied, _“These are things I longed to give you—but you were too busy chasing other things.”_
+Eventually, they came to a street of warehouses. One bore the man’s name. Inside were countless gifts.  
+“What is all this?” the man asked.  
+Jesus replied, _“These are things I longed to give you—but you were too busy chasing other things.”_
 
 The point isn’t regret—it’s revelation.
 
@@ -48,7 +49,7 @@ Jesus explains this tension in the Parable of the Sower:
 
 Notice: the problem isn’t evil.  
 It’s **distraction**.  
-The “other things” are often good things—just not **Him**.
+The “other things” are often good things—they're just not **Him**.
 
 ---
 
@@ -73,15 +74,13 @@ you may need to release something you’ve been holding too tightly.
 Not in defeat—but in trust.
 
 **I surrender. I choose Your way. I want Your best—whatever that is.**  
-And sometimes, the holiest thing we can do…  
+And sometimes, the holiest thing we can do...  
 is step aside.
 
 ---
 
-## Prayer
-
 > Lord, pull up the thorns.  
-> Expose the subtle distractions.  
-> Align my heart with what You are already doing.  
-> I don’t want more activity—I want **You**.  
-> Amen.
+Expose the subtle distractions.  
+Align my heart with what You are already doing.  
+I don’t want more activity—I want **You**.  
+Amen.

@@ -13,20 +13,25 @@ scripture_references:
   - Psalm 53:2–3
   - Romans 3:10–12
   - John 15:5
+themes:
+  - repentance
+  - identity
+  - shame
+  - guilt
 ---
 
-> *God has looked down from heaven upon the sons of men*  
-> *To see if there is anyone who understands,*  
-> *Who seeks after God.*  
-> *Every one of them has turned aside; together they have become corrupt;*  
-> *There is no one who does good, not even one.*  
-> **—Psalm 53:2–3**
+> *God has looked down from heaven upon the sons of men  
+*To see if there is anyone who understands,  
+*Who seeks after God.  
+*Every one of them has turned aside; together they have become corrupt;  
+*There is no one who does good, not even one.*  
+**—Psalm 53:2–3**
 
-There is no one who does good, not even one.
+"*There is no one who does good, not even one.*"
 
 I tend to get pretty impressed with myself.
 
-When I write, or teach, or preach, or sing…  
+When I write, or teach, or preach, or sing...  
 or even after a conversation with a friend when I have shared some new insight.  
 I mean, I just did something out of the ordinary.  
 Something that caused others to stop and listen.  
@@ -51,7 +56,8 @@ Left to myself, even my best moments carry the scent of self-reliance.
 Even my “holy” efforts quietly ask to be noticed.  
 Even my obedience wants credit.
 
-“There is no one who does good, not even one.”  
+“*There is no one who does good, not even one.*”  
+
 Not because we never do outwardly good things,  
 but because goodness, in God’s economy, is never self-generated.  
 It does not rise from insight or effort or sincerity.  
@@ -72,7 +78,7 @@ And yet, the Psalm does not end with despair.
 If no one does good—  
 if no one understands,  
 if no one truly seeks God—  
-then the only hope left is that God seeks us.
+then the only hope left is that *God seeks us.*
 
 ***Which He does.***
 
@@ -98,8 +104,7 @@ to fulfill it.
 
 Dependence, then, is not weakness to be overcome.  
 It is the posture that finally tells the truth.  
-“I can do nothing apart from You”  
-is not a spiritual slogan—it is a confession of reality.
+“I can do nothing apart from You” is not a spiritual slogan—it is a confession of reality.
 
 And in that confession, grace is no longer theoretical.  
 It becomes daily bread.  
@@ -117,16 +122,14 @@ That is where goodness begins.
 ## Prayer
 
 > Father,  
-> You know how easily I am impressed with myself,  
-> and how quickly I forget that every good thing flows from You.  
-> Strip away my illusions of self-sufficiency.  
-> Teach me to abide rather than perform,  
-> to depend rather than impress,  
-> to be known rather than admired.  
+You know how easily I am impressed with myself,  
+and how quickly I forget that every good thing flows from You.  
+Teach me to abide rather than perform,  
+to depend rather than impress,  
+to be known rather than admired.  
 
-> Thank You for Jesus—  
-> the only truly good One—  
-> and for grace that meets me not at my best,  
-> but at my most honest.  
-
-> Amen.
+>Thank You for Jesus—  
+the only truly good One—  
+and for grace that meets me not at my best,  
+but at my most honest.  
+Amen.

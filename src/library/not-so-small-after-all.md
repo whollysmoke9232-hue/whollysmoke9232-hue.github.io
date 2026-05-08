@@ -15,6 +15,9 @@ tags:
 - confinement
 scripture:
 - Psalm 8:3-4
+themes:
+  - identity
+  - suffering
 ---
 
 > *“When I consider Your heavens, the work of Your fingers,  

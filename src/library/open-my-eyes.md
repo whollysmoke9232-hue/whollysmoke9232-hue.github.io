@@ -12,6 +12,11 @@ tags:
 scripture_references:
   - 2 Corinthians 4:18
   - Matthew 6:33
+themes:
+  - longing
+  - trust
+  - renewal
+  - obedience
 ---
 
 > *“while we look not at the things which are seen, but at the things which are not seen; for the things which are seen are temporal, but the things which are not seen are eternal.”* **—2 Corinthians 4:18**

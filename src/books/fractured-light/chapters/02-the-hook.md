@@ -15,7 +15,7 @@ It didn't feel like sin. It felt like curiosity. My friend and I were just explo
 
 That's when Satan learned what bait would keep me coming back.
 
-I didn't understand the weight of it then. I just knew I didn't want to get caught. My mom was a church organist, and I'd been in church since infancy. I knew the difference between right and wrong. But I didn't know why this felt wrong. I didn't know what part of it was broken. I just knew it had to stay secret.
+I didn't understand the weight of it then. I just knew I didn't want to get caught. My mom was a church organist, and I'd been in church since infancy. I knew the difference between right and wrong. But I didn't know why *this* felt wrong. I didn't know what part of it was broken. I just knew it had to stay secret.
 
 Years passed. The visits slowed. The exploring stopped. But the spiral had begun.
 
@@ -31,9 +31,9 @@ I was hooked. And I would stay hooked for decades.
 
 **Genesis 3: The First Fall**
 
-They were naked and unashamed. Innocent. Curious. Free.
+Adam and Eve were naked and unashamed. Innocent. Curious. Free. They enjoyed unbroken fellowship with their Creator. They were placed in a garden where every imaginable want and need was provided. They literally had everything. If anybody ever had hope of living without sin, it was Adam and Eve.
 
-Then came the whisper: "Did God really say…?"
+Then came the whisper: "Did God really say...?"
 
 Then came the bite.
 
@@ -41,7 +41,7 @@ Followed by the shame.
 
 Adam and Eve didn't know what sin was. They just knew they weren't supposed to eat. But the fruit looked good. Pleasing. Desirable. So they reached. They tasted. And everything changed.
 
-They hid. They covered themselves. They felt exposed.
+Afterwards, they hid. They covered themselves. They felt exposed.
 
 And when God came walking in the garden, they didn't run to Him. They ran from Him.
 
@@ -59,7 +59,7 @@ That's how it grows. That's how it hooks. That's how it hides.
 
 Like Adam and Eve, I didn't know what I was doing. But I knew I didn't want to be seen.
 
-And that's the first lie sin tells us: "If they see you, they'll reject you."
+And that's the first lie sin tells us: "If they see you, they'll reject you." So I began developing the necessary skills to keep my secret. I hid it from everyone. On some level, I knew that God could see through my deception—that He knew exactly what I was doing. And I feared the day He would confront me with my sin.
 
 But God's first question in the garden wasn't "What did you do?"
 
@@ -79,9 +79,9 @@ If you're hiding—behind shame, behind secrecy, behind silence—God is still a
 
 "Where are you?"
 
-Not to condemn.
+He is pursuing *you.*
 
-To connect.
+Not to condemn. To connect.
 
 Take a moment.
 

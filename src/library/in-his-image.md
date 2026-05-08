@@ -15,6 +15,11 @@ scripture_references:
   - 1 Corinthians 13:12
   - 1 John 3:2
   - Revelation 4:8
+themes:
+  - identity
+  - longing
+  - renewal
+  - obedience
 ---
 
 ## In His Image
@@ -32,13 +37,13 @@ God is holy. We are often profane. He is omnipotent. Omniscient. We are dirty. C
 
 ---
 
-We are created in His *image* — not like Him.  
+We are created in His *image* — not *like* Him.  
 
-We are given eternal existence, which means that our souls do not cease. How can that be? Finite creatures who will live forever? What a paradox.  
+We are given eternal existence, which means that our souls do not cease. How can that be? Finite creatures who will live forever? What a paradox!  
 
 We are offered eternal life as a gift. God is eternal by nature.  
 
-> *“He has “set eternity in the human heart.”* **— Ecclesiastes 3:11**  
+> *He has “set eternity in the human heart.”* **— Ecclesiastes 3:11**  
 
 Because we are created in His image, there is something in us that longs for eternity.  
 
@@ -50,13 +55,13 @@ What a thought! We are designed for unending communion with the Infinite One.
 
 Because of our finite bodies, we are incapable of grasping the reality of infinite. We go through life searching for understanding of this mystery.  
 
-From time to time, we get a glimpse - a minuscule understanding of something beyond us.  Of the eternal God. Of our fallen nature. Some truth we discover, but can’t quite vocalize.  
+From time to time, we get a glimpse—a minuscule understanding of something beyond us.  Of the eternal God. Of our fallen nature. Some truth we discover, but can’t quite vocalize.  
 
 These excite us but leave us uneasy. We know we’ve tapped into something eternal, but we can’t quite grasp it.  
 
-As we make these discoveries, we share them with others - who are incapable of comprehending what we are trying to explain – because, like us, they are finite creatures who carry eternity in fragile bodies.
+As we make these discoveries, we share them with others—who are incapable of comprehending what we are trying to explain—because, like us, they are finite creatures who carry eternity in fragile bodies.
 
-Each of these “holy moments” becomes the unseen building blocks for a faith that we can’t explain.
+Each of these “holy moments” become the unseen building blocks for a faith that we can’t explain.
 
 ---
 

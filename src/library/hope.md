@@ -14,10 +14,15 @@ tags:
   - restoration
 scripture:
   - Psalm 39:7
+themes:
+  - hope
+  - suffering
+  - waiting
+  - restoration
 ---
 
-> *“And now, Lord, for what do I wait?  
-My hope is in You.”* **—Psalm 39:7**
+> *“And now, Lord, for what do I wait? My hope is in You.”*  
+> **—Psalm 39:7**
 
 *Author’s note: This is an excerpt from a letter I wrote from jail.*
 
@@ -29,7 +34,7 @@ Like the hope of free time. Free time. What an oxymoron. “If your bed is not m
 
 Then the frustration starts kicking in. Inmates all around the cell block start screaming obscenities. Slapping, banging, kicking their doors; the sound echoing inside the concrete walls. It's deafening. It usually goes on for an hour or so.  
 
-It's what “no hope” sounds like.  
+It's what *“no hope”* sounds like.  
 
 And “no hope” is what defines the atmosphere in here most of the time.  
 
@@ -39,13 +44,14 @@ So, hope? No thanks.
 
 Tomorrow marks one month that I've been here. Two weeks since the court said I could go home.  
 
-Hope… But I'm still in jail.  
+Hope... But I'm still in jail.  
 
 It's my fault. I know that. But it's still hard. It still hurts. I'm trying to figure out how I will survive here for the year my attorney says it will take for my case to go to trial.  
 
 I've lost hope that I will be going home. I'm losing hope that I will even have a home to go home too. I fish for reasons to hope. But they are rare these days.  
 
-I’ve learned some lessons about hope. Let it go. It's a cruel taskmaster.  
+I’ve learned some lessons about hope:  
+Let it go. It's a cruel taskmaster.  
 
 Hope is no longer my friend. Hope has become my greatest enemy.  
 

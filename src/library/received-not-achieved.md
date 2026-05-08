@@ -14,6 +14,11 @@ tags:
 scripture:
   - Psalm 119:33-40
   - Philippians 1:6
+themes:
+  - obedience
+  - grace
+  - surrender
+  - renewal
 ---
 
 > *“Teach me, O LORD, the way of Your statutes,  
@@ -45,16 +50,16 @@ I’m not spending enough time in prayer…
 
 While all of these are worthy pursuits, none of them, by themselves, accomplish God’s purpose in my life.  
 
-What they can do instead is subtly shift our focus inward,  
-making us feel inadequate and keeping us at a distance.
+What they can do instead is subtly shift my focus inward,  
+making me feel inadequate and keeping me at a distance.
 
 Why?
 
 Because in each case, the emphasis is on ***me.***  
-My effort. My discipline. My accomplishment.
+*My* effort. *My* discipline. *My* accomplishment.
 
 The writer of Psalm 119 puts all of that in its proper place.  
-He embraces the truth that all he brings to the table is nothing.  
+He embraces the truth that all he brings to the table is...  **nothing.**  
 Even his desire to pursue and commune with God is a gift from God.
 
 > *Teach me…give me…make me…*  
@@ -79,8 +84,8 @@ To allow Him to finish His work in us.
 
 > *“For I am confident of this very thing, that He who began a good work in you will perfect it until the day of Christ Jesus.”* **—Philippians 1:6**
 
-*Lord,*  
-*I surrender.*  
-*Keep me out of Your way.*  
-*Do Your work in me.*  
-*Make me complete.*
+> Lord,  
+I surrender.  
+Keep me out of Your way.  
+Do Your work in me.  
+Make me complete.

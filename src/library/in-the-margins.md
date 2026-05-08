@@ -17,6 +17,11 @@ scripture:
   - Ephesians 1:4
   - 1 Peter 1:20
   - Exodus 3:14
+themes:
+  - grace
+  - suffering
+  - obedience
+  - loneliness
 ---
 
 What is your favorite place in the Bible?
@@ -168,7 +173,7 @@ Before creation.
 Before light.  
 Before words.
 
-**God knew.**
+***God knew.***
 
 Everything from *Genesis 1:1* to *Revelation 22:21*—and beyond—was already fully known.
 
@@ -190,7 +195,7 @@ And then He began to paint.
 
 I often return to that margin.
 
-I lie in bed at night and meditate on that instant before the beginning. And in that instant—He was already here. With me. With you. With this very moment.
+I lie in bed at night and meditate on that instant before the beginning. And in that instant—He was already here. With me. With you. In this very moment.
 
 This moment has never been outside His knowing or His care.
 

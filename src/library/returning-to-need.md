@@ -14,11 +14,15 @@ tags:
   - faith
 scripture:
   - Matthew 18:3
+themes:
+  - trust
+  - identity
+  - surrender
 ---
 
-*“And he said: ‘Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven.’”* **—Matthew 18:3**
+> *And he said: ‘Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven.’* **—Matthew 18:3**
 
-This verse has always struck me. “Change and become like little children.” Jesus says we must change? He is not talking about behavior. He’s addressing something much deeper.
+This verse has always struck me. *Change and become like little children.* Jesus says we must change? He is not talking about behavior. He’s addressing something much deeper.
 
 Little children have an innocence in their approach to living that is slowly abandoned as we mature.
 
@@ -28,7 +32,7 @@ They love without limits. In spite of their lack of understanding of the definit
 
 They are firmly attached to their caregivers. Separation produces anxiety. Reunion brings unbridled joy and relief.
 
-But it’s their need that speaks to me the loudest.
+But it’s their *need* that speaks to me the loudest.
 
 In the beginning, they can do nothing for themselves. They are completely reliant on others to even stay alive. They are fed, transported, and protected by someone they have little understanding of. They look to this someone with complete trust and confidence.
 
@@ -48,7 +52,7 @@ As a result, we find ourselves feeling spiritually impotent. Disappointed in our
 
 Could it be that Jesus knew all of this when He implored His followers to change?
 
-Maybe we should step back and consider the nature of little children and adjust our focus. Jesus said that otherwise, we *“will never inherit the Kingdom of Heaven.”*
+Maybe we should step back and consider the nature of little children and adjust our focus. Jesus said that otherwise, we *will never inherit the Kingdom of Heaven.*
 
 This refocus certainly doesn’t excuse or negate our sin.
 

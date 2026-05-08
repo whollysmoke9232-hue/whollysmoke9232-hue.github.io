@@ -14,6 +14,11 @@ tags:
   - confinement
 scripture:
   - John 15:5
+themes:
+  - prayer
+  - surrender
+  - suffering
+  - obedience
 ---
 
 ## 3/19/2023

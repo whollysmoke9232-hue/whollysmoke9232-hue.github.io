@@ -18,14 +18,19 @@ scripture_references:
   - John 1:14
   - Acts 2:1–4
   - 1 Corinthians 12–14
+themes:
+  - suffering
+  - renewal
+  - obedience
+  - grace
 ---
 Unpacking Holiness
 
 For much of Scripture, the question is not whether God is present, but how He is present—and what that presence requires of those who draw near.  
 
-In the wilderness, God dwelt among Israel in a way that was unmistakable and, at times, terrifying. His glory rested at the center of the camp, between the cherubim, surrounded by boundaries, laws, and careful instruction. Holiness was concentrated, proximity was dangerous, and disobedience often resulted in sudden loss of life. This was not cruelty; it was molding. *Israel was learning what it meant to live near a holy God.*  
+In the wilderness, God dwelt among Israel in a way that was unmistakable and, at times, terrifying. His glory rested at the center of the camp, between the cherubim, surrounded by boundaries, laws, and careful instruction. Holiness was concentrated, proximity was dangerous, and disobedience often resulted in sudden loss of life. This was not cruelty on God's part; it was molding a holy nation. *Israel was learning what it meant to live near a holy God.*  
 
-When the people entered the Promised Land, something shifted. God’s presence remained real, but it was no longer centralized in the daily lives of the people. The Tabernacle—and later the Temple—stood in one place, while the nation spread out across hills and valleys. Judgment no longer came primarily through immediate death, but through drought, defeat, exile, and longing. Distance became mercy. *Time became space for repentance.*  
+When the people entered the Promised Land, something shifted. God’s presence remained real, but it was no longer centralized in the daily lives of the people. The Tabernacle—and later the Temple—stood in one place, while the nation spread out across hills and valleys. Judgment no longer came primarily through immediate death, but through drought, defeat, exile, and longing. That distance became mercy. *Time became space for repentance.*  
 
 The Temple itself became the final containment of holiness—a sacred center where sin could be confessed and covered, where God’s presence could dwell without consuming the people. But when that system was corrupted, when ritual replaced repentance and sacrifice lost its meaning, the prophets saw what the people did not: the glory departed. God left the building. The Temple burned. *But only after it was already empty.*  
 

@@ -12,10 +12,13 @@ tags:
   - grace
 scripture:
   - Psalm 17:8
+themes:
+  - trust
+  - grace
+  - obedience
 ---
 
-> *Keep me as the apple of the eye;
-Hide me in the shadow of Your wings* **—Psalms 17:8**  
+> *Keep me as the apple of the eye; Hide me in the shadow of Your wings* **—Psalms 17:8**  
 
 This is not decorative poetry. David is not reaching for a sentimental picture of closeness. He is drawing from an image his listeners would physically feel.
 
@@ -27,7 +30,7 @@ It does not require any scientific understanding to realize that we instinctivel
 
 David is praying,  
 
-> *“Guard me with the same reflex You guard Your own sight.”*  
+> *“Guard me with the same reflex You would guard Your own sight.”*  
 
 Not reluctant protection. Not even negotiated protection. But reflexive protection.
 
@@ -37,7 +40,7 @@ Which naturally leads David to the next expression of protection:
 
 ***“Hide me in the shadow of Your wings”***  
 
-In David’s experience, this was a familiar, powerful scene: When danger appeared, chicks ran instinctively under the mother. Her wings became a living shield. The chicks could not fight, flee, or understand — they could only trust.
+In David’s experience, this was a familiar, powerful scene: When danger appeared, chicks ran instinctively under the mother. Her wings became a living shield. The chicks could not fight, flee, or understand—they could only trust.
 
 David is saying:
 
@@ -47,4 +50,4 @@ David was seeking an immediate covering. A relational refuge. He was trusting Go
 
 David sees himself as small and defenseless. He knows he can only survive *not* by his own strength, but by his proximity to his Creator.
 
-David was a warrior, yet he understood that safety comes not from what he can do, but from where he stands.
+David was a warrior, yet he understood that safety comes not from what he can do, but from *where he stands.*

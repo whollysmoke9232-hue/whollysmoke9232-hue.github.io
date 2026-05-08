@@ -13,15 +13,18 @@ tags:
 scripture:
   - Psalm 127:1-2
   - Matthew 6:33
+themes:
+  - longing
+  - prayer
+  - suffering
+  - repentance
 ---
 
-## Key Scripture
-
 > _“Unless the Lord builds the house, the builders labor in vain.  
-> Unless the Lord watches over the city, the guards stand watch in vain.  
-> In vain you rise early and stay up late, toiling for food to eat—  
-> for He grants sleep to those He loves.”_  
-> **—Psalm 127:1–2**
+Unless the Lord watches over the city, the guards stand watch in vain.  
+In vain you rise early and stay up late, toiling for food to eat—  
+for He grants sleep to those He loves.”_  
+**—Psalm 127:1–2**
 
 ---
 
@@ -56,7 +59,7 @@ But this truth extends beyond children. Every blessing from God—whether it’s
 - Opportunity  
 - Peace  
 
-> —is ultimately a byproduct of His presence.
+***is ultimately a byproduct of His presence.***
 
 When we dwell with Him, we walk in confidence—not because of what we have, but because of *who is with us*.
 
@@ -64,22 +67,17 @@ When we dwell with Him, we walk in confidence—not because of what we have, but
 
 ## Facing the Gate
 
-The psalm ends with a powerful image: standing before the judges in the gate. These were the authorities, the decision-makers, the ones who could determine your fate. But when you know you’re walking with God, you don’t fear the gate. You don’t fear the verdict.
+The Psalm ends with a powerful image: standing before the judges in the gate. These were the authorities, the decision-makers, the ones who could determine your fate. But when you know you’re walking with God, you don’t fear the gate. You don’t fear the verdict.
 
 Because no matter what the world decides, you are held in the hand of the One who reigns above it all.
 
 ---
 
-## Prayer
-
 > Lord, forgive me for the times I’ve sought Your hand more than Your heart.  
-> Teach me to desire You above all else.  
-> Help me to seek Your face daily, to rest in Your presence,  
-> and to trust that every good thing flows from You.  
-> I want to dwell with You—not just visit.  
-> I want to know You—not just need You.  
-> Be my pursuit, my portion, and my peace.  
-> Amen.
+Teach me to desire You above all else.  
+I want to *dwell* with You—not just visit.  
+I want to *know* You—not just need You.  
+Amen.
 
 ---
 

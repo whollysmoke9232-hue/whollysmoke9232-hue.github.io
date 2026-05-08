@@ -19,7 +19,7 @@ The title *Fractured Light* comes from a truth I've come to believe: that God's 
 
 Each chapter in this book pairs a piece of my story with a story from Scripture. Not to draw perfect parallels, but to show that brokenness is not a modern problem—and redemption is not a modern invention. God has always done His best work in the margins. In the lives of adulterers, addicts, outcasts, and doubters. In the lives of people like me. People like you.
 
-You'll read about my early exposure to sexual addiction, my descent into secrecy and shame, my arrest, my time in jail, and the slow, sacred process of spiritual resurrection. You'll also walk alongside David, Elijah, Hosea, the bleeding woman, and the prodigal son. Their stories aren't sanitized. They're messy. But they're holy. Because God met them there.
+You'll read about my early exposure to sexual activity, my descent into secrecy and shame, my arrest, my time in jail, and the slow, sacred process of spiritual resurrection. You'll also walk alongside David, Elijah, Hosea, the woman with the issue of blood, and the prodigal son. Their stories aren't sanitized. They're messy. But they're holy. Because God met them there.
 
 If you're reading this and feel like you've gone too far—you haven't.
 

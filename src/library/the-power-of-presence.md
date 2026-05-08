@@ -11,6 +11,9 @@ tags:
   - trust
 scripture:
   - Psalm 44:3
+themes:
+  - trust
+  - obedience
 ---
 
 > *For by their own sword they did not possess the land,  
@@ -37,15 +40,7 @@ I do not want to live that cycle anymore.
 
 It is Your presence—not my effort, insight, or resolve—that secures my place within Your will.
 
----
-
-## Prayer
-
 > Gracious God,  
-> Keep me near You.  
-> When life is hard, draw me to depend on You.  
-> When life is easy, keep me from drifting away.  
-> Teach me to value Your presence above success, comfort, or control.  
-> Let my life be shaped not by my strength, but by Your nearness.  
-
-> Amen.
+Keep me near You.  
+Let my life be shaped not by my strength, but by Your nearness.  
+Amen.

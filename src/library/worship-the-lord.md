@@ -13,6 +13,10 @@ tags:
 scripture_references:
   - Genesis 22:5
   - 2 Samuel 24:24
+themes:
+  - surrender
+  - obedience
+  - trust
 ---
 
 ## “Worship the LORD”
@@ -28,11 +32,11 @@ The context here is important. Worship is first connected to sacrifice. It invol
 
 What it is not associated with is singing, music, or ritual gathering. It is tied to trust in God’s character and promises.  
 
-Abraham calls what he is about to do—offering his promised son—“worship.”  
+Abraham calls what he is about to do—offering his promised son as a sacrifice to God—“worship.”  
 
 That sets a foundational biblical pattern:  
 
-Worship, in scripture, begins not with music — but with surrender.  
+Worship, in scripture, begins not with music—but with surrender.  
 
 It is in the context of:  
 
@@ -44,7 +48,7 @@ It is in the context of:
 
 The Hebrew term that was translated “worship” basically means to bow down, to prostrate oneself, to bend low, to fall face-down.  
 
-So Biblically, worship begins with bowing and entrusting what you love most into God’s hands. It was expressed physically through bowing, kneeling, or prostration.  
+So Biblically, worship begins with bowing and entrusting what you love most into God’s hands.
 
 ---
 
@@ -63,7 +67,7 @@ Just as Abraham understood that his worship would cost him dearly, we need to co
 David said,  
 > *“…I will not offer burnt offerings to the LORD my God which cost me nothing…”* **—2 Samuel 24:24**  
 
-Worship – such as is pleasing to God – will always cost me something.  
+Worship–such as is pleasing to God–will always cost me something.  
 
 I freely admit that I seldom bow, lie, or prostrate myself before God. Even when I’m alone in my room. It doesn’t feel right. It seems radical.  
 

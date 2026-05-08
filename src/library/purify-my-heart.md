@@ -13,7 +13,11 @@ tags:
   - confinement
 scripture:
   - Matthew 5:8
-
+themes:
+  - repentance
+  - surrender
+  - prayer
+  - suffering
 ---
 
 ## A Prayer
@@ -23,7 +27,7 @@ purify my heart, for I long to see more of You.
 
 I've seen Your hand.  
 I've experienced a taste of Your love.  
-I've been given a glimpse of Your glory.  
+I've been given a glimpse of Your glory.
 
 But I want to see **more of You**.
 

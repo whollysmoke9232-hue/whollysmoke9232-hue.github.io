@@ -21,15 +21,18 @@ scripture:
   - Psalm 119:167
   - Psalm 119:173
   - Psalm 119:176
+themes:
+  - prayer
+  - obedience
+  - longing
+  - trust
 ---
 
 Psalm 119 has become, for me, less a chapter to study and more a companion to live with. Over time, its verses have not merely instructed me—they have named my experience, often more clearly than I could myself. What follows is not a commentary in the academic sense, but a reflection anchored in several verses that have shaped how I understand God’s Word, affliction, desire, and trust.
 
 ---
 
-## God Is My Portion (Psalm 119:57)
-
-> *“The LORD is my portion.”*
+## *“The LORD is my portion.”* —Psalm 119:57
 
 This may be one of the most important truths in all of Scripture.
 
@@ -41,23 +44,21 @@ This truth quietly reorders everything. Obedience becomes response, not leverage
 
 ---
 
-## Open My Eyes (Psalm 119:18)
+## *“Open my eyes, that I may behold wonderful things from Your law.”* —Psalm 119:18
 
-> *“Open my eyes, that I may behold wonderful things from Your law.”*
-
-This prayer assumes that the problem is not with God’s Word, but with my sight. Over the years, I have encountered many insights, encouragements, and challenges in Scripture—but there have also been moments when God opened my eyes to see **wonderful things**: new things, unimaginable things, sometimes indescribable things. Life-changing things.
+This prayer assumes that the problem is not with God’s Word, but with my sight. Over the years, I have encountered many insights, encouragements, and challenges in Scripture—but there have also been moments when God opened my eyes to see **wonderful things**: new things, unimaginable things, sometimes indescribable things.  Life-changing things.
 
 These are not discoveries of intellect. They are gifts of illumination. They reveal who I am—with and without Him—and, more importantly, **who He is**.
 
-The more I know Him, the more I realize how little I truly know. I need Him. I need His Word. I need Him to open my eyes.
+The more I know Him, the more I realize how little I truly know.
+
+I need Him. I need His Word. I need Him to open my eyes.
 
 > *Then He opened their minds to understand the Scriptures* ***—Luke 24:45***
 
 ---
 
-## Not Neglecting the Word (Psalm 119:16)
-
-> *“I will not neglect Your word.”*
+## *“I will not neglect Your word.”* —Psalm 119:16
 
 This is not a boast of discipline. It is a declaration of orientation.
 
@@ -69,26 +70,22 @@ God’s Word is not something I master; it is something I return to. And in that
 
 ---
 
-## Afflicted—and Kept Alive (Psalm 119:92, 107)
-
-> *“If Your law had not been my delight, then I would have perished in my affliction.”*  
-> *“I am exceedingly afflicted; revive me, O LORD, according to Your word.”*
+## *“If Your law had not been my delight, then I would have perished in my affliction. I am exceedingly afflicted; revive me, O LORD, according to Your word.”* —Psalm 119:92, 107
 
 For years, I associated the word *afflicted* with my addiction—and rightly so. Psalm 119 does not deny affliction, nor does it romanticize it. The psalmist does not ask for immediate removal of suffering. He asks for **revival**.
 
 God’s Word did not instantly remove my affliction. It sustained me **within** it. It kept me alive—spiritually, morally, relationally—when I might otherwise have perished.
+
 That assumes something profound. The affliction may remain. The circumstances may not change. The struggle may continue.  
 
-But life is still possible inside it.
+But life is still possible inside it.  
 This is not desperation. It is survival by grace.
 
 > *“My grace is sufficient for you, for power is perfected in weakness.”* **—2 Corinthians 12:9**
 
 ---
 
-## A Lamp, Not a Map (Psalm 119:105)
-
-> *“Your word is a lamp to my feet and a light to my path.”*
+## *“Your word is a lamp to my feet and a light to my path.”* —Psalm 119:105
 
 I’ve noticed that when I am spending time in God’s Word, I tend to find myself on God’s path—not because I discover step-by-step instructions, but because my awareness is reshaped.
 
@@ -96,23 +93,21 @@ The Word doesn’t always tell me where to go. It changes how I see. Obstacles b
 
 The lamp does not floodlight the future. It gives enough light for the next step and protection from stumbling, not certainty about the destination—and that has proven to be enough.
 
-Trying harder says: “Don’t step there.”
+Trying harder says: “Don’t step there.”  
 The Word-as-light says: “That place no longer looks appealing.”
 
-When the Word is active within you, you don’t hunt for the path.
+When the Word is active within you, you don’t hunt for the path.  
 You find yourself already walking on it.
 
 > *Then Jesus again spoke to them, saying, “I am the Light of the world; he who follows Me will not walk in the darkness, but will have the Light of life.”* **—John 8:12**
 
 ---
 
-## Shelter, Shield, and Assurance (Psalm 119:114)
-
-> *“You are my hiding place and my shield; I wait for Your word.”*
+## *“You are my hiding place and my shield; I wait for Your word.”* —Psalm 119:114
 
 A hiding place is where I run for shelter. A shield is what stands between me and danger. And *waiting for God’s Word* is not waiting for a memorized quote, but resting in the assurance His Word has already formed within me.  
-The Word becomes internalized confidence, not external quotation.
-That’s why this waiting is active, not passive.
+The Word becomes internalized confidence, not external quotation.  
+That’s why this waiting is active, not passive.  
 It’s expectant trust shaped by long exposure to God’s truth.
 
 This is not about feeling safe. It is about being **kept**.
@@ -121,40 +116,36 @@ This is not about feeling safe. It is about being **kept**.
 
 ---
 
-## Changed Desires (Psalm 119:167)
-
-> *“My soul keeps Your testimonies, and I love them exceedingly.”*
+## *“My soul keeps Your testimonies, and I love them exceedingly.”* —Psalm 119:167
 
 There was a time when I recited Scripture to keep myself from sin. Now, I find that God’s Word residing in my heart has changed my *want-to’s*.
 
 Sin triggers have lost much of their strength and allure—not because temptation no longer exists, but because something better has taken root. I now take genuine joy and satisfaction in living a life that pleases God.
 
-I no longer live by a list of rules of "do's and don'ts." I'm guided by God's word-written in my heart.
-The psalmist isn’t saying: “I remember Your commands.”
-He’s saying: “My inner life is now aligned with them.”
+I no longer live by a list of rules of "do's and don'ts." I'm guided by God's word-written in my heart.  
+The psalmist isn’t saying: “I remember Your commands.”  
+He’s saying: “My inner life is now aligned with them.”  
 This is not suppression. It is freedom.
 
-> *I WILL PUT MY LAWS INTO THEIR MINDS,*
-> *AND I WILL WRITE THEM ON THEIR HEARTS.*  
-> **—Hebrews 8:10**
+> *I WILL PUT MY LAWS INTO THEIR MINDS,
+AND I WILL WRITE THEM ON THEIR HEARTS.*  
+**—Hebrews 8:10**
 
 ---
 
-## Quiet Confidence (Psalm 119:173)
-
-> *“Let Your hand be ready to help me, for I have chosen Your precepts.”*
+## *“Let Your hand be ready to help me, for I have chosen Your precepts.”* —Psalm 119:173
 
 This is not a prayer for instant relief. It is a prayer of settled assurance.
 
-The psalmist has found refuge, shelter, and a shield. He knows he will not be left alone. God’s hand need only be *ready*—because presence, not immediacy, is the ground of his confidence.
+The psalmist has found refuge, shelter, and a shield. He knows he will not be left alone.
+
+God’s hand need only be *ready*—because presence, not immediacy, is the ground of his confidence.
 
 > *“I WILL NEVER DESERT YOU, NOR WILL I EVER FORSAKE YOU,”* **—Hebrews 13:5**
 
 ---
 
-## Sought, Not Abandoned (Psalm 119:176)
-
-> *“I have gone astray like a lost sheep; seek Your servant, for I do not forget Your commandments.”*
+## *“I have gone astray like a lost sheep; seek Your servant, for I do not forget Your commandments.”* —Psalm 119:176
 
 The psalm ends not with triumph, but with trust.
 

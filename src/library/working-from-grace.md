@@ -11,6 +11,11 @@ tags:
   - transformation
 scripture:
   - Philippians 2:12-13
+themes:
+  - grace
+  - identity
+  - trust
+  - renewal
 ---
 
 > _“Work out your own salvation with fear and trembling,  
@@ -34,8 +39,6 @@ This is working *from* grace.
 
 ---
 
-## Work Out, Not Work For
-
 Paul’s language matters.
 
 He does not say, “Work for your salvation.”  
@@ -52,8 +55,6 @@ Our effort is real—but it is always responsive. God moves first. We follow.
 
 ---
 
-## Fear, Trembling, and Joy
-
 “Fear and trembling” does not describe anxiety or dread.  
 It describes reverence.
 
@@ -63,8 +64,6 @@ And remarkably, it brings God joy.
 
 ---
 
-## For His Good Pleasure
-
 Why do we pursue obedience?
 
 Not for applause.  
@@ -72,10 +71,3 @@ Not for approval.
 Not to prove anything.
 
 We do it because God delights in seeing His grace take shape in our lives. When we walk in step with Him, our obedience becomes evidence of His work—and that brings pleasure to His heart.
-
----
-
-## Prayer
-
-> Father, thank You for working in me. Thank You for giving me both the desire and the strength to follow You. Help me to take my walk with You seriously—to pursue holiness with reverence and joy. Let my life reflect Your grace at work in me, and may everything I do bring pleasure to Your heart.  
-> Amen.

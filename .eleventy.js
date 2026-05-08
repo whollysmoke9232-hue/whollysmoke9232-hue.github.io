@@ -265,7 +265,7 @@ module.exports = function (eleventyConfig) {
 
   // 📦 Passthrough copy
   eleventyConfig.addPassthroughCopy({ "assets/css": "assets/css" });
-  eleventyConfig.addPassthroughCopy({ "src/assets/js": "assets/js" });
+  eleventyConfig.addPassthroughCopy({ "assets/js": "assets/js" });
   eleventyConfig.addPassthroughCopy({ "images": "images" });
 
   // 📁 Directory structure

@@ -12,6 +12,11 @@ tags:
 scripture:
   - Psalm 74:3-8
   - James 1:14-15
+themes:
+  - surrender
+  - trust
+  - obedience
+  - restoration
 ---
 
 > *Turn Your footsteps toward the perpetual ruins;  
@@ -68,21 +73,8 @@ My salvation is secure. Satan may succeed in tripping me, but I will not fall aw
 
 I am not subdued.
 
----
-
-## Prayer
-
 > Faithful God,  
-> Do not let me make peace with sin,  
-> and do not let me doubt Your grace.
-
-> When I stumble, draw me quickly back to You.  
-> When shame whispers that I am ruined,  
-> remind me that I am redeemed.
-
-> Teach me to hate what wounds my soul  
-> without forgetting the mercy that heals it.  
-> Keep my worship alive, my conscience tender,  
-> and my confidence anchored in Christ alone.
-
-> Amen.
+Do not let me make peace with sin,  
+and do not let me doubt Your grace.
+When I stumble, draw me quickly back to You.  
+Amen.

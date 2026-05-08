@@ -11,15 +11,18 @@ tags:
   - presence
 scripture:
   - Psalm 8:3-4
+themes:
+  - identity
+  - obedience
 ---
 
 ## Key Scripture
 
 > _“When I consider Your heavens, the work of Your fingers,  
-> the moon and the stars, which You have ordained;  
-> what is man that You take thought of him,  
-> and the son of man that You care for him?”_  
-> **—Psalm 8:3–4**
+the moon and the stars, which You have ordained;  
+what is man that You take thought of him,  
+and the son of man that You care for him?”_  
+**—Psalm 8:3–4**
 
 ---
 
@@ -28,8 +31,6 @@ He doesn’t look at his problems, his enemies, or his own strength.
 He looks at the vast, silent, majestic work of God’s fingers—the moon and the stars, set in their perfect courses.
 
 ---
-
-## A Question of Scale
 
 Have you ever done that? Stood outside on a clear night, away from the city lights, and just looked up?
 
@@ -43,8 +44,6 @@ In other words:
 *God, after creating all of this—galaxies, nebulae, black holes, worlds without number—why would You spend even a second thinking about me?*
 
 ---
-
-## The Astonishing Answer
 
 The miracle of the Gospel is the answer to David’s question.
 
@@ -67,10 +66,3 @@ You are a deliberate thought in the mind of God—someone He actively *takes tho
 When you feel overlooked, anonymous, or insignificant today, look up.
 
 Remember that the same God who hung the stars in the sky has, in an act of breathtaking love, set His focus and His affection on you.
-
----
-
-## Prayer
-
-> Lord, thank You for the humbling majesty of Your creation. > When I feel small and forgotten, remind me that I am seen and cared for by You—the Maker of the heavens. > Help me to find my true value not in myself, but in Your astonishing love for me.  
-> Amen.

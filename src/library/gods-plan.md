@@ -1,10 +1,10 @@
----
-title: God’s Plan
+﻿---
+title: God's Plan
 author: Steve Wilkins
 date: 2025-02-21
 layout: article.njk
 category: poems
-excerpt: A reflection on the road of life, where every event becomes preparation for what lies ahead in God’s unfolding plan.
+excerpt: A reflection on the road of life, where every event becomes preparation for what lies ahead in God's unfolding plan.
 tags:
   - sovereignty
   - trust
@@ -13,48 +13,53 @@ tags:
   - seeking
 scripture:
   - Romans 8:28
+themes:
+  - trust
+  - waiting
+  - longing
+  - obedience
 ---
 
 <div style="text-align: center; font-style: italic;">
 
-Throughout my life, I’ve been on a road.  
+**Throughout my life, I've been on a road.**  
 Along this road, there have been countless events and encounters  
 Each one shaping me,  
 Preparing me for something still ahead.
 
 Cause and effect.
 
-The beauty of cause and effect is that every effect becomes a new cause,  
+**The beauty of cause and effect is that every effect becomes a new cause,**  
 Setting something else in motion.
 
 God has a plan for me.  
-A path I’m meant to follow.  
-But here’s the challenge:  
-I don’t know what’s coming.  
-I can’t see the next bend in the road,  
-&nbsp;&nbsp;&nbsp;&nbsp; let alone prepare for it.  
-That’s why my path is rarely a straight line.
+A path I'm meant to follow.  
+But here's the challenge:  
+I don't know what's coming.  
+I can't see the next bend in the road,  
+let alone prepare for it.  
+That's why my path is rarely a straight line.
 
-Every detour is necessary.
+**Every detour is necessary.**
 
 Some are gentle curves.  
 Others are sharp turns—painful,  
-&nbsp;&nbsp;&nbsp;&nbsp; Even jarring.  
-But I’m learning that these detours are not delays.  
+Even jarring.  
+But I'm learning that these detours are not delays.  
 They are divine preparations.
 
-God knows what lies ahead,  
-He knows what I’ll need when I get there.  
+**God knows what lies ahead,**  
+He knows what I'll need when I get there.  
 The lessons I learn in the detour  
-&nbsp;&nbsp;&nbsp;&nbsp; Are the tools I’ll need for the next destination.
+Are the tools I'll need for the next destination.
 
 And then,  
-&nbsp;&nbsp;&nbsp;&nbsp; That destination becomes the next preparation.
+That destination becomes the next preparation.
 
-So I’m learning to stop fighting.  
+So I'm learning to stop fighting.  
 To stop trying to escape the hard places.  
-I’m learning to be present.  
+I'm learning to be present.  
 To live in the moment.  
-And to leave what’s next in God’s hands.
+And to leave what's next in God's hands.
 
 </div>

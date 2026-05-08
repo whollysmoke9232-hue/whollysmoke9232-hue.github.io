@@ -19,6 +19,11 @@ scripture-reference:
 - Isaiah 6:1
 - Matthew 1:18
 - Luke 22:4
+themes:
+  - trust
+  - suffering
+  - grief
+  - obedience
 ---
 
 *Written as a letter to a friend in 2010, this reflection comes from a season when I understood God’s providence more clearly than I understood my own fragility. I leave it unchanged as a witness—not to certainty, but to faith as it was held then.*
@@ -27,11 +32,9 @@ scripture-reference:
 
 > *The LORD said to Satan, “Have you considered My servant Job? For there is no one like him on the earth, a blameless and upright man, fearing God and turning away from evil.”* **—Job 1:8**  
 
-## The Big Picture
-
 I started reading Job today.
 
-This is not the first time I've read Job though I'll confess that I’ve never much enjoyed the read. I've always found the long speeches confusing and hard to follow. However; something struck me today that I'd never thought of before while reading Job. Neither Job nor his friends knew what was happening while it was happening. The first two chapters give us insight that the "stars" of the story didn't have. We see that while Job was losing EVERYTHING, God was painting on a canvas that was bigger than Job or his friends (or his wife) could see.
+This is not the first time I've read Job, though I'll confess that I’ve never much enjoyed the read. I've always found the long speeches confusing and hard to follow. However; something struck me today that I'd never thought of before while reading Job. Neither Job nor his friends knew what was happening while it was happening. The first two chapters give us insight that the "stars" of the story didn't have. We see that while Job was losing EVERYTHING, God was painting on a canvas that was bigger than Job or his friends (or his wife) could see.
 
 As I pondered this reality throughout the morning, a bigger picture began to emerge.
 
@@ -47,19 +50,19 @@ When Joseph's brothers sold him into slavery (Genesis 37:28); when David should 
 
 When I was fired from two different churches, God was painting on a canvas that was bigger than what I could see.
 
-While I stood on our National Lawn with nearly 1,000,000 other <a href="https://promisekeepers.org/" target="_blank" rel="noopener noreferrer">Promise Keepers</a> – committing to be more faithful in my walk, my marriage, and my ministry – God was painting on a canvas that was bigger than what I could see.
+While I stood on our National Lawn with nearly 1,000,000 other <a href="https://promisekeepers.org/" target="_blank" rel="noopener noreferrer">Promise Keepers</a> – committing to be more faithful in my walk, my marriage, and my ministry—God was painting on a canvas that was bigger than what I could see.
 
 There have been times when God has lifted the veil to allow a glimpse of a portion of His painting. When Isaiah got a glimpse, he fell down as a dead man. When John got a glimpse, he fell down as a dead man. Many prophets were murdered when they spoke of what they saw.
 
-Apparently, the Big Picture is far bigger than anything we can see – at least if we hope to survive!
+Apparently, the Big Picture is far bigger than anything we can see—at least if we hope to survive!
 
-From time to time, God allows us a glimpse of the unfinished picture that is our lives – past, present or future – when it suits His purposes to do so. But these glimpses are few and far between. And we will never see the full picture – this side of heaven, at least.
+From time to time, God allows us a glimpse of the unfinished picture that is our lives—past, present or future—when it suits His purposes to do so. But these glimpses are few and far between. And we will never see the full picture—this side of heaven, at least.
 
-God has a plan. A perfect plan. And we – you and I – are part of that plan. We may never fully understand that plan before we die.
+God has a plan. A perfect plan. And we—you and I—are part of that plan. We may never fully understand the plan before we die.
 
-He moves us from one place to another – leading us, teaching us, breaking us, building us up...all the while loving us with an unconditional love. Working His perfect plan.
+He moves us from one place to another—leading us, teaching us, breaking us, building us up... all the while loving us with an unconditional love. Working His perfect plan.
 
-So we are left to live out our faith with nothing more than faith in His Word, and the assurance that whatever we are experiencing – whether laughter or tears; joy or pain; wealth or want; success or failure – God is painting on a canvas that is bigger than we can see.
+So we are left to live out our faith with nothing more than faith in His Word, and the assurance that whatever we are experiencing—whether laughter or tears; joy or pain; wealth or want; success or failure—God is painting on a canvas that is bigger than we can see.
 
 He is in control. And He is never surprised by what happens in our lives.
 

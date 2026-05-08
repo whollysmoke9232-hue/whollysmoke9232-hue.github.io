@@ -14,9 +14,11 @@ scripture_references:
   - Matthew 6:33
   - Romans 8:1
   - Romans 8:38–39
+themes:
+  - renewal
+  - obedience
+  - trust
 ---
-
-## Renew My Mind
 
 > _“And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.”_ **—Romans 12:2**  
 
@@ -58,7 +60,7 @@ Spend time in the Word. Read it. Sit with it. Let it speak without rushing to ma
 
 > _“Seek first His kingdom and His righteousness…”_ **—Matthew 6:33**  
 > _“There is now no condemnation for those who are in Christ Jesus.”_ **—Romans 8:1**  
-> _“Nothing can separate us from the love of God…”_ **—Romans 8:38–39**
+> _“[Nothing] can separate us from the love of God…”_ **—Romans 8:38–39**
 
 Find rhythms that help anchor you in truth. Consistency matters more than volume. The goal is not to crowd your mind with information, but to shape it with what is real.
 
@@ -69,9 +71,9 @@ Renewing the mind is an ongoing act of trust—choosing, again and again, to lis
 ## Prayer
 
 > Father,  
-> Today I ask You to guard my mind and gently redirect my thoughts.  
-> Help me recognize the voices that pull me away from You,  
-> and give me the grace to return—again and again—to what is true.  
-> Renew my mind, not through striving, but through Your presence.  
-> Teach me to see myself and others through Your eyes.  
-> Amen.
+Today I ask You to guard my mind and gently redirect my thoughts.  
+Help me recognize the voices that pull me away from You,  
+and give me the grace to return—again and again—to what is true.  
+Renew my mind, not through striving, but through Your presence.  
+Teach me to see myself and others through Your eyes.  
+Amen.

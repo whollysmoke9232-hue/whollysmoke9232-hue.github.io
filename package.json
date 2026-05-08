@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "dev": "npx @11ty/eleventy --serve --incremental",
+    "build:search-index": "node scripts\\build-library-search-index.js",
+    "build:fast": "npm run build:search-index && npx @11ty/eleventy --incremental",
+    "build:prod": "npm run build:search-index && npx @11ty/eleventy",
     "start": "eleventy --serve",
-    "build": "npx @11ty/eleventy",
-    "push": "powershell -ExecutionPolicy Bypass -File deploy.ps1"
+    "build": "npm run build:search-index && npx @11ty/eleventy",
+    "push": "powershell -ExecutionPolicy Bypass -File ..\\deploy.ps1"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",

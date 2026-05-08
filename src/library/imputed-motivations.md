@@ -14,10 +14,14 @@ tags:
   - mercy
 scripture:
   - Psalm 32:2
+themes:
+  - grace
+  - repentance
+  - guilt
+  - obedience
 ---
 
-> *How blessed is the man to whom the LORD does not impute iniquity,  
-And in whose spirit there is no deceit!*  
+> *How blessed is the man to whom the LORD does not impute iniquity, and in whose spirit there is no deceit!*  
 **—Psalm 32:2**
 
 As a society, we have left the rails when it comes to evaluating the things other people do.  
@@ -29,7 +33,7 @@ The problem with this is that we can’t possibly know their actual motivation. 
 
 But we stubbornly insist that we know why he took the seat, and judge him – *not for what he did, but for why he did it.*  
 
-The odds that our “why” is correct are staggeringly low.  
+The odds that our *why* is correct are staggeringly low.  
 
 So, we wind up condemning a man based on ideas we created out of thin air.  
 
@@ -37,18 +41,18 @@ The truth is, I can see what you did. But I cannot see *why* you did it.
 
 When it comes to our own actions, we generally give ourselves a pass based on our justification of our own motivations. We smooth the edges of our motivations in order to justify the action.  
 
-*“Oh, I didn’t ***mean*** to take her seat. I didn’t think she would be coming back.”*  
+*“Oh, I didn’t ***mean** to take her seat. I didn’t think she would be coming back.”*  
 
 We rarely extend the same grace toward others.  
 
 God, however, ***always*** knows our motivations. He knows the dark, selfish roots that persistently permeate our inner selves. He knows that our hearts have been corrupted by the sin that surrounds us.  
 
-But He chooses not to count it against me.  
+But He chooses not to count it against us.  
 
 We don’t know motives—and assume the worst.  
 God knows motives—and shows mercy.  
 
-The One who sees the "why"… ***chooses not to count it against me.***  
+The One who sees the *why*"… ***chooses not to count it against us.***  
 
 *Lord,*  
 *Forgive my judgmental attitude.*  

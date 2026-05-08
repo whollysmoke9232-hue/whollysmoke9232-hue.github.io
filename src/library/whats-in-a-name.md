@@ -14,9 +14,12 @@ scripture:
   - Daniel 1
   - Daniel 3
   - Daniel 6:1-24
+themes:
+  - identity
+  - longing
+  - renewal
+  - obedience
 ---
-
-### Names Then and Now
 
 > *Now among them from the sons of Judah were Daniel, Hananiah, Mishael and Azariah.* **—Daniel 1:6**
 
@@ -40,15 +43,13 @@ Their worth and identity were rooted not in performance, but in who God is.
 
 ---
 
-### Babylon’s Renaming Strategy
-
 > *Then the commander of the officials assigned new names to them; and to Daniel he assigned the name Belteshazzar, to Hananiah Shadrach, to Mishael Meshach and to Azariah Abed-nego.* **—Daniel 1:7**
 
-These four young men—likely no older than fifteen—were taken into Babylon, the cultural and spiritual center of a pagan empire. God placed them there as witnesses, not by force or rebellion, but by faithfulness.
+These four young men—likely no older than fifteen—were taken into Babylon, the cultural and spiritual center of a pagan empire. God placed them there as witnesses to Who He was, not by force or rebellion, but by faithfulness.
 
 The first thing Nebuchadnezzar did was rename them.
 
-Satan understands identity. He knows that if he can redefine who we are, behavior will follow.
+Satan understands identity. He knows that if he can redefine who we see ourselves to be, behavior will follow.
 
 - **Belteshazzar** — “Under the authority of Bel”  
 - **Shadrach** — “Under the command of Aku”  
@@ -61,11 +62,9 @@ Yet despite what they were called, these men lived according to the names they h
 
 ---
 
-### The Names We Accept
+Our enemy's tactics have not changed. The same strategy is still at work. We are all given names throughout our lives.
 
-The same strategy is still at work. We are all given names throughout our lives.
-
-“You’re worthless.”  
+> “You’re worthless.”  
 “You’ll never change.”  
 “You’re a failure.”  
 “You’re unlovable.”
@@ -79,8 +78,6 @@ Behavior modification alone never lasts.
 Identity transformation does.
 
 ---
-
-### Your New Name in Christ
 
 The Gospel announces something radical:  
 > The names given to you by the world are dead.
@@ -96,6 +93,6 @@ In Christ, you are no longer defined by your past, your failures, or the labels 
 
 When we act out of step with this new identity, conviction rises—not as condemnation, but as confirmation. The discomfort proves something new has taken root.
 
-They may call you many things.  
+The world may call you many things.  
 
 But if they don’t use your true name, you don’t have to answer.

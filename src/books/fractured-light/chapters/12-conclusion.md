@@ -11,63 +11,29 @@ permalink: "/books/fractured-light/conclusion/"
 
 If you've made it this far, thank you.
 
-You've walked through my spiral.
+You've walked through my spiral. You've sat in my silence. You've stood in my margins. And I hope you've seen something more than brokenness.
 
-You've sat in my silence.
+I hope you've seen grace. Not the kind that erases consequences. The kind that enters them. Not the kind that waits for you to be clean. The kind that meets you in the dirt. Not the kind that fixes everything. The kind that stays when everything falls apart.
 
-You've stood in my margins.
-
-And I hope you've seen something more than brokenness.
-
-I hope you've seen grace.
-
-Not the kind that erases consequences.
-
-The kind that enters them.
-
-Not the kind that waits for you to be clean.
-
-The kind that meets you in the dirt.
-
-Not the kind that fixes everything.
-
-The kind that stays when everything falls apart.
-
-This book isn't a roadmap.
-
-It's a witness.
+This book isn't a roadmap. It's a witness.
 
 To the God who didn't abandon me.
-
 To the Word that reshaped me.
-
 To the Spirit who still whispers in the trees.
 
 I don't know what comes next.
 
 I still face trial.
-
 I still face uncertainty.
-
 I still face rejection.
 
 But I also face grace.
 
 And grace is enough.
 
-If you're reading this and feel like your story is too messy, too dark, too far gone—let me say it again:
+If you're reading this and feel like your story is too messy, too dark, too far gone—let me say it again: You are not beyond redemption. You are not beyond mercy. You are not beyond love.
 
-You are not beyond redemption.
-
-You are not beyond mercy.
-
-You are not beyond love.
-
-God does His best work in fractured places.
-
-In fractured people.
-
-In fractured light.
+God does His best work in fractured places. In fractured people. In fractured light.
 
 So keep walking.
 
@@ -90,6 +56,6 @@ I will leave you with a reflection written during my incarceration:
 
 **The thought of my suffering and homelessness is bitter beyond words. I will never forget this awful time as I grieve over my loss. Yet I still dare to hope when I remember:**
 
- ***"The faithful love of the Lord never ends! His mercies never cease. Great is his faithfulness; His mercies begin afresh each morning. I say to myself, 'The Lord is my inheritance; therefore I will hope in him'" –Lamentations 3:22-24 (NLT)***
+> *"The faithful love of the Lord never ends! His mercies never cease. Great is his faithfulness; His mercies begin afresh each morning. I say to myself, 'The Lord is my inheritance; therefore I will hope in him'"* **–Lamentations 3:22-24 (NLT)**
 
  </div>

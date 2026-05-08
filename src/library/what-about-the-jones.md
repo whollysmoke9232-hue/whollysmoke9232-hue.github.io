@@ -21,22 +21,30 @@ scripture:
   - Malachi 3:10
   - Luke 6:38
   - Revelation 4:2–11
+themes:
+  - surrender
+  - prayer
+  - obedience
+  - shame
 ---
 
 > *“But as for me, my feet came close to stumbling,  
 My steps had almost slipped.  
 For I was envious of the arrogant  
-As I saw the prosperity of the wicked.”* **—Psalm 73:2–3**
+As I saw the prosperity of the wicked.”*
+**—Psalm 73:2–3**
 
-We have become conditioned to focus on what we don’t have rather than on what we have. Television, movies, the internet, social media, and advertising campaigns — they all conspire to point out what we lack. And they are astonishingly effective.
+---
 
-Without even noticing it, our self-identity has become wrapped up in things and image. We want to look like the actors on the screen. We want to have the things we see advertised. We want to become like the people we admire. And it spills over into our daily lives.
+We have become conditioned to focus on what we don’t have rather than on what we have. Television, movies, the internet, social media, and advertising campaigns—they all conspire to point out what we lack. And they are astonishingly effective.
 
-If our neighbor gets a new car, we want a new car. If they go on vacation, we want a vacation. When they lose weight, we want to lose weight. No, we don’t want those things… we ***need*** them.
+Without even noticing it, our self-identity has become wrapped up in *things* and *image*. We want to look like the actors on the screen. We want to have the things we see advertised. We want to become like the people we admire. And it spills over into our daily lives.
 
-This comparing even affects our faith. We assume that they do not follow Jesus as we do. We wonder why they seem so happy and fulfilled while we continue to struggle. Life seems so easy for them: good jobs, nice houses, new cars, pretty clothes, beautiful children — nothing but laughter and ease.
+If our neighbor gets a new car, we want a new car. If they go on vacation, we want a vacation. When they lose weight, we want to lose weight. No, we don’t *want* those things... we ***need*** them.
 
-Even those who work to make our lives miserable — at work, school, or in the neighborhood — seem to “have it made.” They appear to be unaffected by the difficulties that are common to those of us in the church.
+This comparing even affects our faith. We assume that they do not follow Jesus as we do. We wonder why they seem so happy and fulfilled while we continue to struggle. Life seems so easy for them: good jobs, nice houses, new cars, pretty clothes, beautiful children—nothing but laughter and ease.
+
+Even those who seem to work to make our lives miserable—at work, school, or in the neighborhood—seem to “have it made.” They appear to be unaffected by the difficulties that are common to those of us in the church.
 
 > *“When I pondered to understand this,  
 It was troublesome in my sight.”* **—Psalm 73:16**
@@ -60,7 +68,7 @@ Then I perceived their end.”* **—Psalm 73:17**
 
 But then, God.
 
-As I loosen my grip on what I can see and understand, God draws me to Himself. He invites me into His very presence. When I confess that as a sinner I deserve death, I give up my right to anything good and become grateful for everything I have been given in Him.
+As I loosen my grip on what I can see and understand, God draws me to Himself. He invites me into His very presence. When I confess that as a sinner I deserve death, I give up my right to anything "good" and become grateful for everything I have been given in Him.
 
 I shift my eyes from His hand to His face.
 
@@ -83,7 +91,7 @@ And I was pierced within,
 Then I was senseless and ignorant;  
 I was like a beast before You.”* **—Psalm 73:21–22**
 
-I can see now how I appeared to God when I was consumed by envy and judgment. I am ashamed of how quickly I forgot my sinful nature and began to stand in judgment of my neighbors.
+I now see how I appeared to God when I was consumed by envy and judgment. I am ashamed of how quickly I forgot *my* sinful nature and began to stand in judgment of my neighbors.
 
 The truth is, we are all sinners in need of a loving, forgiving God.
 
@@ -93,7 +101,3 @@ How can I offer anything less?
 
 > *“My flesh and my heart may fail,  
 But God is the strength of my heart and my portion forever.”* **—Psalm 73:26**
-
-Father, open my eyes to the truth.  
-Help me to see others the way You see them.  
-Help me to see You.

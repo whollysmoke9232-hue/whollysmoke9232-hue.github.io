@@ -7,6 +7,11 @@ category: poems
 excerpt: A contrast between well-worn sayings heard in church culture and enduring truth, this reflection calls for a faith that lives beyond Sunday—one that stands in weakness, walks through darkness, and overcomes through Christ.
 tags: faith, obedience, trust, weakness, truth, transformation
 scripture: Hebrews 11:1
+themes:
+  - trust
+  - longing
+  - prayer
+  - surrender
 ---
 
 God helps those who help themselves  

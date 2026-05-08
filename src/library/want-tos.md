@@ -14,11 +14,16 @@ scripture_references:
   - Psalm 37:7
   - Psalm 37:9
   - Matthew 6:33
+themes:
+  - longing
+  - obedience
+  - surrender
+  - renewal
 ---
 
 *“Delight yourself in the LORD; And He will give you the desires of your heart.”* **—Psalms 37:4**
 
-For much of my life I have read this verse with blinders on. I always thought of it as a promise that if I was a believer, God would give me everything I wanted. In a sense, God became my genie in a bottle. I saw Him as some big-box store in the sky – just waiting to hear what trinket I wanted today. Even when my prayers were not just for things; when I prayed for all the people on my prayer list; when I prayed for my personal spiritual strengthening; or when I prayed for my family. During that time, unanswered prayer for things I wanted caused serious doubt: Was it sin that was preventing me from receiving the items on my shopping list? Or maybe a lack of faith? Or could I be looking for answers in the wrong place? Or was it possible that God’s word is not as reliable as I’d hoped?
+For much of my life I have read this verse with blinders on. I always thought of it as a promise that if I was a believer, God would give me everything I wanted. In a sense, God became my genie in a bottle. I saw Him as some big-box store in the sky–just waiting to hear what trinket I wanted today. Even when my prayers were not just for things; when I prayed for all the people on my prayer list; when I prayed for my personal spiritual strengthening; or when I prayed for my family. During that time, unanswered prayer for things I wanted caused serious doubt: Was it sin that was preventing me from receiving the items on my shopping list? Or maybe a lack of faith? Or could I be looking for answers in the wrong place? Or was it possible that God’s word is not as reliable as I’d hoped?
 
 Those doubts crept in and affected every area of my faith and my view of God.
 
@@ -40,30 +45,10 @@ The truth is that
 
 Waiting for the LORD has become the new focus of my life. Actively waiting, yes. But still waiting.
 
-When I intentionally delight myself in Jesus, He slowly changes my want to’s. The change is mostly imperceptible. In fact, I’ve never sat back and pondered just what my want to’s are. But I can clearly see that His answers to my prayers land in a much deeper place than before. They are completely satisfying.  
+When I intentionally delight myself in Jesus, He slowly changes my *want to’s.* The change is mostly imperceptible. In fact, I’ve never sat back and pondered just what my want to’s are. But I can clearly see that His answers to my prayers land in a much deeper place than before. They are completely satisfying.  
 
 As I seek Him and His righteousness, my desires begin to mirror His. I begin to want those things that He wants. And the things that He doesn’t provide, I’ve found that I can live without, as I wait to see what He is doing.  
 
 He has promised to provide for all my needs. And He has proven faithful to that task. In the process, I find that I am receiving many good gifts that I didn’t realize I wanted.
 
-What a satisfying way to live this has become. My prayers have been greatly simplified as I make my requests known to Him, while being satisfied — knowing that His answer to my prayers may not match my words; but they will absolutely match the desire of my heart, which is to walk with Him as closely as I possibly can.
-
----
-
-## Prayer
-
-> Lord,  
-> Teach me to delight in You more than in what You can give.  
-> Turn my eyes from comparison and quiet my restless wanting.  
-> Shape my desires until they reflect Your heart.  
-
-> When I ask for what I think I need, give me instead what draws me closer to You.  
-> When I grow impatient, teach me to wait.  
-> When I begin to sink beneath doubt, lift my eyes again to Your face.  
-
-> Let my deepest desire be simple —  
-> to walk with You,  
-> to trust You,  
-> and to rest in the quiet confidence that You are enough.  
-
-> Amen.
+What a satisfying way to live this has become. My prayers have been greatly simplified as I make my requests known to Him, while being satisfied—knowing that His answer to my prayers may not match my words; but they will absolutely match the desire of my heart, which is to walk with Him as closely as I possibly can.

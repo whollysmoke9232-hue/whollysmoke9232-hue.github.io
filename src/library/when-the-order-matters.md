@@ -10,15 +10,16 @@ tags:
   - grace
   - transformation
   - church
+themes:
+  - obedience
+  - grace
+  - repentance
+  - renewal
 ---
 
-## Introduction
-
-This testimony gathers convictions first written years ago and carries them forward without argument or defense. What follows is not a manifesto, a method, or a corrective for others—but a witness to what I once believed, what life has refined, and what I still hold quietly true. It is offered as a single, integrated reflection, meant to stand on its own.
+> *This testimony gathers convictions first written years ago and carries them forward without argument or defense. What follows is not a manifesto, a method, or a corrective for others—but a witness to what I once believed, what life has refined, and what I still hold quietly true. It is offered as a single, integrated reflection, meant to stand on its own.*
 
 ---
-
-## When the Order Matters  
 
 *A Testimony*
 
@@ -36,7 +37,7 @@ It felt as though we were obsessively rearranging the exterior of the house whil
 
 I didn’t know it then, but what I was responding to was an issue of **order**.
 
-### Hunger Before Strategy
+---
 
 Long before I ever tried to articulate these thoughts, I had been shaped by hunger—first in prayer.
 
@@ -48,7 +49,7 @@ Not as obligation. Not as performance. But as the natural language of relationsh
 
 I began to notice that much of what passed for Christian life was lived at a distance from God—busy, sincere, and strangely hollow.
 
-### Truth as Nourishment, Not Ammunition
+---
 
 From prayer, my attention turned to Scripture.
 
@@ -62,7 +63,7 @@ The result was predictable: believers who were quiet, cautious, unsure of their 
 
 I began to believe that we were teaching people *how to try harder*, instead of teaching them *who they were in Christ*.
 
-### Fellowship That Costs Something
+---
 
 Then there was fellowship—another word we had softened until it meant almost nothing.
 
@@ -72,7 +73,7 @@ The early Church did not gather to be entertained. They gathered to be formed—
 
 Where God was not central, fellowship dissolved into something indistinguishable from any other gathering.
 
-### Ministry as Overflow
+---
 
 From prayer, truth, and fellowship flowed ministry—not as a program, but as an inevitability.
 
@@ -82,11 +83,11 @@ In the book of Acts, ministry happens while people are on their way to pray. It 
 
 That sentence haunted me.
 
-Ministry was not about offering what people wanted—it was about offering what God had already given. Healing, generosity, courage, proclamation—all of it flowed naturally from lives reordered around God.
+Ministry was not about offering what people wanted—it was about offering what God had already *given*. Healing, generosity, courage, proclamation—all of it flowed naturally from lives reordered around God.
 
 No one needed to be convinced to evangelize. They were simply living visibly changed lives.
 
-### When Evangelism Is Forced, Something Is Broken
+---
 
 By this point, I had reached a conclusion that felt obvious to me then and still does now:
 
@@ -98,11 +99,11 @@ But when we reverse the order—when attraction replaces formation, when growth 
 
 And our communities suffer for it.
 
-### What I Didn’t Know Then
+---
 
 What I didn’t understand at the time was how easy it is to speak clearly before being humbled.
 
-I believed deeply in these convictions. I still do. But I underestimated how much truth can wound when it is carried without gentleness—and how much clarity can coexist with blindness to one’s own fragility.
+I believed deeply in these convictions. I still do. But I underestimated how quickly truth can wound when it is carried without gentleness—and how clarity can coexist with blindness to one’s own fragility.
 
 I did not yet know how deeply I would need grace myself.
 
@@ -110,7 +111,7 @@ Life has a way of teaching what books cannot. Failure reveals what certainty con
 
 What changed was not the order—but my posture.
 
-### What Remains
+---
 
 I still believe the Church does not need better strategies as much as it needs deeper formation.
 

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Heading Home"
 author: "Steve Wilkins"
 date: 2026-01-13
 layout: article.njk
 category: devotionals
-excerpt: "The psalms teach us that faith does not move in straight lines—from despair to trust, and from trust to being led again toward God Himself."
+excerpt: The psalms teach us that faith does not move in straight lines—from despair to trust, and from trust to being led again toward God Himself.
 tags:
   - restoration
   - grace
@@ -13,6 +13,11 @@ tags:
 scripture:
   - Psalm 13
   - Psalm 43:3
+themes:
+  - restoration
+  - grace
+  - trust
+  - prayer
 ---
 
 ### From How Long to Lead Me Home  
@@ -31,7 +36,9 @@ Doors closed by background checks—for housing, for work, for stability.
 
 Over and over, I have faced the depths of despair.
 
-Psalm 13 gives language to those moments when prayer feels repetitive and unanswered—*How long, O Lord?* How long will You forget me? How long will You hide Your face? How long must I carry sorrow in my heart all day long?
+Psalm 13 gives language to those moments when prayer feels repetitive and unanswered:
+> *How long, O Lord?*  
+How long will You forget me? How long will You hide Your face? How long must I carry sorrow in my heart all day long?
 
 This is not polished faith.  
 It is exhausted faith.  
@@ -39,7 +46,7 @@ Faith that keeps asking because it has nowhere else to go.
 
 The psalmist does not rush past the anguish. He names it. He lingers there. He allows the ache to speak honestly before God. And yet—almost without warning—the psalm turns.
 
-> *“But I have trusted in Your lovingkindness.”*
+> *"But I have trusted in Your lovingkindness."*
 
 Not because circumstances changed.  
 Not because the enemy stopped boasting.  
@@ -47,7 +54,7 @@ But because God had not stopped being God.
 
 That turn amazes me every time.
 
-My spirit can be crushed one moment and, the next, quietly anchored again in what is still true: I am not abandoned. I am not forgotten. My salvation does not depend on my situation. God has dealt bountifully with me—if not always in comfort, then always in mercy.
+My spirit can be crushed one moment and, the next, quietly anchored again in what is still true: *I am not abandoned. I am not forgotten. My salvation does not depend on my situation. God has dealt bountifully with me—if not always in comfort, then always in mercy.*
 
 I am continually surprised by how quickly my spirit turns—not because life improves, but because God meets me again in the dark and reminds me who He is.
 
@@ -58,15 +65,15 @@ Trust does not mean the path is suddenly clear.
 
 That is where Psalm 43 gives me my next prayer.
 
-> *“O send out Your light and Your truth, let them lead me;*  
+> *"O send out Your light and Your truth, let them lead me;*  
 > *Let them bring me to Your holy hill*  
-> *And to Your dwelling places.”* **—Psalm 43:3**
+> *And to Your dwelling places."* **—Psalm 43:3**
 
 It is tempting to read this as a prayer for resolution—for a house, a job, restored relationships, or a return to something that once felt stable.
 
 But the psalmist names a different destination.
 
-The light and truth of God are not asked to lead him *out* of suffering so much as to lead him *to* God Himself. The holy hill is not a metaphor for success. The dwelling place is not ordinary security. It is the nearness of God—His presence, His reality, His faithfulness.
+The light and truth of God are not asked to lead him *out* of suffering so much as to lead him *to* God Himself. The holy hill is not a metaphor for success. The dwelling place is not ordinary security. It is *the nearness of God*—His presence, His reality, His faithfulness.
 
 I have prayed for many outcomes.  
 Relief.  
@@ -90,7 +97,7 @@ And if I arrive in His presence—even with unanswered prayers still in my hands
 
 From *How long, O Lord?* to *Lead me.*
 
-This is the quiet journey of faith—  
+This is the quiet journey of faith...  
 not a straight line upward,  
 but a repeated turning back toward the One who has never stopped being there.
 

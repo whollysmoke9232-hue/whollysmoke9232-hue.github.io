@@ -10,6 +10,11 @@ scripture:
 - Numbers 33:55
 - Philippians 3:13-14
 - Pssalm 139:23-24
+themes:
+  - hope
+  - renewal
+  - obedience
+  - spiritual conflict
 ---
 
 > *“But if you do not drive out the inhabitants of the land from before you, then it shall come about that those whom you let remain of them will become as pricks in your eyes and as thorns in your sides, and they will trouble you in the land in which you live.”* **—Numbers 33:55**

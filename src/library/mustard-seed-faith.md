@@ -19,11 +19,14 @@ scripture:
   - Luke 7:11
   - Mark 3:1
   - Matthew 14:15-33
+themes:
+  - trust
+  - suffering
 ---
 
-> _“…I tell you the truth, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there’ and it will move…”_ **—Matthew 17:20**
+> *“…I tell you the truth, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there’ and it will move…”* **—Matthew 17:20**
 
-I used to think that verse was good news—if I ever needed to move a mountain.
+I used to think that verse was good news—*if I ever needed to move a mountain.*
 
 But then I began to notice the kind of faith so many displayed when Jesus walked among them. It wasn’t flashy or loud. It was persistent, expectant, and deeply rooted:
 
@@ -38,8 +41,8 @@ And then—perhaps most remarkably—the miracle of multiplication in **Matthew 
 
 Jesus blessed the bread, broke it, and handed a piece to the first disciple. Yet somehow, both the disciple and Jesus were holding full loaves. The miracle continued—disciple by disciple, recipient by recipient.
 
-Not only did they **see** the miracle.  
-They **took part** in it.
+Not only did they ***see*** the miracle.  
+They ***took part*** in it.
 
 Then, as if to seal the moment, Jesus had each disciple collect a basket overflowing with leftovers—tangible evidence of faith meeting divine abundance.
 
@@ -53,8 +56,8 @@ In the boat, the disciples trembled as Jesus walked toward them on the water. Pe
 
 When Peter began to sink, Jesus caught him immediately.
 
-> _“... O you of little faith ...”_ **—Matthew 14:31**
-It's easy to fault Peter for his doubt. But don't lose sight of what Peter did - *he walked on water!* ***With"little faith!*** Jesus' words weren’t a rebuke. They were a reminder:
+> *“... O you of little faith ...”* *—Matthew 14:31**
+It's easy to fault Peter for his doubt. But don't lose sight of what Peter did - ***he walked on water!*** With ***little faith!*** Jesus' words weren’t a rebuke. They were a reminder:
 
 **Even little faith is powerful when pointed toward Me.**
 
@@ -63,7 +66,7 @@ It's easy to fault Peter for his doubt. But don't lose sight of what Peter did -
 ## Prayer
 
 > Lord, help us not despise the days of small faith. Thank You for catching us when we sink. Remind us that mustard seed faith is more than enough in Your hands. Teach us to fix our eyes on You—through storms and through wonder—and trust that You will never let us fall.  
-> Amen.
+Amen.
 
 ---
 

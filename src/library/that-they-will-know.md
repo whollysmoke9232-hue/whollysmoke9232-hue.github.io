@@ -16,6 +16,9 @@ scripture:
   - Ezekiel 6:7
   - Genesis 1:26
   - Philippians 4:12
+themes:
+  - identity
+  - obedience
 ---
 
 > *“For You are my rock and my fortress;  
@@ -31,18 +34,18 @@ Throughout the rest of his 48 chapters, Ezekiel repeats that phrase about 69 mor
 
 That’s not a coincidence. When we find a phrase repeated more than once in the Bible, we should sit up and pay attention. God is showing us something that He thinks is important. (And for the record, if God thinks it is important…IT IS IMPORTANT!)
 
-Ezekiel drives the point home… God desires that we know – remember, confess, ground our faith in – the fact that ***He is LORD!***
+Ezekiel drives the point home... God desires that we know—remember, confess, ground our faith in—the fact that ***He is LORD!***
 
 The goal of every judgment and every promise of restoration is that all would know that He is LORD.
 
 When did we convince ourselves that any of this was about us?
 
-I still pray, 
+I still pray,  
 > *“LORD, make me like You. Create in me a clean heart. Change me so I may become the man You called me to be.”*
 
 There’s nothing actually wrong with those prayers. Except that the focus is on **me.**
 
-I want to be changed – which is good –  
+I want to be —which is good—
 
 *but even that desire can still be self-centered.*
 
@@ -69,7 +72,7 @@ God is not interested in making me great.
 
 Like Paul, I must learn:  
 
-> *“…how to get along with humble means, and I also know how to live in prosperity; in any and every circumstance I have learned the secret of being filled and going hungry, both of having abundance and suffering need.”* **—Philippians 4:12**
+> *...how to get along with humble means, and I also know how to live in prosperity; in any and every circumstance I have learned the secret of being filled and going hungry, both of having abundance and suffering need.* **—Philippians 4:12**
 
 Only then will I be completely available to be used  
 > *“for Your name’s sake.”*

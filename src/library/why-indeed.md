@@ -15,6 +15,11 @@ tags:
 scripture:
   - Psalm 42:5–8
   - Psalm 42:11
+themes:
+  - hope
+  - trust
+  - prayer
+  - obedience
 ---
 
 > *“Why are you in despair, O my soul?  
@@ -47,13 +52,13 @@ Like Peter, I take my eyes off of Jesus and immediately start to sink.
 
 ### Deep calls to deep
 
-In Hebrew poetry, this image is overwhelming. The Psalmist is describing the roaring of a waterfall, the surf crashing on the beach, endless waves rolling over him. This is a picture of repeating, debilitating helplessness. Trouble seems to call to deeper trouble. There is no time to adjust to—much less recover from—the last wave before another crashes. The force of the waterfall is constant. Unrelenting. The depth of the trouble can seem endless.
+In Hebrew poetry, this image is overwhelming. The Psalmist is describing the roaring of a waterfall, the surf crashing on the beach, endless waves rolling over him. This is a picture of repeated, debilitating helplessness. Trouble seems to call to deeper trouble. There is no time to adjust to—much less recover from—the last wave before another crashes. The force of the waterfall is constant. Unrelenting. The depth of the trouble can seem endless.
 
 I’ve been there.
 
 In those moments, all my prayers are, “I’m drowning! Rescue me. Get me out of these waters.”
 
-### Your waterfalls… Breakers… Waves…
+### Your waterfalls, Breakers, and Waves  
 
 How have I never seen this before?
 
