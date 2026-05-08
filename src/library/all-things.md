@@ -35,14 +35,3 @@ There is much to learn from David's example here. My waiting for God to work is 
 This is not the story of my perseverance, but of the God who begins, carries, heals, and completes what concerns me—from beginning to end.
 
 > *"For I am confident of this very thing, that He who began a good work in you will perfect it until the day of Christ Jesus"* **—Philippians 1:6**
-
-## Prayer
-
-> Father,
-I confess that I often want to control the process. I want to see progress I can measure. I want to feel transformation I can claim.  
-But You are the One who accomplishes all things that concern me.
-Teach me to wait actively—to pray, to obey, to trust—without placing my confidence in my own perseverance.  
-Guard me from pride when I see fruit, and from despair when I experience delay.  
-Help me rest in the quiet confidence that nothing in my life is wasted in Your hands.  
-From beginning to end, let it be You.  
-Amen.

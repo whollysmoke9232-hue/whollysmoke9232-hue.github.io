@@ -54,6 +54,3 @@ I know in my heart that He hasn't abandoned me.
 I need to convince my *head* that His plan hasn't changed.
 
 That the work He's doing now is teaching me to trust Him. Even when I can't find Him.
-
-*Father,*  
-*teach me to trust Your timing.*

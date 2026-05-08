@@ -72,9 +72,3 @@ Nothing essential has changed. We are still His. What changes is our vision. Sin
 My salvation is secure. Satan may succeed in tripping me, but I will not fall away—because Christ walks with me, holds me, and keeps me on the path.
 
 I am not subdued.
-
-> Faithful God,  
-Do not let me make peace with sin,  
-and do not let me doubt Your grace.
-When I stumble, draw me quickly back to You.  
-Amen.

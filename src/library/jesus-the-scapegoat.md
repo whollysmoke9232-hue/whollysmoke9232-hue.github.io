@@ -23,13 +23,11 @@ themes:
 
 **Author's Note:** This message was originally preached during a communion service on December 29, 1996.
 
-## Key Scripture
+---
 
 > _“God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.”_ **—2 Corinthians 5:21**
 
 ---
-
-## Why Love Requires Choice
 
 Why did God create us?
 
@@ -49,8 +47,6 @@ In that moment, fellowship fractured. Death entered—not merely the loss of bre
 
 ---
 
-## Covered by Grace
-
 After the fall, Adam and Eve tried to cover themselves with fig leaves—human solutions stitched together by shame. It wasn’t enough.
 
 So God did something astonishing.
@@ -66,8 +62,6 @@ This was not merely clothing—it was prophecy.
 
 ---
 
-## The Pattern of Blood
-
 Centuries later, God established a sacrificial system.
 
 > _“It is the blood that makes atonement for one’s life.”_ **—Leviticus 17:11**
@@ -79,8 +73,6 @@ Even Moses could not fully look upon God’s face. Access was limited. The peopl
 All of it pointed forward.
 
 ---
-
-## The Scapegoat
 
 Once a year, on the Day of Atonement, two goats were chosen. One was sacrificed. The other—the scapegoat—had the sins of the people confessed over it and was sent into the wilderness, carrying guilt far away.
 
@@ -100,8 +92,6 @@ Only grace.
 
 ---
 
-## Dead Men See His Face
-
 Scripture describes sacrifices as *“a pleasing aroma to the Lord”*—not because of scent, but because of surrender.
 
 God draws near to places where self-rule has ended. Pride, self-will, and flesh cannot survive His holiness.
@@ -114,8 +104,6 @@ When God looks at us now, He sees His Son.
 
 ---
 
-## Drawing Near
-
 There have always been those willing to risk everything to truly know God—not just know about Him.
 
 Enoch walked with God until he was no more.  
@@ -126,14 +114,3 @@ Fire does not fall on empty altars. But the sacrifice God desires is not perform
 
 The closer we draw, the more we lay down.  
 The more we die to self, the more fully we live in Him.
-
----
-
-## Prayer
-
-> Lord Jesus, thank You for becoming the Scapegoat I could never be.  
-> Thank You for carrying my sin, my shame, and my death.  
-> Teach me to die daily—to surrender pride, fear, and self-will.  
-> Draw me near, not that I may know about You, but to truly know You.  
-> Cover me, cleanse me, and lead me deeper into Your presence.  
-> Amen.

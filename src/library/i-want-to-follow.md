@@ -20,8 +20,6 @@ themes:
   - trust
 ---
 
-## I Want to Follow
-
 > *“Lead me in Your truth and teach me…”* **—Psalm 25:5**
 
 The sequence is significant.
@@ -40,18 +38,7 @@ When the sequence is reversed, the results are very different. Knowledge without
 
 God calls us to relationship first.
 
-> *“Lead me in Your truth and teach me,*  
-> *for You are the God of my salvation;*  
-> *for You I wait all the day.”* **— Psalm 25:5**
-
----
-
-## Prayer
-
-> Father,  
-> Lead me before You teach me.  
-> Draw me close enough to follow You step by step.  
-> Form my heart through walking with You,  
-> and let Your truth take root in me in its proper time.  
-> I want to know You.
-> Amen.
+> *“Lead me in Your truth and teach me,  
+for You are the God of my salvation;  
+for You I wait all the day.”*
+**— Psalm 25:5**

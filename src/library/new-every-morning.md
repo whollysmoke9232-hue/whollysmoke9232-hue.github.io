@@ -19,8 +19,6 @@ themes:
   - weariness
 ---
 
-## Key Scripture
-
 > *“The LORD’S lovingkindnesses indeed never cease,  
 For His compassions never fail.  
 They are new every morning;  
@@ -42,10 +40,3 @@ Each new morning reveals more of His endless care. His Word, His people, His dis
 He is constant. Unchanging. Faithful in every season. The sun never skips a morning. Winter always yields to spring. And I am always—*always*—held in His hands.
 
 > **“Great is Your faithfulness.”**
-
----
-
-## Prayer
-
-> Lord, thank You for pursuing me endlessly, for loving me creatively and faithfully. Let my mornings greet Your mercy and my nights rest in Your compassion. And even when I don’t feel it—when my heart forgets—remind me again, like sunrise after darkness, that Your love has never ceased.  
-> Amen.

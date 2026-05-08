@@ -63,13 +63,6 @@ It's easy to fault Peter for his doubt. But don't lose sight of what Peter did -
 
 ---
 
-## Prayer
-
-> Lord, help us not despise the days of small faith. Thank You for catching us when we sink. Remind us that mustard seed faith is more than enough in Your hands. Teach us to fix our eyes on You—through storms and through wonder—and trust that You will never let us fall.  
-Amen.
-
----
-
 <!-- end-of-article -->
 
 <br>

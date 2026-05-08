@@ -51,13 +51,6 @@ There is nowhere I would rather be.
 
 ---
 
-## Prayer
-
-> *O God, I surrender not only my suffering, but my understanding.*  
-> *I place my life, my pain, and my purpose fully into Your hands.*  
-> *Be glorified in me, even here.*  
-> Amen.
-
 <!-- end-of-article -->
 
 <br>

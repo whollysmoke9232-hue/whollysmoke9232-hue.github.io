@@ -18,8 +18,6 @@ themes:
   - loneliness
 ---
 
-## Key Scripture
-
 > *“Where can I go from Your Spirit? Or where can I flee from Your presence?”*  
 > **—Psalm 139:7 (NIV)**
 
@@ -79,10 +77,3 @@ If God is everywhere,
 &nbsp;&nbsp;&nbsp;&nbsp;Because nothing is impossible for Him.  
 &nbsp;&nbsp;&nbsp;&nbsp;And He is not just beside me—He is in me.  
 &nbsp;&nbsp;&nbsp;&nbsp;And I am in Him.
-
----
-
-## Prayer
-
-> Lord, expand my awareness of Your nearness. Help me to rest in the truth that I am never outside Your presence, never beyond Your reach, and never unseen by Your love. Teach me to live from that reality, with trust, humility, and awe.  
-> Amen.

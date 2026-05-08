@@ -81,11 +81,3 @@ And David is confident of God's response...
 > *"He set my feet upon a rock making my footsteps firm. He put a new song in my mouth, a song of praise to our God."* **—Psalm 40:2-3**
 
 Oh, that I would live in this same confidence.
-
-Lord,
-when I am sinking and cannot find my footing,
-turn my eyes toward You.
-Quiet my striving, and teach me to wait.
-Let me see that You are near—
-leaning in, listening, and ready to lift me.
-Amen.

@@ -24,7 +24,6 @@ themes:
   - obedience
   - grace
 ---
-Unpacking Holiness
 
 For much of Scripture, the question is not whether God is present, but how He is present—and what that presence requires of those who draw near.  
 

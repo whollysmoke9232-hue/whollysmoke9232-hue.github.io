@@ -46,8 +46,3 @@ We, too, live in a reality held together by a Presence so immense we can’t ful
 Like the ant, we might only sense small vibrations of His nearness: a stirring in the heart, beauty in nature, conviction in conscience, or an unexpected mercy.
 
 I wonder how many times I’ve walked right past an incredible manifestation of God without realizing it.  
-
-**Prayer**
-
-Oh God, open the eyes of my heart. I want to see You. I pray to be in Your presence, yet I’m already in it—I can’t escape it. *“Where can I go from Your presence?”* says the psalmist. My prayer shouldn’t be, *“Lord, be with me,”* but rather,
-> *“Lord, make me aware that You ***are** with me.”*

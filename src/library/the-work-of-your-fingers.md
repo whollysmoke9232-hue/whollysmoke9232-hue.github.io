@@ -16,8 +16,6 @@ themes:
   - obedience
 ---
 
-## Key Scripture
-
 > _“When I consider Your heavens, the work of Your fingers,  
 the moon and the stars, which You have ordained;  
 what is man that You take thought of him,  

@@ -17,8 +17,6 @@ themes:
   - weariness
 ---
 
-## Key Scripture
-
 > _“Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.”_ **—Matthew 6:34 (NIV)**
 
 ---
@@ -44,6 +42,3 @@ I was reminded of an interview I once saw with actor Matt Damon. He reflected on
 When we truly live in the now, the reward is not just a future achievement, but a better version of ourselves today—especially when we invite the Holy Spirit to use every minute of every day to mold us and make us more like Jesus.
 
 The journey itself becomes the prize, shaping us into the people God intends us to be, whether the “awards” of life ever come... or not.  The true reward is found in His presence, in the unfolding of His grace, and in the blessed gift of each present moment.
-
-> Lord, help me to release my grip on tomorrow and receive today as Your gift. Teach me to recognize Your presence in ordinary moments and to trust that You are at work right here, right now. Shape my heart to rest in You and to walk faithfully in this moment You have given.  
-Amen.

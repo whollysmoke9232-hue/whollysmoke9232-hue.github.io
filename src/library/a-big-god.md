@@ -131,7 +131,3 @@ What a question.
 I believe the answer is that they are.
 
 Today's stumbling blocks become tomorrow's building blocks.
-
-**Prayer:**  
-
-Father, You are bigger than my imagination can grasp. Thank You that nothing in my life is outside of Your presence. Take my sins, my struggles, and my trials, and transform them into instruments of grace and glory. Teach me to rest in the truth that in You, I live and move and have my being. Amen.

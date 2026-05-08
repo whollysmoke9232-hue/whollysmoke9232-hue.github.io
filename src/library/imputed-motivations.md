@@ -52,9 +52,9 @@ But He chooses not to count it against us.
 We don’t know motives—and assume the worst.  
 God knows motives—and shows mercy.  
 
-The One who sees the *why*"… ***chooses not to count it against us.***  
+The One who sees the *why*"... ***chooses not to count it against us.***  
 
-*Lord,*  
-*Forgive my judgmental attitude.*  
-*Thank you for the grace you show me.*  
-*Help me to afford the same grace to others.*
+> *Lord,  
+Forgive my judgmental attitude.  
+Thank you for the grace you show me.  
+Help me to afford the same grace to others.*

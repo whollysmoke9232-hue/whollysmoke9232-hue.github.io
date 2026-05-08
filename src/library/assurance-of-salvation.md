@@ -198,7 +198,3 @@ It's a question of faith.
 Do I believe what God has said? Or don't I.  
 
 I choose to believe.  
-
-*Lord,*  
-*Thank you for Your word.*  
-*Anchor my faith in what You say rather than how I feel.*

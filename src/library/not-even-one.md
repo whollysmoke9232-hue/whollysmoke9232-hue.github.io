@@ -116,20 +116,3 @@ I do not need to impress God.
 I need to abide.
 
 That is where goodness begins.
-
----
-
-## Prayer
-
-> Father,  
-You know how easily I am impressed with myself,  
-and how quickly I forget that every good thing flows from You.  
-Teach me to abide rather than perform,  
-to depend rather than impress,  
-to be known rather than admired.  
-
->Thank You for Jesus—  
-the only truly good One—  
-and for grace that meets me not at my best,  
-but at my most honest.  
-Amen.

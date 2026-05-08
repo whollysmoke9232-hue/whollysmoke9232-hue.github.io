@@ -49,10 +49,3 @@ And this promise is sealed with time: ***“both now and forevermore.”***
 This is not a temporary shelter. The security you have in Him today is the same security that will hold you at the end of your days and carry you into eternity. Mountains do not wander away. They define steadfastness. So does the Lord.
 
 To live in this truth is to walk with quiet confidence—to face uncertainty not with fear, but with the assurance that we are held, together and alone, within the unbreakable circle of God’s care.
-
----
-
-## Prayer
-
-> *Father, thank You for being the mountains around me and around Your people. Help me rest in the security of Your corporate embrace, knowing I am part of a community held safely by You. And draw my heart into the intimacy of this promise—that You surround my life, my fears, and my future with Your faithful presence. Teach me to live today as one who is safely, completely, and eternally surrounded by Your love.*  
-> *Amen.*

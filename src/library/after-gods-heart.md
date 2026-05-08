@@ -97,16 +97,6 @@ It is to live without hiding.
 
 ---
 
-## Prayer
-
-> Merciful Father, thank You that You look beyond outward appearances and see the heart.
-> Thank You that You know me completely, including my weaknesses, and that Your grace is sufficient for all of it.
-> Forgive me for the times I despair over my failures or try to hide them from You.
-> Shape in me a heart that quickly repents, consistently returns, and rests fully in Your mercy.
-> Amen.
-
----
-
 <!-- end-of-article -->
 
 <br>

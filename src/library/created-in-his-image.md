@@ -22,7 +22,6 @@ themes:
   - longing
 ---
 
-
 What came first, the chicken or the egg?  
 
 Do we instinctively protect our eyes so David could write,

@@ -20,8 +20,6 @@ themes:
   - suffering
 ---
 
-## A Prayer
-
 O God,  
 purify my heart, for I long to see more of You.
 

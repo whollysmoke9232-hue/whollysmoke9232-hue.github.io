@@ -43,23 +43,3 @@ Weakness humbles us, strips away illusion, and teaches us dependence. It becomes
 This is not an excuse for sin, nor a denial of responsibility. It is a confession that grace is deeper than our failure, and that God remains faithful even when we stumble.  
 
 God redeems broken people not by erasing their weakness, but by transforming that weakness into a testimony of His steadfast love.
-
-## Prayer
-
-Father,
-I confess that I am often afraid of my weakness. I try to hide it, overcome it, or pretend it does not exist. I measure myself by my performance and assume You do the same.  
-Forgive me.  
-
-Teach me to see my weakness the way You do—not as disqualification, but as invitation.  
-When I stumble, draw me quickly back to You.  
-Give me a heart that is soft, repentant, and honest.  
-Guard me from pride when I succeed and from despair when I fail.  
-Remind me that Your grace is sufficient. That Your power is perfected not in my strength, but in my dependence.  
-
-Use even my wounds as soil for deeper faith.  
-Transform my failures into testimony.  
-And make me a person who boasts not in myself, but in Your mercy.  
-
-Today, I return to You again—trusting that You are not surprised, not threatened, and not finished with me.  
-
-Amen.

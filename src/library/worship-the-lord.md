@@ -19,8 +19,6 @@ themes:
   - trust
 ---
 
-## “Worship the LORD”
-
 I’m not generally a big fan of deep diving into the original Hebrew text, but this one has me a little bit concerned.
 
 The first mention we find of “worship” in the Bible is found in the account of Abraham’s offering of Issaic.  

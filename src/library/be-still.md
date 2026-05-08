@@ -74,19 +74,6 @@ He desires our trust.
 
 ---
 
-## Prayer
-
-> Lord, forgive me for trusting in my own strength.  
-> I confess that I am weak and powerless to change myself.  
-> Today, I cease my striving.  
-> I choose to be still and know that You are God.  
-> Thank You that Your power is made perfect in my weakness.  
-> Take control of my struggles, my sins, and my efforts.  
-> Be exalted in my life today.  
-> Amen.
-
----
-
 <!-- end-of-article -->
 
 <br>

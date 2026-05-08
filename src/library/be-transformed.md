@@ -86,19 +86,6 @@ Only then can we discern and embrace God's good, pleasing, and perfect will—fo
 
 ---
 
-*Father,*  
-*By Your mercy, I offer myself to You.*  
-*I confess that I am often tempted to conform—to think like the world, to reason like the world, to protect myself the way the world does.*  
-
-*Renew my mind. Expose what is false. Replace it with truth.*  
-*Form in me the mind of Christ.*  
-*Teach me to love what You love and desire what You desire.*  
-*I yield my will, my ambitions, and my ways to You.*  
-*Transform me—not for my glory, but for Yours.*  
-*Amen.*
-
----
-
 <br>
 <br>
 

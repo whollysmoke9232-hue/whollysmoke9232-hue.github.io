@@ -54,14 +54,3 @@ He is still at work in me. Not merely repairing what was broken, but constructin
 That is His promise.  
 It is my hope.  
 And if you are standing amid ruins today, that promise was spoken with you in mind.
-
----
-
-## Prayer
-
-> Lord, I confess that I have allowed other things to take Your place in my life.  
-> Forgive me for chasing after idols and neglecting the temple that is my heart.  
-> Come and rebuild what is broken in me.  
-> Fill me again with Your Spirit, so that my life may bring You honor and reflect Your glory.  
-> May the glory of this present house truly be greater than the former  
-> Amen.

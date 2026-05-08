@@ -68,15 +68,6 @@ We can face any trial with confidence—not because we control the outcome, but 
 
 ---
 
-## Prayer
-
-> Lord, teach me to trust You not only in deliverance, but also in delay.  
-> When the flames rise and the path grows dark, remind me that You are not absent—you are near.  
-> Your presence is my greatest promise.
-> Amen.
-
----
-
 <!-- end-of-article -->
 
 <br>

@@ -18,8 +18,6 @@ themes:
   - suffering
 ---
 
-## Key Scripture
-
 > *“For since the creation of the world God’s invisible qualities—His eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse.”* **—Romans 1:19–20**
 
 God doesn’t whisper His identity into the cosmos—He shouts it.

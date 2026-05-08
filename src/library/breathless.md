@@ -107,8 +107,3 @@ And I am reminded of Jesus words,
 I am determined not to be less vocal than a rock.
 
 **Praise the LORD!**
-
-> *Lord,  
-Don't let my life fall silent.  
-Teach me to praise You with every breath.  
-Amen.*

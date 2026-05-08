@@ -52,15 +52,3 @@ And lead me in the everlasting way.”*
 Judgment, in God’s hands, is not exposure for condemnation.  
 It is exposure for healing.  
 Not a verdict meant to destroy, but a leading meant to restore.
-
----
-
-### Prayer
-
-> Lord,  
-> Search me—not to shame me, but to heal me.  
-> Show me what You already see,  
-> and give me the courage to trust Your verdict over my own self-condemnation.  
-> Lead me away from the anxious and hurtful ways,  
-> and guide me again into the way that lasts.  
-> Amen.

@@ -99,16 +99,5 @@ One word of caution: resistance will come. Anything that keeps us from prayer ke
 
 ---
 
-## Prayer
-
-> Father,  
-> Forgive me for the ways I have doubted Your willingness and questioned Your care.  
-> Remind me that I do not come to You as a stranger, but as Your child.  
-> Teach me to ask without shame, to trust without fear, and to return to You again and again.  
-> Give me daily bread for today—and the faith to ask again tomorrow.  
-> Amen.
-
----
-
 **Continue reading:**  
 [<u>Seek Him</u>](/reflections/seek-him/)

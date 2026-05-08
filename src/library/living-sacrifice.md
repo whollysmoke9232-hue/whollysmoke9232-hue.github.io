@@ -20,8 +20,6 @@ themes:
   - renewal
 ---
 
-Living Sacrifice
-
 > *“Willingly I will sacrifice to You”* **—Psalm 54:6**
 
 Under the Old Covenant, things never ended well for the sacrifice. They always met a violent death. Their lifeless body was carried up the steps of the altar, where they were placed on the grate. They were then completely consumed by the altar’s fire.

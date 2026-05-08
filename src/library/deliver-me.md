@@ -113,15 +113,3 @@ Not because shame is gone, but because God is faithful.
 Because the deepest deliverance is not always escape. Sometimes it is the presence of God in a place you never would have chosen.
 
 And that is the hardest part of faith—not believing that God forgives, but believing that He does not hold our forgiven selves at arm's length... even when the path ahead is dark, even when consequences remain, even when we cannot see the next step.
-
----
-
-### Prayer
-
-> God of mercy,  
-I ask You for deliverance, and I ask You for honesty.  
-If You don't change the outcome I fear, don't let shame interpret my story for me.  
-Guard my soul.  
-Be my refuge.  
-Remain near—whatever lies ahead.  
-Amen.

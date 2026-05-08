@@ -81,6 +81,6 @@ We are invited to become part of the worship that has surrounded His presence fr
 His lovingkindness is everlasting
 And His faithfulness to all generations.”* **—Psalms 100:5**
 
-What better reason do we need to …
+What better reason do we need to...
 
 **Shout?**

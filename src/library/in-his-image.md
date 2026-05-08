@@ -22,8 +22,6 @@ themes:
   - obedience
 ---
 
-## In His Image
-
 Something that amazes me...  
 
 We are made in God’s infinite image.  

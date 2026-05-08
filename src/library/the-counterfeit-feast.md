@@ -20,8 +20,6 @@ themes:
   - spiritual conflict
 ---
 
-## Key Scripture
-
 > _““Stolen water is sweet;
 And bread eaten in secret is pleasant.”
 But he does not know that the dead are there,

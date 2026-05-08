@@ -18,8 +18,6 @@ themes:
   - grace
 ---
 
-## Key Scripture
-
 > *"For in the gospel the righteousness of God is revealed"”a righteousness that is by faith from first to last, just as it is written: "˜The righteous will live by faith.'"* **—Romans 1:17**
 
 ---
@@ -51,11 +49,3 @@ So release the burden of earning.
 Receive the gift you were never meant to pay for.
 
 We live righteous lives not *for* salvation, but *from* salvation—by faith, all the way through.
-
-## Prayer
-
-> Lord, thank You that faith begins with You and continues by You.  
-> Teach me to live *from* Your righteousness, not toward it.  
-> Keep me grounded not in performance, but in trust;  
-> and let my life be shaped by wonder, not striving.  
-> Amen.

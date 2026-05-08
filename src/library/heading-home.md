@@ -20,8 +20,6 @@ themes:
   - prayer
 ---
 
-### From How Long to Lead Me Home  
-
 **Psalms 13; 43:3**
 
 Life in faith is a roller coaster ride.
@@ -100,14 +98,3 @@ From *How long, O Lord?* to *Lead me.*
 This is the quiet journey of faith...  
 not a straight line upward,  
 but a repeated turning back toward the One who has never stopped being there.
-
----
-
-### Prayer
-
-> O Lord, when my prayers are reduced to *How long?*, teach me to not stop praying.  
-> When my eyes grow dim, enlighten them again with Your light and truth.  
-> Lead me—not merely out of trouble, but into Your presence.  
-> When outcomes remain uncertain and restoration feels distant,  
-> steady my heart in the knowledge that You Yourself are my home.  
-> Amen.
