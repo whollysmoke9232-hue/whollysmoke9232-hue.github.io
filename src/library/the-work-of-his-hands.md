@@ -53,13 +53,9 @@ Nothing that happened to it could ever change the way I saw it, for it had grown
 
 ---
 
-And isn’t this how our Creator sees us?
-
 There was a plan. Then dividing cells. A structure that resembled a fish. Birth. Complete Dependance. Childhood. Teenager. Young adult. Continuing developement until we enter eternity. Then finally... perfection.
 
-The psalmist David captures this divine perspective beautifully in Psalm 139.  
-
-God knows us completely. He formed us intentionally. He saw us before we were finished—and loved us fully before we ever failed.
+God knows us completely.
 
 Just as I see the pantry not as a collection of flaws but as the fulfillment of a vision, so God sees us. He sees the dents and dings we collect through life—our mistakes, our heartaches, our failures. He is intimately aware of every imperfection.
 
@@ -69,19 +65,14 @@ He loves us simply because we are His. We are His workmanship—born from a visi
 
 ---
 
-You may be walking through a season of hardship, pain, or disappointment. In those moments, it can feel as though God has grown distant.
+I may find myself walking through a season of hardship, pain, or disappointment. In those moments, I sometimes feel as though God has grown distant.
 
 But those are often the very seasons when He is sanding, shaping, and finishing. He has not stepped away. He is still working with care.
 
-Today, be loved.  
+Today, I am loved.  
 
-Be accepted.  
+I am accepted.  
 
-Be who you were created to be—dents, dings, scratches, and all.
+I am who I am—dents, dings, scratches, and all.
 
-You were prepared for a purpose.
-
----
-
-> Heavenly Father, thank You for seeing us not for our flaws, but as Your wonderful work. Help us rest in the truth that we are fearfully and wonderfully made, created with intention, and loved unconditionally by You.  
-> Amen.
+We were prepared for a purpose.

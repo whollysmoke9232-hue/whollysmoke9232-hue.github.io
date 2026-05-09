@@ -32,7 +32,7 @@ Why would the Son of God—who knew He was about to raise Lazarus from the dead�
 
 ---
 
-In the beginning, there was no death, no sorrow, no brokenness. Creation pulsed with harmony, beauty, and life.
+In the beginning, there was no death, no sorrow, no brokenness.
 
 > _“God saw all that He had made, and it was very good.”_ **—Genesis 1:31**
 
@@ -42,7 +42,7 @@ Sin entered the world through disobedience, and with it came the curse:
 
 > _“Cursed is the ground because of you…”_ **—Genesis 3:17**
 
-From that moment on, everything changed. Sin infected not just human hearts, but the very fabric of creation. Death became a reality. Tears became a language. And the world began to groan under the weight of what was lost.
+From that moment on, everything changed. Sin infected not just human hearts, but the very fabric of creation. Death became a reality. And the world began to groan under the weight of what was lost.
 
 ---
 
@@ -56,39 +56,19 @@ He wasn’t angry at the people.
 He wasn’t angry at their grief.  
 He was angry at what sin had done.
 
-At the pain.  
-At the loss.  
-At the distortion of what was once “very good.”
+At the pain, the loss, the distortion of what was once “very good.”
 
-- Jesus wept because this was not how it was supposed to be.
-- He wept over the sting of death.
-- He wept over the sorrow of His friends.
-- He wept over a world broken by sin.
+Jesus wept because this was not how it was supposed to be.
 
 And He still weeps today.
 
-Not because He is powerless.  
-Not because He is surprised.  
-*But because He loves.*
+Not because He is powerless, or surprised. *But because He loves.*
 
 And love always grieves what wounds the beloved.
 
-Jesus hates sin—not merely because it is rebellion, but because of what it does to us. To His creation. To His children.
+But one day, He will wipe away every tear.
 
-But one day, He will wipe away every tear...  
-
-***because He wept first.***
-
----
-
-## Prayer
-
-> Lord Jesus, thank You for being a Savior who weeps.  
-Thank You for feeling the weight of our sorrow and the sting of our brokenness.  
-Help me to hate sin—not just for what it is, but for what it does.  
-Give me eyes to see the world as You see it, and a heart that longs for restoration.  
-May I live in the hope that You are making all things new.  
-Amen.
+***Because He wept first.***
 
 ---
 

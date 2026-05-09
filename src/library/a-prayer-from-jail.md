@@ -22,7 +22,6 @@ themes:
   - repentance
 ---
 
-A Prayer From Jail  
 5/8/2023, 5:30 AM
 
 Father, there's so much of me that I still need to surrender to you.  

@@ -37,8 +37,4 @@ This realization sparked a deeper question. How many other times had I been guil
 
 I was reminded of an interview I once saw with actor Matt Damon. He reflected on winning his Oscar at the young age of twenty-seven and mused on how tragic it would have been to chase that Academy Award for eighty years without ever receiving one. How empty that life would have been—always pursuing the award, rather than fully engaging in each day and genuinely enjoying the journey.
 
-“Live in the moment,” was the gentle yet profound advice I once received from my counselor. It is an invitation to allow each event, each small experience of every day, to simply be—to enjoy it, to embrace it, to reflect on it, and to learn from it.
-
-When we truly live in the now, the reward is not just a future achievement, but a better version of ourselves today—especially when we invite the Holy Spirit to use every minute of every day to mold us and make us more like Jesus.
-
-The journey itself becomes the prize, shaping us into the people God intends us to be, whether the “awards” of life ever come... or not.  The true reward is found in His presence, in the unfolding of His grace, and in the blessed gift of each present moment.
+“Live in the moment,” was the advice I once received from my counselor. It is an invitation to allow each event, each small experience of every day, to simply be—to enjoy it, to embrace it, to reflect on it, and to learn from it.

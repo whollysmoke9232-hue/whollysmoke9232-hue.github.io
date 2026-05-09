@@ -24,8 +24,6 @@ themes:
 
 ---
 
-There is a beautiful mystery at the heart of the Christian life. We are called to work—yet we are never left to work alone. We are called to obey—yet even our obedience is fueled by grace.
-
 Paul reminds us that sanctification is not passive. We do not drift into holiness. We pursue it. We “work out” our salvation—not to earn it, but to **express what God has already done within us**.
 
 This is our responsibility: to seek obedience, to grow in grace, and to become more like Christ. But this responsibility is never detached from God’s activity.
@@ -44,13 +42,6 @@ Paul’s language matters.
 He does not say, “Work for your salvation.”  
 He says, “Work out.”
 
-Like a seed planted by God, salvation must be cultivated.  
-We water it with prayer.  
-We nourish it with the Word.  
-We prune it with repentance.
-
-And God gives the growth.
-
 Our effort is real—but it is always responsive. God moves first. We follow.
 
 ---
@@ -65,9 +56,5 @@ And remarkably, it brings God joy.
 ---
 
 Why do we pursue obedience?
-
-Not for applause.  
-Not for approval.  
-Not to prove anything.
 
 We do it because God delights in seeing His grace take shape in our lives. When we walk in step with Him, our obedience becomes evidence of His work—and that brings pleasure to His heart.

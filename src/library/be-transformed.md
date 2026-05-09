@@ -33,12 +33,9 @@ The word *conformed* carries the idea of being *with* the structures, patterns, 
 Then comes the command: **Be transformed.**  
 To be transformed is to move *across* and *beyond* the forms of this world—to rise above them—to allow our *minds* to be changed. This is a call to transcendent excellence, not cultural withdrawal. The Christian life is not merely different, *it is elevated.*
 
-That transformation happens through **the renewing of the mind.**  
-This is nothing more—and nothing less—than serious, in-depth formation: a growing mastery of the Word of God combined with the discipline to listen and the willingness to be changed. Lives change when minds change. We are called to have the mind of Christ.
+This is nothing more—and nothing less—than serious, in-depth formation: a growing mastery of the Word of God. Lives change when minds change.
 
 ---
-
-## Justified and Being Transformed
 
 Justification means that we are declared righteous before God even while we are still sinners. We place our trust in Christ alone—and God places Christ's righteousness into our account. That is the gospel.
 
@@ -53,8 +50,6 @@ At the same time, He took the sign that bore His perfect obedience and placed it
 > *"He made Him who knew no sin to be sin on our behalf, so that we might become the righteousness of God in Him."* **—2 Corinthians 5:21**
 
 ---
-
-## The Evidence of True Faith
 
 True faith always produces real conformity to Christ.  
 If there is no sanctification—no growing likeness to Jesus—then there was never justification to begin with.
@@ -72,11 +67,9 @@ Righteousness is the goal. And righteous people are known by their fruit:
 
 ---
 
-## The Cost of Worship
-
 True worship requires death—death to self.
 
-Dying to Christ will likely be painful.  
+Dying to self will likely be painful.  
 It means abandoning my own wants, dreams, and ambitions in order to pursue His will.  
 It means refusing alignment with the futile thinking of the world.  
 It means submitting to the mind-renewing work of the Holy Spirit.

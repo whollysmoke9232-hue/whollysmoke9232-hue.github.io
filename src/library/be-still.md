@@ -35,11 +35,11 @@ I will be exalted in the earth."*
 
 > ***"Cease striving and know that I am God;***
 
-We rarely admit how hard we try to fix ourselves. We may not say it aloud, but our calendars, prayers, and thoughts betray us—we believe sanctification is a performance. If you are tired of trying to become someone better for God, this reflection is for you.
+We rarely admit how hard we try to fix ourselves. We may not say it aloud, but our calendars, prayers, and thoughts betray us—we believe sanctification is a performance.
 
 We think if we work hard enough, pray long enough, read deeply enough, God will surely be pleased. And maybe then we'll change.
 
-We often live as though sanctification—the process of becoming more like Jesus—is ours to manufacture. We read the latest book, binge hours of sermons, and pour ourselves into avoiding sin, all in an effort to become "holy enough,"as if the phrase *God helps those who help themselves* were gospel truth.
+We often live as though sanctification—the process of becoming more like Jesus—is ours to manufacture. We read the latest book, listen to hours of sermons, and pour ourselves into avoiding sin, all in an effort to become "holy enough,"as if the phrase *God helps those who help themselves* were gospel truth.
 
 But Scripture tells a different story.
 
@@ -55,7 +55,7 @@ God didn't wait for us to clean up. He moved toward us while we were helpless. T
 
 God knows our pride. If holiness could be earned, we would take the credit. But He is the One who transforms—and He waits until we stop striving.
 
-It is foolish to believe that lasting change originates with us. God is the Creator and Sustainer of the universe and all it contains. He alone has the wisdom and power to make the changes that truly matter. Even our confidence that we know *what* needs changing is often rooted in pride.
+Even our confidence that we know *what* needs changing is often rooted in pride.
 
 > *"My grace is sufficient for you, for my power is made perfect in weakness."* **—2 Corinthians 12:9**
 
@@ -63,14 +63,9 @@ It is in our weakness that God's power flows. Surrender is not quitting—it is 
 
 Those who try to help themselves chase change and find disappointment. But those who are *still and know*—they find God.
 
-God does not wait for us to help ourselves. He meets us at the edge of our striving and whispers grace into our exhaustion. The margins are where effort ends and surrender begins—not because we've given up, but because we've finally let go.
+God is not waiting for us to help ourselves. He meets us in our struggles and offers grace.
 
 In those still places, the miracle begins. Not a performance. Not a reward. *A resurrection.*
-
-We are invited to work in response to grace—but never to forget that the outcome belongs to Him. We must be about the work God has placed before us, while trusting Him completely with the results.
-
-He does not need our help.  
-He desires our trust.
 
 ---
 

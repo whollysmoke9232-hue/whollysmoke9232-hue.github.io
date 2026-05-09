@@ -4,7 +4,7 @@ author: "Steve Wilkins"
 date: 2023-09-04
 layout: article.njk
 category: devotionals
-excerpt: "God desires to be desired—not for what He can give, but for who He is. Psalm 127 reminds us that striving without Him is empty, but seeking Him brings rest and blessing."
+excerpt: "God desires to be desired—not for what He can give, but for who He is."
 tags:
   - seeking
   - presence
@@ -28,56 +28,21 @@ for He grants sleep to those He loves.”_
 
 ---
 
-God desires to be desired—not for what He can give, but for who He is. He longs for us to seek His face, not merely His hand.
+God desires to be desired. He wants to be wanted. He thinks that He is worthy to be the only thing we pursue — not His hand, what He can give us or do for us, but His face.
 
-Too often, our prayers are filled with requests for provision, protection, and promotion. And while God is a generous Father who delights in blessing His children, He never intended for His gifts to replace His presence.
+If we could find our way to seek Him first — to chase Him rather than His blessings — then we would find Him. And His blessings would simply follow.
 
-When we chase after blessings, we find ourselves weary, frustrated, and spiritually dry. But when we chase after Him, everything changes.
+But if we continue to seek His hand, we will continue to live in frustration and disappointment. When our prayers are centered on what He can do for us, all our labors will be in vain. But if we focus our prayers and pursuit on Him and His face, His blessing will flow to us "even in our sleep."
 
-Psalm 127 reminds us that all our striving is in vain unless the Lord is at the center. We can build, guard, hustle, and grind—but without Him, it’s empty. Yet when we seek Him first, when we make Him our pursuit _(Matthew 6:33)_, His blessings follow us—even in our sleep.
+Children are a perfect example. Like arrows in the hand of a warrior, they give us the assurance that we have what we need to succeed in the things God has called us to do. The more we have, the more confident we become.
 
----
+But not only children. This applies to all the blessings of the Lord.
 
-## Shift the Focus
+When we consider that our blessings are the natural result of seeking and finding the face of God, we will have the confidence to face anything — because we will know that He is with us.
 
-God doesn’t want to be a means to an end.  
-He *is* the end.  
-He *is* the reward.
+Then we can face our judges at the gate and not be the least bit concerned. Because no matter what they decide, we will always be held in God's hand.
 
-And when we seek Him—not for what He can do, but for who He *is*—we find rest. We find peace. We find purpose.
-
----
-
-## A Picture of Blessing
-
-Psalm 127 goes on to describe children as arrows in the hand of a warrior—a sign of strength, legacy, and divine favor.
-
-But this truth extends beyond children. Every blessing from God—whether it’s:
-
-- Family  
-- Provision  
-- Opportunity  
-- Peace  
-
-***is ultimately a byproduct of His presence.***
-
-When we dwell with Him, we walk in confidence—not because of what we have, but because of *who is with us*.
-
----
-
-## Facing the Gate
-
-The Psalm ends with a powerful image: standing before the judges in the gate. These were the authorities, the decision-makers, the ones who could determine your fate. But when you know you’re walking with God, you don’t fear the gate. You don’t fear the verdict.
-
-Because no matter what the world decides, you are held in the hand of the One who reigns above it all.
-
----
-
-> Lord, forgive me for the times I’ve sought Your hand more than Your heart.  
-Teach me to desire You above all else.  
-I want to *dwell* with You—not just visit.  
-I want to *know* You—not just need You.  
-Amen.
+So no matter what we receive from the world's authorities, we can know that we are being blessed by God — because we are dwelling in His presence no matter where our bodies happen to be.
 
 ---
 

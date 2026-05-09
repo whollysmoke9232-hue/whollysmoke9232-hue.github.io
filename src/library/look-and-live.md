@@ -26,17 +26,15 @@ In the wilderness, the Israelites were dying—bitten by serpents—as a consequ
 
 That moment in Israel’s history was more than a rescue; it was a foreshadowing. Jesus pointed back to it when He said, *_*“Even so must the Son of Man be lifted up.”* Just as the bronze serpent was raised for healing, Christ would be lifted on the cross for our salvation.
 
-And the invitation remains the same. Not *work harder*. Not *clean yourself up*. Not *prove you’re worthy*. Just ***look***. Look to Jesus. Believe. And live.
+And the invitation remains the same.  
+Not *work harder*.  
+Not *clean yourself up*.  
+Not *prove you’re worthy*.
 
-We often complicate grace. We try to earn what can only be received. But the gospel is stunning in its simplicity:
+Just ***look***. Look to Jesus. Believe. And live.
 
-> *“For God so loved the world…”* **—John 3:16**
+We often complicate grace. We try to earn what can only be received.
 
-That includes you. That includes your mess, your doubts, your failures.
+> *“For God so loved the world...”* **—John 3:16**
 
 Jesus is the Judge, yes—but He didn’t come to slam the gavel. He came to open the door. The judgment isn’t in His coming; it’s in our response. The Light has come. Will we turn toward it—or away?
-
----
-
-> Lord Jesus, thank You for being lifted up for me. I confess that I often try to earn what You’ve already given. Help me to simply look to You in faith. Thank You for loving me before I ever loved You. Today, I choose to believe. I choose to live.  
-Amen.

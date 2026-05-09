@@ -91,19 +91,3 @@ Shout to God with the voice of joy.*
 **—Psalm 84:10**
 
 And these only scratch the surface of the richness of their contribution.
-
-Some of the most enduring worship in Scripture did not rise from comfort or success, but from a lineage marked by holy fear. The Sons of Korah knew—personally and generationally—what rebellion cost. They knew what mercy preserved.
-
-Their worship was not naïve. It was not casual. It was forged in brokenness, shaped by reverence, and sustained by grace. And it reminds us that brokenness, when met with humility, becomes fertile soil—where true worship takes root and endures.
-
----
-
-> Lord,
-keep my heart humble before You.  
-Teach me to be content with where You have placed me,  
-and to honor the boundaries You have set.  
-Let me walk in reverence, not entitlement—  
-grateful for Your mercy,  
-and mindful of Your holiness.  
-Form in me a heart that worships You rightly.  
-Amen.

@@ -4,7 +4,7 @@ author: "Steve Wilkins"
 date: 2024-10-03
 layout: article.njk
 category: devotionals
-excerpt: Trusting God's sovereignty when deliverance comes differently than we expect—and discovering His presence in the fire.
+excerpt: When the king renamed them, he thought he was erasing them. He wasn't.
 tags:
   - suffering
   - trust
@@ -30,41 +30,48 @@ themes:
 
 ---
 
-Imagine the scene: three teenagers—Shadrach, Meshach, and Abednego—standing before King Nebuchadnezzar, the most powerful man in the known world. Their crime was refusing to bow before his golden statue. Facing certain, agonizing death in a superheated furnace, their response was not a plea for mercy, but a declaration of faith.
+Nebuchadnezzar renamed them.
+> Daniel became Belteshazzar — Bel protect the king.  
+Hananiah became Shadrach — command of Aku.  
+Mishael became Meshach — who is what Aku is.  
+Azariah became Abed-nego — servant of Nego.
 
-Their surrender was not to the flame, but to the sovereignty of God.
+He dressed them in Babylonian names the way you dress a prisoner in a number. He was saying: your old identity is gone. You belong to Babylon now.
 
-*"Our God is able to deliver us,"* they proclaimed. But then came the defining words: ***"But even if He does not..."***
+But their Hebrew names told a different story.
+> Daniel — God is my judge.  
+Hananiah — The LORD is gracious.  
+Mishael — Who is like the LORD?  
+Azariah — The LORD is my helper.
 
-This was not a lack of faith; it was the purest expression of it. They trusted God completely—without demanding a specific outcome. In essence, they were saying, "God will save us—either from the fire, or through the fire."
+When faced with the choice of bowing to an idol or facing certain death in a furnace, they didn't hesitate.
+> *"You can call us whatever you want to call us. But we know who we are."*
 
-Enraged, the king ordered the furnace heated seven times hotter and had them thrown in. But they were not alone.
+So into the fire they went.
 
-Daniel records a fourth man walking with them—one *"like a son of the gods."* Many see in this a divine presence—possibly even a pre-incarnate appearance of Christ. However we understand it, the message is unmistakable: **God entered the fire with them.**
+Not because they were certain God would pull them out. They were clear about that—"But even if He does not..." They trusted God completely without demanding a specific outcome. He would save them from the fire.
 
-When they emerged, the evidence was undeniable:
+***Or through it.***
 
-> *the fire had no effect on the bodies of these men nor was the hair of their head singed, nor were their trousers damaged, nor had the smell of fire even come upon them.* **—Daniel 3:27**
+Either way, they knew who they were.
 
-Yet something *was* burned away... the ropes that bound them.
+Nebuchadnezzar looked into the furnace and saw something that stopped him cold.
 
-The fire meant to destroy them became the means of their freedom. *What the enemy intended for harm, God used for release.* They came out untouched, unscorched, and unbound.
+> *"Look! I see four men loosed, and they are walking in the midst of the fire without harm, and the appearance of the fourth is like a son of the gods!"* **—Daniel 3:25**
 
-God has not changed.
+Jesus didn't wait outside the fire for them to emerge.
 
-He still uses suffering not to consume us, but to refine us. And notice this: Jesus did not wait outside the fire for them to emerge. He walked *in it* with them. He is found in the deepest waters, the darkest valleys, and the fiercest trials of our lives.
+He walked in.
 
-Scripture echoes this truth:
+When they came out, the soldiers, the satraps, the governors crowded around them—astonished at the lack of evidence from the fire.
 
-> *"If any man's work is burned up, he will suffer loss; but he himself will be saved, yet so as through fire."* **—1 Corinthians 3:15**
-> *"Behold, I have refined you, but not as silver; I have tested you in the furnace of affliction."* **—Isaiah 48:10**
+> *"...the fire had no effect on the bodies of these men nor was the hair of their head singed, nor were their trousers damaged, nor had the smell of fire even come upon them."* **—Daniel 3:27**
 
-If you are in the fire today—pressed by grief, fear, loss, or uncertainty—hear these promises:
+The fire destroyed exactly one thing.
 
-> *"The LORD is near to the brokenhearted and saves those who are crushed in spirit."* **—Psalm 34:18**
-> *"And now, Lord, for what do I wait? My hope is in You."* **—Psalm 39:7**
+The cords that bound them.
 
-We can face any trial with confidence—not because we control the outcome, but because we know the Companion. God may deliver us from the fire, or He may walk with us through it. Either way, He is faithful. The fire refines, releases, and frees—consuming only what binds us.
+The fire meant to destroy them became the means of their freedom. What the enemy intended for harm, God used for release.
 
 ---
 
