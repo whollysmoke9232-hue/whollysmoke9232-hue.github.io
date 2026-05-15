@@ -11,17 +11,16 @@ tags:
   - trust
   - obedience
   - perseverance
-  - praise
 scripture:
   - 2 Chronicles 20:15
   - 2 Chronicles 20:21-22
   - Joshua 6:16
   - Judges 7:20-22
-  - Acts 16:2-26
+  - Acts 16:25-26
   - Psalm 149:6
 themes:
-  - trust
-  - obedience
+  - witness
+  - renewal
 ---
 
 ## King Jehoshaphat—Singers before the army
@@ -68,7 +67,7 @@ God gave Joshua an unlikely battle strategy:
 
 > *...when the priests blew the trumpets, Joshua said to the people, "Shout! For the LORD has given you the city."* **—Joshua 6:16**
 
-"*The LORD ***has given***..."
+"The LORD ***has given***..."
 
 Before the shout, the walls were still standing.
 
@@ -122,8 +121,6 @@ This pattern appears again and again in Scripture.
 
 What would it look like to praise God today—not after clarity comes, but while obedience still feels risky?
 
-Could we sometimes be closer to God's deliverance than we realize—waiting only for the moment when faith finds its voice?
-
-Let us not neglect this powerful expression of our love toward—*and faith in*—our God.
+Could we sometimes be closer to God's deliverance than we realize?
 
 > *"Let the high praises of God be in their mouth, and a two-edged sword in their hand."* **—Psalm 149:6**

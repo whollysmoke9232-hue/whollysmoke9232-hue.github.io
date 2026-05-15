@@ -2,45 +2,41 @@
 title: "Created In His Image"
 author: Steve Wilkins
 date: 2026-02-17
-layout: article
+layout: article.njk
 category: meditations
 excerpt: "A reflection on whether the cross was an interruption in the story of creation or the meaning creation was always built to reveal."
 tags:
   - faith
-  - seeking
   - identity
-  - holiness
   - sovereignty
-  - presence
   - grace
+  - longing
 scripture:
   - Psalm 17:8
 themes:
-  - identity
-  - grace
-  - suffering
-  - longing
+  - witness
+  - sanctification
 ---
 
 What came first, the chicken or the egg?  
 
 Do we instinctively protect our eyes so David could write,
-> *"Keep me as the apple of the eye;"* **—Psalm 17:8**  
+> *"Keep me as the apple of the eye?"* **—Psalm 17:8**  
 
-Was David inspired only after the Spirit observed humanity guarding this fragile part of the body? Did our protection of the eye simply become a metaphor for covenant love—or did God have David's heart in mind when He created the eye?  
+Was David inspired only after the Spirit observed humanity guarding this fragile part of the body? Did our protection of the eye simply become a metaphor for covenant love — or did God have David's heart in mind when He created the eye?  
 
 Did God create reality with metaphors already inside it?  
 
-I sometimes wonder why we were made with certain features. Because we were created in Their image—Father, Son, and Holy Spirit. Do we have arms so Jesus could be suspended by nails through His wrists?  
+I sometimes wonder why we were made with certain features. Because we were created in Their image — Father, Son, and Holy Spirit. Do we have arms so Jesus could be suspended by nails through His wrists?  
 
-What came first—Christ's body, our creation, or the crucifixion?  
+What came first — Christ's body, our creation, or the crucifixion?  
 
 We usually read Genesis like this:
 > God → makes man → later becomes a man.  
 
 But what if we were made in the image of the God who would become human and be crucified?  
 
-The template may not be Adam, but rather, the incarnate Christ—the wounded, resurrected human—already present in the mind of God.  
+The template may not be Adam, but rather, the incarnate Christ — the wounded, resurrected human — already present in the mind of God.  
 
 From inside time we see:
 > creation → incarnation → crucifixion.  
@@ -54,16 +50,16 @@ It may be the center the story was built around.
 
 Creation becomes a stage shaped for redemption.  
 
-So the cross does not use the body. The cross reveals what the body always meant for.  
+So the cross does not use the body. The cross reveals what the body was always meant for.  
 
 > Hands were always for giving.  
-> Skin always for bearing.  
-> Eyes always for guarding.  
-> Life always for offering.  
+Skin always for bearing.  
+Eyes always for guarding.  
+Life always for offering.  
 
 I am not saying that creation is arranged around future events. I'm contending that it reflects the character of the One who made it.  
 
-So when the cross happens, it does not feel foreign to the world—it fits it.  
+So when the cross happens, it does not feel foreign to the world — it fits it.  
 
 Not prediction, but design.  
 

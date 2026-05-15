@@ -14,15 +14,13 @@ tags:
 scripture:
   - Matthew 5:8
 themes:
-  - prayer
-  - surrender
-  - longing
   - renewal
+  - sanctification
 ---
 
 <div style="text-align: center; font-style: italic;">
 
-O God, purify my heart, for I long to see more of you.  
+O God, purify my heart, for I long to see more of You.  
 I've seen Your hand.  
 I've experienced a taste of Your love.  
 I've been given a glimpse of Your glory.  
@@ -34,14 +32,14 @@ Reveal my sin.
 Burn away my chaff.  
 I desire a deep cleansing.
 
-Create in me a clean heart—a new heart  
+Create in me a clean heart — a new heart  
 So that all that is left standing in me is You.
 
 I don't want to remember my sin.  
 I don't want to long for sinful things.  
 I seek You.  
 I seek Your face.  
-I seek Your will—Your perfect will.  
+I seek Your will — Your perfect will.  
 Fix my mind in innocence,  
 My imagination in purity.  
 Lead me in truth.  
@@ -49,7 +47,7 @@ Steady me with Your hand.
 
 You are all I need.  
 You are all I want.  
-O God, purify my heart, for I long to see more of you.
+O God, purify my heart, for I long to see more of You.
 
 > *"Jesus said, 'Blessed are the pure in heart, for they will see God.'"* **—Matthew 5:8**
 

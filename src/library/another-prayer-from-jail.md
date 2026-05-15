@@ -9,35 +9,31 @@ tags:
   - prayer
   - surrender
   - transformation
-  - confinement
   - holiness
+  - longing
 scripture:
   - Romans 12:2
 themes:
-  - prayer
-  - suffering
-  - surrender
-  - longing
+  - renewal
+  - sanctification
 ---
 
-*Author's Note: Written in confinement*  
-
-6/16/2023  
+6/16/2023 (Written in confinement)
 
 Oh God,  
 
-Purge from my mind all my thoughts, dreams, ideas, and fantasies about my future.  
+Purge from my mind all my thoughts, dreams, and fantasies about my future.  
 
-Make my thoughts your thoughts.  
-Make my dreams your dreams.  
+Make my thoughts Your thoughts.  
+Make my dreams Your dreams.  
 
-I will follow you.  
-Serve you.  
-Worship you.  
+I will follow You.  
+Serve You.  
+Worship You.  
 
-I just want to be where you are.  
+I just want to be where You are.  
 
-May your holy fire burn away any remnant of me and my sinful nature.  
-Make me like you.  
+May Your holy fire burn away any remnant of me and my sinful nature.  
+Make me like You.  
 
 Amen.

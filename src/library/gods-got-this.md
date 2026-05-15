@@ -6,19 +6,17 @@ layout: article.njk
 category: meditations
 excerpt: When progress feels slow and God seems silent, Deuteronomy reminds us that His promises unfold little by little. The pauses are not abandonment. They are preparation.
 tags:
-- trust
-- waiting
-- fear
-- sovereignty
-- faith
-- strength
-scripture:
-- Deuteronomy 7:22-23
-themes:
   - trust
   - waiting
   - fear
-  - hope
+  - sovereignty
+  - faith
+scripture:
+  - Deuteronomy 7:22-23
+themes:
+  - provision
+  - guidance
+  - despair
 ---
 
 Sometimes, it seems like God has forgotten. Like He brought me this far, and then just left. I can look at my past and see the path He's carried me through. I see victory after victory. I see how He held me when I stumbled. How He encouraged me when I doubted.
@@ -31,7 +29,7 @@ I forget that this is sometimes how He works.
 
 > *The LORD your God will clear away these nations before you little by little; you will not be able to put an end to them quickly, for the wild beasts would grow too numerous for you. But the LORD your God will deliver them before you, and will throw them into great confusion until they are destroyed.* **—Deuteronomy 7:22-23**
 
-*The LORD your God ***will** clear away these nations before you.*  
+*The LORD your God **will** clear away these nations before you.*  
 That's a promise. From God. He always has and always will keep His promises. I will eventually arrive at the goal that He has placed before me.
 
 ***Little by little.***  
@@ -40,7 +38,7 @@ God is not in the same hurry that I am. He already knows the future. He already 
 *The wild beasts would grow too numerous for you.*  
 Like the Israelites, if the progress is too quick, I will be vulnerable to attack from all sides. God, in His wisdom, moves at a pace that allows me to *grow into* the space I occupy before He leads me forward.
 
-*But the LORD your God ***will** deliver.*  
+*But the LORD your God **will** deliver.*  
 This promise is important enough to be repeated. God reminds me repeatedly that my trust in Him is never in vain. He knows my tendency to wander into doubt. So He places reminders in my path *to keep me focused on Him* in the midst of my questions.
 
 I am learning that there may be purpose behind every action... and even these pauses.

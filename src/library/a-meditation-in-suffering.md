@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Meditation In Suffering"
 author: "Steve Wilkins"
 date: 2023-10-15
@@ -10,13 +10,12 @@ tags:
   - trust
   - presence
   - confinement
+  - worship
 scripture:
   - Psalm 69:7
 themes:
-  - suffering
-  - surrender
-  - shame
-  - grief
+  - despair
+  - sanctification
 ---
 
 > *"Because for Your sake I have borne reproach; dishonor has covered my face."* **—Psalms 69:7**
@@ -34,7 +33,7 @@ All of this is to bring You glory.
 I can't see the end.  
 I don't know how, but You will be lifted up.  
 Men will turn to You.  
-They will know that You alone are God"”  
+They will know that You alone are God;  
 the only God who delivers men from sin.
 
 It is You who rescues,  
@@ -45,17 +44,10 @@ It is You who has set my feet on a firm foundation.
 
 You are God.  
 To You I give my life.  
-To You I offer my worship.  
+To You I lift my praise.  
 My life is in Your hands.  
 There is nowhere I would rather be.
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

@@ -6,16 +6,15 @@ layout: article.njk
 category: reflections
 excerpt: Trust is not found in understanding the script. It is staying in the story with God when you cannot see the reason.
 tags:
-- trust
-- sovereignty
-- suffering
-- faith
-- perseverance
-themes:
+  - trust
+  - sovereignty
   - suffering
-  - identity
-  - shame
-  - grief
+  - faith
+  - perseverance
+scripture: Matthew 28:20
+themes:
+  - despair
+  - loneliness
 ---
 
 
@@ -23,7 +22,7 @@ themes:
 
 Trust is a concept that I thought I understood.  
 
-But I didn’t learn about real trust until I believed that I had lost everything, and all I had left was God—if He was still there…  
+But I didn’t learn about real trust until I believed that I had lost everything, and all I had left was God — if He was still there...  
 
 My first few hours in jail were a defining moment for me. It felt like I had nothing. No control. No reputation. No future I could see.
 
@@ -55,7 +54,7 @@ He never learns that his name had been spoken in the throne room of God.
 
 He lives the entire ordeal without the explanation we are given.
 
-And yet he keeps speaking—not perfectly, not politely, not without frustration—but he keeps speaking ***to God.***
+And yet he keeps speaking — not perfectly, not politely, and not without frustration — but he keeps speaking ***to God.***
 
 That is trust.
 
@@ -73,7 +72,7 @@ We imagine that if we only understood the hidden mechanics—the spiritual battl
 
 But God does not grant us a backstage pass.
 
-He asks us to stay in the story without seeing the script.
+He asks us to stay in the story without ever seeing the script.
 
 And somehow, that is enough.
 
@@ -123,5 +122,5 @@ But through it all, I can still have confidence that there is purpose beyond wha
 
 And He is still with me.
 
-> *...and lo, I am with you always, even to the end of the age.*
+> *...and lo, I am with you always, even to the end of the age.*  
 **—Matthew 28:20**

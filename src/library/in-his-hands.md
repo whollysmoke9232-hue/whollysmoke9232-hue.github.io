@@ -2,37 +2,35 @@
 title: "In His Hands"
 author: "Steve Wilkins"
 date: 2026-04-30
-layout: "article.njk"
-category: "reflections"
+layout: article.njk
+category: reflections
 excerpt: "God claims both what is given and what lies beyond it. In the tension between possession and sovereignty, we find quiet confidence that even what feels chaotic remains firmly in His hands."
 tags:
   - sovereignty
   - trust
   - identity
-  - dominion
-  - spiritual reflection
+  - faith
 scripture:
-  - "Psalms 60:6-9"
+  - "Psalm 60:6-9"
 themes:
-  - control
-  - surrender
-  - security
-  - God’s sovereignty
-  - perspective
+  - provision
+  - renewal
 ---
 
-> *God has spoken in His holiness: “I will exult, I will portion out Shechem and measure out the valley of Succoth. “Gilead is Mine, and Manasseh is Mine; Ephraim also is the helmet of My head; Judah is My scepter.*
-> *“Moab is My washbowl; Over Edom I shall throw My shoe; Shout loud, O Philistia, because of Me!”*
-Who will bring me into the besieged city? Who will lead me to Edom?>*
-> **—Psalms 60:6-9**
+> ***God has spoken in His holiness: “I will exult, I will portion out Shechem and measure out the valley of Succoth. “Gilead is Mine, and Manasseh is Mine; Ephraim also is the helmet of My head; Judah is My scepter.  
+“Moab is My washbowl; Over Edom I shall throw My shoe; Shout loud, O Philistia, because of Me!”  
+Who will bring me into the besieged city? Who will lead me to Edom?***  
+*—Psalm 60:6-9*
+
+---
 
 I love the imagery here:
 
-Shechem and Gilead—areas that span the land of Israel—are lifted up and defined by God; defined both geographically and relationally; both are identified as “Mine” by God.
+Shechem and Gilead — areas that span the land of Israel — are lifted up and defined by God; defined both geographically and relationally; both are identified as “Mine” by God.
 
-Gilead and Manasseh—territories east and west—representing the divided inheritance—are also claimed relationally as “Mine.”
+Gilead and Manasseh — territories east and west — representing the divided inheritance, are also claimed relationally as “Mine.”
 
-Ephraim is God’s helmet—representing strength.
+Ephraim is God’s helmet — representing strength.
 
 “Judah is My scepter.” Representing rule or kingship.
 
@@ -44,7 +42,7 @@ Likewise, the modern church also has a complete history at its disposal to cemen
 
 There is great comfort in realizing our relationship and security in the hand of God. He owns and sustains all that we possess.
 
-What is less obvious—to us and the Israelites—is what that means for the “land” beyond what we possess.
+What is less obvious — to us and the Israelites — is what that means for the “land” beyond what we possess.
 
 In verse 9, God makes it clear that those lands are His as well. But His relationship with them is much different.
 
@@ -54,6 +52,6 @@ In verse 9, God makes it clear that those lands are His as well. But His relatio
 
 Commanding Philistia to shout “because of Me” is not an invitation to worship. It is language commanding them to acknowledge subservience.
 
-So in effect, what God is communicating to us here is that while He is Lord over all we possess, He is also Lord over everything else as well—even when appearances seem to indicate otherwise.
+So in effect, what God is communicating to us here is that while He is Lord over all we possess, He is also Lord over everything else as well — even when appearances seem to indicate otherwise.
 
 The lesson for me is that while I am working out my salvation, I can walk in full confidence that God is still Lord over all the chaos that seems to surround me.

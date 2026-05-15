@@ -6,29 +6,26 @@ layout: article.njk
 category: stories
 excerpt: From a guarded sycamore tree to a ram in the thicket and a great fish in the sea, Scripture reveals a God who orchestrates divine appointments—arranging people, places, and moments for redemption.
 tags:
-- sovereignty
-- trust
-- waiting
-- obedience-
-- restoration
-- seeking
-scripture:
-- Romans 8:28
-- Luke 19:4
-- Genesis 22:13
-- Jonah 1:17
-- Romans 10:9
-themes:
+  - sovereignty
+  - trust
+  - waiting
   - obedience
-  - restoration
-  - hope
-  - identity
+  - seeking
+scripture:
+  - Romans 8:28
+  - Luke 19:4
+  - Genesis 22:13
+  - Jonah 1:17
+  - Romans 10:9
+themes:
+  - provision
+  - witness
 ---
 
 **Zaccheus (Luke 19:1-10)**  
 I imagine that sometime before Joshua, God summoned two angels. *"Guard that sprout,"* He told them.  
 
-Through the earthquake that brought the walls of Jerico down and the armies marching by. Through drought, flood, storms, wild animals, highway construction. While the foundation of the new Jerico was laid. Protected from traveling people and livestock. The little sapling grew into a mature tree with limbs that extend over the highway.  
+Through the earthquake that brought the walls of Jericho down and the armies marching by. Through drought, flood, storms, wild animals, highway construction. While the foundation of the new Jericho was laid. Protected from traveling people and livestock. The little sapling grew into a mature tree with limbs that extended over the highway.  
 
 Then there was a little man running beside the road to get around the crowd.
 > *"So he ran ahead and climbed a Sycamore fig tree"* **—Luke 19:4**
@@ -46,7 +43,8 @@ That ram didn't just happen to be there—it was prepared by God for that exact 
 God had an appointment to meet with Abraham.  
 
 **Jonah (Jonah 1:1-17)**  
-Jonah tried to run from God. In his running, God sent a tempest and Jonah found himself in the midst of a raging sea
+Jonah tried to run from God. In his running, God sent a tempest and Jonah found himself in the midst of a raging sea —
+
 > *"and the LORD appointed a great fish to swallow Jonah"* **—Jonah 1:17**  
 
 ... and bring him back to his mission.  
@@ -71,8 +69,8 @@ They all opened the door to my next appointment.
 
 Recently, in jail, a man moved into my cell.
 
-He had been held in classification for nearly a week because of computer issues.
-He was first assigned to a different cell, but said it was too dirty.
+He had been held in classification for nearly a week because of computer issues.  
+He was first assigned to a different cell, but said it was too dirty.  
 A deputy suggested he move in with *"the white guy."*
 
 So into my cell he came.
@@ -94,11 +92,11 @@ Computer glitches.
 A dirty cell.  
 A deputy's suggestion.  
 A zip-lock bag.  
-A random scrap of paper.  
+A random scrap of paper.
 
 God had already prepared the tree.  
 He had already prepared the ram.  
-He had already prepared the fish.  
+He had already prepared the fish.
 
 And apparently, He prepares classification delays too.  
 

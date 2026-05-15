@@ -4,12 +4,11 @@ author: Steve Wilkins
 date: 2026-03-14
 layout: article.njk
 category: stories
-excerpt: The kingdom of heaven is the greatest treasure a person can ever find. True surrender begins when we realize that God Himself—not His gifts—is the prize.
+excerpt: The kingdom of heaven is the greatest treasure a person can ever find. True surrender begins when we realize that God Himself — not His gifts — is the prize.
 tags:
   - surrender
   - repentance
   - transformation
-  - identity
   - seeking
   - grace
 scripture:
@@ -17,47 +16,49 @@ scripture:
   - Matthew 13:22
   - Matthew 6:33
 themes:
-  - surrender
-  - repentance
-  - identity
-  - grace
+  - brokenness
+  - sanctification
+  - renewal
 ---
 
-> *"The kingdom of heaven is like a treasure hidden in the field, which a man found and hid again; and from joy over it he goes and sells all that he has and buys that field."* **—Matthew 13:44**
+> ***"The kingdom of heaven is like a treasure hidden in the field, which a man found and hid again; and from joy over it he goes and sells all that he has and buys that field."***  
+*—Matthew 13:44*
 
-For years I thought I understood God's love. I knew the right answer to check on the "˜What is God Like' test, but I didn't really understand it in my heart. At some point, I came to realize that God leads me according to ***His*** plan, not mine.
+---
 
-I realized that for most of my life I had been approaching God on my own terms; offering only what was easy for me to let go of. I don't know that I had ever really surrendered all of me to him. There's always been a part of me that I held back—the root of my addiction. I don't know exactly why. Maybe because it had been with me for so long that it had just become comfortable. I would confess and repent because I was afraid of the results of my sin; not because it kept me from God.  
+For years I thought I understood God's love. I knew the right answer to check on the "What is God Like" test, but I didn't really understand it in my heart. At some point, I came to realize that God leads me according to ***His*** plan, not mine.
 
-I wanted his forgiveness more than I wanted Him.  
+I realized that for most of my life I had been approaching God on my own terms — offering only what was easy for me to let go of. I don't know that I had ever really surrendered all of me to Him. There's always been a part of me that I held back — the root of my addiction. I don't know exactly why. Maybe because it had been with me for so long that it had just become comfortable. I would confess and repent because I was afraid of the results of my sin; not because it kept me from God.  
 
-My focus had always been more on my wife and the effect my addiction had on her. I have discovered that I must turn my full attention to him and pursue and follow him. It is then that He takes care of everything else.
+I wanted His forgiveness more than I wanted Him.  
 
-Like the man who found the pearl...  
+My focus had always been more on my wife and the effect my addiction had on her. While that is something that I have to face and address, I have discovered that I must first turn my full attention to Him and pursue and follow Him. It is then that He takes care of everything else.
+
+Like the man who found the hidden treasure...  
 
 > *"When [he] found it, he hid it again, and then in his joy went and sold all he had and bought that field."*  
 
-I have never given that kind of value to the Kingdom of heaven. I have danced around his blessing, forgiveness, grace, and gifts. But I've never simply found myself seeking Him. I feel like I have always been the seed that was thrown among the thorns...
+I have never given that kind of value to the Kingdom of heaven. I have danced around His blessing, forgiveness, grace, and gifts. But I've never simply found myself seeking Him. I feel like I have always been the seed that was thrown among the thorns...
 
 > *"And the one on whom seed was sown among the thorns, this is the man who hears the word, and the worry of the world and the deceitfulness of wealth choke the word, and it becomes unfruitful."* **—Matthew 13:22**
 
 I wanted just as much of God as was comfortable while I continued chasing other things.  
 
-God was filling my cup with Himself, but I kept adding other "things" to the cup—leaving less room for Him.  
+God was filling my cup with Himself, but I kept adding other "things" to the cup — leaving less room for Him.  
 
-This continuws ro happen so slowly—inch by inch—that I don't even notice the change until some crisis occurs that opens my eyes to my condition and I start the process all over again. Only to end up in another crisis. It is a never ending, frustrating cycle.
+This continues to happen so slowly — inch by inch — that I don't even notice the change until some crisis occurs that opens my eyes to my condition and I start the process all over again. Only to end up in another crisis. It is a never ending, frustrating cycle.
 
-This has become the focus of my prayer. That God would help me to direct my focus wholly on Him. I confess that this is something that I just can't do on my own. I need God to lead me to himself.
+This has become the focus of my prayer. That God would help me to direct my focus wholly on Him. I confess that this is something that I just can't do on my own. I need God to lead me to Himself.
 
 This has introduced a peace that I've not known before.  
 
-God is my Pearl of great prize.  
+God is my Pearl of great price.  
 God is my reason to be sober.  
 God is my reason to live tomorrow.  
-My only reason.  
+My only reason.
 
 The greatest thing that I can have on earth ***is God Himself.***  
 
 He is my greatest treasure.
 
-Now my challenge is to "seek first the Kingdom of heaven" (Matthew 6:33) every day for the rest of my life.
+Now my challenge is to "seek first the Kingdom of heaven" **—Matthew 6:33** every day for the rest of my life.

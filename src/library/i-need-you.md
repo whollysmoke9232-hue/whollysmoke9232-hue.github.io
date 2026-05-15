@@ -8,20 +8,18 @@ excerpt: A simple prayer of surrender—recognizing that loving and following Je
 tags:
   - prayer
   - surrender
-  - dependence
-  - devotion
-  - humility
+  - faith
   - confinement
+  - seeking
 scripture:
   - John 15:5
 themes:
-  - prayer
-  - surrender
-  - suffering
-  - obedience
+  - brokenness
+  - renewal
+  - loneliness
 ---
 
-## 3/19/2023
+*3/19/2023 (Written in confinement.)*
 
 Jesus, I need to give myself up.
 
@@ -46,12 +44,3 @@ Be all in me.
 Take all of me.
 
 Have Your way in me.
-
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>

@@ -8,17 +8,19 @@ excerpt: David asks not merely for protection, but to live close enough to God t
 tags:
   - trust
   - presence
-  - refuge
   - grace
+  - seeking
 scripture:
   - Psalm 17:8
 themes:
-  - trust
-  - grace
-  - obedience
+  - provision
+  - loneliness
 ---
 
-> *Keep me as the apple of the eye; Hide me in the shadow of Your wings* **—Psalms 17:8**  
+> ***Keep me as the apple of the eye; Hide me in the shadow of Your wings***
+*—Psalm 17:8**
+
+---
 
 This is not decorative poetry. David is not reaching for a sentimental picture of closeness. He is drawing from an image his listeners would physically feel.
 
@@ -30,23 +32,21 @@ It does not require any scientific understanding to realize that we instinctivel
 
 David is praying,  
 
-> *“Guard me with the same reflex You would guard Your own sight.”*  
+> *“Guard me the same way You would guard Your own sight.”*  
 
-Not reluctant protection. Not even negotiated protection. But reflexive protection.
+Not reluctant protection. But reflexive protection.
 
 This type of protection is dependent on proximity. It requires that God be near. David is asking to live at the center of God’s attention. Where harm cannot reach without first meeting Him.
 
-Which naturally leads David to the next expression of protection:
-
 ***“Hide me in the shadow of Your wings”***  
 
-In David’s experience, this was a familiar, powerful scene: When danger appeared, chicks ran instinctively under the mother. Her wings became a living shield. The chicks could not fight, flee, or understand—they could only trust.
+In David’s experience, this was a familiar, powerful scene: When danger appeared, chicks ran instinctively under the mother. Her wings became a living shield. The chicks could not fight or understand — they could only trust.
 
 David is saying:
 
 > *“I want to be that small, and I want You to be that near.”*  
 
-David was seeking an immediate covering. A relational refuge. He was trusting God to position Himself between David and any potential danger.
+David was seeking an immediate covering. He was trusting God to position Himself between David and any potential danger.
 
 David sees himself as small and defenseless. He knows he can only survive *not* by his own strength, but by his proximity to his Creator.
 

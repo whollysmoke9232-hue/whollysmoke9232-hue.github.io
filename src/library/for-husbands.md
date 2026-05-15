@@ -6,19 +6,17 @@ layout: article.njk
 category: reflections
 excerpt: A critical spirit can quietly erode the person we claim to love. Learning to serve instead of correct may be one of the most important transformations a husband can experience.
 tags:
-  - marriage
-  - humility
-  - service
-  - relationships
   - repentance
   - transformation
+  - grace
+  - obedience
 scripture:
   - Matthew 7:3-5
   - Mark 10:45
 themes:
-  - repentance
   - renewal
-  - identity
+  - brokenness
+  - sanctification
 ---
 
 Was it because my divorce occurred while I was incarcerated? Or was it because I was in such a season of scriptural saturation? I don't know why it happened. I only know that somewhere along the way I began viewing the little things that *used* to annoy me very differently.

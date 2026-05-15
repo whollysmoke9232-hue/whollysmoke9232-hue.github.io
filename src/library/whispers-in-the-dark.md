@@ -1,30 +1,30 @@
 ---
 title: Whispers in the Dark
 author: Steve Wilkins
-date: 2026-02-22
+date: 2024-06-09
 layout: article.njk
 category: poems
 excerpt: In the quiet battles of confinement, I learned that the whispers of the enemy grow faint when the voice of my Deliverer becomes my focus.
 tags:
-- trust
-- refuge
-- perseverance
-- hope
-- prayer
-scripture:
-- Psalm 9:13
-themes:
+  - trust
+  - perseverance
   - hope
   - prayer
+  - confinement
+scripture:
+  - Psalm 9:13
+themes:
   - suffering
-  - loneliness
+  - renewal
 ---
 
-> *LORD, see how my enemies persecute me!  
-Have mercy and lift me up from the gates of death,*
-**—Psalm 9:13 (NIV)**
-
 *6/9/2024 (Written in confinement)*
+
+> ***LORD, see how my enemies persecute me!  
+Have mercy and lift me up from the gates of death,***  
+*—Psalm 9:13*
+
+---
 
 O God, look upon me in mercy.
 
@@ -54,6 +54,6 @@ You are my shelter.
 You are my deliverer.  
 
 > **You—  
-Only You—  
-Are my hope—  
+Only You —  
+Are my hope —  
 And my future.**

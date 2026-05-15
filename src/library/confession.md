@@ -5,19 +5,17 @@ date: 2026-02-21
 layout: article.njk
 category: meditations
 excerpt: Forgiveness is freely given in Christ, yet many of us continue to live under guilt. Psalm 51 reminds us that confession is not groveling before an angry God, but returning to a gracious Father who has always been ready to restore.
-tags: 
-- repentance
-- grace
-- forgiveness
-- identity
-- restoration
-- trust
-scripture: Psalm 51:1
-themes:
+tags:
   - repentance
+  - grace
   - identity
-  - restoration
-  - guilt
+  - trust
+  - shame
+scripture:
+  - Psalm 51:1
+themes:
+  - renewal
+  - brokenness
 ---
 
 *Author's note: This is not about how to get forgiven. It's about learning to live like you already are.*
@@ -44,11 +42,11 @@ According to the greatness of Your compassion*
 
 David is not reminding God of His lovingkindness and compassion. *He's reminding himself.*
 
-In our sin, our focus quickly changes from our Father to our failure. We begin to see the whole world through the lens of shame and disappointment. Without immediate correction, we will begin to believe the lie that all is hopelessness and despair.
+In our sin, our focus quickly changes from our Father to our failure. We begin to see the whole world through the lens of shame and disappointment. Without immediate correction, we will begin to believe the lie that our lives are now defined by hopelessness and despair.
 
-It seems critical—in the confession of our sin to God—that we remember Who we are talking to. More importantly, who we are not talking to.
+It seems critical — in the confession of our sin to God — that we remember Who we are talking to. More importantly, who we are *not* talking to.
 
-We are not talking to a God who is waiting impatiently for us to realize that we deserve the punishment that is surely headed our way.  
+We are not talking to a god who is waiting impatiently for us to realize that we deserve the punishment that is surely headed our way.  
 
 > We are kneeling before a God who patiently waited for us to run to Him so we could be restored.
 

@@ -7,20 +7,20 @@ category: reflections
 excerpt: We often wish we could rewrite parts of our past, yet God, in His sovereignty, works through even our regrets to accomplish His purposes and shape our lives.
 tags:
   - sovereignty
-  - regret
-  - redemption
-  - perspective
-  - growth
   - grace
+  - trust
+  - brokenness
 scripture:
   - Psalm 8:2
 themes:
-  - grace
-  - obedience
+  - remembrance
+  - renewal
 ---
 
-> *From the mouth of infants and nursing babes You have established strength because of Your adversaries, to make the enemy and the revengeful cease*  
-> **—Psalm 8:2**
+> ***From the mouth of infants and nursing babes You have established strength because of Your adversaries, to make the enemy and the revengeful cease***  
+*—Psalm 8:2*
+
+---
 
 While cooking my breakfast this morning (Grits Bowl), I was contemplating some of my life's choices. I found myself wishing I had never seen an image of a nude woman. Or never had a relationship with a particular person. Or never even knew that the porn industry existed.  
 
@@ -30,57 +30,57 @@ I thought about God's sovereignty. About His working *all* things for good.
 
 Then I sat down to eat and came across Psalm 8:2.  
 
-God's ways are just not going to make sense to a mind who can only view the past through a dim mirror and has no means to see the future.  
+God's ways are just not going to make sense to a mind who can only view the past through a *dim mirror* and has no means to see the future.  
 
 God uses things that make no sense to accomplish His purposes.
 
-Psalm 8:2 is one of those verses that feels upside-down on purpose. God doesn’t just work despite weakness, confusion, or broken paths—He often works through them. Infants establishing strength. The small silencing the strong. It’s not how we would design it.
+Psalm 8:2 is one of those verses that feels upside-down on purpose. God doesn't just work despite weakness, confusion, or broken paths — He often works through them. Infants establishing strength. The small silencing the strong. It's not how we would design it.
 
-If I could edit my past… would I?
+If I could edit my past... would I?
 
-The honest answer is complicated—because while there are things worth grieving, there are also things God has undeniably used.
+The honest answer is complicated — because while there are things worth grieving, there are also things God has undeniably used.
 
-It’s not wrong to wish certain things had never entered your life. That’s not ingratitude—that’s clarity. But at the same time, you recognize something deeper:
+It's not wrong to wish certain things had never entered your life. But at the same time, you recognize something deeper:
 
-*You can’t fully trace what those experiences prevented.*  
-&nbsp;&nbsp;&nbsp;&nbsp; When He allows us to walk into places we will later regret, I have to wonder, ***what is He saving us from?***
+*You can't fully trace what those experiences prevented.*  
+<span class="indent">When He allows us to walk into places we will later regret, I have to wonder, ***what is He saving us from?***</span>
 
-*You can’t fully measure what they produced.*  
-&nbsp;&nbsp;&nbsp;&nbsp;There are things happening in and through our lives that we will never see... this side of heaven.
+*You can't fully measure what they produced.*  
+<span class="indent">There are things happening in and through our lives that we will never see... this side of heaven.</span>
 
-*And you definitely can’t see what God is still doing with them.*  
-&nbsp;&nbsp;&nbsp;&nbsp; The ripple—effect of those things will continue to shape us long after the memories fade.
+*And you definitely can't see what God is still doing with them.*  
+<span class="indent">The ripple-effect of those things will continue to shape us long after the memories fade.</span>
 
 God uses things that make no sense to accomplish His purposes.
 
-Not as an excuse for the things themselves—but as a declaration of His sovereignty over them.
+Not as an excuse for the things themselves — but as a declaration of His sovereignty over them.
 
-There’s a difference between:
+There's a difference between:
 
-**“This was good”**
+**"This was good"**
 
 and
 
-**“God has brought good out of this”**
+**"God has brought good out of this"**
 
 And Psalm 8:2 adds another layer,
 
 > *From the mouth of infants..."*
 
-God doesn’t just redeem outcomes—He reshapes what our lives have to say.
+God doesn't just redeem outcomes — He reshapes what our lives have to say.
 
 The very places that could have disqualified you...
 
-&nbsp;&nbsp;&nbsp;&nbsp; become places where your perspective carries weight.
+<span class="indent">become places where your perspective carries weight.</span>
 
 Not because of the experiences themselves...
 
-&nbsp;&nbsp;&nbsp;&nbsp; but because of what God has done in and through them.
+<span class="indent">but because of what God has done in and through them.</span>
 
-Regret doesn’t get the final word. Experience doesn’t get the credit.
+Regret doesn't get the final word. Experience doesn't get the credit.
 
 ***God does.***
 
-There are things I would never choose again—
+There are things I would never choose again —
 
-&nbsp;&nbsp;&nbsp;&nbsp; but I cannot deny the God who has chosen to use them.
+<span class="indent">but I cannot deny the God who has chosen to use them.</span>

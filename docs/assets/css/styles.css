@@ -218,3 +218,9 @@ footer {
 .book-section {
   margin-bottom: 4rem;
 }
+
+/* Poem line indentation */
+.indent {
+  display: block;
+  padding-left: 2em;
+}

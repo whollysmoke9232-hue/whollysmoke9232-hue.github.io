@@ -8,41 +8,35 @@ excerpt: "In a season of uncertainty, I tried to obey Philippians 4 by bringing 
 tags:
   - prayer
   - surrender
-  - wilderness
   - trust
-  - restoration
   - obedience
+  - waiting
 scripture:
   - Philippians 4:6-7
   - Romans 6:23
 themes:
-  - prayer
-  - suffering
-  - surrender
-  - trust
+  - despair
+  - renewal
+  - loneliness
 ---
 
-## Note
+*Author's note:*
 
 There are seasons in life when the path ahead disappears and the future becomes uncertain. Scripture often describes those seasons as wilderness.
 
-In January 2026, While waiting for my legal case to reach court, I found myself in one of those places. One evening I sat down with Philippians 4:6-7 and tried to do exactly what Paul instructs: bring everything to God in prayer.
+In January 2026, while waiting for my legal case to reach court, I found myself in one of those places. One evening I sat down with Philippians 4:6-7 and tried to do exactly what Paul instructs: bring everything to God in prayer.
 
 This is the prayer that came out of that moment.
 
 ---
 
-### My Prayer
-
-> *"Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, will guard your hearts and your minds in Christ Jesus."* **—Philippians 4:6-7**
+> ***"Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, will guard your hearts and your minds in Christ Jesus."*** *—Philippians 4:6-7*
 
 ---
 
-### Legal
-
 Father, I don't want to go to prison, or even back to jail. I know it is within Your power to keep me from that result. My prayer is that my case will be resolved in such a way that incarceration and registry are not required. As I make this prayer, I am aware that it is ultimately selfish and short-sighted.
 
-I have prayed for and envision myself teaching broken men about Your healing touch. I dream of possibly planting a different kind of church—one that mirrors the New Testament church. I long to be a part of a church family that is working together to make a lasting difference in their community. I want to live a life that reflects Your glory and points people toward You.
+I have pray for and envision myself teaching broken men about Your healing touch. I dream of possibly planting a different kind of church—one that mirrors the New Testament church. I long to be a part of a church family that is working together to make a lasting difference in their community. I want to live a life that reflects Your glory and points people toward You.
 
 But I can accomplish all of those goals behind bars just as easily as outside of them. In fact, I fear that on the outside, I will lose my focus and drift back into an *easy* faith that few ever see.
 
@@ -58,9 +52,7 @@ If prison is to be my next home, I will go to prison and serve You with all that
 
 ---
 
-### Family
-
-I pray for reconciliation.
+I pray for reconciliation with my family.
 
 I pray that [my ex-wife's] heart and spirit will find healing from the damage that I have done—the neglect, temper, selfishness, deception, distraction, and the multitude of other mistakes, poor choices, and sins that I exposed her to. I pray also that You would heal all the brokenness that has occurred at the hands of others.
 
@@ -82,16 +74,14 @@ May my restored family live and function to honor You.
 
 ---
 
-### Life
-
 Father, I pray that You prepare me for, and lead me to:
 
-- A church that exalts You.
-- A ministry that loves Your children and points them to You.
-- A home that provides a place to recover and prepare.
-- A job where I can make a difference.
-- Friends who serve and encourage each other.
-- A future where You are sought above all else.
+> A church that exalts You.  
+A ministry that loves Your children and points them to You.  
+A home that provides a place to recover and prepare.  
+A job where I can make a difference.  
+Friends who serve and encourage each other.  
+A future where You are sought above all else.
 
 In all these things, I acknowledge that I am looking through a mirror dimly. I only know what I know. I trust Your wisdom to lead me.
 
@@ -101,4 +91,4 @@ Now I will wait for the peace of Philippians 4:7.
 
 In other words,
 
-**"Not my will, but Yours be done."***
+*"Not my will, but Yours be done."*

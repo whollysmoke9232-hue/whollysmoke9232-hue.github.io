@@ -14,10 +14,9 @@ tags:
 scripture:
   - Romans 8:28
 themes:
-  - trust
-  - waiting
-  - longing
-  - obedience
+  - guidance
+  - provision
+  - renewal
 ---
 
 <div style="text-align: center; font-style: italic;">
@@ -41,7 +40,6 @@ let alone prepare for it.
 That's why my path is rarely a straight line.
 
 **Every detour is necessary.**
-
 Some are gentle curves.  
 Others are sharp turns—painful,  
 Even jarring.  
@@ -53,7 +51,7 @@ He knows what I'll need when I get there.
 The lessons I learn in the detour  
 Are the tools I'll need for the next destination.
 
-And then,  
+**And then,**  
 That destination becomes the next preparation.
 
 So I'm learning to stop fighting.  
@@ -63,3 +61,7 @@ To live in the moment.
 And to leave what's next in God's hands.
 
 </div>
+
+---
+
+> *And we know that God causes all things to work together for good to those who love God, to those who are called according to His purpose.* **—Romans 8:28**

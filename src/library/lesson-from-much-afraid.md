@@ -1,7 +1,7 @@
 ---
 title: Lesson From Much-Afraid
 author: Steve Wilkins
-date: 2026-03-14
+date: 2023-05-08
 layout: article.njk
 category: testimonies
 excerpt: Written while incarcerated, this reflection on Hind’s Feet on High Places reveals a growing understanding that God is not merely fixing problems, but calling for complete surrender and transformation.
@@ -10,24 +10,20 @@ tags:
   - transformation
   - identity
   - repentance
-  - faith
   - confinement
 scripture:
   - Romans 12:1
 themes:
-  - surrender
-  - identity
-  - repentance
   - suffering
+  - renewal
+  - sanctification
 ---
 
-*Author’s Note: Written while incarcerated.*
-
-5/8/2023, 12:15 PM
+*5/8/2023, 12:15 PM (Written while incarcerated.)*
 
 I finished “Hind’s Feet on High Places,” by Hannah Hurnard this morning. I don't think I have ever longed for a book to continue like this one. Reading the book this time through was such an awakening experience. Never have I seen myself so clearly in Much-Afraid’s journey. God opened my eyes to so many truths as I made my way through the pages.  
 
-Chief of all, is the realization that God is not particularly interested in fixing all my problems and shortcomings. In fact, that has been my problem all along. I have often gone to him with this shortcoming or that sin and asked him to fix me. And while he has, from time to time, addressed my perceived need; I've never been able to experience complete victory. That's because his call is much greater. He doesn't want this or that from me; he wants all of me—a total transformation—a new me!  
+Chief of all, is the realization that God is not particularly interested in fixing all my problems and shortcomings. In fact, that has been my problem all along. I have often gone to him with this shortcoming or that sin and asked him to fix me. And while he has, from time to time, addressed my perceived need; I've never been able to experience complete victory. That's because his call is much greater. He doesn't want this or that from me; he wants all of me — a total transformation — a new me!  
 
 I realized last night that what he has been calling me to, is total surrender.  
 
@@ -39,7 +35,7 @@ This is hard for me. I've attempted it before.
 
 After failure in the past, I have thrown my hands up and declared, “This is impossible!”  
 
-Well not anymore! I will surrender my will daily—as many times a day as necessary—until my will has been replaced by His.  
+Well not anymore! I will surrender my will daily — as many times a day as necessary — until my will has been replaced by His.  
 
 ---
 
@@ -47,9 +43,9 @@ I have lamented about my addiction.
 
 I've used the addiction as an excuse for so much sinful behavior.  
 
-I've blamed God for not removing it from me. I now wonder if it is not a special love gift from God; A sharp nail that secures me to Him, so that I can never want—or dare—to go it on my own again.  
+I've blamed God for not removing it from me. I now wonder if it is not a special love gift from God; a sharp nail that secures me to Him, so that I can never want — or dare — to go it on my own again.  
 
-This will be a long journey—the rest of my life. But it's a journey that I happily embrace. I know that whatever he leads me to or through, is just the next step of growing into my new identity. And I desperately want to grow into my new identity.  
+This will be a long journey — the rest of my life. But it's a journey that I happily embrace. I know that whatever He leads me to or through, is just the next step of growing into my new identity. And I desperately want to grow into my new identity.  
 
 I know now why he impressed on my heart that I was a new man back in March. It's because that is what He calls me! That's what He sees in me.  
 

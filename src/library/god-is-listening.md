@@ -4,27 +4,28 @@ author: Steve Wilkins
 date: 2026-03-10
 layout: article.njk
 category: devotionals
-excerpt: When we feel trapped in the pit of our own failures, Psalm 40 reminds us that God does more than hear our prayers—He leans in and listens.
+excerpt: When we feel trapped in the pit of our own failures, Psalm 40 reminds us that God does more than hear our prayers — He leans in and listens.
 tags:
   - prayer
   - perseverance
   - hope
-  - scripture
-  - restoration
-  - meditation
+  - waiting
+  - trust
 scripture:
   - Psalm 40:1
   - Psalm 40:2-3
   - Psalm 40:12
   - Psalm 40:17
 themes:
-  - prayer
-  - hope
-  - restoration
-  - obedience
+  - despair
+  - renewal
+  - loneliness
 ---
 
-> *"I waited patiently for the LORD; And He inclined to me and heard my cry."* **—Psalm 40:1**
+> ***"I waited patiently for the LORD; And He inclined to me and heard my cry."***  
+*—Psalm 40:1*
+
+---
 
 I have read this Psalm on the tenth day of most months for the last forty years or so. That is well over four hundred times. Yet how many times have I read it and missed the beauty of this verse?
 
@@ -34,7 +35,7 @@ As I linger over this Psalm, I find myself reading it out of order:
 
 > *"My iniquities have overtaken me, so that I am not able to see; They are more numerous than the hairs of my head, and my heart has failed me."* **—Psalm 40:12**
 
-Many times this has described my desperation as I've cried out in prayer. Too often I've waited until my folly has gotten out of hand before turn my focus back to God. In these moments it's easy to feel like my prayers are bouncing off the ceiling. Like God can't hear—or isn't listening. He seems distant. Unapproachable. I begin to feel alone. Cut off. It is so easy to give up and stop praying.
+Many times this has described my desperation as I've cried out in prayer. Too often I've waited until my folly has gotten out of hand before turning  my focus back to God. In these moments it's easy to feel like my prayers are bouncing off the ceiling. Like God can't hear—or isn't listening. He seems distant. Unapproachable. I begin to feel alone. Cut off. It is so easy to give up and stop praying.
 
 David sheds more light on this condition in verse 2 when he confesses that he had been in:
 
@@ -70,7 +71,7 @@ What an amazing jewel! God doesn't simply hear our prayers—in the sense that H
 
 He doesn't miss a single word.
 
-**Thee Father listens beyond our words to the cry of our hearts.**
+**The Father listens beyond our words to the cry of our hearts.**
 
 Because David is certain that God is paying close attention, he can boldly pray:
 

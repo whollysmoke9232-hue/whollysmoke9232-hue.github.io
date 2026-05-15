@@ -1,7 +1,7 @@
 ---
 title: Hope
 author: Steve Wilkins
-date: 2026-03-14
+date: 2023-05-14
 layout: article.njk
 category: testimonies
 excerpt: Written from jail, this testimony reflects on the fragile, painful, and necessary nature of hope—how it can both wound and sustain, and how ultimately hope must rest in God.
@@ -11,22 +11,20 @@ tags:
   - waiting
   - faith
   - confinement
-  - restoration
 scripture:
   - Psalm 39:7
 themes:
-  - hope
-  - suffering
-  - waiting
-  - restoration
+  - despair
+  - loneliness
+  - renewal
 ---
 
-> *“And now, Lord, for what do I wait? My hope is in You.”*  
-> **—Psalm 39:7**
-
-*Author’s note: This is an excerpt from a letter I wrote from jail.*
+> ***“And now, Lord, for what do I wait? My hope is in You.”***  
+*—Psalm 39:7*
 
 ---
+
+*(An excerpt from a letter written from confinement.)*
 
 Hope. Hope is a funny, elusive, cruel thing. It is the thing that sustains me. But when crushed it sometimes seems that it will kill me. And it is cruel. So cruel. And little things. It always seems to be little things.
 
@@ -48,7 +46,7 @@ Hope... But I'm still in jail.
 
 It's my fault. I know that. But it's still hard. It still hurts. I'm trying to figure out how I will survive here for the year my attorney says it will take for my case to go to trial.  
 
-I've lost hope that I will be going home. I'm losing hope that I will even have a home to go home too. I fish for reasons to hope. But they are rare these days.  
+I've lost hope that I will be going home. I'm losing hope that I will even have a home to go home to. I fish for reasons to hope. But they are rare these days.  
 
 I’ve learned some lessons about hope:  
 Let it go. It's a cruel taskmaster.  

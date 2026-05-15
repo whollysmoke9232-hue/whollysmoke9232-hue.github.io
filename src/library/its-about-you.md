@@ -14,10 +14,8 @@ tags:
 scripture:
   - Psalm 69:7
 themes:
-  - surrender
-  - identity
-  - restoration
-  - obedience
+  - renewal
+  - loneliness
 ---
 
 <div style="text-align: center; font-style: italic;">
@@ -43,15 +41,7 @@ You who lifts my soul from the grave.
 My life is in Your hands.  
 There is nowhere I would rather be.
 
-> *“Because for Your sake I have borne reproach; dishonor has covered my face.”*  
-**—Psalm 69:7**
+> *“Because for Your sake I have borne reproach; dishonor has covered my face.”* **—Psalm 69:7**
 
 </div>
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

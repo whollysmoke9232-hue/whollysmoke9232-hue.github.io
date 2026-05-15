@@ -4,41 +4,37 @@ author: "Steve Wilkins"
 date: 2024-06-10
 layout: article.njk
 category: devotionals
-excerpt: "God’s revelation is not hidden—it’s everywhere. Creation declares His power, and conscience confirms His nature. The question is not whether He’s spoken, but whether we’ll respond."
+excerpt: "God’s revelation is not hidden — it’s everywhere. Creation declares His power, and conscience confirms His nature. The question is not whether He’s spoken, but whether we’ll respond."
 tags:
   - repentance
   - obedience
   - sin
   - confinement
+  - sovereignty
 scripture:
   - Romans 1:19-20
 themes:
-  - repentance
-  - obedience
-  - suffering
+  - witness
+  - sanctification
 ---
 
-> *“For since the creation of the world God’s invisible qualities—His eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse.”* **—Romans 1:19–20**
+> ***For since the creation of the world God’s invisible qualities—His eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse.***
+*—Romans 1:19–20*
 
-God doesn’t whisper His identity into the cosmos—He shouts it.
+---
 
-The stars, the subatomic particles, the neural pathways in our brains—each bears witness to eternal power and intentional design. The complexity of life speaks of a Creator who is both transcendent and near.
+God doesn’t whisper His identity into the cosmos — He shouts it.
+
+The stars, the subatomic particles, the neural pathways in our brains — each bears witness to eternal power and intentional design. The complexity of life speaks of a Creator who is both transcendent and near.
 
 **And then there is conscience.**
 
-Inside every person is a moral awareness—a recognition of right and wrong that is not merely learned, but known. We don’t always follow it. In fact, we rarely do. But the presence of conscience itself testifies to the imprint of God.
+Inside every person is a moral awareness — a recognition of right and wrong that is not merely learned, but known. We don’t always follow it. In fact, we rarely do. But the presence of conscience itself testifies to the imprint of God.
 
-Paul says that *“what may be known about God is plain,”* not because humanity is clever, but because **God has made it plain**. He has not hidden Himself in a distant realm accessible only to the spiritual elite. He has written His evidence into creation and etched His law onto the human heart.
+Paul says that *what may be known about God is plain,* not because humanity is clever, but because **God has made it plain**. He has not hidden Himself in a distant realm accessible only to the spiritual elite. He has written His evidence into creation and etched His law onto the human heart.
 
-Because God has made Himself so clearly known—through creation and conscience—Paul concludes that humanity stands **without excuse**. The evidence is undeniable. The question is not whether God has revealed Himself, but whether we will respond to what has been made plain.
+Because God has made Himself so clearly known — through creation and conscience — Paul concludes that humanity stands **without excuse**. The evidence is undeniable. The question is not whether God has revealed Himself, but whether we will respond to what has been made plain.
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

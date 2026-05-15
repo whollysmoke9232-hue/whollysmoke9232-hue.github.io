@@ -10,19 +10,17 @@ tags:
   - prayer
   - transformation
   - repentance
-  - confinement
   - holiness
 scripture:
   - 1 Corinthians 6:20
   - Romans 12:1
 themes:
-  - prayer
-  - suffering
-  - surrender
-  - repentance
+  - sanctification
+  - renewal
+  - loneliness
 ---
 
-5/8/2023, 5:30 AM
+5/8/2023, 5:30 AM (*In confinement*)
 
 Father, there's so much of me that I still need to surrender to you.  
 
@@ -36,7 +34,7 @@ And Father, remove from me the root of selfish love. Consume that love with your
 
 As I feed your love within me with your Word, I need you to provide the life-giving water that brings growth.  
 
-Holy Spirit, live in me. Move in me. Teach me to stay out of your way—to allow you to live and move through me.  
+Holy Spirit, live in me. Move in me. Teach me to stay out of your way — to allow you to live and move through me.  
 
 That is my victory... You!  
 I will live in victory to the extent that I allow you to live in and through me.  
@@ -47,7 +45,7 @@ Take your place on the throne of my life.
 
 I'm not my own; I have been bought with a price.  
 
-Take possession of all that remains of me and prune me. Remove all the branches that bear bad fruit—or no food at all. Cultivate those branches that bear good fruit until I bear good fruit with my whole being.  
+Take possession of all that remains of me and prune me. Remove all the branches that bear bad fruit—or no fruit at all. Cultivate those branches that bear good fruit until I bear good fruit with my whole being.  
 
 Oh God, I serve you! I serve none but you.  
 

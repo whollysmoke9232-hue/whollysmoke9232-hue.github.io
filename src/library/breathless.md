@@ -8,17 +8,15 @@ excerpt: Psalm 148 erupts with unrestrained praise, calling all creation to wors
 tags:
   - worship
   - praise
-  - creation
-  - awe
-  - devotion
+  - sovereignty
+  - joy
+  - longing
 scripture:
   - Psalm 148
   - Luke 19:40
 themes:
-  - prayer
-  - trust
-  - obedience
   - renewal
+  - witness
 ---
 
 > *"Praise the LORD!  
@@ -58,6 +56,8 @@ Even for the sons of Israel, a people near to Him.*
 > *Praise the LORD!*  
 **—Psalm 148:1-14**
 
+---
+
 Read that again, but slower this time.
 
 There are many songs that are written because the songwriter was paid to write songs, and their scheduled "songwriting" block of time had arrived. So, they sat down and wrote. Many fabulous songs are written during these times.  
@@ -73,22 +73,22 @@ In this Psalm, the Psalmist starts with his unbridled exclamation, *"Praise the 
 Who should praise the LORD?
 
 He starts a list:  
-> *Angels. Stars. Skies.*  
-*Weather. Mountains.*  
-*Sea creatures. Animals.*  
-*Kings. All people.*  
+> *Angels. Stars. Skies.  
+Weather. Mountains.  
+Sea creatures. Animals.  
+Kings. All people.*  
 
-It's like the writer is trying to call roll on the entire universe!
+It's like the writer is trying to call the roll on the entire universe!
 
 He seems almost breathless as he squeezes his mind to include all of creation. As if to say, *Don't miss anything, don't forget anyone... everything must praise Him!*
 
-The Psalmist is consumed by God's power, magnitude, and worthiness. He calls on all created things—animate and inanimate—to offer praise to their creator.
+The Psalmist is consumed by God's power, magnitude, and worthiness. He calls on all created things — animate and inanimate — to offer praise to their creator.
 
 Including us.
 
 Maybe even, especially us.
 
-Everything else in God's universe functions exactly as God intended—Angels, stars, sky, weather, mountains, animals... they offer praise to God simply by doing exactly what they were created to do.
+Everything else in God's universe functions exactly as God intended — Angels, stars, sky, weather, mountains, animals... they offer praise to God simply by doing exactly what they were created to do.
 
 But people.
 
@@ -98,9 +98,9 @@ This Psalm calls me back to the center. It reminds me that there is a current th
 
 Then his final, *"Praise the LORD!"* is less conclusion than release.
 
-I sense him falling back into his chair as he completes that line—exhausted.
+I sense him falling back into his chair as he completes that line — exhausted.
 
-And I am reminded of Jesus words,
+And I am reminded of Jesus' words,
 
 > *"I tell you, if these become silent, the stones will cry out!"* **—Luke 19:40**
 

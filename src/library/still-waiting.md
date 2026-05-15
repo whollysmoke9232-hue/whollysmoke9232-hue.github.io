@@ -5,20 +5,25 @@ date: 2026-02-09
 layout: article.njk
 category: meditations
 excerpt: "When anxiety pulls me into endless what-ifs, Psalm 39:7 calls me back to the only secure ground: My hope is in You."
-tags: 
-- waiting
-- trust
-- refuge
-scripture: Psalm 39:7
-themes:
+tags:
   - waiting
-  - prayer
+  - trust
   - hope
-  - weariness
+  - fear
+  - sovereignty
+scripture:
+  - Psalm 39:7
+themes:
+  - despair
+  - provision
+  - renewal
 ---
 
-> _And now, Lord, for what do I wait?  
-> My hope is in You._ **—Psalm 39:7**
+> ***And now, Lord, for what do I wait?  
+My hope is in You.***  
+*—Psalm 39:7*
+
+---
 
 Every time I stumble across this verse, it feels like splashing my face with cold water.
 
@@ -32,18 +37,12 @@ None of these are wrong; but none bring relief.
 
 Then in the midst of my anxiety, I wander into Psalm 39, and here comes the cold water again to shake me from my funk and remind me of where I actually stand.
 
-I'm reminded to ask myself, *For real, Steve! What are you waiting for? What exactly are you thinking you can do to make any real difference in your present or future?* It causes me to refocus on *Whose* I am.
+I'm reminded to ask myself, "For real, Steve! What are you waiting for? What exactly are you thinking you can do to make any real difference in your present or future?"
+
+It leads me to refocus on *Whose* I am.
 
 I rediscover that in order to focus on my fears, I first have to take my eyes off of Jesus.
 
-In my fear, I find that I feel profoundly empty. Nervous. I want to avoid the future. But when my focus turns back to my Saviour, relief comes rushing back in like a flood. Suddenly, my fears lose their grip and I’m once again filled with faith and courage. Eager to embrace my future.
+In my fear, I find that I feel profoundly empty. Nervous. I want to avoid the future. But when my focus turns back to my Savior, relief comes rushing back in like a flood. Suddenly, my fears lose their grip and I’m once again filled with faith and courage. Eager to embrace my future.
 
 This is a sobering truth; but a welcome one. My hope is in a heavenly Father who has proven that He will never leave or forsake me. Whatever my future may hold, He is in control of it. And if He is in control, I have nothing to fear.
-
----
-
-> Father,
-when my mind runs ahead of You,
-bring me back to this:
-my hope is in You.
-Amen.

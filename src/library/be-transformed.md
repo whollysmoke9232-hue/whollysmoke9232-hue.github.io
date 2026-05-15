@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Be Transformed"
 author: "Steve Wilkins"
 date: 2023-08-21
@@ -18,30 +18,31 @@ scripture:
   - Galatians 5:22-23
 themes:
   - renewal
-  - surrender
-  - obedience
-  - grace
+  - sanctification
 ---
 
-> *"Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, which is your spiritual service of worship. And do not be conformed to this world, but be transformed by the renewing of your mind"* **—Romans 12:1-2**
+> ***"Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, which is your spiritual service of worship. And do not be conformed to this world, but be transformed by the renewing of your mind"***  
+*—Romans 12:1-2*
 
-In light of the gracious justification Christ has accomplished for us, the only reasonable conclusion is that we should present ourselves wholly to God—as walking, breathing, living sacrifices.
+---
+
+In light of the gracious justification Christ has accomplished for us, the only reasonable conclusion is that we should present ourselves wholly to God — as walking, breathing, living sacrifices.
 
 Paul offers a stark warning: **Do not be conformed.**  
-The word *conformed* carries the idea of being *with* the structures, patterns, and philosophies of this world—sharing its assumptions, values, and logic. This is not a call to superficial nonconformity. Even the Pharisees were nonconformists in appearance. Paul is speaking about something deeper: resisting the world's way of thinking.
+The word *conformed* carries the idea of being *with* the structures, patterns, and philosophies of this world — sharing its assumptions, values, and logic. This is not a call to superficial nonconformity (even the Pharisees were nonconformists in appearance). Paul is speaking about something deeper: resisting the world's way of thinking.
 
 Then comes the command: **Be transformed.**  
-To be transformed is to move *across* and *beyond* the forms of this world—to rise above them—to allow our *minds* to be changed. This is a call to transcendent excellence, not cultural withdrawal. The Christian life is not merely different, *it is elevated.*
+To be transformed is to move *across* and *beyond* the forms of this world — to rise above them — to allow our *minds* to be changed. This is a call to transcendent excellence, not cultural withdrawal. The Christian life is not merely different, *it is elevated.*
 
-This is nothing more—and nothing less—than serious, in-depth formation: a growing mastery of the Word of God. Lives change when minds change.
+This is nothing more — and nothing less — than serious, in-depth re-formation: a growing mastery of the Word of God. When our minds change, our lives will follow.
 
 ---
 
-Justification means that we are declared righteous before God even while we are still sinners. We place our trust in Christ alone—and God places Christ's righteousness into our account. That is the gospel.
+Justification means that we are declared righteous before God even while we are still sinners. We place our trust in Christ alone — and God places Christ's righteousness into our account. That is the gospel.
 
 Not only does Jesus take our sins, debts, and demerits, but He also gives us His obedience, assets, and merits.
 
-Imagine it this way: each of us wears a sign around our neck displaying everything we've ever done or failed to do—every word, every thought, every motive. As Jesus hung on the cross, He gathered the sins of all people—past, present, and future—and placed them on Himself. He bore our sin fully. That is when He cried out,
+Imagine it this way: each of us wears a sign around our neck displaying everything we've ever done or failed to do — every word, every thought, every motive. As Jesus hung on the cross, He gathered the sins of all people — past, present, and future — and placed them on Himself. He bore our sin fully. That is why He cried out,
 
 > *"My God, My God, why have You forsaken Me?"* **—Mattthew 27:46**
 
@@ -52,12 +53,12 @@ At the same time, He took the sign that bore His perfect obedience and placed it
 ---
 
 True faith always produces real conformity to Christ.  
-If there is no sanctification—no growing likeness to Jesus—then there was never justification to begin with.
+If there is no sanctification — no growing likeness to Jesus — then there was never justification to begin with.
 
 Justification is instant.  
 Sanctification begins instantly.
 
-Jesus said,
+Jesus said,  
 
 > *"Seek first His kingdom and His righteousness"* **—Matthew 6:33**
 
@@ -67,21 +68,16 @@ Righteousness is the goal. And righteous people are known by their fruit:
 
 ---
 
-True worship requires death—death to self.
+True worship requires death — death to self.
 
-Dying to self will likely be painful.  
+Dying to self will be painful.  
 It means abandoning my own wants, dreams, and ambitions in order to pursue His will.  
 It means refusing alignment with the futile thinking of the world.  
 It means submitting to the mind-renewing work of the Holy Spirit.
 
 Only then can our thinking be transformed.  
-Only then can we discern and embrace God's good, pleasing, and perfect will—for our lives and for the world.
+Only then can we discern and embrace God's good, pleasing, and perfect will — for our lives and for the world.
 
 ---
 
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

@@ -4,7 +4,7 @@ author: "Steve Wilkins"
 date: 2024-01-29
 layout: article.njk
 category: poems
-excerpt: "A prayer of surrender and longing—for a clean heart that desires God alone and seeks His presence above all else."
+excerpt: "A prayer of surrender and longing — for a clean heart that desires God alone and seeks His presence above all else."
 tags:
   - repentance
   - sin
@@ -14,10 +14,9 @@ tags:
 scripture:
   - Matthew 5:8
 themes:
-  - repentance
-  - surrender
-  - prayer
-  - suffering
+  - sanctification
+  - renewal
+  - intercession
 ---
 
 O God,  
@@ -36,7 +35,7 @@ Burn away my chaff.
 
 I desire a deep cleansing.
 
-Create in me a clean heart—  
+Create in me a clean heart —  
 a new heart,  
 so that all that is left standing in me  
 is You.
@@ -45,7 +44,7 @@ I don't want to remember my sin.
 I don't want to long for sinful things.
 
 I seek You.  
-I seek Your will—Your perfect will.
+I seek Your will — Your perfect will.
 
 Fix my mind in innocence.  
 My imagination in purity.
@@ -60,17 +59,8 @@ O God,
 purify my heart,  
 for I long to see more of You.
 
----
-
-> _“Blessed are the pure in heart, for they will see God.”_ **—Matthew 5:8**
+> _Blessed are the pure in heart, for they will see God._ **—Matthew 5:8**
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

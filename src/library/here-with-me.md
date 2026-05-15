@@ -4,40 +4,32 @@ author: "Steve Wilkins"
 date: 2024-11-09
 layout: article.njk
 category: poems
-excerpt: "A meditation on God’s nearness—written in confinement, in awe of a presence that remains personal amid infinite scale."
+excerpt: "A meditation on God's nearness — written in confinement, in awe of a presence that remains personal."
 tags:
   - presence
   - seeking
   - trust
   - confinement
 themes:
-  - suffering
-  - longing
-  - identity
   - loneliness
+  - renewal
+  - brokenness
 ---
 
 Millions of people calling Your Name  
-&nbsp;&nbsp;&nbsp;&nbsp;every face You see  
+<span class="indent">every face You see</span>
 Oh, my God, how can it be  
-&nbsp;&nbsp;&nbsp;&nbsp;that You would be here with me  
+<span class="indent">that You would be here with me</span>
 
 The sun, the moon, stars in the sky  
-&nbsp;&nbsp;&nbsp;&nbsp;each set in place by Thee  
+<span class="indent">each set in place by Thee</span>
 their light and course maintained by You  
-&nbsp;&nbsp;&nbsp;&nbsp;and yet, You’re here with me  
+<span class="indent">and yet, You're here with me</span>
 
 How can I know  
-&nbsp;&nbsp;&nbsp;&nbsp;or can it be known  
-&nbsp;&nbsp;&nbsp;&nbsp;the how’s and why’s of Your plan  
+<span class="indent">or can it be known</span>
+<span class="indent">the hows and whys of Your plan</span>
 The sun, the moon, stars in the sky  
-&nbsp;&nbsp;&nbsp;&nbsp;and yet, You’re here with me  
+<span class="indent">and yet, You're here with me</span>
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

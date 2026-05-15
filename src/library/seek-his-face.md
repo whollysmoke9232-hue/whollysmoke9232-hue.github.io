@@ -4,27 +4,28 @@ author: "Steve Wilkins"
 date: 2023-09-04
 layout: article.njk
 category: devotionals
-excerpt: "God desires to be desired—not for what He can give, but for who He is."
+excerpt: "God desires to be desired — not for what He can give, but for who He is."
 tags:
   - seeking
   - presence
-  - prayer
+  - longing
   - confinement
+  - trust
 scripture:
   - Psalm 127:1-2
+  - Psalm 127:3-5
   - Matthew 6:33
 themes:
-  - longing
-  - prayer
-  - suffering
-  - repentance
+  - renewal
+  - provision
+  - intercession
 ---
 
-> _“Unless the Lord builds the house, the builders labor in vain.  
+> ***Unless the Lord builds the house, the builders labor in vain.  
 Unless the Lord watches over the city, the guards stand watch in vain.  
-In vain you rise early and stay up late, toiling for food to eat—  
-for He grants sleep to those He loves.”_  
-**—Psalm 127:1–2**
+In vain you rise early and stay up late, toiling for food to eat —  
+for He grants sleep to those He loves.***  
+*—Psalm 127:1-2*
 
 ---
 
@@ -34,7 +35,7 @@ If we could find our way to seek Him first — to chase Him rather than His bles
 
 But if we continue to seek His hand, we will continue to live in frustration and disappointment. When our prayers are centered on what He can do for us, all our labors will be in vain. But if we focus our prayers and pursuit on Him and His face, His blessing will flow to us "even in our sleep."
 
-Children are a perfect example. Like arrows in the hand of a warrior, they give us the assurance that we have what we need to succeed in the things God has called us to do. The more we have, the more confident we become.
+Children are a perfect example (**Psalm 127:3-5**). Like arrows in the hand of a warrior, they give us the assurance that we have what we need to succeed in the things God has called us to do. The more we have, the more confident we become.
 
 But not only children. This applies to all the blessings of the Lord.
 
@@ -46,11 +47,4 @@ So no matter what we receive from the world's authorities, we can know that we a
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

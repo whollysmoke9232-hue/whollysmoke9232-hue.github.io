@@ -7,11 +7,10 @@ category: meditations
 excerpt: Biblical worship was never casual or detached from sacrifice. The costliness of Old Testament offerings points us toward the immeasurable price paid through Christ and calls us to respond with wholehearted praise.
 tags:
   - worship
-  - sacrifice
-  - praise
   - surrender
-  - gratitude
-  - reverence
+  - obedience
+  - grace
+  - holiness
 scripture:
   - Psalm 66:15
   - Psalm 66:1-2
@@ -20,15 +19,13 @@ scripture:
   - Psalm 66:12
   - Hebrews 13:15
 themes:
-  - surrender
-  - grace
-  - obedience
-  - trust
+  - remembrance
   - renewal
 ---
 
-> *I shall offer to You burnt offerings of fat beasts*
-**—Psalms 66:15**
+> ***I shall offer to You burnt offerings of fat beasts*** *—Psalms 66:15*
+
+---
 
 I got stuck on this verse this morning.
 
@@ -69,17 +66,17 @@ And rightly so, because later in their history, after their sacrificial routine 
 
 It would seem that their approach to the sacrifice was just as important as the sacrifice itself.
 
-These sacrifices are referred to some 30—50 times throughout the Psalms. That frequency demands that we pay attention.
+These sacrifices are referred to some 30-50 times throughout the Psalms. That frequency demands that we pay attention.
 
-I have no experience in sacrificing live animals to God. I’ve never witnessed or participated in that ritual. But the process is explained in surprising detail throughout the Old Testament. So I cannot claim ignorance to the process or the cost.
+I have no experience in sacrificing live animals to God. I’ve never witnessed or participated in that ritual. But the process is explained in surprising detail throughout the Old Testament. So I cannot claim ignorance of the process or the cost.
 
 > *Through Him then, let us continually offer up a sacrifice of praise to God, that is, the fruit of lips that give thanks to His name.*
 **—Hebrews 13:15**
 
 “*...The fruit of lips that give thanks to His name*” links back to these sacrifices.
 
-This passage in Hebrews, and many others throughout the New Testament, remind us that there is a cost connected to our praise and worship. Before the cross, the cost of forgiveness was a living, valuable, animal from my stall. On the cross, our justification was purchased by the infinitely more valuable blood of Jesus.
+This passage in Hebrews, and many others throughout the New Testament, remind us that there is a cost connected to our praise and worship. Before the cross, the cost of forgiveness was a living, valuable animal from my stall. On the cross, our justification was purchased by the infinitely more valuable blood of Jesus.
 
 Entering into praise and worship casually should seem like an affront to the life, death, and resurrection of Jesus. He gave everything to purchase our right to approach the Father.
 
-Maybe, our response should reflect that realization.
+Maybe our response should reflect that realization.

@@ -8,15 +8,13 @@ category: poems
 tags:
   - suffering
   - waiting
-  - refuge
   - presence
   - confinement
   - prayer
 themes:
-  - suffering
-  - waiting
-  - repentance
-  - grief
+  - despair
+  - brokenness
+  - loneliness
 ---
 
 Conceived in trouble  
@@ -39,8 +37,9 @@ How many times have You called
 But I stopped my ears  
 
 You've surrounded me; You've hemmed me in  
-But I shook You off; I chased sin  
-I groped in darkness unable to win  
+But I shook You off; Kept chasing sin  
+I groped in darkness  
+Couldn't find my way
 You offered grace again and again  
 
 Prayer was lifted  
@@ -49,9 +48,6 @@ The answer was simply, "Yes"
 Come alive in me
 
 ---
-
-<br>
-<br>
 
 <ul style="list-style-type: none; padding-left: 0; font-size: 0.85em;">
 <li>Written in confinement.</li>

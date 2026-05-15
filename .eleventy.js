@@ -267,10 +267,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "assets/css": "assets/css" });
   eleventyConfig.addPassthroughCopy({ "assets/js": "assets/js" });
   eleventyConfig.addPassthroughCopy({ "images": "images" });
+  eleventyConfig.addPassthroughCopy({ "src/CNAME": "CNAME" });
 
   // 📁 Directory structure
   return {
-    cleanOutputDir: true,
     dir: {
       input: "src",
       includes: "_includes",

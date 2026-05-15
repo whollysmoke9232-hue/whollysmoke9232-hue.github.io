@@ -6,11 +6,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/library/jesus-the-scapegoat/</loc>
-    <lastmod>1996-12-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/the-big-picture/</loc>
     <lastmod>2010-10-20</lastmod>
     <priority>0.8</priority>
@@ -18,11 +13,6 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/stand-where-jesus-stood/</loc>
     <lastmod>2013-03-07</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/library/5th-street-meditation/</loc>
-    <lastmod>2014-04-19</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -38,6 +28,21 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/racism-is-sin/</loc>
     <lastmod>2017-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/stay-in-your-lane/</loc>
+    <lastmod>2023-04-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/lesson-from-much-afraid/</loc>
+    <lastmod>2023-05-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/hope/</loc>
+    <lastmod>2023-05-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -91,7 +96,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.marginsdevotionals.com/library/the-chrysalis/</loc>
+    <lastmod>2024-03-18</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.marginsdevotionals.com/library/in-the-margins/</loc>
+    <lastmod>2024-03-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/margins/</loc>
     <lastmod>2024-03-26</lastmod>
     <priority>0.8</priority>
   </url>
@@ -103,6 +118,11 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/a-psalm-from-confinement/</loc>
     <lastmod>2024-06-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/whispers-in-the-dark/</loc>
+    <lastmod>2024-06-09</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -118,6 +138,11 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/a-holy-moment/</loc>
     <lastmod>2024-06-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/not-so-small-after-all/</loc>
+    <lastmod>2024-06-28</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -141,66 +166,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-invitation-to-wonder/</loc>
-    <lastmod>2025-02-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-introduction/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-living-in-the-margin/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-not-a-remodel/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-righteousness-a-gift-from-first-to-last/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-the-final-margin/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-the-god-who-knows/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-the-margin-before-genesis/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-the-power-of-the-pause/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-the-tapestry-of-time/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-the-word-before-the-word/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-the-word-of-god/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/a-prayer/</loc>
     <lastmod>2025-02-21</lastmod>
     <priority>0.8</priority>
@@ -213,11 +178,6 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/roadblocks/</loc>
     <lastmod>2025-07-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/faith-from-beginning-to-end/</loc>
-    <lastmod>2025-08-02</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -256,22 +216,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/held-on-every-side/</loc>
-    <lastmod>2026-01-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/if-god-is-everywhere/</loc>
-    <lastmod>2026-01-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/library/the-counterfeit-feast/</loc>
-    <lastmod>2026-01-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/library/the-gift-of-now/</loc>
     <lastmod>2026-01-03</lastmod>
     <priority>0.8</priority>
   </url>
@@ -281,73 +226,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/library/the-work-of-your-fingers/</loc>
-    <lastmod>2026-01-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/working-from-grace/</loc>
     <lastmod>2026-01-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/fractured-light-01-the-beginning/</loc>
-    <lastmod>2026-01-08</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/fractured-light-02-the-hook/</loc>
-    <lastmod>2026-01-08</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-3/</loc>
-    <lastmod>2026-01-08</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-4/</loc>
-    <lastmod>2026-01-08</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/fractured-light-05-the-lie-of-marriage/</loc>
-    <lastmod>2026-01-08</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/fractured-light-06-the-thorn/</loc>
-    <lastmod>2026-01-08</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-7/</loc>
-    <lastmod>2026-01-08</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/fractured-light-08-the-surrender/</loc>
-    <lastmod>2026-01-08</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-9/</loc>
-    <lastmod>2026-01-08</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-10/</loc>
-    <lastmod>2026-01-08</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/excerpts/fractured-light/chapter-11/</loc>
-    <lastmod>2026-01-08</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/fractured-light/</loc>
-    <lastmod>2026-01-08</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -391,11 +271,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/margins-where-god-begins/</loc>
-    <lastmod>2026-01-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/books/fractured-light/</loc>
     <lastmod>2026-01-15</lastmod>
     <priority>0.8</priority>
@@ -413,11 +288,6 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/loving-judge/</loc>
     <lastmod>2026-01-17</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/from-exile-to-eden/</loc>
-    <lastmod>2026-01-19</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -471,11 +341,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/library/when-the-order-matters/</loc>
-    <lastmod>2026-01-26</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/why-fear/</loc>
     <lastmod>2026-01-26</lastmod>
     <priority>0.8</priority>
@@ -488,11 +353,6 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/the-question-we-avoid/</loc>
     <lastmod>2026-01-27</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/_drafts/from-knowing-to-surrender/</loc>
-    <lastmod>2026-01-28</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -621,11 +481,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/library/from-exile-to-surrender/</loc>
-    <lastmod>2026-02-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/in-his-image/</loc>
     <lastmod>2026-02-13</lastmod>
     <priority>0.8</priority>
@@ -731,22 +586,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/library/not-so-small-after-all/</loc>
-    <lastmod>2026-02-22</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/press-on/</loc>
     <lastmod>2026-02-22</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.marginsdevotionals.com/library/stand-in-awe/</loc>
-    <lastmod>2026-02-22</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/library/whispers-in-the-dark/</loc>
     <lastmod>2026-02-22</lastmod>
     <priority>0.8</priority>
   </url>
@@ -811,7 +656,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/library/what-about-the-jones/</loc>
+    <loc>https://www.marginsdevotionals.com/library/what-about-the-joneses/</loc>
     <lastmod>2026-03-13</lastmod>
     <priority>0.8</priority>
   </url>
@@ -881,151 +726,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/front-cover/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/foreword/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/introduction/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/part-1/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-1/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-gods-plan/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-2/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-not-a-remodel/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-3/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-its-about-you/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/part-2/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-4/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-a-holy-moment/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-5/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-mustard-seed-faith/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-6/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-righteousness/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/part-3/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-7/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-starter-plan/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-8/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-it-is-finished/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-9/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-a-prayer/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-10/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/postlude/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/appendix/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/about-the-author/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/back-cover/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/a-prayer-from-jail/</loc>
     <lastmod>2026-03-14</lastmod>
     <priority>0.8</priority>
@@ -1061,22 +761,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/library/hope/</loc>
-    <lastmod>2026-03-14</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/library/lesson-from-much-afraid/</loc>
-    <lastmod>2026-03-14</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/showers-of-blessing/</loc>
-    <lastmod>2026-03-14</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/library/stay-in-your-lane/</loc>
     <lastmod>2026-03-14</lastmod>
     <priority>0.8</priority>
   </url>
@@ -1866,11 +1551,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/library/the-chrysalis/</loc>
-    <lastmod>2026-03-18</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/not-complicated/</loc>
     <lastmod>2026-03-22</lastmod>
     <priority>0.8</priority>
@@ -1933,6 +1613,141 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/at-what-cost/</loc>
     <lastmod>2026-05-06</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/front-cover/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/foreword/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/introduction/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-1/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-gods-plan/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-2/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-not-a-remodel/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-3/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-its-about-you/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-4/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-a-holy-moment/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-5/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-mustard-seed-faith/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-6/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-righteousness/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-7/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-starter-plan/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-8/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-it-is-finished/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-9/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/interlude-a-prayer/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/chapter-10/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/postlude/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/appendix/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/about-the-author/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/back-cover/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/i-am-loved/</loc>
+    <lastmod>2026-05-12</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

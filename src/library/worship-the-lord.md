@@ -4,45 +4,46 @@ author: Steve Wilkins
 date: 2026-02-13
 layout: article.njk
 category: devotionals
-excerpt: "Worship begins not with music, but with surrender—bowing low and entrusting what we love most into God’s hands."
+excerpt: "Worship begins not with music, but with surrender — bowing low and entrusting what we love most into God’s hands."
 tags:
-   - surrender
-   - obedience
-   - holiness
-   - church
-scripture_references:
+  - surrender
+  - obedience
+  - holiness
+  - worship
+  - faith
+scripture:
   - Genesis 22:5
   - 2 Samuel 24:24
 themes:
-  - surrender
-  - obedience
-  - trust
+  - sanctification
+  - renewal
 ---
 
 I’m not generally a big fan of deep diving into the original Hebrew text, but this one has me a little bit concerned.
 
-The first mention we find of “worship” in the Bible is found in the account of Abraham’s offering of Issaic.  
+The first mention we find of “worship” in the Bible is found in the account of Abraham’s offering of Isaac.  
 
-Abraham said to his young men,  
-> *“Stay here with the donkey, and I and the lad will go over there; and we will worship and return to you.”* **—Genesis 22:5**  
+Abraham said to his young men,
+
+> *Stay here with the donkey, and I and the lad will go over there; and we will worship and return to you.* **—Genesis 22:5**  
 
 The context here is important. Worship is first connected to sacrifice. It involves obedience that costs something deeply personal.  
 
 What it is not associated with is singing, music, or ritual gathering. It is tied to trust in God’s character and promises.  
 
-Abraham calls what he is about to do—offering his promised son as a sacrifice to God—“worship.”  
+Abraham calls what he is about to do — offering his promised son as a sacrifice to God — “worship.”  
 
 That sets a foundational biblical pattern:  
 
-Worship, in scripture, begins not with music—but with surrender.  
+Worship, in scripture, begins not with music — but with surrender.  
 
 It is in the context of:  
 
-•A father  
-•A son  
-•A mountain  
-•A knife  
-•And radical obedience  
+> A father  
+A son  
+A mountain  
+A knife  
+And radical obedience
 
 The Hebrew term that was translated “worship” basically means to bow down, to prostrate oneself, to bend low, to fall face-down.  
 
@@ -62,10 +63,11 @@ We must remember that worship is not about what appeals to us. It is about physi
 
 Just as Abraham understood that his worship would cost him dearly, we need to come to terms with what it could cost us.  
 
-David said,  
-> *“…I will not offer burnt offerings to the LORD my God which cost me nothing…”* **—2 Samuel 24:24**  
+David said,
 
-Worship–such as is pleasing to God–will always cost me something.  
+> *I will not offer burnt offerings to the LORD my God which cost me nothing.* **—2 Samuel 24:24**  
+
+Worship — such as is pleasing to God — will always cost me something.  
 
 I freely admit that I seldom bow, lie, or prostrate myself before God. Even when I’m alone in my room. It doesn’t feel right. It seems radical.  
 

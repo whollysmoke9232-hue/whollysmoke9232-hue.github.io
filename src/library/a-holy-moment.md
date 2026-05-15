@@ -17,20 +17,18 @@ scripture:
   - Revelation 4:5
   - Revelation 14:2
 themes:
-  - suffering
+  - loneliness
   - renewal
-  - obedience
 ---
 
-> _"The heavens declare the glory of God"¦  
-> They have no speech, they use no words;  
-> their voice is not heard."_ **—Psalm 19:1-3**
+> ***"The heavens declare the glory of God  
+They have no speech, they use no words;  
+their voice is not heard."***  
+*—Psalm 19:1-3*
 
 ---
 
-## A Morning Encounter
-
-This morning, as I contemplated Psalm 19—a passage that speaks of creation's silent, ceaseless worship—I found my gaze drifting to the small slice of sky visible only if I pressed my face against the left edge of the window in my cell door and looked toward the visible world at the far end of the day room.
+This morning, as I contemplated Psalm 19 — a passage that speaks of creation's silent, ceaseless worship — I found my gaze drifting to the small slice of sky visible only if I pressed my face against the left edge of the window in my cell door and looked toward the visible world at the far end of the day room.
 
 Beyond the fence line stood a cluster of trees, their branches reaching skyward. A gentle breeze stirred, and in an instant, thousands of limbs—laden with hundreds of thousands of leaves—began to sway back and forth in a mesmerizing rhythm.
 
@@ -48,34 +46,25 @@ So I stood there for several minutes, tears streaming down my face, simply wavin
 
 Without words, the message came through clearly:
 
-**You are seen. You are loved.**
+*You are seen. You are loved.*
 
 ---
 
-## The Unspeakable Voice
+As I reflect on that moment, I am reminded of the Apostle John's struggle to describe the voice of God in Revelation. Reaching for human language, he offered comparison after comparison:
 
-As I reflect on that moment, I wam reminded of the Apostle John's struggle to describe the voice of God in Revelation. Reaching for human language, he offered comparison after comparison:
+> *A loud voice like a ***trumpet*** **—Revelation 1:10***  
+*His voice was like the sound of ***rushing waters*** **—Revelation 1:15***  
+*From the throne came flashes of lightning, rumblings and peals of ***thunder*** **—Revelation 4:5***  
+*Like ***harpists playing their harps*** **—Revelation 14:2***
 
- *a loud voice like a ***trumpet*** **—Revelation 1:10**  
- *his voice was like the sound of ***rushing waters*** **—Revelation 1:15**  
- *From the throne came flashes of lightning, rumblings and peals of ***thunder*** **—Revelation 4:5**  
- *like ***harpists playing their harps*** **—Revelation 14:2**  
-
-One might be tempted to ask, *"Which is it, John—trumpets, thunder, rushing water, or harps?"*
+One might be tempted to ask, *"Which is it, John, trumpets, thunder, rushing water, or harps?"*
 
 And I imagine his gentle reply would be, *"Yes. Exactly."*
 
-God's voice cannot be contained by a single metaphor. Sometimes it crashes like thunder. Sometimes it roars like oceans. And sometimes—it whispers through leaves waving in the breeze.
+God's voice cannot be contained by a single metaphor. Sometimes it crashes like thunder. Sometimes it roars like oceans.
+
+And sometimes... it whispers through leaves waving in the breeze.
 
 Yet the message is always the same.
 
-**You are loved.**
-
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+***You are loved!***

@@ -9,24 +9,24 @@ tags:
   - suffering
   - trust
   - sovereignty
-  - refuge
   - confinement
+  - identity
 scripture:
   - Daniel 3:17-18
+  - Daniel 3:25
   - Daniel 3:27
   - 1 Corinthians 3:15
   - Isaiah 48:10
   - Psalm 34:18
   - Psalm 39:7
 themes:
-  - suffering
-  - trust
-  - restoration
-  - obedience
+  - brokenness
+  - renewal
+  - witness
 ---
 
-> *"...our God whom we serve is able to deliver us from the furnace of blazing fire; and He will deliver us out of your hand, O king. But even if He does not, let it be known to you, O king, that we are not going to serve your gods or worship the golden image that you have set up."*  
-> **—Daniel 3:17-18**
+> ***"...our God whom we serve is able to deliver us from the furnace of blazing fire; and He will deliver us out of your hand, O king. But even if He does not, let it be known to you, O king, that we are not going to serve your gods or worship the golden image that you have set up."***  
+*—Daniel 3:17-18*
 
 ---
 
@@ -49,7 +49,7 @@ When faced with the choice of bowing to an idol or facing certain death in a fur
 
 So into the fire they went.
 
-Not because they were certain God would pull them out. They were clear about that—"But even if He does not..." They trusted God completely without demanding a specific outcome. He would save them from the fire.
+Not because they were certain God would pull them out. They were clear about that — "But even if He does not..." They trusted God completely without demanding a specific outcome. He would save them from the fire.
 
 ***Or through it.***
 
@@ -75,11 +75,4 @@ The fire meant to destroy them became the means of their freedom. What the enemy
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

@@ -6,22 +6,22 @@ layout: article.njk
 category: devotionals
 excerpt: When we ask God to lead us, we often expect direction toward circumstances or outcomes. Psalm 43 reveals that His ultimate destination for us is not a place or achievement—but Himself.
 tags:
-  - guidance
   - surrender
   - trust
-  - calling
   - prayer
-  - meditation
+  - seeking
+  - obedience
 scripture:
   - Psalm 43:3
 themes:
-  - surrender
-  - trust
-  - prayer
-  - obedience
+  - guidance
+  - renewal
 ---
 
-> *“O send out Your light and Your truth, let them lead me; Let them bring me to Your holy hill and to Your dwelling places.”* **—Psalm 43:3**
+> ***O send out Your light and Your truth, let them lead me; Let them bring me to Your holy hill and to Your dwelling places.***  
+*—Psalm 43:3*
+
+---
 
 The cry of my heart is that God would lead me.
 
@@ -33,7 +33,7 @@ For example, there was a time as a young adult when I would have told you that I
 
 During that time, I volunteered with my church’s youth group. It was fun. I felt like I was helping a little. Teenagers seemed to respond to me. But if you had suggested that I pursue that as a vocation, I would have laughed in your face.
 
-Yet that is exactly where I wound up—a Youth Director at a local church. I backed into the role. I wasn’t looking for it. But I soon discovered that I absolutely loved it. I told my friends that the church was paying me to do the only job in the world I would have done for free.
+Yet that is exactly where I wound up — a Youth Director at a local church. I backed into the role. I wasn’t looking for it. But I soon discovered that I absolutely loved it. I told my friends that the church was paying me to do the only job in the world I would have done for free.
 
 I experienced a level of personal fulfillment that I had not known before. And I learned that God had prepared me to be effective in that role.
 
@@ -49,7 +49,7 @@ The Psalmist’s prayer is essentially, “Lead me to You.”
 
 It’s difficult to think in terms of eternity, but that’s where so many Psalms lead.
 
-I tend to pray only about the future that I can see. Or on good days, the future that is just beyond my view. But God is not limited to my view. He sees the whole picture—beginning, middle, and eternal future.
+I tend to pray only about the future that I can see. Or on good days, the future that is just beyond my view. But God is not limited to my view. He sees the whole picture — beginning, middle, and eternal future.
 
 Could it be that all of these seemingly unanswered prayers have already been answered within His view?
 
@@ -61,7 +61,7 @@ If I want to find lasting peace, I must align my goals with His. I know this mea
 
 But I lack the capacity to see the future God has planned.
 
-Just as He led me from chasing a musical career, He has redirected me repeatedly throughout my life. Each change in direction has worked to lead me closer to Him. I’ve learned to trust His plan—because His plan is perfect.
+Just as He led me from chasing a musical career, He has redirected me repeatedly throughout my life. Each change in direction has worked to lead me closer to Him. I’ve learned to trust His plan — because His plan is perfect.
 
 The Psalmist prays that God will lead him to God Himself.
 

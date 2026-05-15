@@ -1,29 +1,27 @@
 ---
 title: Not So Small After All
 author: Steve Wilkins
-date: 2026-02-22
+date: 2024-06-28
 layout: article.njk
 category: meditations
-excerpt: Beneath the vastness of the heavens, I discovered that humanity is not insignificant but deeply loved—called by name by the One who set every star in place.
+excerpt: Beneath the vastness of the heavens, I discovered that humanity is not insignificant but deeply loved — called by name by the One who set every star in place.
 tags:
-- creation
-- awe
-- worship
-- identity
-- sovereignty
-- eternity
-- confinement
-scripture:
-- Psalm 8:3-4
-themes:
+  - worship
   - identity
-  - suffering
+  - sovereignty
+  - confinement
+  - transformation
+scripture:
+  - Psalm 8:3-4
+themes:
+  - loneliness
+  - renewal
 ---
 
-> *“When I consider Your heavens, the work of Your fingers,  
-The moon and the stars, which You have ordained;  
-What is man that You take thought of him,  
-And the son of man that You care for him?”* **—Psalm 8:3-4**
+> ***When I consider Your heavens, the work of Your fingers, the moon and the stars, which You have ordained; what is man that You take thought of him, and the son of man that You care for him?”***  
+*—Psalm 8:3-4*
+
+---
 
 *6/8/2024 (Written in confinement)*
 
@@ -36,6 +34,3 @@ While You alone are the undisputed star of this magnificent show, man is the obj
 You speak to man. You call him by a name that only You know. When we submit to You, You change us. You transform us from a purely material-minded being into a spiritual being who can live in communion with You. You make us look much more like You. You become our very reason to live. And when we die, we are with You for all eternity.
 
 Hallelujah!
-
-> *“They are new every morning;  
-Great is Your faithfulness.”* **—Lamentations 3:23**

@@ -9,7 +9,7 @@
   }
 
   const INDEX_PATH = "/assets/js/search/library-search-index.json";
-  const MIN_QUERY_LENGTH = 2;
+  const MIN_QUERY_LENGTH = 3;
   const MAX_RESULTS = 60;
 
   let docs = [];

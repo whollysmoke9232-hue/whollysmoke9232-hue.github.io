@@ -4,39 +4,36 @@ author: "Steve Wilkins"
 date: 2025-08-02
 layout: article.njk
 category: devotionals
-excerpt: "God’s mercies are not recycled—they’re freshly painted across each sunrise. His faithfulness is the rhythm behind every breath."
+excerpt: "God’s mercies are not recycled — they’re freshly painted across each sunrise. His faithfulness is the rhythm behind every breath."
 tags:
   - grace
   - trust
-  - restoration
+  - hope
   - waiting
 scripture:
   - Lamentations 3:22-23
 themes:
-  - grace
-  - restoration
-  - waiting
-  - weariness
+  - renewal
+  - provision
 ---
 
-> *“The LORD’S lovingkindnesses indeed never cease,  
-For His compassions never fail.  
-They are new every morning;  
-Great is Your faithfulness.”*  
-**—Lamentations 3:22–23**
+> ***The LORD’S lovingkindnesses indeed never cease, For His compassions never fail. They are new every morning; Great is Your faithfulness.***  
+*—Lamentations 3:22–23*
 
-There is no end to the creative ways God reveals His love. Just when I think He’s exhausted every method—**BOOM**—another masterpiece of mercy. A sunset. A flower. A memory. A smile from a stranger, or even a whispered correction. Each one becomes a brushstroke in His eternal mural of compassion.
+---
+
+There is no end to the creative ways God reveals His love. Just when I think He’s exhausted every method — **BOOM** — another masterpiece of mercy. A sunset. A flower. A memory. A smile from a stranger, or even a whispered correction. Each one becomes a brushstroke in His eternal mural.
 
 > **“The LORD’S lovingkindnesses indeed never cease.”**
 
-He knows my heart, my frailty, my thoughts—because He made me. He designed every response, every longing. And when I’m hurting, afraid, lonely, or confused, He meets me with the perfect passage of Scripture, or song, or word from a friend. Not as a distant deity, but as Immanuel—God with us. God *with me*.
+He knows my heart, my frailty, my thoughts — because He made me. He designed every response, every longing. And when I’m hurting, afraid, lonely, or confused, He meets me with the perfect passage of Scripture, or song, or word from a friend. Not as some distant deity, but as Immanuel — God with us. God *with me*.
 
 > **“For His compassions never fail.”**
 
-Each new morning reveals more of His endless care. His Word, His people, His discipline, His healing—layer after layer of love. Nothing withheld. No moment untouched by grace.
+Each new morning reveals more of His endless care. His Word, His people, His discipline, His healing — layer after layer of love. Nothing withheld. No moment untouched by grace.
 
 > **“They are new every morning.”**
 
-He is constant. Unchanging. Faithful in every season. The sun never skips a morning. Winter always yields to spring. And I am always—*always*—held in His hands.
+The sun never skips a morning. Winter always yields to spring. And I am always — *always* — held in His hands.
 
 > **“Great is Your faithfulness.”**

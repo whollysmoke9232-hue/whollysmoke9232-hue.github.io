@@ -6,24 +6,23 @@ layout: article.njk
 category: stories
 excerpt: What if every face we encounter carries the presence of Christ? Seeing others through this lens reshapes how we speak, judge, and love.
 tags:
+  - presence
   - identity
   - grace
-  - presence
-  - love
-  - church
   - transformation
+  - obedience
 scripture:
   - Matthew 25:40
   - Acts 9:5
 themes:
-  - identity
-  - grace
   - renewal
+  - witness
+  - sanctification
 ---
 
-I was once challenged by the Worship Leader at a large festival to pray to God while looking into the eyes of the person sitting next to you.
+I was once challenged by the worship leader at a large festival to pray to God while looking into the eyes of the person sitting next to you.
 
-What a ridiculous suggestion! We all know that the proper posture for prayer is *"head bowed, eyes closed."* Right? (It was years later when I realized the fact that nowhere in Scripture are we instructed to pray with our heads bowed and eyes closed.)
+What a ridiculous suggestion! We all know that the proper posture for prayer is *"head bowed, eyes closed."* Right? (It was years later when I realized that nowhere in Scripture are we instructed to pray with our heads bowed and eyes closed.)
 
 I reluctantly tried to follow his challenge.
 
@@ -35,7 +34,7 @@ But a seed had been planted. I couldn't seem to shake this idea that there was s
 
 Shortly after that, I found myself leading an evening devotional time during a Youth Mission Trip. While expounding on Jesus' parable of the Sheep and the Goats, I came across:
 
-> *"Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me."* **—Matthew 25:40 (NIV)**
+> *"Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me."* **—Matthew 25:40**
 
 Suddenly a thought came to me. The person sitting next to me at that earlier festival was certainly counted among "the least of these brothers and sisters of mine." Even though I didn't personally know them, they were created in His image. He died for them. His Holy Spirit dwelt within them. So based on this verse, while I was looking into their eyes, I was—in a sense—looking into the eyes of Jesus.
 
@@ -47,7 +46,7 @@ Jesus drove this point home when He said to Saul:
 
 > *"I am Jesus, whom you are persecuting,"* **—Acts 9:5**
 
-At first look, it seemed that everyone Saul had persecuted was a living, breathing human person. But Jesus made it clear that this just was not so. These are His children. He takes what happens to them very seriously. He considers that everything that happens to them, happens to Him.
+At first look, it seemed that everyone Saul had persecuted was a living, breathing human person. But Jesus made it clear that this was not so. These are His children. He takes what happens to them very seriously. He considers that everything that happens to them, happens to Him.
 
 In that light, we are surrounded by Jesus every day.
 

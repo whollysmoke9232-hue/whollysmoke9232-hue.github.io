@@ -6,10 +6,11 @@ layout: article.njk
 category: testimonies
 excerpt: "A reflection on Scripture, time, and the holy space before the beginning—where God already knew every moment of our lives."
 tags:
-  - weakness
+  - sovereignty
   - presence
   - grace
   - confinement
+  - faith
 scripture:
   - Luke 5:27-28
   - Psalm 139:16
@@ -18,9 +19,8 @@ scripture:
   - 1 Peter 1:20
   - Exodus 3:14
 themes:
-  - grace
-  - suffering
-  - obedience
+  - remembrance
+  - witness
   - loneliness
 ---
 
@@ -31,7 +31,7 @@ Is it a verse? A passage? A chapter? A book? Or maybe an entire section of Scrip
 Some are naturally drawn to **John 3:16**. I love that verse.  
 Others are drawn to the nativity, or the resurrection of Christ.  
 For some, it’s the letters; for others, the Gospels.  
-Maybe it’s the creation account—or the consummation in Revelation.  
+Maybe it’s the creation account — or the consummation in Revelation.  
 Then there’s the history, the law, the poetry, and the prophets.
 
 I’ve grown to love all of these. I could make an argument for why each might be my favorite.
@@ -39,8 +39,6 @@ I’ve grown to love all of these. I could make an argument for why each might b
 Yet none of them are.
 
 ---
-
-## A Season Saturated in Scripture
 
 For most of 2023 and 2024, God placed me in a season with an abundance of time. Out of boredom at first, I began reading—**10 to 14 hours a day**.
 
@@ -75,8 +73,6 @@ So I went back to Genesis.
 
 ---
 
-## Reading the Word Aloud
-
 Before I reached Exodus, I made a new friend—legally blind, hungry for God, and unfamiliar with Scripture. He had attended church a few times, but had never read the Bible.
 
 So I started again at the beginning—this time **reading out loud**.
@@ -94,8 +90,6 @@ I learned firsthand the power of **hearing** God’s Word spoken.
 What a gift those days were.
 
 ---
-
-## Fourteen Times Through the Bible
 
 After he left, I kept going.
 
@@ -123,8 +117,6 @@ And with every reading, **He got bigger**.
 
 ---
 
-## Seeing the Story as One
-
 One of the greatest gifts of staying saturated in Scripture was seeing how the whole story unfolds.
 
 How Genesis illuminates Paul’s letters.  
@@ -143,21 +135,19 @@ He had parents.
 A past.  
 Friends.  
 Enemies.  
-Experiences—some beautiful, some painful.
+Experiences — some beautiful, some painful.
 
 Every one of those moments conspired to place him **at that desk, on that day**, when Jesus walked by.
 
 God orchestrated it all.
 
-The same is true of Abraham. Moses. David. Isaiah. John. Zacchaeus (Just imagine the lengths God went through to protect that sycamore tree.).
+The same is true of Abraham. Moses. David. Isaiah. John. Zacchaeus (just imagine the lengths God went through to protect that sycamore tree.).
 
 God knows.  
 God plans.  
 And His plan was complete **before anything began**.
 
 ---
-
-## My Favorite Place in the Bible
 
 Now, take your Bible.
 
@@ -191,11 +181,9 @@ And then He began to paint.
 
 ---
 
-## Living in the Knowing of God
-
 I often return to that margin.
 
-I lie in bed at night and meditate on that instant before the beginning. And in that instant—He was already here. With me. With you. In this very moment.
+I lie in bed at night and meditate on that instant before the beginning. And in that instant — He was already here. With me. With you. In this very moment.
 
 This moment has never been outside His knowing or His care.
 
@@ -206,11 +194,4 @@ The God who stands before the beginning also stands with us here.
 
 > ***“I AM Who I AM.”*** **—Exodus 3:14**
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

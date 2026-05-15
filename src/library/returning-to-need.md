@@ -4,25 +4,27 @@ author: Steve Wilkins
 date: 2026-02-28
 layout: article.njk
 category: meditations
-excerpt: Jesus calls us back to childlike dependence—not immaturity, but a return to trust, attachment, and the honest admission that we are powerless without Him.
+excerpt: Jesus calls us back to childlike dependence — not immaturity, but a return to trust, attachment, and the honest admission that we are powerless without Him.
 tags:
-  - dependence
   - trust
   - identity
-  - humility
   - surrender
   - faith
+  - seeking
 scripture:
   - Matthew 18:3
 themes:
-  - trust
-  - identity
-  - surrender
+  - renewal
+  - brokenness
+  - guidance
 ---
 
-> *And he said: ‘Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven.’* **—Matthew 18:3**
+> ***And he said: ‘Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven.’***  
+*—Matthew 18:3*
 
-This verse has always struck me. *Change and become like little children.* Jesus says we must change? He is not talking about behavior. He’s addressing something much deeper.
+---
+
+*Change and become like little children.* This verse has always struck me. Jesus says we must change? He is not talking about behavior.
 
 Little children have an innocence in their approach to living that is slowly abandoned as we mature.
 
@@ -48,13 +50,13 @@ We often ignore the very real spiritual danger that surrounds us. We flirt with 
 
 We give far too little thought to where we are headed in our spiritual lives. This willful blindness often leads us into places we never would have chosen.
 
-As a result, we find ourselves feeling spiritually impotent. Disappointed in our lack of effectiveness in influencing our family, friends, and neighbors to follow the example of Scripture.
+As a result, we find ourselves feeling spiritually impotent. Disappointed in our lack of effectiveness in influencing our family, friends, and neighbors to follow Jesus.
 
 Could it be that Jesus knew all of this when He implored His followers to change?
 
 Maybe we should step back and consider the nature of little children and adjust our focus. Jesus said that otherwise, we *will never inherit the Kingdom of Heaven.*
 
-This refocus certainly doesn’t excuse or negate our sin.
+This refocus doesn’t excuse or negate our sin.
 
 But it does keep us in a place where recovery is readily available.
 

@@ -4,52 +4,45 @@ author: "Steve Wilkins"
 date: 2024-09-20
 layout: article.njk
 category: poems
-excerpt: "A meditation of surrender—looking back on flight, self-reliance, and the quiet persistence of grace."
+excerpt: "A meditation of surrender — looking back on flight, self-reliance, and the quiet persistence of grace."
 tags:
   - presence
   - trust
   - confinement
-themes:
-  - trust
-  - suffering
   - surrender
   - grace
+themes:
+  - suffering
+  - renewal
 ---
 
 I’ve run from You  
-&nbsp;&nbsp;&nbsp;&nbsp;from Your call to live  
-&nbsp;&nbsp;&nbsp;&nbsp;I’ve embraced the trap of sin.  
+<span class="indent">from Your call to live</span>  
+<span class="indent">I’ve embraced the trap of sin.</span>  
 
 I sought rest from torment  
-&nbsp;&nbsp;&nbsp;&nbsp;from grief and pain  
-&nbsp;&nbsp;&nbsp;&nbsp;but no rest was found within.  
+<span class="indent">from grief and pain</span>  
+<span class="indent">but no rest was found within.</span>  
 
 I trusted my strength  
-&nbsp;&nbsp;&nbsp;&nbsp;my will and resolve  
-&nbsp;&nbsp;&nbsp;&nbsp;to carry me to the end  
+<span class="indent">my will and resolve</span>  
+<span class="indent">to carry me to the end</span>  
 But I was weak  
-&nbsp;&nbsp;&nbsp;&nbsp;lost in the dark  
-&nbsp;&nbsp;&nbsp;&nbsp;always deeper drawn in  
+<span class="indent">lost in the dark</span>  
+<span class="indent">always deeper drawn in</span>  
 
 Thought I’d found bottom  
-&nbsp;&nbsp;&nbsp;&nbsp;the end of my struggle  
-&nbsp;&nbsp;&nbsp;&nbsp;the path to end my strife  
+<span class="indent">the end of my struggle</span>  
+<span class="indent">the path to end my strife</span>  
 I lied to myself  
-&nbsp;&nbsp;&nbsp;&nbsp;I failed to embrace  
-&nbsp;&nbsp;&nbsp;&nbsp;the One to restore my life  
+<span class="indent">I failed to embrace</span>  
+<span class="indent">the One to restore my life</span>  
 
 He never gave up  
-&nbsp;&nbsp;&nbsp;&nbsp;continued to call  
-&nbsp;&nbsp;&nbsp;&nbsp;for me to surrender my heart  
+<span class="indent">continued to call</span>  
+<span class="indent">for me to surrender my heart</span>  
 New life I’ve found  
-&nbsp;&nbsp;&nbsp;&nbsp;in the palm of His hand  
-&nbsp;&nbsp;&nbsp;&nbsp;in His love I’ve found a new start
+<span class="indent">in the palm of His hand</span>  
+<span class="indent">in His love I’ve found a new start</span>
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

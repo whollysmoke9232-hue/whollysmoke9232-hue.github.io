@@ -4,76 +4,84 @@ author: Steve Wilkins
 date: 2014-08-21
 layout: article.njk
 category: reflections
-exerpt: The world has a quiet way of shaping how we think, often without our awareness. Renewal begins not with effort, but with learning to notice—and unlearn—the patterns that have been forming us.
+excerpt: The world has a quiet way of shaping how we think, often without our awareness. Renewal begins not with effort, but with learning to notice — and unlearn — the patterns that have been forming us.
 tags:
-- transformation
-- obedience
-- faith
-scripture_references:
+  - transformation
+  - obedience
+  - faith
+  - sin
+  - shame
+scripture:
   - Romans 12:2
-  - Matthew 6:33
-  - Romans 8:1
-  - Romans 8:38–39
+  - Genesis 29:17
+  - Genesis 24:16
+  - 1 Samuel 16:7
+  - 1 Peter 3:3-4
 themes:
   - renewal
-  - obedience
-  - trust
+  - sanctification
+  - brokenness
 ---
 
-> _“And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.”_ **—Romans 12:2**  
+> ***And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.***  
+*—Romans 12:2*
 
-The world we live in has a powerful way of shaping how we think—often without our permission.
+---
 
-In America, our culture has long been obsessed with appearance, particularly body image. From an early age, we are surrounded by images that present an “ideal” version of beauty. That ideal is rarely subtle. It is curated, exaggerated, sexualized, and relentlessly repeated. It appears on our screens, in advertisements, in entertainment, and now—more than ever—through social media and digital platforms that follow us everywhere.
+The world we live in has a powerful way of shaping how we think — often without our permission.
 
-The message is simple and persistent: this is what it means to be desirable, valuable, and worthy of attention.
+When it comes to female appearance, I bought it — hook, line, and sinker. Two of my best friends growing up were girls — friends of the family. They both played with Barbie. When I was with them, I did, too. Her shape certainly did not escape my attention. Other boys in my neighborhood would make comments about Barbie — undoubtedly overheard from their bigger brothers and fathers. This began to shape my image of the ideal girl — which, being based on Barbie, was impossible for any woman to achieve.
 
-For women especially, the pressure has often been severe. The “ideal” body is narrow, unrealistic, and constantly shifting just out of reach. Achieving it—when it happens at all—often comes at the expense of physical health, emotional well-being, and peace of mind. Even then, maintaining it becomes a full-time pursuit, reinforced by editing, filtering, and comparison.
+But that's where it started. Movies, television shows, and magazines took it from there. Over time, I developed a pretty detailed imaginary image of the "perfect" woman. Through the years, that image evolved. But it was never challenged. Every man I knew agreed — in essence — with what I was looking for.
+The problem for me — and for our society in general — is that the image in my mind simply doesn't exist in nature. Realizing this led me to abandon finding the "complete package." Instead, I adjusted my search to specific "parts" of a woman. I shamefully admit that for years, I reduced the female form to a collection of parts that were all intended for my enjoyment. I didn't go out with a young woman; I went out with the parts she had that I liked.
 
-This conditioning begins early. Children absorb it before they have the tools to question it. Characters that fit the ideal are celebrated; those who do not are often sidelined, mocked, or reduced to caricatures. Over time, we learn—quietly but effectively—what earns approval and what does not.
+In the process, I left quite a trail of broken and disillusioned women in my wake. These precious children of God would go out with me because they found me charming and funny. And I was — in public. But once alone, I became what one date referred to as Doctor Octopus. And that's who I had become. Because I didn't see her as a person — with feelings, dreams, and a future. I only considered what pleasure the conquest would bring.
 
-Men, including well-meaning and sincere men of faith, are not neutral observers in this process. Too often, we reinforce the very standards we claim to reject. We say that appearance does not define worth, that love is not conditional, that beauty runs deeper than the surface— and then we turn around and give our attention, admiration, and desire to the very standards we claim to reject—teaching, by our actions, that conformity is the price of being seen. The contradiction speaks louder than our words. It teaches compliance, not freedom.
+This is the package that had been sold to me all my life. The entertainment industry rarely depicted the consequences of those actions.
 
-The problem is not simply cultural; it is spiritual.
+And it is all built on the foundation of how we define beauty. In our culture, beauty is about sexual desirability and pleasure.
+And this ought not to be.
 
-First, the image we are chasing is not real. It is constructed, managed, and sustained through resources most people do not have—and were never meant to need. We were not created to live that way.
+The problem is not simply cultural. It is spiritual.
 
-Second, it is not biblical.
+The image we are chasing is not real. It is constructed and sustained through resources most people do not have — and were never meant to need. We were not created to live that way.
 
-Scripture does not define beauty by measurements, proportions, or presentation. God’s concern has never been centered on outward appearance, but on the condition of the heart. He desires wholeness, health, and integrity—not so that we might be admired, but so that we might be available. We need healthy bodies and minds because we have been called to love, to serve, and to carry His presence into the lives of others.
+And it is not biblical.
 
-God calls us outward—toward compassion, awareness, and attentiveness to the needs and wounds around us. Yet constant preoccupation with appearance inevitably turns us inward. When our energy is consumed with managing how we are seen, little remains for seeing others well.
+I find it interesting that even though the Bible does refer to beautiful women, we are never given a description.
 
-This was never God’s intention.
+> *Rachel was beautiful of form and face.* **—Genesis 29:17**
 
-So how do we change?
+Beautiful. But we are never given her measurements. We don't know how tall she was, how long her hair was, or how much she weighed. Just "beautiful."
 
-We begin by acknowledging how much time, effort, and emotional energy we have spent trying to conform—to meet expectations that were never rooted in truth. And then, slowly and deliberately, we turn toward transformation.
+> *The girl [Rebekah] was very beautiful, a virgin, and no man had had relations with her.* **—Genesis 24:16**
+
+Again, beautiful. But we have no real idea what she looked like.
+
+Scripture does not define beauty by measurements, proportions, or presentation. Consider what it does say:
+
+> *Your adornment must not be merely external — braiding the hair, and wearing gold jewelry, or putting on dresses; but let it be the hidden person of the heart, with the imperishable quality of a gentle and quiet spirit, which is precious in the sight of God.* **—1 Peter 3:3-4**
+
+> *The LORD said to Samuel, "Do not look at his appearance or at the height of his stature... for God sees not as man sees, for man looks at the outward appearance, but the LORD looks at the heart."* **—1 Samuel 16:7**
+
+***The LORD looks at the heart.***
+
+I wonder how many relationships were missed, weakened, or broken because we failed to consider her heart.
+
+That's the problem with departing from God's plan. We find ourselves in waters we were never intended to navigate — so it shouldn't surprise us that we arrive at the wrong shore so often.
+
+God's concern has never been centered on outward appearance, but on the condition of the heart. He desires wholeness, health, and integrity — not so that we might be admired, but so that we might reflect Who He is.
+
+God calls us outward — toward compassion and awareness to the needs and wounds around us. Yet constant preoccupation with appearance inevitably turns us inward. When our energy is consumed with managing how we are seen, little remains for seeing others well.
+
+This was never God's intention.
 
 Transformation begins in the mind.
 
-Renewing the mind is not about force or perfection. It is about replacement—about making room for truth where lies have taken up residence. Scripture offers us something the world cannot: a stable, trustworthy voice that speaks to who we are, not how we appear.
+Renewing the mind is not about force or perfection. It is about replacement — making room for truth where lies have taken up residence. Scripture offers us something the world cannot: a stable, trustworthy voice that speaks to who we are, not how we appear.
 
-Start simply.
+Consistency matters more than volume. The goal is not to crowd your mind with information, but to shape it with something real.
 
-Spend time in the Word. Read it. Sit with it. Let it speak without rushing to master it. Memorize passages that reorient your heart toward God’s priorities—verses that remind you of His nearness, His grace, and His purposes.
+The world is loud. And when we are tired, distracted, or discouraged, its voice becomes easier to believe.
 
-> _“Seek first His kingdom and His righteousness…”_ **—Matthew 6:33**  
-> _“There is now no condemnation for those who are in Christ Jesus.”_ **—Romans 8:1**  
-> _“[Nothing] can separate us from the love of God…”_ **—Romans 8:38–39**
-
-Find rhythms that help anchor you in truth. Consistency matters more than volume. The goal is not to crowd your mind with information, but to shape it with what is real.
-
-The world is loud. It speaks constantly. And when we are tired, distracted, or discouraged, its voice becomes easier to believe.
-
-Renewing the mind is an ongoing act of trust—choosing, again and again, to listen to God over the noise, to rest in His definition of worth, and to allow His truth to slowly untangle what the world has twisted.
-
-## Prayer
-
-> Father,  
-Today I ask You to guard my mind and gently redirect my thoughts.  
-Help me recognize the voices that pull me away from You,  
-and give me the grace to return—again and again—to what is true.  
-Renew my mind, not through striving, but through Your presence.  
-Teach me to see myself and others through Your eyes.  
-Amen.
+Renewing the mind is an ongoing act of trust — choosing, again and again, to listen to God over the noise, to rest in His definition of worth, and to allow His truth to slowly untangle what the world has twisted.

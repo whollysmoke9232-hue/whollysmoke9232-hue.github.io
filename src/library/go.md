@@ -4,36 +4,34 @@ author: Steve Wilkins
 date: 2026-02-22
 layout: article.njk
 category: stories
-excerpt: God's call to "Go" is rarely comfortable or fully explained. This reflection explores learning to move in faith while trusting the One who sees the whole road while we walk step by step.
+excerpt: God's call to "Go" is rarely comfortable or fully explained.
 tags:
-- obedience
-- faith
-- trust
-- surrender
-- seeking
-- waiting
-scripture:
-- Genesis 12:1
-- Judges 7:10
-- Jonah 1:2
-- Matthew 28:19
-- Psalms 119:105
-themes:
   - obedience
+  - faith
   - trust
   - surrender
-  - waiting
+  - seeking
+scripture:
+  - Genesis 12:1
+  - Judges 7:10
+  - Jonah 1:2
+  - Matthew 28:19
+  - Psalm 119:105
+themes:
+  - guidance
+  - renewal
+  - provision
 ---
 
 It seems that God never intended for me to grow complacent while waiting for His direction.  
 
 I tend to get comfortable with my present while waiting for God to call. Then when He says to go, I hesitate. I convince myself that I must have misheard Him. He certainly could not be calling me to leave my comfort. Could He?
 
-But that call is not unprecedented. He told Abrahm,  
+But that call is not unprecedented. He told Abram,  
 > *"Go forth from your country to the land which I will show you"* **—Genesis 12:1**  
 He didn't even tell him where he was going!  
 
-God essentially told Abrahm, *Don't get comfortable. Start moving and I will guide your steps. But it's time to go."*
+God essentially told Abram, *Don't get comfortable. Start moving and I will guide your steps. But it's time to go.*
 
 I complain that I don't know where to go or what to do when I get there. I am afraid to move from the known into the unknown.  
 
@@ -46,12 +44,12 @@ Yes! Go anyway.
 
 God has a plan. And He will be going with me.
 
-Sometimes God clearly tells me to do something that I simply don't want to do. Like when he told Johah,  
+Sometimes God clearly tells me to do something that I simply don't want to do. Like when he told Jonah,  
 > *"Arise, go to Nineveh the great city and cry against it, for their wickedness has come up before Me."* **—Jonah 1:2**  
 
 God already knew that Jonah wouldn't want to go. But God had a plan and Jonah was part of it. So He told Jonah to go.
 
-"Wait a minute" I protest, "I haven't heard God call me to go anywhere."
+"Wait a minute," I protest, "I haven't heard God call me to go anywhere."
 
 But Jesus told His disciples,  
 > *"Go therefore and make disciples of all the nations"* **—Matthew 28:19**  
@@ -78,10 +76,10 @@ I will not demand to see the whole plan before I obey.
 
 I will not require a detailed roadmap before I move.
 
-I will continue to put one foot in front of the other and walk by faith - not because I see the whole road, but because I trust the One who does.
+I will continue to put one foot in front of the other and walk by faith — not because I see the whole road, but because I trust the One who does.
 
 His Word is not a spotlight on the horizon. It is a lamp for the next step.
 
 And that is enough.
 
-> *Your word is a lamp to my feet and a light to my path."* **—Psalm 119:105**
+> *"Your word is a lamp to my feet and a light to my path."* **—Psalm 119:105**
