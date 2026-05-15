@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Faith to Faith"
 layout: book-chapter.njk
 order: 24
@@ -38,11 +38,4 @@ And even this faith is not self-generated.
 
 Faith itself is a gift—given by the Holy Spirit.
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

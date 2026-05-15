@@ -7,10 +7,6 @@ templateEngineOverride: njk,md
 
 ## You're Not Alone
 
-<p style="margin-top:0.5rem; color:#6a5d4d; font-size:0.95rem;">
-You are not being evaluated here.
-</p>
-
 <div style="background:#f7f5f2; padding:2rem; border-radius:10px; margin:2rem 0;">
 
 <p>
@@ -30,7 +26,7 @@ I am not writing as a victor standing on the other side, but as someone who has 
 </p>
 
 <p style="margin-top:1.25rem; font-style:italic; color:#6a5d4d;">
-Take your time. There is no rush here.
+Take your time. There is no rush.
 </p>
 
 </div>

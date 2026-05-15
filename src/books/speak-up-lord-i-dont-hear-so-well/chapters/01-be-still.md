@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Be Still"
 layout: book-chapter.njk
 order: 1
@@ -87,11 +87,4 @@ Take a moment to be still. Picture yourself laying down the tools of self-effort
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

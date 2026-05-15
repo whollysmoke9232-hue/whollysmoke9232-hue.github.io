@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Meditation in Suffering"
 layout: book-chapter.njk
 order: 9
@@ -53,12 +53,5 @@ There is nowhere I would rather be.
 > Be glorified in me, even here._  
 > Amen.
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 

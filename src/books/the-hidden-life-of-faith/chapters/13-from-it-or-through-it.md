@@ -1,4 +1,4 @@
-﻿---
+---
 title: "From It or Through It"
 layout: book-chapter.njk
 order: 13
@@ -66,11 +66,4 @@ We can face any trial with confidence—not because we control the outcome, but 
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

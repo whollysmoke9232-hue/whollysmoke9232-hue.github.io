@@ -121,11 +121,23 @@ This library is offered as it is, not as instruction, but as witness - in the ho
     <img src="{{ '/images/chatgpt-hand-on-bible.png' | url }}" alt="Learning to listen" style="max-width: 100%; border-radius: 8px;">
   </a>
 
-  <!-- Row 7 - Learning to know Him -->
-  <a href="/knowing-god/" title="Knowing God">
-    <img src="{{ '/images/chatgpt-shared_table_two_chairs.png' | url }}" alt="Learning to know Him" style="max-width: 100%; border-radius: 8px;">
+  <!-- Row 7 - Learning to pray -->
+  <a href="/learning-to-pray/" title="Learning to Pray">
+    <img src="{{ '/images/learning-to-pray.png' | url }}" alt="Learning to pray" style="max-width: 100%; border-radius: 8px;">
   </a>
 
+  <div>
+    <h3>
+      <a href="/learning-to-pray/" title="Learning to Pray">
+        Learning to pray
+      </a>
+    </h3>
+    <p>
+      Not technique, but relationship. Readings that trace the movement from wanting God to seeking Him — from silence to honest speech.
+    </p>
+  </div>
+
+  <!-- Row 8 - Learning to know Him -->
   <div>
     <h3>
       <a href="/knowing-god/" title="Knowing God">
@@ -137,7 +149,15 @@ This library is offered as it is, not as instruction, but as witness - in the ho
     </p>
   </div>
 
-  <!-- Row 8 - The Confinement Journals -->
+  <a href="/knowing-god/" title="Knowing God">
+    <img src="{{ '/images/chatgpt-shared_table_two_chairs.png' | url }}" alt="Learning to know Him" style="max-width: 100%; border-radius: 8px;">
+  </a>
+
+  <!-- Row 9 - The Confinement Journals -->
+  <a href="/the-confinement-journals/" title="The Confinement Journals">
+    <img src="{{ '/images/cell-desk.png' | url }}" alt="The Confinement Journals" style="max-width: 100%; border-radius: 8px;">
+  </a>
+
   <div>
     <h3>
       <a href="/the-confinement-journals/" title="The Confinement Journals">
@@ -146,26 +166,6 @@ This library is offered as it is, not as instruction, but as witness - in the ho
     </h3>
     <p>
       A guided path through writings born in confinement, moving from collapse and lament into presence, identity, endurance, and hope.
-    </p>
-  </div>
-
-  <a href="/the-confinement-journals/" title="The Confinement Journals">
-    <img src="{{ '/images/cell-desk.png' | url }}" alt="The Confinement Journals" style="max-width: 100%; border-radius: 8px;">
-  </a>
-
-  <!-- Row 9 - About the Author -->
-  <a href="/about-the-author#/" title="About the author">
-    <img src="{{ '/images/chatgpt-steve.png' | url }}" alt="About the Author" style="max-width: 100%; border-radius: 8px;">
-  </a>
-
-  <div>
-    <h3>
-      <a href="/about-the-author#/" title="About the author">
-        Get to know the author
-      </a>
-    </h3>
-    <p>
-      If you would like to understand the voice behind these writings, this path gathers pieces that reflect the journey, failures, questions, and grace that have shaped this work.
     </p>
   </div>
 

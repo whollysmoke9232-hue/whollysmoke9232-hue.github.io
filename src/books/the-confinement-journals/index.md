@@ -1,5 +1,6 @@
 ---
 title: "The Confinement Journals: Finding God in the Silence"
+excludeFromLibrary: true
 excerpt: "Twenty reflections, prayers, and meditations written during a season of confinement—tracing the journey from descent to encounter."
 tags:
   - Book

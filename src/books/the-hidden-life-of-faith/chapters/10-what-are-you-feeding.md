@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What Are You Feeding?"
 layout: book-chapter.njk
 order: 10
@@ -90,11 +90,4 @@ You only need a willing heart—and the courage to keep showing up hungry.
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

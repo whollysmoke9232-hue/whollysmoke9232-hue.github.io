@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Standing In Awe"
 layout: default.njk
 permalink: "/books/standing-in-awe/manuscript/"
@@ -243,14 +243,7 @@ How can I know
 The sun, the moon, stars in the sky  
 &nbsp;&nbsp;&nbsp;&nbsp;and yet, You’re here with me  
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 
 ---
@@ -460,14 +453,7 @@ There is nowhere I would rather be.
 > Be glorified in me, even here._  
 > Amen.
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 
 ---

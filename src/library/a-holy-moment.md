@@ -28,7 +28,7 @@ their voice is not heard."***
 
 ---
 
-This morning, as I contemplated Psalm 19 — a passage that speaks of creation's silent, ceaseless worship — I found my gaze drifting to the small slice of sky visible only if I pressed my face against the left edge of the window in my cell door and looked toward the visible world at the far end of the day room.
+This morning, as I contemplated Psalm 19—a passage that speaks of creation's silent, ceaseless worship—I found my gaze drifting to the small slice of sky visible only if I pressed my face against the left edge of the window in my cell door and looked toward the visible world at the far end of the day room.
 
 Beyond the fence line stood a cluster of trees, their branches reaching skyward. A gentle breeze stirred, and in an instant, thousands of limbs—laden with hundreds of thousands of leaves—began to sway back and forth in a mesmerizing rhythm.
 

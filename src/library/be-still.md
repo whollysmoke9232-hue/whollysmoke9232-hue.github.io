@@ -1,4 +1,4 @@
----
+﻿---
 title: "Be Still"
 author: "Steve Wilkins"
 date: 2024-07-30
@@ -21,9 +21,14 @@ themes:
   - sanctification
 ---
 
-> ***Come, behold the works of the LORD, Who has wrought desolations in the earth.  
-He makes wars to cease to the end of the earth; He breaks the bow and cuts the spear in two; He burns the chariots with fire.  
-"Cease striving and know that I am God; I will be exalted among the nations, I will be exalted in the earth."***  
+> ***Come, behold the works of the LORD,  
+Who has wrought desolations in the earth.  
+He makes wars to cease to the end of the earth;  
+He breaks the bow and cuts the spear in two;  
+He burns the chariots with fire.  
+"Cease striving and know that I am God;  
+I will be exalted among the nations,  
+I will be exalted in the earth."***  
 *—Psalm 46:8-10 (NIV)*
 
 ---

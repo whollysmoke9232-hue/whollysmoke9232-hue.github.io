@@ -1,13 +1,11 @@
 ---
-title: Start Here
+title: Learning to Follow
 layout: layout.njk
 permalink: /start-here/
 templateEngineOverride: njk,md
 ---
 
-## Start Here
-
-If you’re not sure where to begin, these guided reading paths are offered as companions, not instructions.
+## Learning to Follow
 
 Choose the path that best reflects where you are right now.  
 There is no right order. There is no rush.
@@ -15,36 +13,6 @@ There is no right order. There is no rush.
 Some readings appear in more than one path because certain truths meet us in many seasons.
 
 <hr>
-
-## If You Are Suffering or Waiting
-
-{% set entries = readingPaths['start-here-suffering-or-waiting'] %}
-<ul>
-{% for entry in entries %}
-  <li>
-    <a href="{{ entry.url }}?path=start-here-suffering-or-waiting">
-      {{ entry.title }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
-
----
-
-## If You Are Wrestling With Sin, Failure, or Shame
-
-{% set entries = readingPaths['start-here-sin-failure-shame'] %}
-<ul>
-{% for entry in entries %}
-  <li>
-    <a href="{{ entry.url }}?path=start-here-sin-failure-shame">
-      {{ entry.title }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
-
----
 
 ## If You Feel Spiritually Numb, Dry, or Disconnected
 
@@ -91,21 +59,6 @@ Some readings appear in more than one path because certain truths meet us in man
 
 ---
 
-## If You Are Learning to Sit With God
-
-{% set entries = readingPaths['start-here-sit-with-god'] %}
-<ul>
-{% for entry in entries %}
-  <li>
-    <a href="{{ entry.url }}?path=start-here-sit-with-god">
-      {{ entry.title }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
-
----
-
 ## If You Are Relearning Grace
 
 {% set entries = readingPaths['start-here-relearning-grace'] %}
@@ -136,4 +89,4 @@ Some readings appear in more than one path because certain truths meet us in man
 
 ---
 
-<p><a href="/">← Return to Home</a></p>
+<p><a href="/reading-paths/">← Reading Paths</a></p>

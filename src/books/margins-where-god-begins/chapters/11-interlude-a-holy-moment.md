@@ -10,8 +10,7 @@ permalink: "/books/margins-where-god-begins/interlude-a-holy-moment/"
 
 <div style="font-style: italic;">
 
-“The heavens declare the glory of God... They have no speech, they use no words; their voice is not heard.”  
-—Psalm 19:1–3
+> *“The heavens declare the glory of God... They have no speech, they use no words; their voice is not heard.”* **—Psalm 19:1–3**
 
 This morning, as I read Psalm 19, a passage that speaks of creation's silent, ceaseless worship, I found my gaze drifting out my window. Beyond the fence line, a cluster of trees stood, their branches reaching skyward. A gentle breeze began to stir, and in an instant, a thousand limbs, laden with hundreds of thousands of leaves, began to sway back and forth in a mesmerizing rhythm.
 

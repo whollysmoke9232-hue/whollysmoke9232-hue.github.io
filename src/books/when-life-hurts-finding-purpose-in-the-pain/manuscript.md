@@ -1,4 +1,4 @@
-﻿---
+---
 title: "When Life Hurts: Finding Purpose in the Pain"
 layout: default.njk
 permalink: "/books/when-life-hurts-finding-purpose-in-the-pain/manuscript/"
@@ -155,12 +155,7 @@ And one day, He will wipe away every tear…
 
 ---
 
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -206,14 +201,7 @@ There is nowhere I would rather be.
 > Be glorified in me, even here._  
 > Amen.
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 

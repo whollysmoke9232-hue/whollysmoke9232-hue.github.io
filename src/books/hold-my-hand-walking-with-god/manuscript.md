@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hold My Hand: Walking With God"
 layout: default.njk
 permalink: "/books/hold-my-hand-walking-with-god/manuscript/"
@@ -335,14 +335,7 @@ We can face any trial with confidence—not because we control the outcome, but 
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -394,11 +387,4 @@ It's easy to fault Peter for his doubt. But don't lose sight of what Peter did -
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

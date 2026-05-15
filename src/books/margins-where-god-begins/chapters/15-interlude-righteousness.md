@@ -21,10 +21,8 @@ At the moment of our salvation, what do we bring to the table? Only our faith. W
 
 But faith isn't just the entry point; it's the entire journey. Faith is also the goal of our life after salvation.
 
-As we walk with Christ, our lives are gradually transformed into His image. This transformation isn't fueled by our own striving, but by an ongoing, active faith. It's as we apply what He reveals to us through our study of His Word, through prayer, and through the guidance of the Holy Spirit, that our character begins to reflect His.
+As we walk with Christ, our lives are gradually transformed into His image. It's as we apply what He reveals to us through our study of His Word, through prayer, and through the guidance of the Holy Spirit, that our character begins to reflect His.
 
-And here's another humbling, yet liberating, truth: even faith itself is a gift from the Holy Spirit. It's not something we conjure up on our own, but a divine enablement that allows us to receive all that God has for us.
-
-So, let go of the burden of earning. Embrace the freedom of receiving. From the moment we first believe to the very end of our journey, it is all by faith – a gift that empowers us to live a righteous life, not for salvation, but from salvation.
+Even faith itself is a gift from the Holy Spirit.
 
 </div>

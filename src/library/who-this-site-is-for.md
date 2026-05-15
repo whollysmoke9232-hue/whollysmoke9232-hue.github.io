@@ -1,8 +1,8 @@
 ---
-title: Christian Devotional Writings for Recovery, Suffering, and Faith in the Margins
+title: Is This Site for You?
 description: Christian devotional writings for people in addiction recovery, suffering, shame, waiting, and faith lived in difficult places.
-layout: article.njk
-permalink: /library/who-this-site-is-for/
+layout: layout.njk
+permalink: /for-you/
 excludeFromLibrary: true
 themes:
   - suffering
@@ -46,3 +46,9 @@ written from a Christian theological perspective centered on Jesus Christ
 This site exists to serve people who are rebuilding faith in difficult places—where life has not followed a clean or predictable path, and where grace must be lived before it can be explained.
 
 > *(These writings may be shared freely with attribution for personal, pastoral, or recovery use.)*
+
+<p style="text-align:center; margin-top:2rem; font-style:italic; color:#6a5738;">If pornography or sexual compulsion is part of your story, <a href="/youre-not-alone/">there is a space here for you</a>.</p>
+
+<div style="text-align:center; margin-top:2rem;">
+  <a href="/begin/" class="homepage-cta">Begin Here &rarr;</a>
+</div>

@@ -25,4 +25,4 @@ These readings are for those who find themselves repeating what they long to esc
 
 <hr>
 
-<p><a href="/begin/">← Back to Begin</a></p>
+<p><a href="/reading-paths/">← Reading Paths</a></p>

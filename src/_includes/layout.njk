@@ -26,12 +26,17 @@
 
   <header class="site-header">
     <div class="site-brand">
-      <a class="site-title" href="{% if page.url == '/' %}{{ '/introduction-content/' | url }}{% else %}{{ '/' | url }}{% endif %}">Grace in the Margins</a>
+      <a class="site-title" href="{{ '/' | url }}">Grace in the Margins</a>
       {% if page.url == '/' %}
       <p class="site-subtitle">Faith for the places you didn't plan to stand</p>
       {% endif %}
     </div>
-    <div id="category-navigation-placeholder"></div>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="{{ '/library/' | url }}">Library</a>
+      <a href="{{ '/search/' | url }}">Search</a>
+      <a href="{{ '/books/' | url }}">Books</a>
+      <a href="{{ '/begin/' | url }}">Begin Here</a>
+    </nav>
   </header>
 
   <main class="site-main">

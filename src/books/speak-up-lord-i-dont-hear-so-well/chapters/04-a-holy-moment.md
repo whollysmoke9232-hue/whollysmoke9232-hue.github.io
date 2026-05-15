@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Holy Moment"
 layout: book-chapter.njk
 order: 4
@@ -62,11 +62,4 @@ Yet the message is always the same.
 
 **You are loved.**
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

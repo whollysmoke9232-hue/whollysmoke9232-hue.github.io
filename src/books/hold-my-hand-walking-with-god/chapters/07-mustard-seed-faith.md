@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mustard Seed Faith"
 layout: book-chapter.njk
 order: 7
@@ -59,11 +59,4 @@ It's easy to fault Peter for his doubt. But don't lose sight of what Peter did -
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

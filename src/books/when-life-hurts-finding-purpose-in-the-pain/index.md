@@ -1,5 +1,6 @@
 ﻿---
 title: "When Life Hurts: Finding Purpose in the Pain"
+excludeFromLibrary: true
 excerpt: "Seven reflections for seasons of sorrow, waiting, and weakness, discovering the nearness and faithfulness of God in suffering."
 tags:
   - Book

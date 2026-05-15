@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Speak Up Lord: I Don't Hear So Well"
 layout: default.njk
 permalink: "/books/speak-up-lord-i-dont-hear-so-well/manuscript/"
@@ -99,14 +99,7 @@ Take a moment to be still. Picture yourself laying down the tools of self-effort
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -227,14 +220,7 @@ Because no matter what the world decides, you are held in the hand of the One wh
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -289,14 +275,7 @@ Yet the message is always the same.
 
 **You are loved.**
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -318,14 +297,7 @@ How can I know
 The sun, the moon, stars in the sky  
 &nbsp;&nbsp;&nbsp;&nbsp;and yet, You’re here with me  
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 

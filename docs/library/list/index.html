@@ -1,0 +1,844 @@
+
+
+
+<header style="text-align:center; margin-top:2.5rem; margin-bottom:1.5rem;">
+  <h1 style="font-size:2.2rem; letter-spacing:0.04em; margin-bottom:0.5rem;">
+    <a href="/" style="color:#6b4f2c; text-decoration:none; transition:color 0.2s;">Grace in the Margins</a>
+  </h1>
+  <div style="font-size:1.25rem; color:#7a6a4f; margin-bottom:1.5rem;">Library</div>
+</header>
+
+<style>
+.library-grid {
+  display: grid;
+  grid-template-columns: repeat(8, minmax(200px, 1fr));
+  gap: 2rem 2rem;
+  width: min(99vw, 3200px);
+  margin: 2.5rem auto 2rem auto;
+  padding: 0 0.5rem;
+  box-sizing: border-box;
+}
+.library-group {
+  padding: 0 0.5rem;
+}
+.library-group h2 {
+  text-align: center;
+  font-size: 1.18rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #e0d6c3;
+  padding-bottom: 0.5rem;
+  position: relative;
+  cursor: help;
+}
+.category-hover-note {
+  display: none;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: calc(100% + 0.45rem);
+  width: 260px;
+  background: #fffbe9;
+  color: #3a2a13;
+  border: 1px solid #e0d6c3;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 0.65rem 0.85rem;
+  z-index: 12;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  font-weight: normal;
+}
+.library-group h2:hover .category-hover-note,
+.library-group h2:focus-within .category-hover-note {
+  display: block;
+}
+.library-group--devotionals .category-hover-note {
+  left: 0;
+  transform: none;
+  text-align: left;
+}
+.library-group--testimonies .library-excerpt {
+  left: auto;
+  right: 105%;
+  text-align: left;
+}
+.library-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.library-list li {
+  margin-bottom: 0.7rem;
+  position: relative;
+}
+.library-list a {
+  text-decoration: underline;
+  color: #6b4f2c;
+  cursor: pointer;
+}
+.library-list a:hover + .library-excerpt,
+.library-list a:focus + .library-excerpt {
+  display: block;
+}
+.library-excerpt {
+  display: none;
+  position: absolute;
+  left: 105%;
+  top: 0;
+  width: 260px;
+  background: #fffbe9;
+  color: #3a2a13;
+  border: 1px solid #e0d6c3;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 0.7rem 1rem;
+  z-index: 10;
+  font-size: 0.98rem;
+}
+</style>
+
+<div class="library-grid">
+  <div class="library-group library-group--books">
+    <h2>Books<span class="category-hover-note">Longer works and serialized writings exploring faith, suffering, redemption, and spiritual growth.</span></h2>
+    <ul class="library-list">
+      
+        <li>
+          <a href="/books/fractured-light/">Fractured Light</a>
+          <span class="library-excerpt">A testimony of brokenness, mercy, and the quiet work of God in the darkest places—where grace refracts through what has been shattered.</span>
+        </li>
+      
+        <li>
+          <a href="/books/letters-from-confinement/">Letters From Confinement</a>
+          <span class="library-excerpt">A book-length sequence of reflections, prayers, and meditations shaped by confinement, moving from collapse to new sight.</span>
+        </li>
+      
+        <li>
+          <a href="/books/margins-where-god-begins/">Margins: Where God Begins</a>
+          <span class="library-excerpt">Before the first word of Scripture was written, God already knew the story. A contemplative exploration of God&#39;s presence in the spaces we often overlook—the margins where nothing seems to happen, yet everything begins.</span>
+        </li>
+      
+        <li>
+          <a href="/books/standing-in-awe/">Standing In Awe</a>
+          <span class="library-excerpt">Thirteen reflections that call the heart to wonder, trust, prayer, and vision in the presence of God.</span>
+        </li>
+      
+        <li>
+          <a href="/books/the-hidden-life-of-faith/">The Hidden Life of Faith</a>
+          <span class="library-excerpt">Fourteen reflections on the inward journey of faithâ€”stillness, surrender, holiness, prayer, and wholehearted devotion to God in the hidden places.</span>
+        </li>
+      
+    </ul>
+  </div>
+  <div class="library-group library-group--devotionals">
+    <h2>Devotionals<span class="category-hover-note">Short reflections on Scripture meant to encourage faith and obedience in everyday life.</span></h2>
+    <ul class="library-list">
+      
+        <li>
+          <a href="/library/a-theology-of-weakness/">A Theology of Weakness</a>
+          <span class="library-excerpt">God is not threatened by human weakness, nor surprised by failure.</span>
+        </li>
+      
+        <li>
+          <a href="/library/all-things/">All Things</a>
+          <span class="library-excerpt">Life does not always come together in ways we can understand. Faith holds to the promise that God is at work even when meaning feels hidden, and nothing is ultimately wasted.</span>
+        </li>
+      
+        <li>
+          <a href="/library/assurance-of-salvation/">Assurance of Salvation</a>
+          <span class="library-excerpt">When doubt whispers that we are not enough, God&#39;s Word reminds us that salvation is not earned — it is a gift, secured by faith and sealed by His Spirit.</span>
+        </li>
+      
+        <li>
+          <a href="/library/be-still/">Be Still</a>
+          <span class="library-excerpt">We chase holiness like a performance, but God meets us in surrender. In the margins of our striving, His grace whispers strength.</span>
+        </li>
+      
+        <li>
+          <a href="/library/be-transformed/">Be Transformed</a>
+          <span class="library-excerpt">True worship is not conformity to the world, but transformation through a renewed mind, shaped by the righteousness of Christ.</span>
+        </li>
+      
+        <li>
+          <a href="/library/breathless/">Breathless!</a>
+          <span class="library-excerpt">Psalm 148 erupts with unrestrained praise, calling all creation to worship—and reminding us not to be outdone by rocks.</span>
+        </li>
+      
+        <li>
+          <a href="/devotionals/">Devotionals</a>
+          
+        </li>
+      
+        <li>
+          <a href="/library/from-it-or-through-it/">From It or Through It</a>
+          <span class="library-excerpt">When the king renamed them, he thought he was erasing them. He wasn&#39;t.</span>
+        </li>
+      
+        <li>
+          <a href="/library/god-is-listening/">God is Listening</a>
+          <span class="library-excerpt">When we feel trapped in the pit of our own failures, Psalm 40 reminds us that God does more than hear our prayers — He leans in and listens.</span>
+        </li>
+      
+        <li>
+          <a href="/library/heading-home/">Heading Home</a>
+          <span class="library-excerpt">The psalms teach us that faith does not move in straight lines—from despair to trust, and from trust to being led again toward God Himself.</span>
+        </li>
+      
+        <li>
+          <a href="/library/i-want-to-follow/">I Want to Follow</a>
+          <span class="library-excerpt">Relationship comes before understanding. God leads us into truth before He teaches us.</span>
+        </li>
+      
+        <li>
+          <a href="/library/in-his-presence/">In His Presence</a>
+          <span class="library-excerpt">Like an ant sensing only vibrations of a passing shadow, we often miss the nearness of God.</span>
+        </li>
+      
+        <li>
+          <a href="/library/its-you/">It’s You</a>
+          <span class="library-excerpt">When we ask God to lead us, we often expect direction toward circumstances or outcomes. Psalm 43 reveals that His ultimate destination for us is not a place or achievement—but Himself.</span>
+        </li>
+      
+        <li>
+          <a href="/library/look-and-live/">Look and Live</a>
+          <span class="library-excerpt">You don’t have to climb your way to God or fix yourself first. Just look to Jesus — and live.</span>
+        </li>
+      
+        <li>
+          <a href="/library/loving-judge/">Loving Judge</a>
+          <span class="library-excerpt">David’s prayer for judgment is not reckless bravado, but quiet trust in a God whose justice is shaped by grace and whose scrutiny is meant to heal.</span>
+        </li>
+      
+        <li>
+          <a href="/library/mustard-seed-faith/">Mustard Seed Faith</a>
+          <span class="library-excerpt">Even little faith is powerful when pointed toward Jesus. Mustard seed faith moves mountains—and multiplies miracles.</span>
+        </li>
+      
+        <li>
+          <a href="/library/new-every-morning/">New Every Morning</a>
+          <span class="library-excerpt">God’s mercies are not recycled — they’re freshly painted across each sunrise. His faithfulness is the rhythm behind every breath.</span>
+        </li>
+      
+        <li>
+          <a href="/library/no-excuse/">No Excuse</a>
+          <span class="library-excerpt">God’s revelation is not hidden — it’s everywhere. Creation declares His power, and conscience confirms His nature. The question is not whether He’s spoken, but whether we’ll respond.</span>
+        </li>
+      
+        <li>
+          <a href="/library/not-even-one/">Not Even One</a>
+          <span class="library-excerpt">When Scripture strips away self - confidence, grace is revealed not as an idea to admire, but as a Person to depend on.</span>
+        </li>
+      
+        <li>
+          <a href="/library/open-doors/">Open Doors</a>
+          <span class="library-excerpt">When we empty ourselves and open every door of our hearts, we make way for the King of glory to enter fully and reign without resistance.</span>
+        </li>
+      
+        <li>
+          <a href="/library/open-my-eyes/">Open My Eyes</a>
+          <span class="library-excerpt">We can perceive almost nothing of reality — which is exactly why seeking Him first is not naïve but essential.</span>
+        </li>
+      
+        <li>
+          <a href="/library/psalm-119/">Psalm 119: A Quiet Faith Formed in the Word</a>
+          <span class="library-excerpt">Psalm 119 reveals a faith shaped not by urgency or perfection, but by obedience and trust reformed through God’s Word.</span>
+        </li>
+      
+        <li>
+          <a href="/library/raise-a-shout/">Raise A Shout</a>
+          <span class="library-excerpt">Psalm 100 reveals a progression in worship — from celebration to service to intimacy — built on the unchanging goodness of God.</span>
+        </li>
+      
+        <li>
+          <a href="/library/seek-first/">Seek First</a>
+          <span class="library-excerpt">What does it really mean to seek first the Kingdom of God? A reflection on priority, focus, righteousness by faith, and the promise that the Father will provide what we truly need.</span>
+        </li>
+      
+        <li>
+          <a href="/library/seek-his-face/">Seek His Face</a>
+          <span class="library-excerpt">God desires to be desired — not for what He can give, but for who He is.</span>
+        </li>
+      
+        <li>
+          <a href="/library/showers-of-blessing/">Showers of Blessing</a>
+          <span class="library-excerpt">The Psalms repeatedly call God’s people to shout in worship. True praise is not polite restraint but the joyful declaration that our victorious King reigns.</span>
+        </li>
+      
+        <li>
+          <a href="/library/stand-where-jesus-stood/">Stand Where Jesus Stood</a>
+          <span class="library-excerpt">Before the miracles, before the crowds, Jesus entered the wilderness and learned dependence.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-big-picture/">The Big Picture</a>
+          <span class="library-excerpt">God is painting on a canvas bigger than we can see.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-lord-is-my-shepherd/">The LORD Is My Shepherd</a>
+          <span class="library-excerpt">Psalm 23 is not a wish or a sentiment, but a declaration of settled reality. In valley and pasture alike, the Shepherd’s presence — not the absence of danger — is the source of comfort and confidence.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-passover-lamb/">The Passover Lamb</a>
+          <span class="library-excerpt">From the skins God made for Adam and Eve, to the blood of the Passover lambs, to the cross — there is one unbroken thread. This is what Jesus walked into.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-power-of-presence/">The Power of Presence</a>
+          <span class="library-excerpt">Israel’s victories were never secured by strength or strategy, but by the light of God’s presence — a truth that still exposes the danger of self-reliance.</span>
+        </li>
+      
+        <li>
+          <a href="/library/unpacking-holiness/">Unpacking Holiness</a>
+          <span class="library-excerpt">A reflection on the movement of God’s holiness — from wilderness fire to indwelling Spirit — and the mercy found in His nearness.</span>
+        </li>
+      
+        <li>
+          <a href="/library/what-about-the-joneses/">What About the Joneses</a>
+          <span class="library-excerpt">When envy begins to distort our vision, Psalm 73 reminds us that everything changes when we step into the presence of God.</span>
+        </li>
+      
+        <li>
+          <a href="/library/what-are-you-feeding/">What Are You Feeding?</a>
+          <span class="library-excerpt">What we consume shapes what we become — and the Word of God is meant to be our daily bread.</span>
+        </li>
+      
+        <li>
+          <a href="/library/what-do-you-want/">What Do You Want?</a>
+          <span class="library-excerpt">A reflection on Psalm 42 and the honest longing to desire God more deeply — even when our hunger feels weak or divided.</span>
+        </li>
+      
+        <li>
+          <a href="/library/when-jesus-wept/">When Jesus Wept</a>
+          <span class="library-excerpt">The shortest verse in the Bible reveals the depth of Christ’s love and grief over a broken world. Jesus wept — not out of weakness, but out of divine compassion.</span>
+        </li>
+      
+        <li>
+          <a href="/library/why-fear/">Why Fear?</a>
+          <span class="library-excerpt">Fear multiplies in imagined futures, but faith finds its footing in a single, steady truth: God is for me.</span>
+        </li>
+      
+        <li>
+          <a href="/library/why-indeed/">Why Indeed</a>
+          <span class="library-excerpt">When despair rises and the future feels uncertain, Psalm 42 reminds us that even the overwhelming waves of life are under God’s control — and His presence remains with us.</span>
+        </li>
+      
+        <li>
+          <a href="/library/working-from-grace/">Working From Grace</a>
+          <span class="library-excerpt">Sanctification is not passive drifting or self-reliance, but faithful obedience empowered by God’s grace at work within us.</span>
+        </li>
+      
+        <li>
+          <a href="/library/worship-the-lord/">Worship the LORD</a>
+          <span class="library-excerpt">Worship begins not with music, but with surrender — bowing low and entrusting what we love most into God’s hands.</span>
+        </li>
+      
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Meditations<span class="category-hover-note">Quiet contemplations on Scripture and faith, written to be read slowly and thoughtfully.</span></h2>
+    <ul class="library-list">
+      
+        <li>
+          <a href="/library/a-big-god/">A Big God</a>
+          <span class="library-excerpt">In the vastness of a universe held within God, even our sin and suffering are not beyond His presence—inviting us to trust that He can transform what once tormented us into instruments of glory.</span>
+        </li>
+      
+        <li>
+          <a href="/library/a-holy-moment/">A Holy Moment</a>
+          <span class="library-excerpt">In the silent sway of trees and the thunderous hush of mountains, God&#39;s love speaks without words.</span>
+        </li>
+      
+        <li>
+          <a href="/library/at-what-cost/">At What Cost</a>
+          <span class="library-excerpt">Biblical worship was never casual or detached from sacrifice. The costliness of Old Testament offerings points us toward the immeasurable price paid through Christ and calls us to respond with wholehearted praise.</span>
+        </li>
+      
+        <li>
+          <a href="/library/confession/">Confession</a>
+          <span class="library-excerpt">Forgiveness is freely given in Christ, yet many of us continue to live under guilt. Psalm 51 reminds us that confession is not groveling before an angry God, but returning to a gracious Father who has always been ready to restore.</span>
+        </li>
+      
+        <li>
+          <a href="/library/created-in-his-image/">Created In His Image</a>
+          <span class="library-excerpt">A reflection on whether the cross was an interruption in the story of creation or the meaning creation was always built to reveal.</span>
+        </li>
+      
+        <li>
+          <a href="/library/faith-to-faith/">Faith to Faith</a>
+          <span class="library-excerpt">The righteousness that saves us is credited by God, received by faith, and lived out by faith—from beginning to end.</span>
+        </li>
+      
+        <li>
+          <a href="/library/gods-got-this/">God&#39;s Got This</a>
+          <span class="library-excerpt">When progress feels slow and God seems silent, Deuteronomy reminds us that His promises unfold little by little. The pauses are not abandonment. They are preparation.</span>
+        </li>
+      
+        <li>
+          <a href="/library/god-sized-praying/">God-Sized Praying</a>
+          <span class="library-excerpt">I wonder if God&#39;s answers to my prayers reveal that He already knows what I would ask for if I knew what He knows.</span>
+        </li>
+      
+        <li>
+          <a href="/library/i-am-loved/">I Am Loved</a>
+          <span class="library-excerpt">For most of my life I understood God&#39;s love as agape — unconditional, selfless, sacrificial. But Psalm 42:8 introduced me to hesed: a love God has commanded of Himself, bound not by obligation but by nature. He could no more cease to love us than water could cease to be wet.</span>
+        </li>
+      
+        <li>
+          <a href="/library/in-his-image/">In His Image</a>
+          <span class="library-excerpt">What does it mean to be made in the image of a holy God? A meditation on eternity in fragile bodies and the longing for unending communion with the Infinite One.</span>
+        </li>
+      
+        <li>
+          <a href="/library/living-sacrifice/">Living Sacrifice</a>
+          <span class="library-excerpt">A reflection on what it truly means to become a living sacrifice—no longer living for self, but willingly consumed for the glory of God.</span>
+        </li>
+      
+        <li>
+          <a href="/meditations/">Meditations</a>
+          
+        </li>
+      
+        <li>
+          <a href="/library/near-enough-to-live/">Near Enough to Live</a>
+          <span class="library-excerpt">David asks not merely for protection, but to live close enough to God that danger must meet Him first.</span>
+        </li>
+      
+        <li>
+          <a href="/library/not-so-small-after-all/">Not So Small After All</a>
+          <span class="library-excerpt">Beneath the vastness of the heavens, I discovered that humanity is not insignificant but deeply loved — called by name by the One who set every star in place.</span>
+        </li>
+      
+        <li>
+          <a href="/library/press-on/">Press On</a>
+          <span class="library-excerpt">God sees more than our failures — He sees the fight. Even when defeat feels constant, His call is not condemnation but courage.</span>
+        </li>
+      
+        <li>
+          <a href="/library/returning-to-need/">Returning to Need</a>
+          <span class="library-excerpt">Jesus calls us back to childlike dependence — not immaturity, but a return to trust, attachment, and the honest admission that we are powerless without Him.</span>
+        </li>
+      
+        <li>
+          <a href="/library/stand-in-awe/">Stand In Awe</a>
+          <span class="library-excerpt">To stand in awe of God is to feel both drawn and undone — fully exposed yet completely safe. In His holiness we discover not danger, but the deepest peace.</span>
+        </li>
+      
+        <li>
+          <a href="/library/still-waiting/">Still Waiting</a>
+          <span class="library-excerpt">When anxiety pulls me into endless what-ifs, Psalm 39:7 calls me back to the only secure ground: My hope is in You.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-gift-of-now/">The Gift of Now</a>
+          <span class="library-excerpt">We often rush past the present while waiting for something better.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-god-who-is-heard/">The God Who Is Heard</a>
+          <span class="library-excerpt">From Sinai’s thunder to the whisper of the Spirit, God has always chosen voice over image — inviting us not to behold Him, but to listen.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-question-we-avoid/">The Question We Avoid</a>
+          <span class="library-excerpt">A meditation on formation, faithfulness, and the quiet, unseen work of the church beyond its largest gatherings.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-sanctuary/">The Sanctuary</a>
+          <span class="library-excerpt">A meditation on entering the presence of God, where His holiness reorders our understanding, humbles our pride, and brings clarity that cannot be found anywhere else.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-work-of-his-hands/">The Work of His Hands</a>
+          <span class="library-excerpt">Like a craftsman with a vision, God sees us not for our flaws but for the purpose He lovingly designed. Even our dents and dings are part of the story.</span>
+        </li>
+      
+        <li>
+          <a href="/library/waves/">Waves</a>
+          <span class="library-excerpt">A meditation on Exodus 20 and the unseen waves our choices send forward — into our families, our futures, and generations we will never know.</span>
+        </li>
+      
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Poems & Prayers<span class="category-hover-note">Psalm-like expressions of worship, longing, confession, and trust offered before God.</span></h2>
+    <ul class="library-list">
+      
+        <li>
+          <a href="/library/a-meditation-in-suffering/">A Meditation In Suffering</a>
+          <span class="library-excerpt">When pain strips away understanding, surrender becomes worship. This meditation offers suffering back to God as an act of trust and praise.</span>
+        </li>
+      
+        <li>
+          <a href="/library/a-prayer/">A Prayer</a>
+          <span class="library-excerpt">A prayer for purification of heart and a deeper longing to see and know God more fully.</span>
+        </li>
+      
+        <li>
+          <a href="/library/a-prayer-from-jail/">A Prayer From Jail</a>
+          <span class="library-excerpt">Written in the early morning while incarcerated, this prayer expresses a deep desire for surrender, transformation, and a life fully yielded to God.</span>
+        </li>
+      
+        <li>
+          <a href="/library/a-prayer-from-the-wilderness/">A Prayer From the Wilderness</a>
+          <span class="library-excerpt">In a season of uncertainty, I tried to obey Philippians 4 by bringing everything to God. This is a prayer that came out of the wilderness.</span>
+        </li>
+      
+        <li>
+          <a href="/library/a-psalm-from-confinement/">A Psalm From Confinement</a>
+          <span class="library-excerpt">A meditation of confession, grace, and longing—written when hope felt distant and mercy refused to let go.</span>
+        </li>
+      
+        <li>
+          <a href="/library/another-prayer-from-jail/">Another Prayer From Jail</a>
+          <span class="library-excerpt">Written in confinement, this brief prayer expresses a desire for complete surrender—asking God to replace personal ambitions with His will and to purify the heart completely.</span>
+        </li>
+      
+        <li>
+          <a href="/library/gods-plan/">God&#39;s Plan</a>
+          <span class="library-excerpt">A reflection on the road of life, where every event becomes preparation for what lies ahead in God&#39;s unfolding plan.</span>
+        </li>
+      
+        <li>
+          <a href="/library/here-with-me/">Here With Me</a>
+          <span class="library-excerpt">A meditation on God&#39;s nearness — written in confinement, in awe of a presence that remains personal.</span>
+        </li>
+      
+        <li>
+          <a href="/library/i-need-you/">I Need You</a>
+          <span class="library-excerpt">A simple prayer of surrender—recognizing that loving and following Jesus is not something we can accomplish in our own strength.</span>
+        </li>
+      
+        <li>
+          <a href="/library/if-god-is-everywhere/">If God Is Everywhere</a>
+          <span class="library-excerpt">God&#39;s omnipresence means we are never outside His presence or purposes. This meditation explores identity, rest, and belonging in a God who is always near.</span>
+        </li>
+      
+        <li>
+          <a href="/library/its-about-you/">It’s About You</a>
+          <span class="library-excerpt">A quiet surrender to the truth that life is not ultimately about us, but about the glory of God and His redeeming work.</span>
+        </li>
+      
+        <li>
+          <a href="/library/meditation-1/">Meditation #1</a>
+          <span class="library-excerpt">A meditation of surrender — looking back on flight, self-reliance, and the quiet persistence of grace.</span>
+        </li>
+      
+        <li>
+          <a href="/poems/">Poems &amp; Prayers</a>
+          
+        </li>
+      
+        <li>
+          <a href="/library/purify-my-heart/">Purify My Heart</a>
+          <span class="library-excerpt">A prayer of surrender and longing — for a clean heart that desires God alone and seeks His presence above all else.</span>
+        </li>
+      
+        <li>
+          <a href="/library/sunday-morning-faith/">Sunday Morning Faith</a>
+          <span class="library-excerpt">A contrast between well-worn sayings heard in church culture and enduring truth.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-chrysalis/">The Chrysalis</a>
+          <span class="library-excerpt">In the stillness of confinement, transformation begins — where surrender gives way to renewal and a new man emerges in Christ.</span>
+        </li>
+      
+        <li>
+          <a href="/library/whispers-in-the-dark/">Whispers in the Dark</a>
+          <span class="library-excerpt">In the quiet battles of confinement, I learned that the whispers of the enemy grow faint when the voice of my Deliverer becomes my focus.</span>
+        </li>
+      
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Reflections<span class="category-hover-note">Thoughtful explorations of Scripture, theology, and the deeper movements of the Christian life.</span></h2>
+    <ul class="library-list">
+      
+        <li>
+          <a href="/library/a-preemptive-shout/">A Preemptive Shout</a>
+          <span class="library-excerpt">Throughout Scripture, God&#39;s people often praise Him before the victory is visible. Worship becomes a declaration of faith that God&#39;s rule is greater than present circumstances.</span>
+        </li>
+      
+        <li>
+          <a href="/library/building-a-throne/">Building a Throne</a>
+          <span class="library-excerpt">In a place stripped of comfort, I discovered that worship does not depend on abundance. It depends on who God is.</span>
+        </li>
+      
+        <li>
+          <a href="/library/coming-into-a-place-of-prayer/">Coming Into a Place of Prayer</a>
+          <span class="library-excerpt">Prayer is not about proving devotion or logging hours. It is about coming—boldly, simply, as children—to a Father who is already willing to give what we need.</span>
+        </li>
+      
+        <li>
+          <a href="/library/complete-protection/">Complete Protection</a>
+          <span class="library-excerpt">David&#39;s opening cry in Psalm 18 reveals a layered portrait of God&#39;s protection—strength within, stability beneath, defense around, and victory ahead—awakening love as the only fitting response.</span>
+        </li>
+      
+        <li>
+          <a href="/library/deliver-me/">Deliver Me</a>
+          <span class="library-excerpt">A prayer of mercy, refuge, and trust when deliverance does not guarantee escape.</span>
+        </li>
+      
+        <li>
+          <a href="/library/for-husbands/">For Husbands</a>
+          <span class="library-excerpt">A critical spirit can quietly erode the person we claim to love. Learning to serve instead of correct may be one of the most important transformations a husband can experience.</span>
+        </li>
+      
+        <li>
+          <a href="/library/if-only/">If Only...</a>
+          <span class="library-excerpt">We often wish we could rewrite parts of our past, yet God, in His sovereignty, works through even our regrets to accomplish His purposes and shape our lives.</span>
+        </li>
+      
+        <li>
+          <a href="/library/imputed-motivations/">Imputed Motivations</a>
+          <span class="library-excerpt">We often judge others by assumed motives we cannot truly know, while excusing our own. God, who knows every motive, chooses mercy instead of condemnation.</span>
+        </li>
+      
+        <li>
+          <a href="/library/in-his-hands/">In His Hands</a>
+          <span class="library-excerpt">God claims both what is given and what lies beyond it. In the tension between possession and sovereignty, we find quiet confidence that even what feels chaotic remains firmly in His hands.</span>
+        </li>
+      
+        <li>
+          <a href="/library/never-told-why/">Never Told Why</a>
+          <span class="library-excerpt">Trust is not found in understanding the script. It is staying in the story with God when you cannot see the reason.</span>
+        </li>
+      
+        <li>
+          <a href="/library/no-compromise/">No Compromise</a>
+          <span class="library-excerpt">What we refuse to remove will remain to trouble us. Sanctification requires courage to confront compromise and trust God enough to drive out what hinders growth.</span>
+        </li>
+      
+        <li>
+          <a href="/library/not-complicated/">Not Complicated</a>
+          <span class="library-excerpt">We often complicate what God has made simple. Loving our neighbor doesn’t require a plan — it requires obedience.</span>
+        </li>
+      
+        <li>
+          <a href="/library/not-so-quiet-confidence/">Not So Quiet Confidence</a>
+          <span class="library-excerpt">In the midst of fear and pressure, true confidence is found not in our strength, but in remembering that God surrounds, sustains, and secures us.</span>
+        </li>
+      
+        <li>
+          <a href="/library/not-subdued/">Not Subdued</a>
+          <span class="library-excerpt">The enemy’s aim has always been to silence worship — but because of Christ, what feels destroyed is never beyond restoration, and what seems subdued is never truly lost.</span>
+        </li>
+      
+        <li>
+          <a href="/library/racism-is-sin/">Racism Is Sin</a>
+          <span class="library-excerpt">A personal reflection on Charlottesville, friendship, and the Christian call to reconciliation — arguing that racism is sin and that the work of Christ’s people is not outrage or silence, but costly, relational love across dividing lines.</span>
+        </li>
+      
+        <li>
+          <a href="/library/received-not-achieved/">Received, Not Achieved</a>
+          <span class="library-excerpt">Obedience is not something we accomplish through effort, but something we receive as God works within us.</span>
+        </li>
+      
+        <li>
+          <a href="/reflections/">Reflections</a>
+          
+        </li>
+      
+        <li>
+          <a href="/library/renew-my-mind/">Renew My Mind</a>
+          <span class="library-excerpt">The world has a quiet way of shaping how we think, often without our awareness. Renewal begins not with effort, but with learning to notice — and unlearn — the patterns that have been forming us.</span>
+        </li>
+      
+        <li>
+          <a href="/library/roadblocks/">Roadblocks</a>
+          <span class="library-excerpt">Reflecting on how we can unknowingly step out of alignment with what God is already doing — and what surrender truly looks like.</span>
+        </li>
+      
+        <li>
+          <a href="/library/seek-him/">Seek Him</a>
+          <span class="library-excerpt">Prayer does not begin with effort or obligation, but with relationship. We seek God not to earn His favor, but because He has already drawn near to us.</span>
+        </li>
+      
+        <li>
+          <a href="/library/something-is-missing/">Something is Missing</a>
+          <span class="library-excerpt">When our response to God becomes rushed and restrained, we miss the fullness of what His presence invites — an engaged, wholehearted expression of awe, remembrance, and worship.</span>
+        </li>
+      
+        <li>
+          <a href="/library/sons-of-brokenness/">Sons of Brokenness</a>
+          <span class="library-excerpt">From the aftermath of Korah’s rebellion emerged a lineage shaped by holy fear, humility, and grace — voices whose worship was forged in brokenness and preserved in the Psalms.</span>
+        </li>
+      
+        <li>
+          <a href="/library/sticks-and-stones/">Sticks and Stones</a>
+          <span class="library-excerpt">Scripture was not given to us as a weapon to wound others, but as a living word meant to search us, humble us, and lead us into love.</span>
+        </li>
+      
+        <li>
+          <a href="/library/that-they-will-know/">That They Will Know</a>
+          <span class="library-excerpt">God’s work in our lives is not ultimately about us — it is about making His name known so that all will see that He is LORD.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-bitter-harvest-of-sin/">The Bitter Harvest of Sin</a>
+          <span class="library-excerpt">Sin promises satisfaction but delivers shame. What once felt thrilling leaves a bitter harvest — yet grace still invites us into life.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-cart-or-horse/">The Cart or the Horse</a>
+          <span class="library-excerpt">Psalm 15 raises a searching question about who may dwell in God’s presence — and reveals that holiness is not the price of access, but the fruit of grace.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-counterfeit-feast/">The Counterfeit Feast</a>
+          <span class="library-excerpt">A sober look at Proverbs 9 and the deceptive invitation of folly that mimics wisdom but ultimately leads to death.</span>
+        </li>
+      
+        <li>
+          <a href="/library/the-gospel-in-the-grass/">The Gospel in the Grass</a>
+          <span class="library-excerpt">Creation proclaims God’s provision, beauty, and care — inviting us to trust the One who tends both the earth and our lives.</span>
+        </li>
+      
+        <li>
+          <a href="/library/want-tos/">Want To’s</a>
+          <span class="library-excerpt">When I learned to delight in the Lord rather than in what He could give, I discovered that He was quietly reshaping my desires all along.</span>
+        </li>
+      
+        <li>
+          <a href="/library/what-about-judas/">What About Judas?</a>
+          <span class="library-excerpt">How close can a person be to Jesus — and still miss Him? Judas’ life confronts our assumptions about proximity, ministry, and surrender.</span>
+        </li>
+      
+        <li>
+          <a href="/library/whats-in-a-name/">What’s in a Name?</a>
+          <span class="library-excerpt">Discovering how identity shapes destiny — and how God’s naming of us changes everything.</span>
+        </li>
+      
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Stories<span class="category-hover-note">Narratives from life that reveal deeper spiritual truths through ordinary experiences.</span></h2>
+    <ul class="library-list">
+      
+        <li>
+          <a href="/library/appointments/">Appointments</a>
+          <span class="library-excerpt">From a guarded sycamore tree to a ram in the thicket and a great fish in the sea, Scripture reveals a God who orchestrates divine appointments—arranging people, places, and moments for redemption.</span>
+        </li>
+      
+        <li>
+          <a href="/library/finding-the-treasure/">Finding the Treasure</a>
+          <span class="library-excerpt">The kingdom of heaven is the greatest treasure a person can ever find. True surrender begins when we realize that God Himself — not His gifts — is the prize.</span>
+        </li>
+      
+        <li>
+          <a href="/library/go/">Go</a>
+          <span class="library-excerpt">God&#39;s call to &quot;Go&quot; is rarely comfortable or fully explained.</span>
+        </li>
+      
+        <li>
+          <a href="/library/guard-the-grace/">Guard the Grace</a>
+          <span class="library-excerpt">A reflection on how many churches respond to sexual sin—and what those responses quietly teach about confession, belonging, and grace.</span>
+        </li>
+      
+        <li>
+          <a href="/library/guess-who-i-saw-today/">Guess Who I Saw Today</a>
+          <span class="library-excerpt">What if every face we encounter carries the presence of Christ? Seeing others through this lens reshapes how we speak, judge, and love.</span>
+        </li>
+      
+        <li>
+          <a href="/stories/">Stories</a>
+          
+        </li>
+      
+    </ul>
+  </div>
+  <div class="library-group library-group--testimonies">
+    <h2>Testimonies<span class="category-hover-note">Personal accounts of God's mercy, guidance, and transforming work in a life.</span></h2>
+    <ul class="library-list">
+      
+        <li>
+          <a href="/library/after-gods-heart/">After God&#39;s Heart</a>
+          <span class="library-excerpt">David&#39;s life reveals that being &quot;after God&#39;s heart&quot; is not about sinless perfection, but about a heart that repents, returns, and rests in God&#39;s sufficient grace.</span>
+        </li>
+      
+        <li>
+          <a href="/library/awakened-in-the-valley/">Awakened in the Valley</a>
+          <span class="library-excerpt">Written in confinement, this testimony reflects on a painful awakening — recognizing how sin had created distance from God and how a season of confinement became a place of clarity, healing, and transformation.</span>
+        </li>
+      
+        <li>
+          <a href="/library/falling-into-his-grip/">Falling Into His Grip</a>
+          <span class="library-excerpt">What felt like collapse became rescue. In confinement, I discovered that when I fell, I had not been hurled headlong — God was still holding my hand.</span>
+        </li>
+      
+        <li>
+          <a href="/library/freedom-in-confinement/">Freedom in Confinement</a>
+          <span class="library-excerpt">Written in confinement, this testimony reflects on discovering unexpected freedom while incarcerated—freedom from addiction, clarity through God&#39;s Word, and a renewed commitment to live faithfully before Him.</span>
+        </li>
+      
+        <li>
+          <a href="/library/from-ashes-to-glory/">From Ashes to Glory</a>
+          <span class="library-excerpt">When the holy place is defiled and left in ruins, God does not abandon it—He rebuilds His dwelling within us with greater glory than before.</span>
+        </li>
+      
+        <li>
+          <a href="/library/from-exile-to-eden/">From Exile to Eden</a>
+          <span class="library-excerpt">“A story of addiction, surrender, confinement, and grace. This testimony stands on its own — offered not as instruction, but as witness — to the slow, unexpected work of God in a life brought to the end of itself.”</span>
+        </li>
+      
+        <li>
+          <a href="/library/from-knowing-to-surrender/">From Knowing to Surrender</a>
+          <span class="library-excerpt">Knowing the truth is not the same as being changed by it. This is the story of a slow undoing — where grace met me when my resolve finally ran out.</span>
+        </li>
+      
+        <li>
+          <a href="/library/happy-birthday/">Happy Birthday</a>
+          <span class="library-excerpt">Written in confinement on his birthday, this testimony reflects on spiritual growth, past failures, and the deep realization that only God can fill the empty places of the heart.</span>
+        </li>
+      
+        <li>
+          <a href="/library/hope/">Hope</a>
+          <span class="library-excerpt">Written from jail, this testimony reflects on the fragile, painful, and necessary nature of hope—how it can both wound and sustain, and how ultimately hope must rest in God.</span>
+        </li>
+      
+        <li>
+          <a href="/library/i-wanna-dance-like-enoch/">I Wanna Dance Like Enoch Danced</a>
+          <span class="library-excerpt">A revival I never expected exposed something deeper than power or experience—it revealed the cost of true worship and the quiet pull of pride.</span>
+        </li>
+      
+        <li>
+          <a href="/library/in-the-margins/">In the Margins</a>
+          <span class="library-excerpt">A reflection on Scripture, time, and the holy space before the beginning—where God already knew every moment of our lives.</span>
+        </li>
+      
+        <li>
+          <a href="/library/lesson-from-much-afraid/">Lesson From Much-Afraid</a>
+          <span class="library-excerpt">Written while incarcerated, this reflection on Hind’s Feet on High Places reveals a growing understanding that God is not merely fixing problems, but calling for complete surrender and transformation.</span>
+        </li>
+      
+        <li>
+          <a href="/library/margins/">Margins</a>
+          <span class="library-excerpt">What is your favorite place in the Bible? Mine may surprise you.</span>
+        </li>
+      
+        <li>
+          <a href="/library/stay-in-your-lane/">Stay In Your Lane</a>
+          <span class="library-excerpt">Written while incarcerated, this testimony reflects on the slow path into temptation described in Proverbs and the necessity of choosing a different road before destruction takes hold.</span>
+        </li>
+      
+        <li>
+          <a href="/testimonies/">Testimonies</a>
+          
+        </li>
+      
+    </ul>
+  </div>
+</div>
+
+<p style="text-align:center; margin-top:2.5rem; font-size:1.05rem; color:#7a6a4f;">Hover over any article title to see a short excerpt.</p>
+
+<div style="text-align:center; margin-top:2.5rem;">
+  <a href="/" style="display:inline-block; background:#6b4f2c; color:#fffbe9; padding:0.7rem 2.2rem; border-radius:6px; font-size:1.08rem; text-decoration:none; box-shadow:0 2px 8px rgba(0,0,0,0.07); transition:background 0.2s;">Home</a>
+</div>
+
+<p style="text-align:center; margin-top:1.5rem; font-size:0.85rem; color:#aaa;">
+  <a href="/library/" style="color:#aaa; text-decoration:none; border-bottom:1px dashed #ccc;">Library search &amp; filter</a>
+</p>
+

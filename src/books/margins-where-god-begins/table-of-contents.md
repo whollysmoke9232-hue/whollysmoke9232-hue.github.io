@@ -5,8 +5,8 @@ permalink: "/books/margins-where-god-begins/toc/"
 ---
 
 <style>
-  .article-content > header.site-header { 
-    display: none !important; 
+  .article-content > header.site-header {
+    display: none !important;
   }
   .toc-container {
     max-width: 700px;
@@ -72,33 +72,26 @@ permalink: "/books/margins-where-god-begins/toc/"
 <div class="toc-container">
   <h1 class="toc-title">Margins: Where God Begins</h1>
   <p class="toc-subtitle">Table of Contents</p>
-  
+
   <a href="/books/margins-where-god-begins/manuscript/" class="reading-mode-link">View Continuous Reading Mode</a>
 
   <ul class="toc-links">
-    <li><a href="/books/margins-where-god-begins/foreword/">Foreword</a></li>
     <li><a href="/books/margins-where-god-begins/introduction/">Introduction</a></li>
-    
     <li class="toc-section">Part 1: The Eternal Margin</li>
-    <li class="toc-indent"><a href="/books/margins-where-god-begins/part-1/">Part 1: The Eternal Margin</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/chapter-1/">Chapter 1: The Margin Before Genesis</a></li>
-    <li class="toc-indent"><a href="/books/margins-where-god-begins/interlude-gods-plan/">Interlude: God's Plan</a></li>
+    <li class="toc-indent"><a href="/books/margins-where-god-begins/interlude-gods-plan/">Interlude: God’s Plan</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/chapter-2/">Chapter 2: The God Who Knows</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/interlude-not-a-remodel/">Interlude: Not a Remodel</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/chapter-3/">Chapter 3: The Tapestry of Time</a></li>
-    <li class="toc-indent"><a href="/books/margins-where-god-begins/interlude-its-about-you/">Interlude: It's About You</a></li>
-    
+    <li class="toc-indent"><a href="/books/margins-where-god-begins/interlude-its-about-you/">Interlude: It’s About You</a></li>
     <li class="toc-section">Part 2: The Unfolding Margin</li>
-    <li class="toc-indent"><a href="/books/margins-where-god-begins/part-2/">Part 2: The Unfolding Margin</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/chapter-4/">Chapter 4: The Word Before the Word</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/interlude-a-holy-moment/">Interlude: A Holy Moment</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/chapter-5/">Chapter 5: The Power of the Pause</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/interlude-mustard-seed-faith/">Interlude: Mustard Seed Faith</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/chapter-6/">Chapter 6: The Big Picture</a></li>
-    <li class="toc-indent"><a href="/books/margins-where-god-begins/interlude-righteousness/">Interlude: Righteousness</a></li>
-    
-    <li class="toc-section">Part 3: The Living Margin</li>
-    <li class="toc-indent"><a href="/books/margins-where-god-begins/part-3/">Part 3: The Living Margin</a></li>
+    <li class="toc-indent"><a href="/books/margins-where-god-begins/interlude-righteousness/">Interlude: Righteousness: A Gift from First to Last</a></li>
+    <li class="toc-section">Part 3: Living In the Margin</li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/chapter-7/">Chapter 7: The Word of God</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/interlude-starter-plan/">Interlude: A Starter Plan for Daily Bible Reading</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/chapter-8/">Chapter 8: Living in the Margin</a></li>
@@ -106,7 +99,6 @@ permalink: "/books/margins-where-god-begins/toc/"
     <li class="toc-indent"><a href="/books/margins-where-god-begins/chapter-9/">Chapter 9: The Final Margin</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/interlude-a-prayer/">Interlude: A Prayer</a></li>
     <li class="toc-indent"><a href="/books/margins-where-god-begins/chapter-10/">Chapter 10: Invitation to Wonder</a></li>
-    
     <li><a href="/books/margins-where-god-begins/postlude/">Postlude: If God Is Everywhere…</a></li>
     <li><a href="/books/margins-where-god-begins/appendix/">Appendix</a></li>
     <li><a href="/books/margins-where-god-begins/about-the-author/">About the Author</a></li>

@@ -1,820 +1,1226 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Library | Grace in the Margins</title>
 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <link rel="stylesheet" href="/assets/css/main.css?v=3">
+  <link rel="stylesheet" href="/assets/css/styles.css?v=3">
 
-<header style="text-align:center; margin-top:2.5rem; margin-bottom:1.5rem;">
-  <h1 style="font-size:2.2rem; letter-spacing:0.04em; margin-bottom:0.5rem;">
-    <a href="/" style="color:#6b4f2c; text-decoration:none; transition:color 0.2s;">Grace in the Margins</a>
-  </h1>
-  <div style="font-size:1.25rem; color:#7a6a4f; margin-bottom:1.5rem;">Library</div>
-</header>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap" rel="stylesheet">
+</head>
 
+<body class="library-page">
+
+  <header class="site-header">
+    <div class="site-brand">
+      <a class="site-title" href="/">Grace in the Margins</a>
+      <p class="site-tagline">A space where God's presence meets life's detours</p>
+    </div>
+  </header>
+
+  <main class="site-main">
+    
 <style>
-.library-grid {
-  display: grid;
-  grid-template-columns: repeat(8, minmax(200px, 1fr));
-  gap: 2rem 2rem;
-  width: min(99vw, 3200px);
-  margin: 2.5rem auto 2rem auto;
-  padding: 0 0.5rem;
-  box-sizing: border-box;
-}
-.library-group {
-  padding: 0 0.5rem;
-}
-.library-group h2 {
-  text-align: center;
-  font-size: 1.18rem;
-  margin-bottom: 1rem;
-  border-bottom: 2px solid #e0d6c3;
-  padding-bottom: 0.5rem;
-  position: relative;
-  cursor: help;
-}
-.category-hover-note {
-  display: none;
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  top: calc(100% + 0.45rem);
-  width: 260px;
-  background: #fffbe9;
-  color: #3a2a13;
-  border: 1px solid #e0d6c3;
-  border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  padding: 0.65rem 0.85rem;
-  z-index: 12;
-  font-size: 0.95rem;
-  line-height: 1.45;
-  font-weight: normal;
-}
-.library-group h2:hover .category-hover-note,
-.library-group h2:focus-within .category-hover-note {
-  display: block;
-}
-.library-group--devotionals .category-hover-note {
-  left: 0;
-  transform: none;
-  text-align: left;
-}
-.library-group--testimonies .library-excerpt {
-  left: auto;
-  right: 105%;
-  text-align: left;
-}
-.library-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.library-list li {
-  margin-bottom: 0.7rem;
-  position: relative;
-}
-.library-list a {
-  text-decoration: underline;
-  color: #6b4f2c;
-  cursor: pointer;
-}
-.library-list a:hover + .library-excerpt,
-.library-list a:focus + .library-excerpt {
-  display: block;
-}
-.library-excerpt {
-  display: none;
-  position: absolute;
-  left: 105%;
-  top: 0;
-  width: 260px;
-  background: #fffbe9;
-  color: #3a2a13;
-  border: 1px solid #e0d6c3;
-  border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  padding: 0.7rem 1rem;
-  z-index: 10;
-  font-size: 0.98rem;
-}
+  .lib-page {
+    width: 100%;
+    max-width: 820px;
+    padding: 1rem 1.5rem;
+  }
+  .lib-header h1 {
+    font-size: 2rem;
+    color: #5a3e2b;
+    margin: 0 0 1rem;
+  }
+  .lib-controls {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+  #lib-search {
+    flex: 1;
+    min-width: 180px;
+    max-width: 320px;
+    padding: 0.45rem 0.75rem;
+    border: 1px solid #d0c4b0;
+    border-radius: 4px;
+    font-size: 0.95rem;
+    background: #fffef9;
+    color: #3a2a13;
+    font-family: inherit;
+  }
+  #lib-search:focus {
+    outline: none;
+    border-color: #5a3e2b;
+  }
+  .sort-controls {
+    font-size: 0.95rem;
+    color: #7a6a4f;
+    white-space: nowrap;
+  }
+  .sort-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 0.95rem;
+    padding: 0;
+    margin: 0 0.25rem;
+    color: #7a6a4f;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-underline-offset: 3px;
+    font-family: inherit;
+  }
+  .sort-btn.active {
+    color: #5a3e2b;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: default;
+  }
+  .lib-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid #e0d6c3;
+    margin-bottom: 0;
+  }
+  .lib-filter {
+    background: none;
+    border: 1px solid #c8bba8;
+    border-radius: 20px;
+    padding: 0.3rem 0.85rem;
+    font-size: 0.88rem;
+    color: #7a6a4f;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s ease;
+  }
+  .lib-filter:hover {
+    border-color: #5a3e2b;
+    color: #5a3e2b;
+  }
+  .lib-filter.active {
+    background: #5a3e2b;
+    border-color: #5a3e2b;
+    color: #fff;
+  }
+  #lib-scroll-area {
+    overflow-y: auto;
+    padding-top: 1rem;
+  }
+  #lib-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  #lib-list li {
+    margin-bottom: 1.5rem;
+  }
+  #lib-list a {
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: #5a3e2b;
+    text-decoration: none;
+  }
+  #lib-list a:hover {
+    text-decoration: underline;
+  }
+  #lib-list p {
+    margin: 0.2rem 0 0;
+    font-size: 0.95rem;
+    color: #6a5d4d;
+    line-height: 1.5;
+  }
+  #lib-empty {
+    display: none;
+    color: #7a6a4f;
+    font-style: italic;
+    margin-top: 1rem;
+  }
+  .lib-classic-link {
+    padding-top: 1rem;
+    border-top: 1px solid #e0d6c3;
+    font-size: 0.85rem;
+    color: #aaa;
+    text-align: center;
+  }
+  .lib-classic-link a {
+    color: #aaa;
+    text-decoration: none;
+    border-bottom: 1px dashed #ccc;
+  }
+  .lib-classic-link a:hover {
+    color: #7a6a4f;
+    border-bottom-color: #7a6a4f;
+  }
 </style>
 
-<div class="library-grid">
-  <div class="library-group library-group--books">
-    <h2>Books<span class="category-hover-note">Longer works and serialized writings exploring faith, suffering, redemption, and spiritual growth.</span></h2>
-    <ul class="library-list">
-      
-        <li>
-          <a href="/books/fractured-light/">Fractured Light</a>
-          <span class="library-excerpt">A testimony of brokenness, mercy, and the quiet work of God in the darkest places—where grace refracts through what has been shattered.</span>
-        </li>
-      
-        <li>
-          <a href="/books/hold-my-hand-walking-with-god/">Hold My Hand: Walking With God</a>
-          <span class="library-excerpt">Seven reflections on trust, surrender, obedience, and steady faith for those learning to walk closely with God.</span>
-        </li>
-      
-        <li>
-          <a href="/books/letters-from-confinement/">Letters From Confinement</a>
-          <span class="library-excerpt">A book-length sequence of reflections, prayers, and meditations shaped by confinement, moving from collapse to new sight.</span>
-        </li>
-      
-        <li>
-          <a href="/books/margins-where-god-begins/">Margins: Where God Begins</a>
-          <span class="library-excerpt">Before the first word of Scripture was written, God already knew the story. A contemplative exploration of God&#39;s presence in the spaces we often overlook—the margins where nothing seems to happen, yet everything begins.</span>
-        </li>
-      
-        <li>
-          <a href="/books/my-story-from-brokenness-to-grace/">My Story: From Brokenness to Grace</a>
-          <span class="library-excerpt">A three-act spiritual memoir tracing fracture, collapse, and awakening as God&#39;s grace meets brokenness and leads toward restoration.</span>
-        </li>
-      
-        <li>
-          <a href="/books/parables-and-reflections/">Parables and Reflections</a>
-          <span class="library-excerpt">Five reflections and narrative meditations that reveal God&#39;s truth in ordinary scenes, personal stories, and spiritual roadblocks.</span>
-        </li>
-      
-        <li>
-          <a href="/books/speak-up-lord-i-dont-hear-so-well/">Speak Up Lord: I Don&#39;t Hear So Well</a>
-          <span class="library-excerpt">Seven reflections for learning to hear God in quiet places through stillness, scripture, surrender, and attentive prayer.</span>
-        </li>
-      
-        <li>
-          <a href="/books/standing-in-awe/">Standing In Awe</a>
-          <span class="library-excerpt">Thirteen reflections that call the heart to wonder, trust, prayer, and vision in the presence of God.</span>
-        </li>
-      
-        <li>
-          <a href="/books/the-confinement-journals/">The Confinement Journals: Finding God in the Silence</a>
-          <span class="library-excerpt">Twenty reflections, prayers, and meditations written during a season of confinement—tracing the journey from descent to encounter.</span>
-        </li>
-      
-        <li>
-          <a href="/books/the-hidden-life-of-faith/">The Hidden Life of Faith</a>
-          <span class="library-excerpt">Fourteen reflections on the inward journey of faithâ€”stillness, surrender, holiness, prayer, and wholehearted devotion to God in the hidden places.</span>
-        </li>
-      
-        <li>
-          <a href="/books/when-life-hurts-finding-purpose-in-the-pain/">When Life Hurts: Finding Purpose in the Pain</a>
-          <span class="library-excerpt">Seven reflections for seasons of sorrow, waiting, and weakness, discovering the nearness and faithfulness of God in suffering.</span>
-        </li>
-      
-    </ul>
+<div class="lib-page">
+
+  <div class="lib-header">
+    <h1>Library</h1>
   </div>
-  <div class="library-group library-group--devotionals">
-    <h2>Devotionals<span class="category-hover-note">Short reflections on Scripture meant to encourage faith and obedience in everyday life.</span></h2>
-    <ul class="library-list">
+
+  <div class="lib-controls">
+    <input type="search" id="lib-search" placeholder="Search titles…" autocomplete="off" aria-label="Search article titles">
+    <div class="sort-controls">
+      Sort by
+      <button class="sort-btn active" id="btn-alpha" onclick="libSort('alpha')">A–Z</button>
+      |
+      <button class="sort-btn" id="btn-date" onclick="libSort('date')">Recent</button>
+    </div>
+  </div>
+
+  <div class="lib-filters">
+    <button class="lib-filter active" data-cat="all">All</button>
+    <button class="lib-filter" data-cat="devotionals">Devotionals</button>
+    <button class="lib-filter" data-cat="meditations">Meditations</button>
+    <button class="lib-filter" data-cat="poems">Poems &amp; Prayers</button>
+    <button class="lib-filter" data-cat="reflections">Reflections</button>
+    <button class="lib-filter" data-cat="stories">Stories</button>
+    <button class="lib-filter" data-cat="testimonies">Testimonies</button>
+  </div>
+
+  <div id="lib-scroll-area">
+    <ul id="lib-list">
       
-        <li>
+      
+        
+        <li data-category="devotionals"
+            data-title="A Theology of Weakness"
+            data-date="Sun Jan 18 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/a-theology-of-weakness/">A Theology of Weakness</a>
-          <span class="library-excerpt">God is not threatened by human weakness, nor surprised by failure.</span>
+          <p>God is not threatened by human weakness, nor surprised by failure.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="All Things"
+            data-date="Mon Jan 26 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/all-things/">All Things</a>
-          <span class="library-excerpt">Life does not always come together in ways we can understand. Faith holds to the promise that God is at work even when meaning feels hidden, and nothing is ultimately wasted.</span>
+          <p>Life does not always come together in ways we can understand. Faith holds to the promise that God is at work even when meaning feels hidden, and nothing is ultimately wasted.</p>
         </li>
-      
-        <li>
-          <a href="/library/assurance-of-salvation/">Assurance of Salvation</a>
-          <span class="library-excerpt">When doubt whispers that we are not enough, God&#39;s Word reminds us that salvation is not earned — it is a gift, secured by faith and sealed by His Spirit.</span>
-        </li>
-      
-        <li>
-          <a href="/library/be-still/">Be Still</a>
-          <span class="library-excerpt">We chase holiness like a performance, but God meets us in surrender. In the margins of our striving, His grace whispers strength.</span>
-        </li>
-      
-        <li>
-          <a href="/library/be-transformed/">Be Transformed</a>
-          <span class="library-excerpt">True worship is not conformity to the world, but transformation through a renewed mind, shaped by the righteousness of Christ.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="Breathless!"
+            data-date="Tue Mar 24 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/breathless/">Breathless!</a>
-          <span class="library-excerpt">Psalm 148 erupts with unrestrained praise, calling all creation to worship—and reminding us not to be outdone by rocks.</span>
+          <p>Psalm 148 erupts with unrestrained praise, calling all creation to worship—and reminding us not to be outdone by rocks.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="From It or Through It"
+            data-date="Wed Oct 02 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/from-it-or-through-it/">From It or Through It</a>
-          <span class="library-excerpt">When the king renamed them, he thought he was erasing them. He wasn&#39;t.</span>
+          <p>When the king renamed them, he thought he was erasing them. He wasn&#39;t.</p>
         </li>
-      
-        <li>
-          <a href="/library/god-is-listening/">God is Listening</a>
-          <span class="library-excerpt">When we feel trapped in the pit of our own failures, Psalm 40 reminds us that God does more than hear our prayers — He leans in and listens.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="Heading Home"
+            data-date="Mon Jan 12 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/heading-home/">Heading Home</a>
-          <span class="library-excerpt">The psalms teach us that faith does not move in straight lines—from despair to trust, and from trust to being led again toward God Himself.</span>
+          <p>The psalms teach us that faith does not move in straight lines—from despair to trust, and from trust to being led again toward God Himself.</p>
         </li>
-      
-        <li>
-          <a href="/library/i-want-to-follow/">I Want to Follow</a>
-          <span class="library-excerpt">Relationship comes before understanding. God leads us into truth before He teaches us.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="In His Presence"
+            data-date="Thu Sep 25 2025 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/in-his-presence/">In His Presence</a>
-          <span class="library-excerpt">Like an ant sensing only vibrations of a passing shadow, we often miss the nearness of God.</span>
+          <p>Like an ant sensing only vibrations of a passing shadow, we often miss the nearness of God.</p>
         </li>
-      
-        <li>
-          <a href="/library/its-you/">It’s You</a>
-          <span class="library-excerpt">When we ask God to lead us, we often expect direction toward circumstances or outcomes. Psalm 43 reveals that His ultimate destination for us is not a place or achievement—but Himself.</span>
-        </li>
-      
-        <li>
-          <a href="/library/look-and-live/">Look and Live</a>
-          <span class="library-excerpt">You don’t have to climb your way to God or fix yourself first. Just look to Jesus — and live.</span>
-        </li>
-      
-        <li>
-          <a href="/library/loving-judge/">Loving Judge</a>
-          <span class="library-excerpt">David’s prayer for judgment is not reckless bravado, but quiet trust in a God whose justice is shaped by grace and whose scrutiny is meant to heal.</span>
-        </li>
-      
-        <li>
-          <a href="/library/mustard-seed-faith/">Mustard Seed Faith</a>
-          <span class="library-excerpt">Even little faith is powerful when pointed toward Jesus. Mustard seed faith moves mountains—and multiplies miracles.</span>
-        </li>
-      
-        <li>
-          <a href="/library/new-every-morning/">New Every Morning</a>
-          <span class="library-excerpt">God’s mercies are not recycled — they’re freshly painted across each sunrise. His faithfulness is the rhythm behind every breath.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="No Excuse"
+            data-date="Sun Jun 09 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/no-excuse/">No Excuse</a>
-          <span class="library-excerpt">God’s revelation is not hidden — it’s everywhere. Creation declares His power, and conscience confirms His nature. The question is not whether He’s spoken, but whether we’ll respond.</span>
+          <p>God’s revelation is not hidden — it’s everywhere. Creation declares His power, and conscience confirms His nature. The question is not whether He’s spoken, but whether we’ll respond.</p>
         </li>
-      
-        <li>
-          <a href="/library/not-even-one/">Not Even One</a>
-          <span class="library-excerpt">When Scripture strips away self - confidence, grace is revealed not as an idea to admire, but as a Person to depend on.</span>
-        </li>
-      
-        <li>
-          <a href="/library/open-doors/">Open Doors</a>
-          <span class="library-excerpt">When we empty ourselves and open every door of our hearts, we make way for the King of glory to enter fully and reign without resistance.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="Open My Eyes"
+            data-date="Sun Jan 25 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/open-my-eyes/">Open My Eyes</a>
-          <span class="library-excerpt">We can perceive almost nothing of reality — which is exactly why seeking Him first is not naïve but essential.</span>
+          <p>We can perceive almost nothing of reality — which is exactly why seeking Him first is not naïve but essential.</p>
         </li>
-      
-        <li>
-          <a href="/library/psalm-119/">Psalm 119: A Quiet Faith Formed in the Word</a>
-          <span class="library-excerpt">Psalm 119 reveals a faith shaped not by urgency or perfection, but by obedience and trust reformed through God’s Word.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="Raise A Shout"
+            data-date="Mon Mar 09 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/raise-a-shout/">Raise A Shout</a>
-          <span class="library-excerpt">Psalm 100 reveals a progression in worship — from celebration to service to intimacy — built on the unchanging goodness of God.</span>
+          <p>Psalm 100 reveals a progression in worship — from celebration to service to intimacy — built on the unchanging goodness of God.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="Seek First"
+            data-date="Fri Feb 13 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/seek-first/">Seek First</a>
-          <span class="library-excerpt">What does it really mean to seek first the Kingdom of God? A reflection on priority, focus, righteousness by faith, and the promise that the Father will provide what we truly need.</span>
+          <p>What does it really mean to seek first the Kingdom of God? A reflection on priority, focus, righteousness by faith, and the promise that the Father will provide what we truly need.</p>
         </li>
-      
-        <li>
-          <a href="/library/seek-his-face/">Seek His Face</a>
-          <span class="library-excerpt">God desires to be desired — not for what He can give, but for who He is.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="Showers of Blessing"
+            data-date="Fri Mar 13 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/showers-of-blessing/">Showers of Blessing</a>
-          <span class="library-excerpt">The Psalms repeatedly call God’s people to shout in worship. True praise is not polite restraint but the joyful declaration that our victorious King reigns.</span>
+          <p>The Psalms repeatedly call God’s people to shout in worship. True praise is not polite restraint but the joyful declaration that our victorious King reigns.</p>
         </li>
-      
-        <li>
-          <a href="/library/stand-where-jesus-stood/">Stand Where Jesus Stood</a>
-          <span class="library-excerpt">Before the miracles, before the crowds, Jesus entered the wilderness and learned dependence.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="The Big Picture"
+            data-date="Tue Oct 19 2010 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/the-big-picture/">The Big Picture</a>
-          <span class="library-excerpt">God is painting on a canvas bigger than we can see.</span>
+          <p>God is painting on a canvas bigger than we can see.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="The LORD Is My Shepherd"
+            data-date="Thu Jan 22 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/the-lord-is-my-shepherd/">The LORD Is My Shepherd</a>
-          <span class="library-excerpt">Psalm 23 is not a wish or a sentiment, but a declaration of settled reality. In valley and pasture alike, the Shepherd’s presence — not the absence of danger — is the source of comfort and confidence.</span>
+          <p>Psalm 23 is not a wish or a sentiment, but a declaration of settled reality. In valley and pasture alike, the Shepherd’s presence — not the absence of danger — is the source of comfort and confidence.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="The Power of Presence"
+            data-date="Tue Jan 13 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/the-power-of-presence/">The Power of Presence</a>
-          <span class="library-excerpt">Israel’s victories were never secured by strength or strategy, but by the light of God’s presence — a truth that still exposes the danger of self-reliance.</span>
+          <p>Israel’s victories were never secured by strength or strategy, but by the light of God’s presence — a truth that still exposes the danger of self-reliance.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="Unpacking Holiness"
+            data-date="Thu Feb 12 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/unpacking-holiness/">Unpacking Holiness</a>
-          <span class="library-excerpt">A reflection on the movement of God’s holiness — from wilderness fire to indwelling Spirit — and the mercy found in His nearness.</span>
+          <p>A reflection on the movement of God’s holiness — from wilderness fire to indwelling Spirit — and the mercy found in His nearness.</p>
         </li>
-      
-        <li>
-          <a href="/library/what-about-the-joneses/">What About the Joneses</a>
-          <span class="library-excerpt">When envy begins to distort our vision, Psalm 73 reminds us that everything changes when we step into the presence of God.</span>
-        </li>
-      
-        <li>
-          <a href="/library/what-are-you-feeding/">What Are You Feeding?</a>
-          <span class="library-excerpt">What we consume shapes what we become — and the Word of God is meant to be our daily bread.</span>
-        </li>
-      
-        <li>
-          <a href="/library/what-do-you-want/">What Do You Want?</a>
-          <span class="library-excerpt">A reflection on Psalm 42 and the honest longing to desire God more deeply — even when our hunger feels weak or divided.</span>
-        </li>
-      
-        <li>
-          <a href="/library/when-jesus-wept/">When Jesus Wept</a>
-          <span class="library-excerpt">The shortest verse in the Bible reveals the depth of Christ’s love and grief over a broken world. Jesus wept — not out of weakness, but out of divine compassion.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="Why Fear?"
+            data-date="Sun Jan 25 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/why-fear/">Why Fear?</a>
-          <span class="library-excerpt">Fear multiplies in imagined futures, but faith finds its footing in a single, steady truth: God is for me.</span>
+          <p>Fear multiplies in imagined futures, but faith finds its footing in a single, steady truth: God is for me.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="Open Doors"
+            data-date="Thu Apr 23 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/open-doors/">Open Doors</a>
+          <p>When we empty ourselves and open every door of our hearts, we make way for the King of glory to enter fully and reign without resistance.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="Seek His Face"
+            data-date="Sun Sep 03 2023 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/seek-his-face/">Seek His Face</a>
+          <p>God desires to be desired — not for what He can give, but for who He is.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="When Jesus Wept"
+            data-date="Tue Jun 11 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/when-jesus-wept/">When Jesus Wept</a>
+          <p>The shortest verse in the Bible reveals the depth of Christ’s love and grief over a broken world. Jesus wept — not out of weakness, but out of divine compassion.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="Loving Judge"
+            data-date="Fri Jan 16 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/loving-judge/">Loving Judge</a>
+          <p>David’s prayer for judgment is not reckless bravado, but quiet trust in a God whose justice is shaped by grace and whose scrutiny is meant to heal.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="Not Even One"
+            data-date="Thu Jan 22 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/not-even-one/">Not Even One</a>
+          <p>When Scripture strips away self - confidence, grace is revealed not as an idea to admire, but as a Person to depend on.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="The Passover Lamb"
+            data-date="Thu May 14 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/the-passover-lamb/">The Passover Lamb</a>
+          <p>From the skins God made for Adam and Eve, to the blood of the Passover lambs, to the cross — there is one unbroken thread. This is what Jesus walked into.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="Why Indeed"
+            data-date="Wed Mar 11 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/why-indeed/">Why Indeed</a>
-          <span class="library-excerpt">When despair rises and the future feels uncertain, Psalm 42 reminds us that even the overwhelming waves of life are under God’s control — and His presence remains with us.</span>
+          <p>When despair rises and the future feels uncertain, Psalm 42 reminds us that even the overwhelming waves of life are under God’s control — and His presence remains with us.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="Be Transformed"
+            data-date="Sun Aug 20 2023 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/be-transformed/">Be Transformed</a>
+          <p>True worship is not conformity to the world, but transformation through a renewed mind, shaped by the righteousness of Christ.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="Psalm 119: A Quiet Faith Formed in the Word"
+            data-date="Fri Jan 09 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/psalm-119/">Psalm 119: A Quiet Faith Formed in the Word</a>
+          <p>Psalm 119 reveals a faith shaped not by urgency or perfection, but by obedience and trust reformed through God’s Word.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="What Are You Feeding?"
+            data-date="Sun Aug 06 2023 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/what-are-you-feeding/">What Are You Feeding?</a>
+          <p>What we consume shapes what we become — and the Word of God is meant to be our daily bread.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="Working From Grace"
+            data-date="Fri Jan 02 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/working-from-grace/">Working From Grace</a>
-          <span class="library-excerpt">Sanctification is not passive drifting or self-reliance, but faithful obedience empowered by God’s grace at work within us.</span>
+          <p>Sanctification is not passive drifting or self-reliance, but faithful obedience empowered by God’s grace at work within us.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="devotionals"
+            data-title="Worship the LORD"
+            data-date="Thu Feb 12 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/worship-the-lord/">Worship the LORD</a>
-          <span class="library-excerpt">Worship begins not with music, but with surrender — bowing low and entrusting what we love most into God’s hands.</span>
+          <p>Worship begins not with music, but with surrender — bowing low and entrusting what we love most into God’s hands.</p>
         </li>
+        
+        <li data-category="devotionals"
+            data-title="Mustard Seed Faith"
+            data-date="Mon Aug 21 2023 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/mustard-seed-faith/">Mustard Seed Faith</a>
+          <p>Even little faith is powerful when pointed toward Jesus. Mustard seed faith moves mountains—and multiplies miracles.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="Be Still"
+            data-date="Mon Jul 29 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/be-still/">Be Still</a>
+          <p>We chase holiness like a performance, but God meets us in surrender. In the margins of our striving, His grace whispers strength.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="God is Listening"
+            data-date="Mon Mar 09 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/god-is-listening/">God is Listening</a>
+          <p>When we feel trapped in the pit of our own failures, Psalm 40 reminds us that God does more than hear our prayers — He leans in and listens.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="I Want to Follow"
+            data-date="Sun Jan 25 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/i-want-to-follow/">I Want to Follow</a>
+          <p>Relationship comes before understanding. God leads us into truth before He teaches us.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="It’s You"
+            data-date="Thu Mar 12 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/its-you/">It’s You</a>
+          <p>When we ask God to lead us, we often expect direction toward circumstances or outcomes. Psalm 43 reveals that His ultimate destination for us is not a place or achievement—but Himself.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="New Every Morning"
+            data-date="Fri Aug 01 2025 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/new-every-morning/">New Every Morning</a>
+          <p>God’s mercies are not recycled — they’re freshly painted across each sunrise. His faithfulness is the rhythm behind every breath.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="Stand Where Jesus Stood"
+            data-date="Wed Mar 06 2013 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/stand-where-jesus-stood/">Stand Where Jesus Stood</a>
+          <p>Before the miracles, before the crowds, Jesus entered the wilderness and learned dependence.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="What About the Joneses"
+            data-date="Thu Mar 12 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/what-about-the-joneses/">What About the Joneses</a>
+          <p>When envy begins to distort our vision, Psalm 73 reminds us that everything changes when we step into the presence of God.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="What Do You Want?"
+            data-date="Sun Jan 11 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/what-do-you-want/">What Do You Want?</a>
+          <p>A reflection on Psalm 42 and the honest longing to desire God more deeply — even when our hunger feels weak or divided.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="Look and Live"
+            data-date="Fri Aug 01 2025 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/look-and-live/">Look and Live</a>
+          <p>You don’t have to climb your way to God or fix yourself first. Just look to Jesus — and live.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="Assurance of Salvation"
+            data-date="Tue Mar 31 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/assurance-of-salvation/">Assurance of Salvation</a>
+          <p>When doubt whispers that we are not enough, God&#39;s Word reminds us that salvation is not earned — it is a gift, secured by faith and sealed by His Spirit.</p>
+        </li>
+        
+        <li data-category="devotionals"
+            data-title="Devotionals"
+            data-date="">
+          <a href="/devotionals/">Devotionals</a>
+          
+        </li>
+        
       
-    </ul>
-  </div>
-  <div class="library-group">
-    <h2>Meditations<span class="category-hover-note">Quiet contemplations on Scripture and faith, written to be read slowly and thoughtfully.</span></h2>
-    <ul class="library-list">
-      
-        <li>
+        
+        <li data-category="meditations"
+            data-title="A Big God"
+            data-date="Thu Feb 19 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/a-big-god/">A Big God</a>
-          <span class="library-excerpt">In the vastness of a universe held within God, even our sin and suffering are not beyond His presence—inviting us to trust that He can transform what once tormented us into instruments of glory.</span>
+          <p>In the vastness of a universe held within God, even our sin and suffering are not beyond His presence—inviting us to trust that He can transform what once tormented us into instruments of glory.</p>
         </li>
-      
-        <li>
-          <a href="/library/a-holy-moment/">A Holy Moment</a>
-          <span class="library-excerpt">In the silent sway of trees and the thunderous hush of mountains, God&#39;s love speaks without words.</span>
-        </li>
-      
-        <li>
-          <a href="/library/at-what-cost/">At What Cost</a>
-          <span class="library-excerpt">Biblical worship was never casual or detached from sacrifice. The costliness of Old Testament offerings points us toward the immeasurable price paid through Christ and calls us to respond with wholehearted praise.</span>
-        </li>
-      
-        <li>
-          <a href="/library/confession/">Confession</a>
-          <span class="library-excerpt">Forgiveness is freely given in Christ, yet many of us continue to live under guilt. Psalm 51 reminds us that confession is not groveling before an angry God, but returning to a gracious Father who has always been ready to restore.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="meditations"
+            data-title="Created In His Image"
+            data-date="Mon Feb 16 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/created-in-his-image/">Created In His Image</a>
-          <span class="library-excerpt">A reflection on whether the cross was an interruption in the story of creation or the meaning creation was always built to reveal.</span>
+          <p>A reflection on whether the cross was an interruption in the story of creation or the meaning creation was always built to reveal.</p>
         </li>
-      
-        <li>
-          <a href="/library/faith-to-faith/">Faith to Faith</a>
-          <span class="library-excerpt">The righteousness that saves us is credited by God, received by faith, and lived out by faith—from beginning to end.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="meditations"
+            data-title="God&#39;s Got This"
+            data-date="Sat Feb 21 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/gods-got-this/">God&#39;s Got This</a>
-          <span class="library-excerpt">When progress feels slow and God seems silent, Deuteronomy reminds us that His promises unfold little by little. The pauses are not abandonment. They are preparation.</span>
+          <p>When progress feels slow and God seems silent, Deuteronomy reminds us that His promises unfold little by little. The pauses are not abandonment. They are preparation.</p>
         </li>
-      
-        <li>
-          <a href="/library/god-sized-praying/">God-Sized Praying</a>
-          <span class="library-excerpt">I wonder if God&#39;s answers to my prayers reveal that He already knows what I would ask for if I knew what He knows.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="meditations"
+            data-title="I Am Loved"
+            data-date="Mon May 11 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/i-am-loved/">I Am Loved</a>
-          <span class="library-excerpt">For most of my life I understood God&#39;s love as agape — unconditional, selfless, sacrificial. But Psalm 42:8 introduced me to hesed: a love God has commanded of Himself, bound not by obligation but by nature. He could no more cease to love us than water could cease to be wet.</span>
+          <p>For most of my life I understood God&#39;s love as agape — unconditional, selfless, sacrificial. But Psalm 42:8 introduced me to hesed: a love God has commanded of Himself, bound not by obligation but by nature. He could no more cease to love us than water could cease to be wet.</p>
         </li>
-      
-        <li>
-          <a href="/library/in-his-image/">In His Image</a>
-          <span class="library-excerpt">What does it mean to be made in the image of a holy God? A meditation on eternity in fragile bodies and the longing for unending communion with the Infinite One.</span>
-        </li>
-      
-        <li>
-          <a href="/library/living-sacrifice/">Living Sacrifice</a>
-          <span class="library-excerpt">A reflection on what it truly means to become a living sacrifice—no longer living for self, but willingly consumed for the glory of God.</span>
-        </li>
-      
-        <li>
-          <a href="/library/near-enough-to-live/">Near Enough to Live</a>
-          <span class="library-excerpt">David asks not merely for protection, but to live close enough to God that danger must meet Him first.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="meditations"
+            data-title="Not So Small After All"
+            data-date="Thu Jun 27 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/not-so-small-after-all/">Not So Small After All</a>
-          <span class="library-excerpt">Beneath the vastness of the heavens, I discovered that humanity is not insignificant but deeply loved — called by name by the One who set every star in place.</span>
+          <p>Beneath the vastness of the heavens, I discovered that humanity is not insignificant but deeply loved — called by name by the One who set every star in place.</p>
         </li>
-      
-        <li>
-          <a href="/library/press-on/">Press On</a>
-          <span class="library-excerpt">God sees more than our failures — He sees the fight. Even when defeat feels constant, His call is not condemnation but courage.</span>
-        </li>
-      
-        <li>
-          <a href="/library/returning-to-need/">Returning to Need</a>
-          <span class="library-excerpt">Jesus calls us back to childlike dependence — not immaturity, but a return to trust, attachment, and the honest admission that we are powerless without Him.</span>
-        </li>
-      
-        <li>
-          <a href="/library/stand-in-awe/">Stand In Awe</a>
-          <span class="library-excerpt">To stand in awe of God is to feel both drawn and undone — fully exposed yet completely safe. In His holiness we discover not danger, but the deepest peace.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="meditations"
+            data-title="Still Waiting"
+            data-date="Sun Feb 08 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/still-waiting/">Still Waiting</a>
-          <span class="library-excerpt">When anxiety pulls me into endless what-ifs, Psalm 39:7 calls me back to the only secure ground: My hope is in You.</span>
+          <p>When anxiety pulls me into endless what-ifs, Psalm 39:7 calls me back to the only secure ground: My hope is in You.</p>
         </li>
-      
-        <li>
-          <a href="/library/the-god-who-is-heard/">The God Who Is Heard</a>
-          <span class="library-excerpt">From Sinai’s thunder to the whisper of the Spirit, God has always chosen voice over image — inviting us not to behold Him, but to listen.</span>
-        </li>
-      
-        <li>
-          <a href="/library/the-question-we-avoid/">The Question We Avoid</a>
-          <span class="library-excerpt">A meditation on formation, faithfulness, and the quiet, unseen work of the church beyond its largest gatherings.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="meditations"
+            data-title="The Sanctuary"
+            data-date="Mon Jan 12 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/the-sanctuary/">The Sanctuary</a>
-          <span class="library-excerpt">A meditation on entering the presence of God, where His holiness reorders our understanding, humbles our pride, and brings clarity that cannot be found anywhere else.</span>
+          <p>A meditation on entering the presence of God, where His holiness reorders our understanding, humbles our pride, and brings clarity that cannot be found anywhere else.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="meditations"
+            data-title="The Work of His Hands"
+            data-date="Fri Aug 01 2025 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/the-work-of-his-hands/">The Work of His Hands</a>
-          <span class="library-excerpt">Like a craftsman with a vision, God sees us not for our flaws but for the purpose He lovingly designed. Even our dents and dings are part of the story.</span>
+          <p>Like a craftsman with a vision, God sees us not for our flaws but for the purpose He lovingly designed. Even our dents and dings are part of the story.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="meditations"
+            data-title="Waves"
+            data-date="Thu Feb 12 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/waves/">Waves</a>
-          <span class="library-excerpt">A meditation on Exodus 20 and the unseen waves our choices send forward — into our families, our futures, and generations we will never know.</span>
+          <p>A meditation on Exodus 20 and the unseen waves our choices send forward — into our families, our futures, and generations we will never know.</p>
         </li>
-      
-    </ul>
-  </div>
-  <div class="library-group">
-    <h2>Poems & Prayers<span class="category-hover-note">Psalm-like expressions of worship, longing, confession, and trust offered before God.</span></h2>
-    <ul class="library-list">
-      
-        <li>
-          <a href="/library/a-meditation-in-suffering/">A Meditation In Suffering</a>
-          <span class="library-excerpt">When pain strips away understanding, surrender becomes worship. This meditation offers suffering back to God as an act of trust and praise.</span>
+        
+        <li data-category="meditations"
+            data-title="A Holy Moment"
+            data-date="Tue Jun 18 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/a-holy-moment/">A Holy Moment</a>
+          <p>In the silent sway of trees and the thunderous hush of mountains, God&#39;s love speaks without words.</p>
         </li>
-      
-        <li>
-          <a href="/library/a-prayer/">A Prayer</a>
-          <span class="library-excerpt">A prayer for purification of heart and a deeper longing to see and know God more fully.</span>
+        
+        <li data-category="meditations"
+            data-title="Near Enough to Live"
+            data-date="Mon Feb 16 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/near-enough-to-live/">Near Enough to Live</a>
+          <p>David asks not merely for protection, but to live close enough to God that danger must meet Him first.</p>
         </li>
-      
-        <li>
-          <a href="/library/a-prayer-from-jail/">A Prayer From Jail</a>
-          <span class="library-excerpt">Written in the early morning while incarcerated, this prayer expresses a deep desire for surrender, transformation, and a life fully yielded to God.</span>
+        
+        <li data-category="meditations"
+            data-title="Stand In Awe"
+            data-date="Sat Feb 21 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/stand-in-awe/">Stand In Awe</a>
+          <p>To stand in awe of God is to feel both drawn and undone — fully exposed yet completely safe. In His holiness we discover not danger, but the deepest peace.</p>
         </li>
-      
-        <li>
-          <a href="/library/a-prayer-from-the-wilderness/">A Prayer From the Wilderness</a>
-          <span class="library-excerpt">In a season of uncertainty, I tried to obey Philippians 4 by bringing everything to God. This is a prayer that came out of the wilderness.</span>
+        
+        <li data-category="meditations"
+            data-title="The Gift of Now"
+            data-date="Fri Jan 02 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/the-gift-of-now/">The Gift of Now</a>
+          <p>We often rush past the present while waiting for something better.</p>
         </li>
-      
-        <li>
-          <a href="/library/a-psalm-from-confinement/">A Psalm From Confinement</a>
-          <span class="library-excerpt">A meditation of confession, grace, and longing—written when hope felt distant and mercy refused to let go.</span>
+        
+        <li data-category="meditations"
+            data-title="The God Who Is Heard"
+            data-date="Thu Dec 04 2025 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/the-god-who-is-heard/">The God Who Is Heard</a>
+          <p>From Sinai’s thunder to the whisper of the Spirit, God has always chosen voice over image — inviting us not to behold Him, but to listen.</p>
         </li>
-      
-        <li>
-          <a href="/library/another-prayer-from-jail/">Another Prayer From Jail</a>
-          <span class="library-excerpt">Written in confinement, this brief prayer expresses a desire for complete surrender—asking God to replace personal ambitions with His will and to purify the heart completely.</span>
+        
+        <li data-category="meditations"
+            data-title="Faith to Faith"
+            data-date="Wed Sep 27 2023 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/faith-to-faith/">Faith to Faith</a>
+          <p>The righteousness that saves us is credited by God, received by faith, and lived out by faith—from beginning to end.</p>
         </li>
+        
+        <li data-category="meditations"
+            data-title="In His Image"
+            data-date="Thu Feb 12 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/in-his-image/">In His Image</a>
+          <p>What does it mean to be made in the image of a holy God? A meditation on eternity in fragile bodies and the longing for unending communion with the Infinite One.</p>
+        </li>
+        
+        <li data-category="meditations"
+            data-title="Living Sacrifice"
+            data-date="Mon Mar 23 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/living-sacrifice/">Living Sacrifice</a>
+          <p>A reflection on what it truly means to become a living sacrifice—no longer living for self, but willingly consumed for the glory of God.</p>
+        </li>
+        
+        <li data-category="meditations"
+            data-title="The Question We Avoid"
+            data-date="Mon Jan 26 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/the-question-we-avoid/">The Question We Avoid</a>
+          <p>A meditation on formation, faithfulness, and the quiet, unseen work of the church beyond its largest gatherings.</p>
+        </li>
+        
+        <li data-category="meditations"
+            data-title="At What Cost"
+            data-date="Tue May 05 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/at-what-cost/">At What Cost</a>
+          <p>Biblical worship was never casual or detached from sacrifice. The costliness of Old Testament offerings points us toward the immeasurable price paid through Christ and calls us to respond with wholehearted praise.</p>
+        </li>
+        
+        <li data-category="meditations"
+            data-title="Confession"
+            data-date="Fri Feb 20 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/confession/">Confession</a>
+          <p>Forgiveness is freely given in Christ, yet many of us continue to live under guilt. Psalm 51 reminds us that confession is not groveling before an angry God, but returning to a gracious Father who has always been ready to restore.</p>
+        </li>
+        
+        <li data-category="meditations"
+            data-title="God-Sized Praying"
+            data-date="Sat Sep 30 2023 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/god-sized-praying/">God-Sized Praying</a>
+          <p>I wonder if God&#39;s answers to my prayers reveal that He already knows what I would ask for if I knew what He knows.</p>
+        </li>
+        
+        <li data-category="meditations"
+            data-title="Returning to Need"
+            data-date="Fri Feb 27 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/returning-to-need/">Returning to Need</a>
+          <p>Jesus calls us back to childlike dependence — not immaturity, but a return to trust, attachment, and the honest admission that we are powerless without Him.</p>
+        </li>
+        
+        <li data-category="meditations"
+            data-title="Press On"
+            data-date="Sat Feb 21 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/press-on/">Press On</a>
+          <p>God sees more than our failures — He sees the fight. Even when defeat feels constant, His call is not condemnation but courage.</p>
+        </li>
+        
+        <li data-category="meditations"
+            data-title="Meditations"
+            data-date="">
+          <a href="/meditations/">Meditations</a>
+          
+        </li>
+        
       
-        <li>
+        
+        <li data-category="poems"
+            data-title="God&#39;s Plan"
+            data-date="Thu Feb 20 2025 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/gods-plan/">God&#39;s Plan</a>
-          <span class="library-excerpt">A reflection on the road of life, where every event becomes preparation for what lies ahead in God&#39;s unfolding plan.</span>
+          <p>A reflection on the road of life, where every event becomes preparation for what lies ahead in God&#39;s unfolding plan.</p>
         </li>
-      
-        <li>
-          <a href="/library/here-with-me/">Here With Me</a>
-          <span class="library-excerpt">A meditation on God&#39;s nearness — written in confinement, in awe of a presence that remains personal.</span>
-        </li>
-      
-        <li>
-          <a href="/library/i-need-you/">I Need You</a>
-          <span class="library-excerpt">A simple prayer of surrender—recognizing that loving and following Jesus is not something we can accomplish in our own strength.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="poems"
+            data-title="If God Is Everywhere"
+            data-date="Fri Jan 02 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/if-god-is-everywhere/">If God Is Everywhere</a>
-          <span class="library-excerpt">God&#39;s omnipresence means we are never outside His presence or purposes. This meditation explores identity, rest, and belonging in a God who is always near.</span>
+          <p>God&#39;s omnipresence means we are never outside His presence or purposes. This meditation explores identity, rest, and belonging in a God who is always near.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="poems"
+            data-title="It’s About You"
+            data-date="Tue Feb 20 2024 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/its-about-you/">It’s About You</a>
-          <span class="library-excerpt">A quiet surrender to the truth that life is not ultimately about us, but about the glory of God and His redeeming work.</span>
+          <p>A quiet surrender to the truth that life is not ultimately about us, but about the glory of God and His redeeming work.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="poems"
+            data-title="A Meditation In Suffering"
+            data-date="Sat Oct 14 2023 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/a-meditation-in-suffering/">A Meditation In Suffering</a>
+          <p>When pain strips away understanding, surrender becomes worship. This meditation offers suffering back to God as an act of trust and praise.</p>
+        </li>
+        
+        <li data-category="poems"
+            data-title="A Psalm From Confinement"
+            data-date="Fri May 31 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/a-psalm-from-confinement/">A Psalm From Confinement</a>
+          <p>A meditation of confession, grace, and longing—written when hope felt distant and mercy refused to let go.</p>
+        </li>
+        
+        <li data-category="poems"
+            data-title="Here With Me"
+            data-date="Fri Nov 08 2024 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/here-with-me/">Here With Me</a>
+          <p>A meditation on God&#39;s nearness — written in confinement, in awe of a presence that remains personal.</p>
+        </li>
+        
+        <li data-category="poems"
+            data-title="Meditation #1"
+            data-date="Thu Sep 19 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/meditation-1/">Meditation #1</a>
-          <span class="library-excerpt">A meditation of surrender — looking back on flight, self-reliance, and the quiet persistence of grace.</span>
+          <p>A meditation of surrender — looking back on flight, self-reliance, and the quiet persistence of grace.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="poems"
+            data-title="Purify My Heart"
+            data-date="Sun Jan 28 2024 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/purify-my-heart/">Purify My Heart</a>
-          <span class="library-excerpt">A prayer of surrender and longing — for a clean heart that desires God alone and seeks His presence above all else.</span>
+          <p>A prayer of surrender and longing — for a clean heart that desires God alone and seeks His presence above all else.</p>
         </li>
-      
-        <li>
-          <a href="/library/sunday-morning-faith/">Sunday Morning Faith</a>
-          <span class="library-excerpt">A contrast between well-worn sayings heard in church culture and enduring truth.</span>
+        
+        <li data-category="poems"
+            data-title="A Prayer From Jail"
+            data-date="Fri Mar 13 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/a-prayer-from-jail/">A Prayer From Jail</a>
+          <p>Written in the early morning while incarcerated, this prayer expresses a deep desire for surrender, transformation, and a life fully yielded to God.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="poems"
+            data-title="A Prayer"
+            data-date="Thu Feb 20 2025 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/a-prayer/">A Prayer</a>
+          <p>A prayer for purification of heart and a deeper longing to see and know God more fully.</p>
+        </li>
+        
+        <li data-category="poems"
+            data-title="Another Prayer From Jail"
+            data-date="Fri Mar 13 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/another-prayer-from-jail/">Another Prayer From Jail</a>
+          <p>Written in confinement, this brief prayer expresses a desire for complete surrender—asking God to replace personal ambitions with His will and to purify the heart completely.</p>
+        </li>
+        
+        <li data-category="poems"
+            data-title="The Chrysalis"
+            data-date="Sun Mar 17 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/the-chrysalis/">The Chrysalis</a>
-          <span class="library-excerpt">In the stillness of confinement, transformation begins — where surrender gives way to renewal and a new man emerges in Christ.</span>
+          <p>In the stillness of confinement, transformation begins — where surrender gives way to renewal and a new man emerges in Christ.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="poems"
+            data-title="I Need You"
+            data-date="Sat Mar 07 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/i-need-you/">I Need You</a>
+          <p>A simple prayer of surrender—recognizing that loving and following Jesus is not something we can accomplish in our own strength.</p>
+        </li>
+        
+        <li data-category="poems"
+            data-title="Whispers in the Dark"
+            data-date="Sat Jun 08 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/whispers-in-the-dark/">Whispers in the Dark</a>
-          <span class="library-excerpt">In the quiet battles of confinement, I learned that the whispers of the enemy grow faint when the voice of my Deliverer becomes my focus.</span>
+          <p>In the quiet battles of confinement, I learned that the whispers of the enemy grow faint when the voice of my Deliverer becomes my focus.</p>
         </li>
-      
-    </ul>
-  </div>
-  <div class="library-group">
-    <h2>Reflections<span class="category-hover-note">Thoughtful explorations of Scripture, theology, and the deeper movements of the Christian life.</span></h2>
-    <ul class="library-list">
-      
-        <li>
-          <a href="/library/a-preemptive-shout/">A Preemptive Shout</a>
-          <span class="library-excerpt">Throughout Scripture, God&#39;s people often praise Him before the victory is visible. Worship becomes a declaration of faith that God&#39;s rule is greater than present circumstances.</span>
+        
+        <li data-category="poems"
+            data-title="A Prayer From the Wilderness"
+            data-date="Mon Mar 02 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/a-prayer-from-the-wilderness/">A Prayer From the Wilderness</a>
+          <p>In a season of uncertainty, I tried to obey Philippians 4 by bringing everything to God. This is a prayer that came out of the wilderness.</p>
         </li>
-      
-        <li>
-          <a href="/library/building-a-throne/">Building a Throne</a>
-          <span class="library-excerpt">In a place stripped of comfort, I discovered that worship does not depend on abundance. It depends on who God is.</span>
+        
+        <li data-category="poems"
+            data-title="Sunday Morning Faith"
+            data-date="Thu Feb 19 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/sunday-morning-faith/">Sunday Morning Faith</a>
+          <p>A contrast between well-worn sayings heard in church culture and enduring truth.</p>
         </li>
-      
-        <li>
-          <a href="/library/coming-into-a-place-of-prayer/">Coming Into a Place of Prayer</a>
-          <span class="library-excerpt">Prayer is not about proving devotion or logging hours. It is about coming—boldly, simply, as children—to a Father who is already willing to give what we need.</span>
+        
+        <li data-category="poems"
+            data-title="Poems &amp; Prayers"
+            data-date="">
+          <a href="/poems/">Poems &amp; Prayers</a>
+          
         </li>
+        
       
-        <li>
+        
+        <li data-category="reflections"
+            data-title="Complete Protection"
+            data-date="Tue Feb 17 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/complete-protection/">Complete Protection</a>
-          <span class="library-excerpt">David&#39;s opening cry in Psalm 18 reveals a layered portrait of God&#39;s protection—strength within, stability beneath, defense around, and victory ahead—awakening love as the only fitting response.</span>
+          <p>David&#39;s opening cry in Psalm 18 reveals a layered portrait of God&#39;s protection—strength within, stability beneath, defense around, and victory ahead—awakening love as the only fitting response.</p>
         </li>
-      
-        <li>
-          <a href="/library/deliver-me/">Deliver Me</a>
-          <span class="library-excerpt">A prayer of mercy, refuge, and trust when deliverance does not guarantee escape.</span>
-        </li>
-      
-        <li>
-          <a href="/library/for-husbands/">For Husbands</a>
-          <span class="library-excerpt">A critical spirit can quietly erode the person we claim to love. Learning to serve instead of correct may be one of the most important transformations a husband can experience.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="reflections"
+            data-title="If Only..."
+            data-date="Tue Apr 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/if-only/">If Only...</a>
-          <span class="library-excerpt">We often wish we could rewrite parts of our past, yet God, in His sovereignty, works through even our regrets to accomplish His purposes and shape our lives.</span>
+          <p>We often wish we could rewrite parts of our past, yet God, in His sovereignty, works through even our regrets to accomplish His purposes and shape our lives.</p>
         </li>
-      
-        <li>
-          <a href="/library/imputed-motivations/">Imputed Motivations</a>
-          <span class="library-excerpt">We often judge others by assumed motives we cannot truly know, while excusing our own. God, who knows every motive, chooses mercy instead of condemnation.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="reflections"
+            data-title="In His Hands"
+            data-date="Wed Apr 29 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/in-his-hands/">In His Hands</a>
-          <span class="library-excerpt">God claims both what is given and what lies beyond it. In the tension between possession and sovereignty, we find quiet confidence that even what feels chaotic remains firmly in His hands.</span>
+          <p>God claims both what is given and what lies beyond it. In the tension between possession and sovereignty, we find quiet confidence that even what feels chaotic remains firmly in His hands.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="reflections"
+            data-title="Never Told Why"
+            data-date="Sat Feb 21 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/never-told-why/">Never Told Why</a>
-          <span class="library-excerpt">Trust is not found in understanding the script. It is staying in the story with God when you cannot see the reason.</span>
+          <p>Trust is not found in understanding the script. It is staying in the story with God when you cannot see the reason.</p>
         </li>
-      
-        <li>
-          <a href="/library/no-compromise/">No Compromise</a>
-          <span class="library-excerpt">What we refuse to remove will remain to trouble us. Sanctification requires courage to confront compromise and trust God enough to drive out what hinders growth.</span>
-        </li>
-      
-        <li>
-          <a href="/library/not-complicated/">Not Complicated</a>
-          <span class="library-excerpt">We often complicate what God has made simple. Loving our neighbor doesn’t require a plan — it requires obedience.</span>
-        </li>
-      
-        <li>
-          <a href="/library/not-so-quiet-confidence/">Not So Quiet Confidence</a>
-          <span class="library-excerpt">In the midst of fear and pressure, true confidence is found not in our strength, but in remembering that God surrounds, sustains, and secures us.</span>
-        </li>
-      
-        <li>
-          <a href="/library/not-subdued/">Not Subdued</a>
-          <span class="library-excerpt">The enemy’s aim has always been to silence worship — but because of Christ, what feels destroyed is never beyond restoration, and what seems subdued is never truly lost.</span>
-        </li>
-      
-        <li>
-          <a href="/library/racism-is-sin/">Racism Is Sin</a>
-          <span class="library-excerpt">A personal reflection on Charlottesville, friendship, and the Christian call to reconciliation — arguing that racism is sin and that the work of Christ’s people is not outrage or silence, but costly, relational love across dividing lines.</span>
-        </li>
-      
-        <li>
-          <a href="/library/received-not-achieved/">Received, Not Achieved</a>
-          <span class="library-excerpt">Obedience is not something we accomplish through effort, but something we receive as God works within us.</span>
-        </li>
-      
-        <li>
-          <a href="/library/renew-my-mind/">Renew My Mind</a>
-          <span class="library-excerpt">The world has a quiet way of shaping how we think, often without our awareness. Renewal begins not with effort, but with learning to notice — and unlearn — the patterns that have been forming us.</span>
-        </li>
-      
-        <li>
-          <a href="/library/roadblocks/">Roadblocks</a>
-          <span class="library-excerpt">Reflecting on how we can unknowingly step out of alignment with what God is already doing — and what surrender truly looks like.</span>
-        </li>
-      
-        <li>
-          <a href="/library/seek-him/">Seek Him</a>
-          <span class="library-excerpt">Prayer does not begin with effort or obligation, but with relationship. We seek God not to earn His favor, but because He has already drawn near to us.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="reflections"
+            data-title="Something is Missing"
+            data-date="Mon May 04 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/something-is-missing/">Something is Missing</a>
-          <span class="library-excerpt">When our response to God becomes rushed and restrained, we miss the fullness of what His presence invites — an engaged, wholehearted expression of awe, remembrance, and worship.</span>
+          <p>When our response to God becomes rushed and restrained, we miss the fullness of what His presence invites — an engaged, wholehearted expression of awe, remembrance, and worship.</p>
         </li>
-      
-        <li>
-          <a href="/library/sons-of-brokenness/">Sons of Brokenness</a>
-          <span class="library-excerpt">From the aftermath of Korah’s rebellion emerged a lineage shaped by holy fear, humility, and grace — voices whose worship was forged in brokenness and preserved in the Psalms.</span>
-        </li>
-      
-        <li>
-          <a href="/library/sticks-and-stones/">Sticks and Stones</a>
-          <span class="library-excerpt">Scripture was not given to us as a weapon to wound others, but as a living word meant to search us, humble us, and lead us into love.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="reflections"
+            data-title="That They Will Know"
+            data-date="Thu Mar 26 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/that-they-will-know/">That They Will Know</a>
-          <span class="library-excerpt">God’s work in our lives is not ultimately about us — it is about making His name known so that all will see that He is LORD.</span>
+          <p>God’s work in our lives is not ultimately about us — it is about making His name known so that all will see that He is LORD.</p>
         </li>
-      
-        <li>
-          <a href="/library/the-bitter-harvest-of-sin/">The Bitter Harvest of Sin</a>
-          <span class="library-excerpt">Sin promises satisfaction but delivers shame. What once felt thrilling leaves a bitter harvest — yet grace still invites us into life.</span>
-        </li>
-      
-        <li>
-          <a href="/library/the-cart-or-horse/">The Cart or the Horse</a>
-          <span class="library-excerpt">Psalm 15 raises a searching question about who may dwell in God’s presence — and reveals that holiness is not the price of access, but the fruit of grace.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="reflections"
+            data-title="The Gospel in the Grass"
+            data-date="Fri Jan 02 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/the-gospel-in-the-grass/">The Gospel in the Grass</a>
-          <span class="library-excerpt">Creation proclaims God’s provision, beauty, and care — inviting us to trust the One who tends both the earth and our lives.</span>
+          <p>Creation proclaims God’s provision, beauty, and care — inviting us to trust the One who tends both the earth and our lives.</p>
         </li>
-      
-        <li>
-          <a href="/library/want-tos/">Want To’s</a>
-          <span class="library-excerpt">When I learned to delight in the Lord rather than in what He could give, I discovered that He was quietly reshaping my desires all along.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="reflections"
+            data-title="What About Judas?"
+            data-date="Sat Feb 07 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/what-about-judas/">What About Judas?</a>
-          <span class="library-excerpt">How close can a person be to Jesus — and still miss Him? Judas’ life confronts our assumptions about proximity, ministry, and surrender.</span>
+          <p>How close can a person be to Jesus — and still miss Him? Judas’ life confronts our assumptions about proximity, ministry, and surrender.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="reflections"
+            data-title="Building a Throne"
+            data-date="Sat Feb 21 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/building-a-throne/">Building a Throne</a>
+          <p>In a place stripped of comfort, I discovered that worship does not depend on abundance. It depends on who God is.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Coming Into a Place of Prayer"
+            data-date="Sun Jan 25 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/coming-into-a-place-of-prayer/">Coming Into a Place of Prayer</a>
+          <p>Prayer is not about proving devotion or logging hours. It is about coming—boldly, simply, as children—to a Father who is already willing to give what we need.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Seek Him"
+            data-date="Sun Jan 25 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/seek-him/">Seek Him</a>
+          <p>Prayer does not begin with effort or obligation, but with relationship. We seek God not to earn His favor, but because He has already drawn near to us.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="The Cart or the Horse"
+            data-date="Wed Jan 14 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/the-cart-or-horse/">The Cart or the Horse</a>
+          <p>Psalm 15 raises a searching question about who may dwell in God’s presence — and reveals that holiness is not the price of access, but the fruit of grace.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Imputed Motivations"
+            data-date="Wed Apr 01 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/imputed-motivations/">Imputed Motivations</a>
+          <p>We often judge others by assumed motives we cannot truly know, while excusing our own. God, who knows every motive, chooses mercy instead of condemnation.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Not Subdued"
+            data-date="Tue Jan 13 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/not-subdued/">Not Subdued</a>
+          <p>The enemy’s aim has always been to silence worship — but because of Christ, what feels destroyed is never beyond restoration, and what seems subdued is never truly lost.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Racism Is Sin"
+            data-date="Fri Aug 18 2017 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/racism-is-sin/">Racism Is Sin</a>
+          <p>A personal reflection on Charlottesville, friendship, and the Christian call to reconciliation — arguing that racism is sin and that the work of Christ’s people is not outrage or silence, but costly, relational love across dividing lines.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Renew My Mind"
+            data-date="Wed Aug 20 2014 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/renew-my-mind/">Renew My Mind</a>
+          <p>The world has a quiet way of shaping how we think, often without our awareness. Renewal begins not with effort, but with learning to notice — and unlearn — the patterns that have been forming us.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Sons of Brokenness"
+            data-date="Tue Jan 13 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/sons-of-brokenness/">Sons of Brokenness</a>
+          <p>From the aftermath of Korah’s rebellion emerged a lineage shaped by holy fear, humility, and grace — voices whose worship was forged in brokenness and preserved in the Psalms.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="The Bitter Harvest of Sin"
+            data-date="Fri Aug 01 2025 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/the-bitter-harvest-of-sin/">The Bitter Harvest of Sin</a>
+          <p>Sin promises satisfaction but delivers shame. What once felt thrilling leaves a bitter harvest — yet grace still invites us into life.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="The Counterfeit Feast"
+            data-date="Fri Jan 02 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/the-counterfeit-feast/">The Counterfeit Feast</a>
+          <p>A sober look at Proverbs 9 and the deceptive invitation of folly that mimics wisdom but ultimately leads to death.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="For Husbands"
+            data-date="Fri Mar 06 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/for-husbands/">For Husbands</a>
+          <p>A critical spirit can quietly erode the person we claim to love. Learning to serve instead of correct may be one of the most important transformations a husband can experience.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="No Compromise"
+            data-date="Sat Feb 21 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/no-compromise/">No Compromise</a>
+          <p>What we refuse to remove will remain to trouble us. Sanctification requires courage to confront compromise and trust God enough to drive out what hinders growth.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Received, Not Achieved"
+            data-date="Wed Mar 25 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/received-not-achieved/">Received, Not Achieved</a>
+          <p>Obedience is not something we accomplish through effort, but something we receive as God works within us.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Roadblocks"
+            data-date="Tue Jul 29 2025 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/roadblocks/">Roadblocks</a>
+          <p>Reflecting on how we can unknowingly step out of alignment with what God is already doing — and what surrender truly looks like.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Sticks and Stones"
+            data-date="Sun Jan 18 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/sticks-and-stones/">Sticks and Stones</a>
+          <p>Scripture was not given to us as a weapon to wound others, but as a living word meant to search us, humble us, and lead us into love.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Want To’s"
+            data-date="Fri Feb 06 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/want-tos/">Want To’s</a>
+          <p>When I learned to delight in the Lord rather than in what He could give, I discovered that He was quietly reshaping my desires all along.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="What’s in a Name?"
+            data-date="Thu Jul 18 1996 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/whats-in-a-name/">What’s in a Name?</a>
-          <span class="library-excerpt">Discovering how identity shapes destiny — and how God’s naming of us changes everything.</span>
+          <p>Discovering how identity shapes destiny — and how God’s naming of us changes everything.</p>
         </li>
+        
+        <li data-category="reflections"
+            data-title="A Preemptive Shout"
+            data-date="Fri Mar 13 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/a-preemptive-shout/">A Preemptive Shout</a>
+          <p>Throughout Scripture, God&#39;s people often praise Him before the victory is visible. Worship becomes a declaration of faith that God&#39;s rule is greater than present circumstances.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Deliver Me"
+            data-date="Sun Jan 25 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/deliver-me/">Deliver Me</a>
+          <p>A prayer of mercy, refuge, and trust when deliverance does not guarantee escape.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Not Complicated"
+            data-date="Sat Mar 21 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/not-complicated/">Not Complicated</a>
+          <p>We often complicate what God has made simple. Loving our neighbor doesn’t require a plan — it requires obedience.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Not So Quiet Confidence"
+            data-date="Sat May 02 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/not-so-quiet-confidence/">Not So Quiet Confidence</a>
+          <p>In the midst of fear and pressure, true confidence is found not in our strength, but in remembering that God surrounds, sustains, and secures us.</p>
+        </li>
+        
+        <li data-category="reflections"
+            data-title="Reflections"
+            data-date="">
+          <a href="/reflections/">Reflections</a>
+          
+        </li>
+        
       
-    </ul>
-  </div>
-  <div class="library-group">
-    <h2>Stories<span class="category-hover-note">Narratives from life that reveal deeper spiritual truths through ordinary experiences.</span></h2>
-    <ul class="library-list">
-      
-        <li>
+        
+        <li data-category="stories"
+            data-title="Appointments"
+            data-date="Mon Feb 19 2024 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/appointments/">Appointments</a>
-          <span class="library-excerpt">From a guarded sycamore tree to a ram in the thicket and a great fish in the sea, Scripture reveals a God who orchestrates divine appointments—arranging people, places, and moments for redemption.</span>
+          <p>From a guarded sycamore tree to a ram in the thicket and a great fish in the sea, Scripture reveals a God who orchestrates divine appointments—arranging people, places, and moments for redemption.</p>
         </li>
-      
-        <li>
-          <a href="/library/finding-the-treasure/">Finding the Treasure</a>
-          <span class="library-excerpt">The kingdom of heaven is the greatest treasure a person can ever find. True surrender begins when we realize that God Himself — not His gifts — is the prize.</span>
-        </li>
-      
-        <li>
-          <a href="/library/go/">Go</a>
-          <span class="library-excerpt">God&#39;s call to &quot;Go&quot; is rarely comfortable or fully explained.</span>
-        </li>
-      
-        <li>
-          <a href="/library/guard-the-grace/">Guard the Grace</a>
-          <span class="library-excerpt">A reflection on how many churches respond to sexual sin—and what those responses quietly teach about confession, belonging, and grace.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="stories"
+            data-title="Guess Who I Saw Today"
+            data-date="Fri Feb 27 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/guess-who-i-saw-today/">Guess Who I Saw Today</a>
-          <span class="library-excerpt">What if every face we encounter carries the presence of Christ? Seeing others through this lens reshapes how we speak, judge, and love.</span>
+          <p>What if every face we encounter carries the presence of Christ? Seeing others through this lens reshapes how we speak, judge, and love.</p>
         </li>
-      
-    </ul>
-  </div>
-  <div class="library-group library-group--testimonies">
-    <h2>Testimonies<span class="category-hover-note">Personal accounts of God's mercy, guidance, and transforming work in a life.</span></h2>
-    <ul class="library-list">
-      
-        <li>
-          <a href="/library/after-gods-heart/">After God&#39;s Heart</a>
-          <span class="library-excerpt">David&#39;s life reveals that being &quot;after God&#39;s heart&quot; is not about sinless perfection, but about a heart that repents, returns, and rests in God&#39;s sufficient grace.</span>
+        
+        <li data-category="stories"
+            data-title="Guard the Grace"
+            data-date="Sun Jan 11 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/guard-the-grace/">Guard the Grace</a>
+          <p>A reflection on how many churches respond to sexual sin—and what those responses quietly teach about confession, belonging, and grace.</p>
         </li>
-      
-        <li>
-          <a href="/library/awakened-in-the-valley/">Awakened in the Valley</a>
-          <span class="library-excerpt">Written in confinement, this testimony reflects on a painful awakening — recognizing how sin had created distance from God and how a season of confinement became a place of clarity, healing, and transformation.</span>
+        
+        <li data-category="stories"
+            data-title="Finding the Treasure"
+            data-date="Fri Mar 13 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/finding-the-treasure/">Finding the Treasure</a>
+          <p>The kingdom of heaven is the greatest treasure a person can ever find. True surrender begins when we realize that God Himself — not His gifts — is the prize.</p>
         </li>
+        
+        <li data-category="stories"
+            data-title="Go"
+            data-date="Sat Feb 21 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/go/">Go</a>
+          <p>God&#39;s call to &quot;Go&quot; is rarely comfortable or fully explained.</p>
+        </li>
+        
+        <li data-category="stories"
+            data-title="Stories"
+            data-date="">
+          <a href="/stories/">Stories</a>
+          
+        </li>
+        
       
-        <li>
+        
+        <li data-category="testimonies"
+            data-title="Falling Into His Grip"
+            data-date="Sat Feb 21 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
           <a href="/library/falling-into-his-grip/">Falling Into His Grip</a>
-          <span class="library-excerpt">What felt like collapse became rescue. In confinement, I discovered that when I fell, I had not been hurled headlong — God was still holding my hand.</span>
+          <p>What felt like collapse became rescue. In confinement, I discovered that when I fell, I had not been hurled headlong — God was still holding my hand.</p>
         </li>
-      
-        <li>
-          <a href="/library/freedom-in-confinement/">Freedom in Confinement</a>
-          <span class="library-excerpt">Written in confinement, this testimony reflects on discovering unexpected freedom while incarcerated—freedom from addiction, clarity through God&#39;s Word, and a renewed commitment to live faithfully before Him.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="testimonies"
+            data-title="From Ashes to Glory"
+            data-date="Tue Aug 05 2025 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/from-ashes-to-glory/">From Ashes to Glory</a>
-          <span class="library-excerpt">When the holy place is defiled and left in ruins, God does not abandon it—He rebuilds His dwelling within us with greater glory than before.</span>
+          <p>When the holy place is defiled and left in ruins, God does not abandon it—He rebuilds His dwelling within us with greater glory than before.</p>
         </li>
-      
-        <li>
-          <a href="/library/from-exile-to-eden/">From Exile to Eden</a>
-          <span class="library-excerpt">A story of addiction, surrender, confinement, and grace. This testimony stands on its own — offered not as instruction, but as witness — to the slow, unexpected work of God in a life brought to the end of itself.</span>
-        </li>
-      
-        <li>
-          <a href="/library/happy-birthday/">Happy Birthday</a>
-          <span class="library-excerpt">Written in confinement on his birthday, this testimony reflects on spiritual growth, past failures, and the deep realization that only God can fill the empty places of the heart.</span>
-        </li>
-      
-        <li>
-          <a href="/library/hope/">Hope</a>
-          <span class="library-excerpt">Written from jail, this testimony reflects on the fragile, painful, and necessary nature of hope—how it can both wound and sustain, and how ultimately hope must rest in God.</span>
-        </li>
-      
-        <li>
-          <a href="/library/i-wanna-dance-like-enoch/">I Wanna Dance Like Enoch Danced</a>
-          <span class="library-excerpt">A revival I never expected exposed something deeper than power or experience—it revealed the cost of true worship and the quiet pull of pride.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="testimonies"
+            data-title="In the Margins"
+            data-date="Mon Mar 25 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/in-the-margins/">In the Margins</a>
-          <span class="library-excerpt">A reflection on Scripture, time, and the holy space before the beginning—where God already knew every moment of our lives.</span>
+          <p>A reflection on Scripture, time, and the holy space before the beginning—where God already knew every moment of our lives.</p>
         </li>
-      
-        <li>
-          <a href="/library/lesson-from-much-afraid/">Lesson From Much-Afraid</a>
-          <span class="library-excerpt">Written while incarcerated, this reflection on Hind’s Feet on High Places reveals a growing understanding that God is not merely fixing problems, but calling for complete surrender and transformation.</span>
-        </li>
-      
-        <li>
+        
+        <li data-category="testimonies"
+            data-title="Margins"
+            data-date="Mon Mar 25 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/margins/">Margins</a>
-          <span class="library-excerpt">What is your favorite place in the Bible? Mine may surprise you.</span>
+          <p>What is your favorite place in the Bible? Mine may surprise you.</p>
         </li>
-      
-        <li>
+        
+        <li data-category="testimonies"
+            data-title="From Exile to Eden"
+            data-date="Sun Jan 18 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/from-exile-to-eden/">From Exile to Eden</a>
+          <p>“A story of addiction, surrender, confinement, and grace. This testimony stands on its own — offered not as instruction, but as witness — to the slow, unexpected work of God in a life brought to the end of itself.”</p>
+        </li>
+        
+        <li data-category="testimonies"
+            data-title="Hope"
+            data-date="Sat May 13 2023 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/hope/">Hope</a>
+          <p>Written from jail, this testimony reflects on the fragile, painful, and necessary nature of hope—how it can both wound and sustain, and how ultimately hope must rest in God.</p>
+        </li>
+        
+        <li data-category="testimonies"
+            data-title="Awakened in the Valley"
+            data-date="Fri Mar 13 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/awakened-in-the-valley/">Awakened in the Valley</a>
+          <p>Written in confinement, this testimony reflects on a painful awakening — recognizing how sin had created distance from God and how a season of confinement became a place of clarity, healing, and transformation.</p>
+        </li>
+        
+        <li data-category="testimonies"
+            data-title="Freedom in Confinement"
+            data-date="Fri Mar 13 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/freedom-in-confinement/">Freedom in Confinement</a>
+          <p>Written in confinement, this testimony reflects on discovering unexpected freedom while incarcerated—freedom from addiction, clarity through God&#39;s Word, and a renewed commitment to live faithfully before Him.</p>
+        </li>
+        
+        <li data-category="testimonies"
+            data-title="Happy Birthday"
+            data-date="Fri Mar 13 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/happy-birthday/">Happy Birthday</a>
+          <p>Written in confinement on his birthday, this testimony reflects on spiritual growth, past failures, and the deep realization that only God can fill the empty places of the heart.</p>
+        </li>
+        
+        <li data-category="testimonies"
+            data-title="I Wanna Dance Like Enoch Danced"
+            data-date="Tue Apr 19 2016 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/i-wanna-dance-like-enoch/">I Wanna Dance Like Enoch Danced</a>
+          <p>A revival I never expected exposed something deeper than power or experience—it revealed the cost of true worship and the quiet pull of pride.</p>
+        </li>
+        
+        <li data-category="testimonies"
+            data-title="Lesson From Much-Afraid"
+            data-date="Sun May 07 2023 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/lesson-from-much-afraid/">Lesson From Much-Afraid</a>
+          <p>Written while incarcerated, this reflection on Hind’s Feet on High Places reveals a growing understanding that God is not merely fixing problems, but calling for complete surrender and transformation.</p>
+        </li>
+        
+        <li data-category="testimonies"
+            data-title="Stay In Your Lane"
+            data-date="Wed Apr 19 2023 20:00:00 GMT-0400 (Eastern Daylight Time)">
           <a href="/library/stay-in-your-lane/">Stay In Your Lane</a>
-          <span class="library-excerpt">Written while incarcerated, this testimony reflects on the slow path into temptation described in Proverbs and the necessity of choosing a different road before destruction takes hold.</span>
+          <p>Written while incarcerated, this testimony reflects on the slow path into temptation described in Proverbs and the necessity of choosing a different road before destruction takes hold.</p>
         </li>
+        
+        <li data-category="testimonies"
+            data-title="From Knowing to Surrender"
+            data-date="Tue Jan 27 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+          <a href="/library/from-knowing-to-surrender/">From Knowing to Surrender</a>
+          <p>Knowing the truth is not the same as being changed by it. This is the story of a slow undoing — where grace met me when my resolve finally ran out.</p>
+        </li>
+        
+        <li data-category="testimonies"
+            data-title="After God&#39;s Heart"
+            data-date="Fri May 03 2024 20:00:00 GMT-0400 (Eastern Daylight Time)">
+          <a href="/library/after-gods-heart/">After God&#39;s Heart</a>
+          <p>David&#39;s life reveals that being &quot;after God&#39;s heart&quot; is not about sinless perfection, but about a heart that repents, returns, and rests in God&#39;s sufficient grace.</p>
+        </li>
+        
+        <li data-category="testimonies"
+            data-title="Testimonies"
+            data-date="">
+          <a href="/testimonies/">Testimonies</a>
+          
+        </li>
+        
       
     </ul>
+
+    <p id="lib-empty">No articles match your search.</p>
+
+    <p class="lib-classic-link">
+      <a href="/library/list/">Alphabetical list</a>
+    </p>
   </div>
+
 </div>
 
-<p style="text-align:center; margin-top:2.5rem; font-size:1.05rem; color:#7a6a4f;">Hover over any article title to see a short excerpt.</p>
+<script>
+var currentSort = 'alpha';
+var currentFilter = 'all';
+var currentSearch = '';
 
-<div style="text-align:center; margin-top:2.5rem;">
-  <a href="/" style="display:inline-block; background:#6b4f2c; color:#fffbe9; padding:0.7rem 2.2rem; border-radius:6px; font-size:1.08rem; text-decoration:none; box-shadow:0 2px 8px rgba(0,0,0,0.07); transition:background 0.2s;">Home</a>
-</div>
+function setListHeight() {
+  var area = document.getElementById('lib-scroll-area');
+  var top = area.getBoundingClientRect().top;
+  area.style.height = (window.innerHeight - top - 20) + 'px';
+}
 
+function renderList() {
+  var list = document.getElementById('lib-list');
+  var items = Array.from(list.querySelectorAll('li'));
+  var search = currentSearch.toLowerCase();
+
+  items.forEach(function(item) {
+    var matchesCat = currentFilter === 'all' || item.dataset.category === currentFilter;
+    var matchesSearch = !search || item.dataset.title.toLowerCase().indexOf(search) !== -1;
+    item.style.display = (matchesCat && matchesSearch) ? '' : 'none';
+  });
+
+  var visible = items.filter(function(i) { return i.style.display !== 'none'; });
+
+  visible.sort(function(a, b) {
+    if (currentSort === 'alpha') {
+      return a.dataset.title.localeCompare(b.dataset.title);
+    }
+    return new Date(b.dataset.date) - new Date(a.dataset.date);
+  });
+  visible.forEach(function(item) { list.appendChild(item); });
+
+  document.getElementById('lib-empty').style.display = visible.length === 0 ? 'block' : 'none';
+
+  document.querySelectorAll('.sort-btn').forEach(function(btn) {
+    btn.classList.toggle('active', btn.id === 'btn-' + currentSort);
+  });
+  document.querySelectorAll('.lib-filter').forEach(function(btn) {
+    btn.classList.toggle('active', btn.dataset.cat === currentFilter);
+  });
+}
+
+function libSort(mode) {
+  currentSort = mode;
+  renderList();
+}
+
+document.querySelectorAll('.lib-filter').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    currentFilter = btn.dataset.cat;
+    renderList();
+  });
+});
+
+document.getElementById('lib-search').addEventListener('input', function(e) {
+  currentSearch = e.target.value;
+  renderList();
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+  renderList();
+  setListHeight();
+});
+
+window.addEventListener('resize', setListHeight);
+</script>
+
+  </main>
+
+  <footer class="site-footer">
+    <div style="text-align:center; margin:2rem 0;">
+      <a href="/" style="color:#6a5d4d;">Home</a>
+    </div>
+    <hr />
+    <p><small>&copy;  — Grace in the Margins</small></p>
+  </footer>
+
+</body>
+</html>

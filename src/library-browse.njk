@@ -1,0 +1,259 @@
+---
+title: Library
+layout: layout-library.njk
+permalink: /library/
+---
+
+<style>
+  .lib-page {
+    width: 100%;
+    max-width: 820px;
+    padding: 1rem 1.5rem;
+  }
+  .lib-header h1 {
+    font-size: 2rem;
+    color: #5a3e2b;
+    margin: 0 0 1rem;
+  }
+  .lib-controls {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+  #lib-search {
+    flex: 1;
+    min-width: 180px;
+    max-width: 320px;
+    padding: 0.45rem 0.75rem;
+    border: 1px solid #d0c4b0;
+    border-radius: 4px;
+    font-size: 0.95rem;
+    background: #fffef9;
+    color: #3a2a13;
+    font-family: inherit;
+  }
+  #lib-search:focus {
+    outline: none;
+    border-color: #5a3e2b;
+  }
+  .sort-controls {
+    font-size: 0.95rem;
+    color: #7a6a4f;
+    white-space: nowrap;
+  }
+  .sort-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 0.95rem;
+    padding: 0;
+    margin: 0 0.25rem;
+    color: #7a6a4f;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-underline-offset: 3px;
+    font-family: inherit;
+  }
+  .sort-btn.active {
+    color: #5a3e2b;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: default;
+  }
+  .lib-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid #e0d6c3;
+    margin-bottom: 0;
+  }
+  .lib-filter {
+    background: none;
+    border: 1px solid #c8bba8;
+    border-radius: 20px;
+    padding: 0.3rem 0.85rem;
+    font-size: 0.88rem;
+    color: #7a6a4f;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s ease;
+  }
+  .lib-filter:hover {
+    border-color: #5a3e2b;
+    color: #5a3e2b;
+  }
+  .lib-filter.active {
+    background: #5a3e2b;
+    border-color: #5a3e2b;
+    color: #fff;
+  }
+  #lib-scroll-area {
+    overflow-y: auto;
+    padding-top: 1rem;
+  }
+  #lib-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  #lib-list li {
+    margin-bottom: 1.5rem;
+  }
+  #lib-list a {
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: #5a3e2b;
+    text-decoration: none;
+  }
+  #lib-list a:hover {
+    text-decoration: underline;
+  }
+  #lib-list p {
+    margin: 0.2rem 0 0;
+    font-size: 0.95rem;
+    color: #6a5d4d;
+    line-height: 1.5;
+  }
+  #lib-empty {
+    display: none;
+    color: #7a6a4f;
+    font-style: italic;
+    margin-top: 1rem;
+  }
+  .lib-classic-link {
+    padding-top: 1rem;
+    border-top: 1px solid #e0d6c3;
+    font-size: 0.85rem;
+    color: #aaa;
+    text-align: center;
+  }
+  .lib-classic-link a {
+    color: #aaa;
+    text-decoration: none;
+    border-bottom: 1px dashed #ccc;
+  }
+  .lib-classic-link a:hover {
+    color: #7a6a4f;
+    border-bottom-color: #7a6a4f;
+  }
+</style>
+
+<div class="lib-page">
+
+  <div class="lib-header">
+    <h1>Library</h1>
+  </div>
+
+  <div class="lib-controls">
+    <input type="search" id="lib-search" placeholder="Search titles…" autocomplete="off" aria-label="Search article titles">
+    <div class="sort-controls">
+      Sort by
+      <button class="sort-btn active" id="btn-alpha" onclick="libSort('alpha')">A–Z</button>
+      |
+      <button class="sort-btn" id="btn-date" onclick="libSort('date')">Recent</button>
+    </div>
+  </div>
+
+  <div class="lib-filters">
+    <button class="lib-filter active" data-cat="all">All</button>
+    <button class="lib-filter" data-cat="devotionals">Devotionals</button>
+    <button class="lib-filter" data-cat="meditations">Meditations</button>
+    <button class="lib-filter" data-cat="poems">Poems &amp; Prayers</button>
+    <button class="lib-filter" data-cat="reflections">Reflections</button>
+    <button class="lib-filter" data-cat="stories">Stories</button>
+    <button class="lib-filter" data-cat="testimonies">Testimonies</button>
+  </div>
+
+  <div id="lib-scroll-area">
+    <ul id="lib-list">
+      {% set cats = ['devotionals', 'meditations', 'poems', 'reflections', 'stories', 'testimonies'] %}
+      {% for cat in cats %}
+        {% for item in collections[cat] %}
+        <li data-category="{{ cat }}"
+            data-title="{{ item.data.title }}"
+            data-date="{{ item.data.date }}">
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+          {% if item.data.excerpt %}<p>{{ item.data.excerpt }}</p>{% endif %}
+        </li>
+        {% endfor %}
+      {% endfor %}
+    </ul>
+
+    <p id="lib-empty">No articles match your search.</p>
+
+    <p class="lib-classic-link">
+      <a href="/library/list/">Alphabetical list</a>
+    </p>
+  </div>
+
+</div>
+
+<script>
+var currentSort = 'alpha';
+var currentFilter = 'all';
+var currentSearch = '';
+
+function setListHeight() {
+  var area = document.getElementById('lib-scroll-area');
+  var top = area.getBoundingClientRect().top;
+  area.style.height = (window.innerHeight - top - 20) + 'px';
+}
+
+function renderList() {
+  var list = document.getElementById('lib-list');
+  var items = Array.from(list.querySelectorAll('li'));
+  var search = currentSearch.toLowerCase();
+
+  items.forEach(function(item) {
+    var matchesCat = currentFilter === 'all' || item.dataset.category === currentFilter;
+    var matchesSearch = !search || item.dataset.title.toLowerCase().indexOf(search) !== -1;
+    item.style.display = (matchesCat && matchesSearch) ? '' : 'none';
+  });
+
+  var visible = items.filter(function(i) { return i.style.display !== 'none'; });
+
+  visible.sort(function(a, b) {
+    if (currentSort === 'alpha') {
+      return a.dataset.title.localeCompare(b.dataset.title);
+    }
+    return new Date(b.dataset.date) - new Date(a.dataset.date);
+  });
+  visible.forEach(function(item) { list.appendChild(item); });
+
+  document.getElementById('lib-empty').style.display = visible.length === 0 ? 'block' : 'none';
+
+  document.querySelectorAll('.sort-btn').forEach(function(btn) {
+    btn.classList.toggle('active', btn.id === 'btn-' + currentSort);
+  });
+  document.querySelectorAll('.lib-filter').forEach(function(btn) {
+    btn.classList.toggle('active', btn.dataset.cat === currentFilter);
+  });
+}
+
+function libSort(mode) {
+  currentSort = mode;
+  renderList();
+}
+
+document.querySelectorAll('.lib-filter').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    currentFilter = btn.dataset.cat;
+    renderList();
+  });
+});
+
+document.getElementById('lib-search').addEventListener('input', function(e) {
+  currentSearch = e.target.value;
+  renderList();
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+  renderList();
+  setListHeight();
+});
+
+window.addEventListener('resize', setListHeight);
+</script>

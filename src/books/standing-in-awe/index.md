@@ -38,4 +38,4 @@ This edition is arranged for both chapter-by-chapter reading and continuous read
 
 ---
 
-[Read the full book (continuous mode) â†’](/books/standing-in-awe/manuscript/)
+[Read the full book (continuous mode)](/books/standing-in-awe/manuscript/)

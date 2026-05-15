@@ -1,5 +1,6 @@
 ﻿---
 title: "Parables and Reflections"
+excludeFromLibrary: true
 excerpt: "Five reflections and narrative meditations that reveal God's truth in ordinary scenes, personal stories, and spiritual roadblocks."
 tags:
   - Book

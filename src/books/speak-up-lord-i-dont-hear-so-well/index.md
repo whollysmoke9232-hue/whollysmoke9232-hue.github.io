@@ -1,5 +1,6 @@
 ﻿---
 title: "Speak Up Lord: I Don't Hear So Well"
+excludeFromLibrary: true
 excerpt: "Seven reflections for learning to hear God in quiet places through stillness, scripture, surrender, and attentive prayer."
 tags:
   - Book

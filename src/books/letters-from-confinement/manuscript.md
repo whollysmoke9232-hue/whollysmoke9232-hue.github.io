@@ -324,12 +324,7 @@ There is nowhere I would rather be.
 > Be glorified in me, even here._
 > Amen.
 
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ## Part III - Honest Prayer
 

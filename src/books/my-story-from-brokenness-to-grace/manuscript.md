@@ -1,4 +1,4 @@
-﻿---
+---
 title: "My Story: From Brokenness to Grace"
 layout: default.njk
 permalink: "/books/my-story-from-brokenness-to-grace/manuscript/"
@@ -1780,14 +1780,7 @@ Take a moment to be still. Picture yourself laying down the tools of self-effort
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -1861,14 +1854,7 @@ Because no matter what the world decides, you are held in the hand of the One wh
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -1951,14 +1937,7 @@ You only need a willing heart—and the courage to keep showing up hungry.
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -1989,14 +1968,7 @@ And even this faith is not self-generated.
 
 Faith itself is a gift—given by the Holy Spirit.
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -2119,13 +2091,6 @@ It is to live without hiding.
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---

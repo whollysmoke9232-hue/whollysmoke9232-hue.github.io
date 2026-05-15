@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Seek His Face"
 layout: book-chapter.njk
 order: 22
@@ -81,11 +81,4 @@ Because no matter what the world decides, you are held in the hand of the One wh
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

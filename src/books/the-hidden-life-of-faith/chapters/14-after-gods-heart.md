@@ -1,4 +1,4 @@
-﻿---
+---
 title: "After God's Heart"
 layout: book-chapter.njk
 order: 14
@@ -93,11 +93,4 @@ It is to live without hiding.
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

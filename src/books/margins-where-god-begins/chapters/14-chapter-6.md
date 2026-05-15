@@ -8,11 +8,9 @@ author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-6/"
 ---
 
-## What Job Didn’t Know
-
 I started reading Job one day.
 
-This was not the first time I'd read Job; though I'll confess that I’ve never much enjoyed the read. I had always found the long speeches confusing and hard to follow. However, something struck me this time that I'd never thought of before while reading Job.
+It was not the first time I'd read Job; though I'll confess that I had never much enjoyed the read. I had always found the long speeches confusing and hard to follow. However, something struck me this time that I'd never thought of before while reading Job.
 
 It turns out that neither Job nor his friends knew what was happening while it was happening.
 
@@ -23,8 +21,6 @@ While it seemed to Job and his friends that his ordeal was due to some sin or om
 As I pondered this reality throughout the morning, a bigger picture began to emerge.
 
 ---
-
-## When the Brushstrokes Don’t Make Sense
 
 When God slaughtered an innocent animal in the Garden to make clothes for Adam and Eve (Genesis 3:21), He was painting on a canvas that was bigger than what they could see.
 
@@ -50,52 +46,10 @@ From time to time, God allows us a glimpse of the unfinished picture that is our
 
 God has a plan. A perfect plan. And we—you and I—are part of that plan. We may never fully understand that plan before we die.
 
-He moves us from one place to another—leading us, teaching us, breaking us, building us up… all the while loving us with an unconditional love. Working His perfect plan.
+He moves us from one place to another—leading us, teaching us, breaking us, building us up... all the while loving us with an unconditional love. Working His perfect plan.
 
-So we are left to live out our faith with nothing more than faith in His Word, and the assurance that whatever we are experiencing—whether laughter or tears; joy or pain; wealth or want; success or failure—God is painting on a canvas that is bigger than we can see.
+So we are left to live out our faith with nothing more than faith in His Word, and the assurance that whatever we are experiencing—whether laughter or tears, joy or pain, wealth or want, success or failure, God is painting on a canvas that is bigger than we can see.
 
 He is in control. And He is never surprised by what happens in our lives.
 
-I pray that this truth will soak into your soul and usher into your spirit the peace that surpasses understanding.
-
 ---
-
-## Reflection: Trusting the Unseen
-
-Take a moment to consider the scenes in your life that felt confusing, painful, or even pointless. What if those moments weren’t detours, but brushstrokes? What if the silence wasn’t absence, but preparation?
-
-We often long for clarity, but God offers something better: Himself. He doesn’t always show us the full picture, but He promises that we are part of it—and that it is good.
-
-Ask yourself:
-
-- Where in my life have I mistaken a margin for a mistake?
-- What moments might God be using as preparation for something I cannot yet see?
-- Am I willing to trust the Artist, even when I don’t understand the art?
-
-Let this truth settle in: You are not forgotten. You are not off-course. You are not outside the frame. You are part of the masterpiece.
-
----
-
-## Prayer
-
-Father,
-
-You are the Master Artist, painting with eternity in mind.  
-You see the end from the beginning, and nothing in my life is wasted.  
-Even when I don’t understand, You are working.  
-Even when I feel lost, You are leading.
-
-Forgive me for the times I’ve doubted Your hand in the margins.  
-Forgive me for demanding to see the whole picture before I trust You.
-
-Teach me to rest in the mystery.  
-To believe that every brushstroke—every joy, every sorrow—is part of Your perfect plan.
-
-Give me eyes of faith to see beyond the moment.  
-Give me a heart that trusts when the canvas is still blank.  
-And give me peace that surpasses understanding,
-
-knowing that You are always painting on a canvas bigger than I can see.
-
-In Jesus’ name,  
-Amen.

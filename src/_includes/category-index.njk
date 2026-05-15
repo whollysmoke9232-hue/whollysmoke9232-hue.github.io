@@ -9,33 +9,51 @@ layout: layout.njk
 {% endif %}
 
 <style>
+  .sort-controls {
+    margin-bottom: 1.5rem;
+    font-size: 0.95rem;
+    color: #7a6a4f;
+  }
+  .sort-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 0.95rem;
+    padding: 0;
+    margin: 0 0.25rem;
+    color: #7a6a4f;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-underline-offset: 3px;
+  }
+  .sort-btn.active {
+    color: #5a3e2b;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: default;
+  }
   .content-list {
     list-style: none;
     padding: 0;
   }
-
   .category-item {
     margin-bottom: 2rem;
     color: #5a3e2b;
   }
-
   .category-title {
     font-weight: 700;
     font-size: 1.2rem;
     text-decoration: none;
     color: #5a3e2b;
   }
-
   .category-title:hover {
     text-decoration: underline;
   }
-
   .category-date {
     margin: 0.3rem 0 0.5rem 0;
     font-size: 0.95rem;
     color: #5a3e2b;
   }
-
   .category-excerpt {
     font-size: 1.2rem;
     margin: 0;
@@ -44,26 +62,41 @@ layout: layout.njk
   }
 </style>
 
-<ul class="content-list">
+<div class="sort-controls">
+  Sort by
+  <button class="sort-btn active" id="btn-date" onclick="sortList('date')">Recent</button>
+  |
+  <button class="sort-btn" id="btn-alpha" onclick="sortList('alpha')">A–Z</button>
+</div>
+
+<ul class="content-list" id="category-list">
   {% for item in collections[category] | sort(attribute="data.date") | reverse %}
-    <li class="category-item">
-
-      <a href="{{ item.url }}" class="category-title">
-        {{ item.data.title }}
-      </a>
-
+    <li class="category-item"
+        data-title="{{ item.data.title }}"
+        data-date="{{ item.data.date }}">
+      <a href="{{ item.url }}" class="category-title">{{ item.data.title }}</a>
       {% if item.data.date %}
-        <div class="category-date">
-          {{ item.data.date | readableDate }}
-        </div>
+        <div class="category-date">{{ item.data.date | readableDate }}</div>
       {% endif %}
-
       {% if item.data.excerpt %}
-        <p class="category-excerpt">
-          {{ item.data.excerpt | safe }}
-        </p>
+        <p class="category-excerpt">{{ item.data.excerpt | safe }}</p>
       {% endif %}
-
     </li>
   {% endfor %}
 </ul>
+
+<script>
+function sortList(mode) {
+  var list = document.getElementById('category-list');
+  var items = Array.from(list.querySelectorAll('.category-item'));
+  items.sort(function(a, b) {
+    if (mode === 'alpha') {
+      return a.dataset.title.localeCompare(b.dataset.title);
+    }
+    return new Date(b.dataset.date) - new Date(a.dataset.date);
+  });
+  items.forEach(function(item) { list.appendChild(item); });
+  document.getElementById('btn-date').classList.toggle('active', mode === 'date');
+  document.getElementById('btn-alpha').classList.toggle('active', mode === 'alpha');
+}
+</script>

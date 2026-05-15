@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Here With Me"
 layout: book-chapter.njk
 order: 6
@@ -29,12 +29,5 @@ How can I know
 The sun, the moon, stars in the sky  
 &nbsp;&nbsp;&nbsp;&nbsp;and yet, You’re here with me  
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 

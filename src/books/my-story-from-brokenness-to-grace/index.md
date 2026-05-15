@@ -1,5 +1,6 @@
 ﻿---
 title: "My Story: From Brokenness to Grace"
+excludeFromLibrary: true
 excerpt: "A three-act spiritual memoir tracing fracture, collapse, and awakening as God's grace meets brokenness and leads toward restoration."
 tags:
   - Book

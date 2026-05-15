@@ -26,11 +26,10 @@ And then it hit me:
 The house He was building wasn’t for me at all.
 
 He was building me into something far greater—  
-A beautiful, spacious mansion…  
+A beautiful, spacious mansion...  
 Fit for a King.
 
-He is transforming me into “… a temple of the Holy Spirit.”
-
-—1 Corinthians 6:19 (NIV)
+He is transforming me into “a temple of the Holy Spirit.”  
+(1 Corinthians 6:19)
 
 </div>

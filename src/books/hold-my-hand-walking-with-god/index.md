@@ -1,5 +1,6 @@
 ﻿---
 title: "Hold My Hand: Walking With God"
+excludeFromLibrary: true
 excerpt: "Seven reflections on trust, surrender, obedience, and steady faith for those learning to walk closely with God."
 tags:
   - Book

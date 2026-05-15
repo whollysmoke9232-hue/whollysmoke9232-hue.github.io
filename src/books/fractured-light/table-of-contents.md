@@ -73,19 +73,21 @@ permalink: "/books/fractured-light/toc/"
   margin-top: 2rem;
   padding-top: 1.5rem;
   border-top: 1px solid #e0e0e0;
-  font-size: 0.9rem;
-  color: #888;
 }
 
 .reading-mode-toggle a {
-  color: #999;
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #5a3e2b;
+  color: #fff;
   text-decoration: none;
-  border-bottom: 1px dashed #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: 500;
 }
 
 .reading-mode-toggle a:hover {
-  color: #4a90e2;
-  border-bottom-color: #4a90e2;
+  background: #3e2a1a;
 }
 
 .book-info-link {

@@ -58,4 +58,4 @@ There is no pressure to read in order. Start where your heart is most hungry, an
 
 ---
 
-<p><a href="/begin/">← Back to Begin</a></p>
+<p><a href="/reading-paths/">← Reading Paths</a></p>

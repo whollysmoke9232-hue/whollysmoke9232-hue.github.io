@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Hidden Life of Faith"
 layout: default.njk
 permalink: "/books/the-hidden-life-of-faith/manuscript/"
@@ -106,14 +106,7 @@ Take a moment to be still. Picture yourself laying down the tools of self-effort
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -243,14 +236,7 @@ Because no matter what the world decides, you are held in the hand of the One wh
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -392,14 +378,7 @@ It's easy to fault Peter for his doubt. But don't lose sight of what Peter did -
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -648,14 +627,7 @@ You only need a willing heart—and the courage to keep showing up hungry.
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -794,14 +766,7 @@ We can face any trial with confidence—not because we control the outcome, but 
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*
 
 ---
 
@@ -887,11 +852,4 @@ It is to live without hiding.
 
 ---
 
-<!-- end-of-article -->
-
-<br>
-<br>
-
-<span style="font-size: 0.85em;">
-*Written in confinement.*
-</span>
+*(Written in confinement.)*

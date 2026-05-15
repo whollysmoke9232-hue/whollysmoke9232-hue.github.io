@@ -29,7 +29,12 @@
       <a class="site-title" href="/">Grace in the Margins</a>
       
     </div>
-    <div id="category-navigation-placeholder"></div>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="/library/">Library</a>
+      <a href="/search/">Search</a>
+      <a href="/books/">Books</a>
+      <a href="/begin/">Begin Here</a>
+    </nav>
   </header>
 
   <main class="site-main">
@@ -39,46 +44,161 @@
 
       <div class="article-content">
       
-        <div class="container">
-  <h1>Stories</h1>
-<p><p class="page-intro">Truth often arrives through story. These narratives explore moments from life where ordinary events reveal deeper spiritual realities. Some are drawn from personal experience, others from quiet observations along the way. Each one seeks to illuminate something about God, the human heart, and the grace that meets us in unexpected places.</p></p>
-  <ul>
-<p><li style="margin-bottom: 1.5rem;">
-<a href="/library/finding-the-treasure/"><strong>Finding the Treasure</strong></a><br></p>
-<p><small>March 14, 2026</small><br></p>
-<p><div style="margin-top: 0.25rem; color: #6a5d4d;">
-The kingdom of heaven is the greatest treasure a person can ever find. True surrender begins when we realize that God Himself — not His gifts — is the prize.
-</div></p>
-<p></li></p>
-<p><li style="margin-bottom: 1.5rem;">
-<a href="/library/guess-who-i-saw-today/"><strong>Guess Who I Saw Today</strong></a><br></p>
-<p><small>February 28, 2026</small><br></p>
-<p><div style="margin-top: 0.25rem; color: #6a5d4d;">
-What if every face we encounter carries the presence of Christ? Seeing others through this lens reshapes how we speak, judge, and love.
-</div></p>
-<p></li></p>
-<p><li style="margin-bottom: 1.5rem;">
-<a href="/library/go/"><strong>Go</strong></a><br></p>
-<p><small>February 22, 2026</small><br></p>
-<p><div style="margin-top: 0.25rem; color: #6a5d4d;">
-God's call to &quot;Go&quot; is rarely comfortable or fully explained.
-</div></p>
-<p></li></p>
-<p><li style="margin-bottom: 1.5rem;">
-<a href="/library/guard-the-grace/"><strong>Guard the Grace</strong></a><br></p>
-<p><small>January 12, 2026</small><br></p>
-<p><div style="margin-top: 0.25rem; color: #6a5d4d;">
-A reflection on how many churches respond to sexual sin—and what those responses quietly teach about confession, belonging, and grace.
-</div></p>
-<p></li></p>
-<p><li style="margin-bottom: 1.5rem;">
-<a href="/library/appointments/"><strong>Appointments</strong></a><br></p>
-<p><small>February 20, 2024</small><br></p>
-<p><div style="margin-top: 0.25rem; color: #6a5d4d;">
-From a guarded sycamore tree to a ram in the thicket and a great fish in the sea, Scripture reveals a God who orchestrates divine appointments—arranging people, places, and moments for redemption.
-</div></p>
-<p></li></p>
+        
+<h1>Stories</h1>
+
+
+<p class="page-intro">Truth often arrives through story. These narratives explore moments from life where ordinary events reveal deeper spiritual realities. Some are drawn from personal experience, others from quiet observations along the way. Each one seeks to illuminate something about God, the human heart, and the grace that meets us in unexpected places.</p>
+
+
+<style>
+  .sort-controls {
+    margin-bottom: 1.5rem;
+    font-size: 0.95rem;
+    color: #7a6a4f;
+  }
+  .sort-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 0.95rem;
+    padding: 0;
+    margin: 0 0.25rem;
+    color: #7a6a4f;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-underline-offset: 3px;
+  }
+  .sort-btn.active {
+    color: #5a3e2b;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: default;
+  }
+  .content-list {
+    list-style: none;
+    padding: 0;
+  }
+  .category-item {
+    margin-bottom: 2rem;
+    color: #5a3e2b;
+  }
+  .category-title {
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #5a3e2b;
+  }
+  .category-title:hover {
+    text-decoration: underline;
+  }
+  .category-date {
+    margin: 0.3rem 0 0.5rem 0;
+    font-size: 0.95rem;
+    color: #5a3e2b;
+  }
+  .category-excerpt {
+    font-size: 1.2rem;
+    margin: 0;
+    line-height: 1.6;
+    color: #5a3e2b;
+  }
+</style>
+
+<div class="sort-controls">
+  Sort by
+  <button class="sort-btn active" id="btn-date" onclick="sortList('date')">Recent</button>
+  |
+  <button class="sort-btn" id="btn-alpha" onclick="sortList('alpha')">A–Z</button>
+</div>
+
+<ul class="content-list" id="category-list">
+  
+    <li class="category-item"
+        data-title="Stories"
+        data-date="">
+      <a href="/stories/" class="category-title">Stories</a>
+      
+      
+    </li>
+  
+    <li class="category-item"
+        data-title="Finding the Treasure"
+        data-date="Fri Mar 13 2026 20:00:00 GMT-0400 (Eastern Daylight Time)">
+      <a href="/library/finding-the-treasure/" class="category-title">Finding the Treasure</a>
+      
+        <div class="category-date">March 14, 2026</div>
+      
+      
+        <p class="category-excerpt">The kingdom of heaven is the greatest treasure a person can ever find. True surrender begins when we realize that God Himself — not His gifts — is the prize.</p>
+      
+    </li>
+  
+    <li class="category-item"
+        data-title="Guess Who I Saw Today"
+        data-date="Fri Feb 27 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+      <a href="/library/guess-who-i-saw-today/" class="category-title">Guess Who I Saw Today</a>
+      
+        <div class="category-date">February 28, 2026</div>
+      
+      
+        <p class="category-excerpt">What if every face we encounter carries the presence of Christ? Seeing others through this lens reshapes how we speak, judge, and love.</p>
+      
+    </li>
+  
+    <li class="category-item"
+        data-title="Go"
+        data-date="Sat Feb 21 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+      <a href="/library/go/" class="category-title">Go</a>
+      
+        <div class="category-date">February 22, 2026</div>
+      
+      
+        <p class="category-excerpt">God's call to "Go" is rarely comfortable or fully explained.</p>
+      
+    </li>
+  
+    <li class="category-item"
+        data-title="Guard the Grace"
+        data-date="Sun Jan 11 2026 19:00:00 GMT-0500 (Eastern Standard Time)">
+      <a href="/library/guard-the-grace/" class="category-title">Guard the Grace</a>
+      
+        <div class="category-date">January 12, 2026</div>
+      
+      
+        <p class="category-excerpt">A reflection on how many churches respond to sexual sin—and what those responses quietly teach about confession, belonging, and grace.</p>
+      
+    </li>
+  
+    <li class="category-item"
+        data-title="Appointments"
+        data-date="Mon Feb 19 2024 19:00:00 GMT-0500 (Eastern Standard Time)">
+      <a href="/library/appointments/" class="category-title">Appointments</a>
+      
+        <div class="category-date">February 20, 2024</div>
+      
+      
+        <p class="category-excerpt">From a guarded sycamore tree to a ram in the thicket and a great fish in the sea, Scripture reveals a God who orchestrates divine appointments—arranging people, places, and moments for redemption.</p>
+      
+    </li>
+  
 </ul>
+
+<script>
+function sortList(mode) {
+  var list = document.getElementById('category-list');
+  var items = Array.from(list.querySelectorAll('.category-item'));
+  items.sort(function(a, b) {
+    if (mode === 'alpha') {
+      return a.dataset.title.localeCompare(b.dataset.title);
+    }
+    return new Date(b.dataset.date) - new Date(a.dataset.date);
+  });
+  items.forEach(function(item) { list.appendChild(item); });
+  document.getElementById('btn-date').classList.toggle('active', mode === 'date');
+  document.getElementById('btn-alpha').classList.toggle('active', mode === 'alpha');
+}
+</script>
 
       </div>
 

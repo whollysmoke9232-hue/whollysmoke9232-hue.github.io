@@ -2,9 +2,11 @@
 layout: default.njk
 ---
 
-<div style="text-align: center; margin: 1.5rem 0 2rem; padding: 0.5rem; font-size: 0.85rem; color: #888;">
-  <a href="{{ continuousReadingUrl }}" style="color: #999; text-decoration: none; border-bottom: 1px dashed #ccc;">Prefer continuous reading?</a>
-</div>
+{% if continuousReadingUrl %}
+<p style="text-align: center; margin: 1rem 0 2rem; font-size: 0.95rem;">
+  <a href="{{ continuousReadingUrl }}">Read in continuous mode</a>
+</p>
+{% endif %}
 
 <div style="max-width: 800px; margin: 0 auto;">
   {{ content | safe }}

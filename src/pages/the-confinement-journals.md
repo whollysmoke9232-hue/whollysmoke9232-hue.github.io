@@ -25,4 +25,11 @@ These words were not written from a place of comfort or with the benefit of hind
 
 ---
 
-<p><a href="/begin/">← Back to Begin</a></p>
+<p style="text-align:center; margin: 1.5rem 0;">
+  These pieces are drawn from a longer work. If they resonate, the complete record is here:<br>
+  <a href="/books/letters-from-confinement/toc/"><em>Letters From Confinement</em></a>
+</p>
+
+---
+
+<p><a href="/reading-paths/">← Reading Paths</a></p>
