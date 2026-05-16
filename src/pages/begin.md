@@ -5,7 +5,9 @@ permalink: /begin/
 templateEngineOverride: njk,md
 ---
 
-*A short path through my story and the things God has been teaching me.*
+For most of my adult life I knew about God. I studied Scripture, led churches, and helped others find faith. But I was hiding. On February 28, 2023, everything came into the light. What followed was twenty-two months in a jail cell — and the most transformative season of my life. In the silence of a cell, with nothing left to hide behind, God finally had my full attention. I read the Bible fourteen times. I prayed from a depth I had never reached before. This site is the result of that season. Everything else on this site grew out of what God did in that cell.
+
+If you are carrying something heavy, or wondering if God is still present in the wreckage of your life, [start here](/library/from-exile-to-eden/?path=begin).
 
 1. [From Exile to Eden](/library/from-exile-to-eden/?path=begin)
 2. [In the Margins](/library/in-the-margins/?path=begin)

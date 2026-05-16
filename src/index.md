@@ -4,7 +4,7 @@ layout: layout.njk
 ---
 
 <div class="homepage-image-hero">
-  <a href="{{ '/about/' | url }}" class="homepage-image-link">
+  <a href="{{ '/begin/' | url }}" class="homepage-image-link">
     <img src="/images/heavens-declare.png" alt="The heavens declare the glory of God">
   </a>
   <a href="{{ '/for-you/' | url }}" class="homepage-image-cta">Is this site for you? &rarr;</a>

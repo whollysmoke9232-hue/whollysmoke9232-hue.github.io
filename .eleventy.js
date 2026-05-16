@@ -190,26 +190,28 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => String(a.data?.title || "").localeCompare(String(b.data?.title || "")))
   );
 
-  // 🆕 Recent additions (strict last 7 days)
+  // Recent additions — all articles within 7 days; pad to 5 minimum if the window is thin
   eleventyConfig.addCollection("recentAdditions", (api) => {
+    const MIN = 5;
     const now = new Date();
     const cutoff = new Date(now);
     cutoff.setDate(cutoff.getDate() - 7);
 
-    return api
-      .getAll()
-      .filter((item) => {
-        if (!item?.url) return false;
-        if (item.url === "/") return false;
-        if (item.data?.eleventyExcludeFromCollections) return false;
-        if (!(item.date instanceof Date)) return false;
-        const isLibraryEntry = item.url.startsWith("/library/");
-        const isPoemsHub = item.url === "/poems/";
-        if (!isLibraryEntry && !isPoemsHub) return false;
-        if (isLibraryEntry && !includeInLibrary(item)) return false;
-        return item.date >= cutoff && item.date <= now;
-      })
-      .sort((a, b) => b.date - a.date);
+    const toDate = (item) => {
+      const d = item.data?.date || item.date;
+      return d instanceof Date ? d : new Date(d);
+    };
+
+    const eligible = api
+      .getFilteredByGlob("./src/library/*.md")
+      .filter((item) => includeInLibrary(item))
+      .sort((a, b) => toDate(b) - toDate(a));
+
+    const recent = eligible.filter((item) => toDate(item) >= cutoff);
+    if (recent.length >= MIN) return recent;
+
+    const older = eligible.filter((item) => toDate(item) < cutoff);
+    return [...recent, ...older].slice(0, MIN);
   });
 
   // 🏷️ Tag list

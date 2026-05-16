@@ -42,31 +42,31 @@ The Big Book says it plainly:
 
 > "The source and center of all my problems is selfishness."
 
-That sentence dismantled me. I had always thought selfishness meant wanting too much or caring too little. What I began to see was deeper: my life was governed by self-will. I trusted my own thinking to save me, even when it repeatedly failed. Until that will was surrendered, nothing truly changed. Only a spiritual experience — not an intellectual one — could bring lasting freedom.
+That sentence ruined me. I had always thought selfishness meant wanting too much or caring too little. What I began to see was deeper: my life was completely governed by self-will. I trusted my own thinking to save me — even when it repeatedly failed. Until that will was surrendered, nothing truly changed.
 
-I had spent years wanting *relief*, when what was necessary was transformation. I wanted the pain to stop. I wanted the shame to fade. I wanted life to feel manageable again. *Even my early desire for recovery was centered on myself.*
+I had spent years wanting *relief*, when what was necessary was ***transformation.*** I wanted the pain to stop. I wanted the shame to fade. I wanted life to feel manageable again. *Even my early desire for recovery was centered on myself.*
 
-What had to change was not just what I was asking for, but why I was asking at all.
+What had to change was not just what I was asking for, but *why* I was asking at all.
 
 ---
 
 ## Part I
 
-For much of my life, fear shaped the way I moved through the world. My childhood home was unpredictable, marked by anger and tension that kept everyone on edge. I learned early how to retreat inward, how to self-protect, how to find relief wherever I could. I turned to a fantasy world where I made all the rules, a place where I was never wrong.
+For much of my life, fear shaped the way I responded to the world. My childhood home was unpredictable — marked by anger and tension that kept everyone on edge. I learned early how to retreat within myself, how to protect myself, how to find relief wherever I could. I turned to a fantasy world where I made all the rules — a place where I was never wrong.
 
 What began as coping eventually became captivity.
 
-Each time I promised myself I would never return to old patterns, I meant it with sincerity. With each repeated failure, the weight of disappointment grew heavier. I was not simply breaking promises — I was reinforcing the belief that something was fundamentally wrong with me.
+Each time I promised myself I would never return to old patterns, I meant it with sincerity. But with each repeated failure, the weight of disappointment grew heavier. I was not simply breaking promises — I was feeding the belief that something was fundamentally wrong with me.
 
-In my marriage, secrecy wasn't driven by a belief that I could get away with anything. It came from shame. It wasn't that I feared my wife would leave if she ever found out. I believed I deserved abandonment. What I feared was that full exposure would confirm what I already suspected about myself.
+In my marriage, secrecy wasn't driven by a belief that I could get away with anything. It came from shame. I just didn't want anyone to know. It wasn't that I feared my wife would leave me if she ever found out. I believed that was exactly what I deserved. What I feared was that full exposure would confirm what I already suspected about myself. Failure.
 
-Looking back now, I can see how distorted my thinking had become. I lived as though every interaction revolved around me — my needs, my fears, my internal turmoil. I moved through life impaired, unaware of how deeply that impairment affected everyone around me. My vision was bent inward; I was present in body but often absent in attention, patience, and care. I was correcting, controlling, and withdrawing without realizing how much of myself was missing in the process.
+Looking back now, I can see how distorted my thinking had become. I lived as though every interaction revolved around me — my needs, my fears, my internal struggle. My focus was always on me; I was present in body but often absent in attention, patience, and care. I was correcting, controlling, and withdrawing without realizing how it affected the world around me.
 
-When I was younger, I was often compared to who I should have been, rather than seen for who I was. It took years for me to realize that I was not created to be someone else. I was created to be me. But something in me had gone terribly off course.
+When I was younger, I was often compared to who I should have been — "Why can't you be more like your brother, or cousin, or neighbor? — rather than being seen for who I was. As a result, it took years for me to realize that I was not created to be someone else. I was created to be me. But something in me seemed broken.
 
-Even moments that felt like confession or progress were incomplete. When I finally named my struggle out loud in a faith setting, the response was quiet, unremarkable. At the time, that felt devastating. Now I see it as mercy. God was at work beneath the surface, unconcerned with spectacle, always working within His time.
+Even my feeble attempts to reach out within my church-family led to disappointment. When I finally named my addiction out loud and asked for help, the response was silence. That was devastating. It was also mercy. God was at work beneath the surface. Unconcerned with appearances, He was always working within His time.
 
-I entered recovery spaces more than once convinced that insight alone would be enough. When early progress came easily, I mistook momentum for healing. I believed I was different.
+I entered recovery spaces more than once convinced that insight alone would be enough. When early progress came easily, I mistook it for healing. I could see that the others in the groups were engaged in life-long battles, but I believed I was different.
 
 I wasn't.
 
@@ -131,7 +131,7 @@ My first cell was smaller than my bedroom closet at home. Two steel bunks were b
 
 The world grew smaller by the day. I only saw the sky in fragments — thin slices visible only at certain angles. I missed the feel of grass beneath my feet, the enjoyment of ordinary beauty. Even the language around me wore me down. Profanity filled the air like exhaust, constant and unavoidable, until silence itself felt holy.
 
-Many of the men around me carried affiliations and histories I did not share. I kept my distance at first, unsure of where I fit or if I fit at all. They spoke a language — both spoken and unspoken — that I didn't yet understand. Most had been incarcerated before. They knew the routines, the expectations, how to speak to officers, how to move through the day. I learned slowly — sometimes by watching, sometimes by missteps. Over time, as I adapted. I became less invisible and less afraid.
+Many of the men around me carried affiliations and histories I did not share. I kept my distance at first, unsure of where I fit or if I fit at all. They spoke a language — both spoken and unspoken — that I didn't yet understand. Most had been incarcerated before. They knew the routines, the expectations, how to speak to officers, how to move through the day. I learned slowly — sometimes by watching, sometimes by missteps. Over time, as I adapted, I became less invisible and less afraid.
 
 Occasionally, in the yard, a bird would fly overhead. For a moment, the entire space would change. Men stopped talking. Heads tilted upward. Freedom passed above us on wings, and for reasons I still can't fully explain, that small, ordinary moment felt like grace.
 
@@ -139,7 +139,7 @@ Because I spent so much time reading my Bible, I began bringing it with me durin
 
 Some began to look to me as a pastor, a role I knew well but no longer felt worthy of. Yet it became clear that God was not finished with me. That realization often left me awake at night, overwhelmed by the thought that He would still choose to work through someone with my past.
 
-I was privileged to walk alongside men who were beginning to rediscover faith — or encountering it for the first time. Their questions pushed me deeper into Scripture. And God met me there, again and again.
+I had the privilege of walking alongside men who were beginning to rediscover faith — or encountering it for the first time. Their questions pushed me deeper into Scripture. And God met me there, again and again.
 
 It became clear that what I was learning was not only for survival inside those walls. These lessons would matter long after I left.
 

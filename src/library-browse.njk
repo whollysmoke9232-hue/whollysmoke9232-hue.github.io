@@ -117,6 +117,15 @@ permalink: /library/
     color: #6a5d4d;
     line-height: 1.5;
   }
+  .lib-date {
+    display: none;
+    font-size: 0.85rem;
+    color: #9a8a7a;
+    margin: 0.1rem 0 0.15rem;
+  }
+  #lib-list.lib-list--dated .lib-date {
+    display: block;
+  }
   #lib-empty {
     display: none;
     color: #7a6a4f;
@@ -176,6 +185,7 @@ permalink: /library/
             data-title="{{ item.data.title }}"
             data-date="{{ item.data.date }}">
           <a href="{{ item.url }}">{{ item.data.title }}</a>
+          <span class="lib-date">{{ item.data.date | readableDate }}</span>
           {% if item.data.excerpt %}<p>{{ item.data.excerpt }}</p>{% endif %}
         </li>
         {% endfor %}
@@ -223,6 +233,7 @@ function renderList() {
   });
   visible.forEach(function(item) { list.appendChild(item); });
 
+  list.classList.toggle('lib-list--dated', currentSort === 'date');
   document.getElementById('lib-empty').style.display = visible.length === 0 ? 'block' : 'none';
 
   document.querySelectorAll('.sort-btn').forEach(function(btn) {
