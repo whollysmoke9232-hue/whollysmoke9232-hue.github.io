@@ -1,7 +1,7 @@
 ---
 title: "Beyond Knowing"
 author: "Steve Wilkins"
-date: 2026-05-15
+date: 2026-05-16
 layout: article.njk
 category: meditations
 excerpt: "Psalm 136 repeats 'His lovingkindness is everlasting' twenty-six times. A meditation on why the repetition is the point — and what happens when you stop counting and let it pull you under."

@@ -1676,16 +1676,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/library/good-gifts/</loc>
-    <lastmod>2026-05-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/library/selah/</loc>
-    <lastmod>2026-05-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/the-passover-lamb/</loc>
     <lastmod>2026-05-15</lastmod>
     <priority>0.8</priority>
@@ -1778,6 +1768,16 @@
   <url>
     <loc>https://www.marginsdevotionals.com/search/</loc>
     <lastmod>2026-05-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/good-gifts/</loc>
+    <lastmod>2026-05-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/selah/</loc>
+    <lastmod>2026-05-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
