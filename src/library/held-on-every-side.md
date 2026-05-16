@@ -4,7 +4,6 @@ author: "Steve Wilkins"
 date: 2026-01-03
 layout: article.njk
 category: devotionals
-permalink: /library/held-on-every-side/
 excerpt: "As mountains encircle Jerusalem, God’s presence surrounds His people — corporately and personally — now and forever."
 tags:
   - suffering

@@ -4,7 +4,6 @@ author: "Steve Wilkins"
 date: 2026-05-15
 layout: article.njk
 category: devotionals
-permalink: /library/the-passover-lamb/
 excerpt: "From the skins God made for Adam and Eve, to the blood of the Passover lambs, to the cross — there is one unbroken thread. This is what Jesus walked into."
 tags:
   - sin

@@ -4,7 +4,6 @@ author: "Steve Wilkins"
 date: 2025-08-02
 layout: article.njk
 category: devotionals
-permalink: /library/faith-from-beginning-to-end/
 excerpt: "Righteousness isn't earned — it's credited by faith. From salvation to sanctification, the entire journey is a gift of grace, received through faith from beginning to end."
 tags:
   - faith
@@ -47,6 +46,6 @@ As we walk with Christ, our lives are gradually transformed into His image. This
 
 Even faith itself is a gift from the Holy Spirit. It's not something we conjure up on our own, but a divine enablement that allows us to receive all that God has for us.
 
-So, let go of the burden of earning. Embrace the freedom of receiving. 
+So, let go of the burden of earning. Embrace the freedom of receiving.
 
 From the moment we first believe to the very end of our journey, it is all by faith.

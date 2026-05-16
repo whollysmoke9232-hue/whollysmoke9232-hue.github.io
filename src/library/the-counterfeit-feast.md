@@ -4,7 +4,6 @@ author: "Steve Wilkins"
 date: 2026-01-03
 layout: article.njk
 category: reflections
-permalink: /library/the-counterfeit-feast/
 excerpt: "A sober look at Proverbs 9 and the deceptive invitation of folly that mimics wisdom but ultimately leads to death."
 tags:
   - sin

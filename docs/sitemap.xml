@@ -181,6 +181,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.marginsdevotionals.com/library/faith-from-beginning-to-end/</loc>
+    <lastmod>2025-08-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.marginsdevotionals.com/library/look-and-live/</loc>
     <lastmod>2025-08-02</lastmod>
     <priority>0.8</priority>
@@ -213,6 +218,11 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/the-god-who-is-heard/</loc>
     <lastmod>2025-12-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/held-on-every-side/</loc>
+    <lastmod>2026-01-03</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1671,11 +1681,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/search/</loc>
-    <lastmod>2026-05-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/for-you/</loc>
     <lastmod>2026-05-15</lastmod>
     <priority>0.8</priority>
@@ -1712,11 +1717,6 @@
   </url>
   <url>
     <loc>https://www.marginsdevotionals.com/knowing-god/</loc>
-    <lastmod>2026-05-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/learning-to-pray/</loc>
     <lastmod>2026-05-15</lastmod>
     <priority>0.8</priority>
   </url>
@@ -1776,12 +1776,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.marginsdevotionals.com/books/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.marginsdevotionals.com/library/</loc>
     <lastmod>2026-05-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/books/</loc>
+    <loc>https://www.marginsdevotionals.com/learning-to-pray/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/search/</loc>
     <lastmod>2026-05-15</lastmod>
     <priority>0.8</priority>
   </url>

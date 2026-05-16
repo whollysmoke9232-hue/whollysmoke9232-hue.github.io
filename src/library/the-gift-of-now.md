@@ -4,7 +4,6 @@ author: "Steve Wilkins"
 date: 2026-01-03
 layout: article.njk
 category: meditations
-permalink: /library/the-gift-of-now/
 excerpt: "We often rush past the present while waiting for something better."
 tags:
   - presence
