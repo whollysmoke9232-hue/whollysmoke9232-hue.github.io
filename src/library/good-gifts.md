@@ -1,7 +1,7 @@
 ---
 title: "Good Gifts"
 author: "Steve Wilkins"
-date: 2026-05-15
+date: 2026-05-16
 layout: article.njk
 category: meditations
 excerpt: "What does it mean when the Giver becomes the gift? A meditation on Psalm 16:5–6, and what we miss when we seek only what God can do rather than God Himself."

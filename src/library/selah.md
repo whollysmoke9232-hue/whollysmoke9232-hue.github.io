@@ -1,7 +1,7 @@
 ---
 title: "Selah"
 author: "Steve Wilkins"
-date: 2026-05-15
+date: 2026-05-16
 layout: article.njk
 category: reflections
 excerpt: "Selah appears seventy-four times in Scripture and no one agrees on what it means. But God doesn't do something seventy-four times just because. A reflection on what happens when we stop rushing past it."
@@ -36,7 +36,7 @@ The LORD of hosts is with us;
 The God of Jacob is our stronghold.  
 Selah.***
 
-***Come, behold the works of the LORD,  
+> ***Come, behold the works of the LORD,  
 Who has wrought desolations in the earth.  
 He makes wars to cease to the end of the earth;  
 He breaks the bow and cuts the spear in two;  

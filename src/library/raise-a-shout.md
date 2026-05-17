@@ -45,11 +45,15 @@ It isn’t intended to. This “shouting” is an aspect of worship that is miss
 
 In Hebrew, it is not figurative. It describes a very literal shout. A victory shout, to be specific. It is an unrestrained eruption of emotion in the presence of our victorious King. It is not in response to an order or instruction that now is the time to shout. It is a spontaneous reaction to something we know or have witnessed.
 
-The Psalmist is pointing out that it is appropriate that we should shout when we consider Who God is and what He has accomplished for us. What he is describing is energy. Volume. Celebration.
+Most of us have no concept of living in the fear that was not uncommon in Israel. When their enemy advanced toward their city, there was a very real possibility that if defeated, the people would face slavery, exile, or even death. So as their Champion [or King] and his army left the city to meet the enemy in battle, all the hope of the people behind the gate rested on the shoulders of this Champion. As he fared, they fared. Their fate was completely out of their hands.
+
+It is easy to understand then, that when he returned in victory, the celebration was spontaneous, unbridled. The triumphant return of the victorious King.
+
+The Psalmist is pointing out that it is appropriate that we should shout when we consider Who God is — our Ultimate Champion — and what He has accomplished for us. What he is describing is energy. Volume. Celebration.
 
 It is striking that we so naturally scream until we lose our voices in support of our favorite sports team; but we are uncomfortable showing the same expression of joy and excitement when we approach God.
 
-Psalm 100 suggests that our worship starts with shouting in responce to God’s power and faithfulness before we enter a time of contemplation.
+Psalm 100 suggests that our worship starts with shouting in response to God’s power and faithfulness before we enter a time of contemplation.
 
 ---
 
