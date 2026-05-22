@@ -699,7 +699,7 @@ In May, my wife asked for a divorce.
 
 I didn't want it. But I didn't want to hurt her any more.
 
-My first grandson was born in May. I still haven't met him. His mother—my daughter—won't speak to me.
+My first grandson was born in June. I still haven't met him. His mother—my daughter—won't speak to me.
 
 The divorce was finalized in September.
 
