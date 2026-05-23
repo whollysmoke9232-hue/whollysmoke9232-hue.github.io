@@ -4,7 +4,7 @@
   const countEl = document.querySelector("[data-library-search-count]");
   const statusEl = document.querySelector("[data-library-search-status]");
 
-  if (!input || !resultsWrap || !countEl || !statusEl) {
+  if (!input || !resultsWrap || !countEl) {
     return;
   }
 
@@ -111,13 +111,13 @@
 
     if (tokens.length === 0) {
       clearResults();
-      statusEl.textContent = "Search by scripture, tags, themes, or article text.";
+      if (statusEl) statusEl.textContent = "Search by scripture, tags, themes, or article text.";
       return;
     }
 
     if (tokens.join(" ").length < MIN_QUERY_LENGTH) {
       clearResults();
-      statusEl.textContent = "Type at least 2 characters.";
+      if (statusEl) statusEl.textContent = "Type at least 2 characters.";
       return;
     }
 
@@ -129,11 +129,11 @@
       .map((entry) => entry.doc);
 
     renderResults(matches);
-    statusEl.textContent = "";
+    if (statusEl) statusEl.textContent = "";
   }
 
   async function init() {
-    statusEl.textContent = "Loading search index...";
+    if (statusEl) statusEl.textContent = "Loading search index...";
 
     try {
       const response = await fetch(INDEX_PATH, { cache: "no-store" });
@@ -145,14 +145,14 @@
       docs = Array.isArray(payload.documents) ? payload.documents : [];
       ready = true;
 
-      statusEl.textContent = `Ready to search ${docs.length} library entries.`;
+      if (statusEl) statusEl.textContent = `Ready to search ${docs.length} library entries.`;
       input.removeAttribute("disabled");
       input.focus();
 
       input.addEventListener("input", runSearch);
     } catch (error) {
       ready = false;
-      statusEl.textContent = "Search is unavailable right now.";
+      if (statusEl) statusEl.textContent = "Search is unavailable right now.";
       console.error(error);
     }
   }
