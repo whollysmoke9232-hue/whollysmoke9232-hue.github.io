@@ -8,11 +8,12 @@ author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/chapter-2/"
 ---
 
-Before the first word of creation was spoken, God already knew – or better, God already knows.
+Before the first word of creation was spoken, God already knew–or better, God already knows.
 
 He knew the shape of the universe, the passage of time, the rise and fall of nations. He knew the names of every star and the number of hairs on every head. He knew the sound of your voice before you took your first breath. He knew the choices you would make, the prayers you would whisper, the tears you would shed. He knew all the times you would excel, and all the times you would fail.
 
 He knew.  
+
 And He still chose to create.
 
 ---
@@ -24,25 +25,25 @@ You know when I sit down and when I rise up;
 you discern my thoughts from afar.”*  
 ***—Psalm 139:1–2 (ESV)***
 
-God doesn’t need to investigate you. He doesn’t need to wait and see how your story unfolds. He already knows every detail of your life from beginning to end—and He loves you anyway. And it’s not because He can see into or predict the future. It’s because He’s there, right now, watching it happen. Your entire future. Even while He is beside you in this moment.
+That truth offered much needed comfort as I sat alone with it. It was one of the many places where I sensed God wrapping His arms around me, telling me I was still His.
 
-That is beyond comforting.
+God doesn’t need to investigate you. He doesn’t need to wait and see how your story unfolds. He already knows every detail of your life from beginning to end—and He loves you anyway. And it’s not because He can see into or predict the future. It’s because He’s there, right now, watching it happen. Your entire future. Even while He is beside you in this moment.
 
 ---
 
-One of the most powerful revelations I’ve come to embrace is this: God has never had a Plan B.
+One of the most powerful revelations I’ve come to embrace is that God has never had a "Plan B."
 
-The cross wasn’t a reaction. Jesus wasn’t sent because humanity surprised God with its brokenness. He was “the Lamb who was slain from the creation of the world” (Revelation 13:8). Before Adam ever fell, Christ had already risen.
+The cross wasn’t a reaction. Jesus wasn’t sent because humanity surprised God with its brokenness. He was *the Lamb who was slain from the creation of the world.* **—Revelation 13:8** Before Adam ever fell, Jesus had already risen.
 
-> *“For He chose us in Him before the creation of the world.”* **—Ephesians 1:4 (NIV)**
+> *For He chose us in Him before the creation of the world.* **—Ephesians 1:4 (NIV)**
 
 That means your life is a masterpiece unfolding in time, already complete in the mind of God.
 
 ---
 
-We live in a linear world. Past, present, future. One moment after another. But God exists beyond time. He sees the whole timeline at once—like an artist viewing the entire canvas, not just the brushstroke in progress.
+We live in a linear world. Past, present, future. One moment after another. But God exists beyond time. He sees the whole timeline at once—like an artist viewing the entire canvas, not just the brushstroke in progress. God already knows precisely how you fit into the completed picture—and why your position is critical to the finished work.
 
-That means He sees you not only as you are, but as you will be. He sees the healed version of you. The whole version. The glorified version. And He relates to you from that place.
+That means He sees you not only as you are, but as you will be. He sees the healed version of you. The whole version. The glorified version. And He relates to you from that perspective.
 
 So when He calls you righteous, even when you feel broken—He’s not lying. He’s speaking from the end of the story.
 
@@ -50,8 +51,10 @@ So when He calls you righteous, even when you feel broken—He’s not lying. He
 
 There’s a holy weight to being known by God. It’s not just that He knows your name—it’s that He knows your purpose. He knows what He placed inside you. He knows what He’s building through you. And He knows how every trial, every delay, every detour is shaping you into the image of His Son.
 
-> *“For those God foreknew He also predestined to be conformed to the likeness of His Son.”* **—Romans 8:29 (NIV)**
+That's not accidental language. Being conformed to His Son was never an afterthought — it was the destination God had in mind before the journey began.
+
+> *For those God foreknew He also predestined to be conformed to the likeness of His Son.* **—Romans 8:29 (NIV)**
 
 You are not a mystery to God. You are not a disappointment. You are not behind schedule.
 
-You are known. And you are right on time. You are right where you are supposed to be.
+You are known. You are right on time. You are right where you are supposed to be.

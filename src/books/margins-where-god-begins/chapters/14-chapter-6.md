@@ -28,7 +28,7 @@ When God told Abraham to offer Isaac as a sacrifice (Genesis 22:2), He was paint
 
 When Moses fled to Midian (Exodus 2:15), God was painting on a canvas that was bigger than Moses could see.
 
-When Sampson told Delilah the secret to his strength (Judges 16:17), God was painting on a canvas that was bigger than either of them could see.
+When Samson told Delilah the secret to his strength (Judges 16:17), God was painting on a canvas that was bigger than either of them could see.
 
 When Joseph's brothers sold him into slavery (Genesis 37:28); when David should have been “off to war” (2 Samuel 11:1); “In the year that King Uzziah died” (Isaiah 6:1); when Mary was engaged to be married to Joseph (Matthew 1:18); when Judas betrayed Jesus (Luke 22:4); God was painting on a canvas that was bigger than any of them could see.
 

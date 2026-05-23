@@ -16,6 +16,10 @@ In that pause, empires and institutions rose and fell. Roads were built. Languag
 
 God was preparing the perfect conditions for the Word to become flesh.
 
+After the six days of creation, God rested. He paused.
+
+The pause is part of the pattern. It’s not a disruption—it’s part of the divine design.
+
 ---
 
 We know what happened on Maundy Thursday, Good Friday, and Resurrection Sunday (or Easter). But what about Saturday?
@@ -28,6 +32,8 @@ But even in the tomb, God was working. Even in the pause, the plan was unfolding
 
 ---
 
+I'm in that pause now. Waiting for my legal case to be resolved. Waiting for employment to materialize. Waiting for more permanent housing.
+
 We all have seasons that feel like pauses.
 
 The job that hasn’t come.
@@ -37,6 +43,8 @@ The dream that hasn’t been fulfilled.
 
 It’s easy to believe that God is only present in the action—in the breakthroughs, the miracles. But He is just as present in the waiting. In fact, it’s in those times of waiting that God is closest to us. Healing us. Preparing us. Restoring us. Carrying us.
 
+It's in this waiting that God is inspiring me to write. To tell my story. To help me unravel what transpired in my life over the last three years.
+
 Sometimes, the pause is the point.
 
 ---
@@ -44,16 +52,13 @@ Sometimes, the pause is the point.
 In the pause, God builds trust and strengthens roots.  
 In the pause, He prepares us for what’s next.
 
-> *“Be still, and know that I am God.”* **—Psalm 46:10 (NIV)**
+> *Be still, and know that I am God.* **—Psalm 46:10 (NIV)**
 
 It's in the stillness that we surrender. It’s in the stillness that we choose to believe that God is working even when we can’t see it.
 
 ---
-After the six days of creation, God rested. He paused.
 
-The pause is part of the pattern. It’s not a disruption—it’s part of the divine design.
-
-> *“There is a time for everything, and a season for every activity under the heavens…”* **—Ecclesiastes 3:1 (NIV)**
+> *There is a time for everything, and a season for every activity under the heavens…* **—Ecclesiastes 3:1 (NIV)**
 
 Even Jesus paused. He withdrew to lonely places. He never rushed. He moved in step with the Father’s timing.
 

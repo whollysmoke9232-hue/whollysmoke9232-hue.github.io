@@ -64,7 +64,7 @@ Where I stumble, He remains faithful. Where I strive for credit, He empties Hims
 
 My hope is not that I will someday do good consistently enough to contradict the Psalm. My hope is that Christ has already done good completely enough to fulfill it.
 
-Dependence, then, is not some weakness to be overcome, it is the posture that finally tells the truth. “I can do nothing apart from You” is not a spiritual slogan — it is a confession of reality.
+Dependence, then, is not some weakness to be overcome; it is the posture that finally tells the truth. “I can do nothing apart from You” is not a spiritual slogan — it is a confession of reality.
 
 And in that confession, grace is no longer theoretical. It becomes daily bread.  
 

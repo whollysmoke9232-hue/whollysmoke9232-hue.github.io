@@ -10,7 +10,7 @@ permalink: "/books/margins-where-god-begins/interlude-gods-plan/"
 
 <div style="text-align: center; font-style: italic;">
 
-Throughout my life, I’ve been on a road. Along this road, there have been countless events and encounters—each one shaping me, preparing me for something still ahead.
+Life is a journey. Along the path, there are countless events and encounters—each one shaping, preparing for something still ahead.
 
 Cause and effect.
 
@@ -27,9 +27,15 @@ God knows what lies ahead, and He knows what I’ll need when I get there. The l
 And then, that destination becomes the next preparation.
 
 So I’m learning to stop fighting.  
-To stop trying to escape the hard places.  
+
+To stop trying to escape the detours.
+
+The pauses.
+
 I’m learning to be present.  
-To live in the moment.  
+
+To live in the moment.
+
 And to leave what’s next in God’s hands.
 
 </div>

@@ -29,7 +29,7 @@ He was building me into something far greater—
 A beautiful, spacious mansion...  
 Fit for a King.
 
-He is transforming me into “a temple of the Holy Spirit.”  
+He is transforming me into *a temple of the Holy Spirit.*  
 (1 Corinthians 6:19)
 
 </div>

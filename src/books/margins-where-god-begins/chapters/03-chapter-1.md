@@ -16,7 +16,7 @@ But a space filled with the fullness of God.
 
 It’s the space just to the left of Genesis 1:1 in your Bible. Go ahead—open it. Look at it. That tiny space before the words *“In the beginning...”* That’s where my favorite part of the Bible lives. Not in a verse or a chapter, not even in a book—but in that silence before the story begins.
 
-Because in that margin, God already knows.
+Because in that margin, God already knows. And creation is already complete.
 
 He knows the entire story—every thought, every intention, every word, every life, every act of redemption. He knew the laughter of Sarah and the tears of Jeremiah. He knew the betrayal of Judas and the restoration of Peter. He knows the cross. He knows the empty tomb. He knows you. He knows me.
 
@@ -24,7 +24,7 @@ And He has a plan.
 
 ---
 
-For most of 2023 and 2024, I found myself in a season of stillness. I had more time on my hands than I’d ever had before. What began as boredom turned into a divine opportunity.
+For most of 2023 and 2024, I found myself in a season of stillness. I had more time on my hands than I’d ever had before. What began as isolation turned into a divine opportunity.
 
 I started reading—10 to 14 hours a day. Dozens of Christian books. Some of these books spoke to me deeply, leading me to read them several times. In fact, there were a couple that I read so many times that I began to wonder if I could rewrite them myself.
 
@@ -40,6 +40,8 @@ The deeper I went, the more I realized something profound: none of this was acci
 
 For the first time, I realized that the history books are just that—history. They are the story of lives that were actually lived.
 
+And we can find ourselves in many aspects of their stories.
+
 ---
 
 Think about Joseph, the son of Jacob. He was favored by his father and despised by his brothers. Sold into slavery. Favored by his master. Unjustly thrown into prison. Favored by his jailer. Then forgotten by the cupbearer.
@@ -50,7 +52,7 @@ But God was doing something.
 
 Every moment of Joseph’s life—every betrayal, every injustice, every delay—was preparation. God was shaping him, humbling him, positioning him. All of it was leading to a moment Joseph couldn’t yet see.
 
-So he could save his family from famine and bring them to Egypt, where they could become a nation, so the promise to Abraham could be fulfilled, and so the Messiah could come.
+It was all so he could save his family from famine and bring them to Egypt, where they could become a nation, so the promise to Abraham could be fulfilled, and so the Messiah could come.
 
 Joseph couldn't see the big picture.  
 But God did.
@@ -62,11 +64,9 @@ But God was writing the masterpiece.
 
 That’s why I keep coming back to the margin before Genesis 1:1. Because in that space, God already knows. He saw the whole story before the first word was written. He still sees it all.
 
-> *“Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be.”* **—Psalm 139:16 (NIV)**
+> *Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be.* **—Psalm 139:16 (NIV)**
 
-> *“He chose us in Him before the creation of the world.”* **—Ephesians 1:4**
-
-> *“The Lamb who was slain from the creation of the world.”* **—Revelation 13:8**
+> *He chose us in Him before the creation of the world.* **—Ephesians 1:4**
 
 Before the beginning, He was already there.  
 Already loving.  
@@ -75,3 +75,5 @@ Already redeeming.
 
 That margin is not empty.  
 It is filled with the mind of God.
+
+> *The Lamb who was slain from the creation of the world.* **—Revelation 13:8**

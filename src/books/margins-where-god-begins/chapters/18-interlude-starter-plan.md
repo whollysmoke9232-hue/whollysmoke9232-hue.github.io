@@ -48,4 +48,8 @@ So read. Let His Word pour into your heart.
 
 Then celebrate His work in and through you.
 
+---
+
+I have followed this plan for over forty years now. And I still discover something new nearly every day.
+
 *See Index for an easy to follow reading chart.*

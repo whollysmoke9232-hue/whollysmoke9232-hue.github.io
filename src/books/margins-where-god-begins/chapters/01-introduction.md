@@ -26,6 +26,6 @@ During a season of stillness, I found myself reading the Bible like never before
 
 I saw how every story, every life, every moment was part of something much bigger.
 
-I saw that God was never reacting—He was revealing. That He wasn’t figuring things out—He already knew. That before the first word was spoken, the entire story was already written within the mind of God.
+I saw that God was never reacting—He was revealing. That He wasn’t figuring things out—He already knew. Before the first word was spoken, the entire story was already written within the mind of God.
 
 This book is an invitation to step into that margin. To pause. To wonder. To see your life not as a series of disconnected events, but as a thread in the eternal tapestry of God’s plan.

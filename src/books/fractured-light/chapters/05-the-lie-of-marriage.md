@@ -9,67 +9,63 @@ author: "Steve Wilkins"
 permalink: "/books/fractured-light/chapter-5/"
 ---
 
-She was the answer to my prayer. She was beautiful, Godly, and Kind.
+She was the answer to my prayer. She was beautiful, Godly, and kind.
 
-We met in church. We courted with intention. We worshiped together. She made me want to be a better man.
+We met in church. We courted with intention. We worshiped together. She made me want to be a better man. I wanted to become a Godly husband. To love her as Jesus loved the church. To walk with her for the rest of my life.
 
 And I believed the lies: Marriage will fix me; intimacy will heal me; love will override lust.
 
 But it didn't.
 
-The shame I carried made intimacy almost impossible. It warped my view of her. It warped her view of herself.
+It turned out that the shame I carried made intimacy almost impossible. It warped my view of her. It warped her view of herself.
 
 I could see it. I could feel it. And I hated myself for it. But I still couldn't change it.
 
-So I did what I always did: I dove deeper into my addiction.
+So I did what I always did: I dove back into my addiction. But deeper than before.
 
-Magazines.
-Fantasies.
-Acting out.
+More magazines. Fantasies. Acting out.
 
-Not just physical. Not just psychological. But spiritual.
+This was no longer just physical. Not just psychological. It was deeply spiritual.
 
 Jesus said, "Everyone who practices sin is a slave to sin."
 
-And I was practicing... Daily. Secretly. Desperately.
+And I was practicing... Daily. Secretly. Desperately. I was a slave. But I didn’t know it.
 
-I convinced myself:
+I convinced myself: She'll never know. That I wasn’t hurting anyone. That I'd stop soon.
 
-- She'll never know.
-- It's not hurting anyone.
-- I'll stop soon.
-
-But she did know. It was hurting ***her.*** And I didn't stop.
+But she did know. It was hurting her. And I didn't stop.
 
 The addiction spread like mold. It warped my relationships. My identity. My sense of reality.
 
-I stopped seeing her as a soul. I started seeing her as a solution.
+I stopped seeing her as a soul. I started seeing her as a solution. And then as part of the problem.
 
 And when she couldn't fix me, I blamed her.
 
 Marriage didn't heal me. It exposed me.
 
-## Biblical Parallel: Hosea 1-3
+## Hosea 1-3
 
-**Love That Won't Let Go**
+Love That Won't Let Go
 
 God told Hosea to marry a prostitute—not to shame her—to love her.
 
-She left him again and again.
+So he did.
 
-She returned to her old lovers. She sold herself.
+And she left him.
 
-Hosea didn't rage. He pursued her. He bought her back. He spoke tenderly to her.
+She returned to her old lovers. Her old home. She sold herself.
 
-He said, *"You are mine."* Not because she was faithful. Because *he* was.
+But Hosea didn't rage. He pursued her. He bought her back. He spoke tenderly to her.
+
+He said, "You are mine." Not because she was faithful. Because he was.
 
 Hosea's love wasn't blind. It was relentless.
 
-And God said, *"This is how I love Israel."*
+And God said, "This is how I love Israel."
 
-***This is how I love you.***
+This is how I love you.
 
-## Reflection: Love Isn't the Cure—Grace Is
+## Love Isn't the Cure—Grace Is
 
 Marriage is beautiful. But it's not a cure.
 
@@ -77,24 +73,16 @@ It's a mirror. It reflects what's hidden. It magnifies what's broken. It reveals
 
 My wife loved me. But she couldn't heal me. Only God could.
 
-And He didn't abandon me.
+And He never abandoned me.
 
-Even when I abandoned her.
+Even when I abandoned her. Even when I abandoned myself.
 
-Even when I abandoned myself.
+Even when I abandoned Him.
 
 God's love isn't sentimental. It's sacrificial. It's stubborn. It's holy.
 
-Like Hosea, He pursues. He redeems. He whispers, *"You are mine."*
+Like Hosea, He pursues. He redeems. He whispers, "You are mine."
 
-## Invitation
+Marriage could never heal me. My wife could never heal me—no matter how hard she tried, or how desperately she loved me.
 
-If you've believed the lie that love will fix you—let grace speak louder.
-
-Write down the expectations you placed on others to heal you.
-
-Then write what only God can do.
-
-Ask Him to love you like Hosea. To pursue you. To redeem you. To whisper, *"You are mine."*
-
-Because grace doesn't wait for you to be whole. It meets you in the fracture.
+But God could.

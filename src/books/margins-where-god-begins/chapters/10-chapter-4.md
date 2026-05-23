@@ -25,7 +25,7 @@ The One who spoke creation into existence. The One who walked with Adam, wrestle
 
 And then, He stepped into the story He authored.
 
-> *“The Word became flesh and made His dwelling among us.”* **—John 1:14 (NIV)**
+> *The Word became flesh and made His dwelling among us.* **—John 1:14 (NIV)**
 
 The Author became a character in His own story.
 
@@ -37,7 +37,9 @@ And He did it for love.
 
 The Word didn’t stop speaking after creation. He still speaks.
 
-He speaks through Scripture. Through the Spirit. Through family, friends, and others. Through the moments when your heart is still enough to hear Him. He speaks in the margins of your life—the spaces between the noise, the pauses between the plans.
+He speaks through Scripture. Through the Spirit. Through family, friends, and sometimes, strangers. Through the moments when your heart is still enough to hear Him. He speaks in the margins of your life—the spaces between the noise, the pauses between the plans.
+
+He spoke to me in isolation. When I was struggling with who I was and what I was worth. He spoke in a voice that was clearer than any human voice I've heard. He spoke words that moved beyond my thoughts and memory—straight into my heart. Into the part of me that makes me me. And He still speaks.
 
 And when He speaks, things happen.
 
@@ -49,6 +51,6 @@ The same Word that created the universe is now at work in you—as a living pres
 
 If Christ is the Word, and the Word lives in you, then you carry eternity within you. You carry the voice that calmed storms, cast out demons, and called Lazarus from the grave. You carry the very power of creation.
 
-You carry the Word that was before the beginning.
+You carry the Word that was before the beginning. Within you. Everywhere you go.
 
 And that Word is still creating. Still restoring. Still calling things into being that are not as though they were.

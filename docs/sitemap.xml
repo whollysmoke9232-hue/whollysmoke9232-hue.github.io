@@ -381,11 +381,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/manuscript/</loc>
-    <lastmod>2026-01-28</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/toc/</loc>
     <lastmod>2026-01-28</lastmod>
     <priority>0.8</priority>
@@ -1818,6 +1813,21 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/a-razor-blade/</loc>
     <lastmod>2026-05-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/fractured-light/manuscript/</loc>
+    <lastmod>2026-05-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/manuscript/</loc>
+    <lastmod>2026-05-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/scars-that-birthed-nations/</loc>
+    <lastmod>2026-05-23</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

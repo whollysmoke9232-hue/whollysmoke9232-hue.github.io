@@ -15,17 +15,13 @@ You've walked through my spiral. You've sat in my silence. You've stood in my ma
 
 I hope you've seen grace. Not the kind that erases consequences. The kind that enters them. Not the kind that waits for you to be clean. The kind that meets you in the dirt. Not the kind that fixes everything. The kind that stays when everything falls apart.
 
-This book isn't a roadmap. It's a witness.
+This story isn't a road-map. It's a witness.
 
-To the God who didn't abandon me.
-To the Word that reshaped me.
-To the Spirit who still whispers in the trees.
+To the God who didn't abandon me. To the Word that reshaped me. To the Spirit who still whispers.
 
 I don't know what comes next.
 
-I still face trial.
-I still face uncertainty.
-I still face rejection.
+I still face trial. I still face uncertainty. I still face rejection.
 
 But I also face grace.
 
@@ -50,7 +46,7 @@ And it's enough.
 <br>
 <br>
 
-I will leave you with a reflection written during my incarceration:
+I will leave you with a reflection from Lamentations written during my incarceration:
 
 <div style="font-family: 'Caveat', cursive; font-size: 1.5em;">
 

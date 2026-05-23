@@ -1,6 +1,6 @@
 ---
 title: "Chapter 8: The Surrender"
-chapterSubtitle: "When Exhaustion Looks Like Failure"
+chapterSubtitle: "When Exhaustion Feels Like Failure"
 layout: book-chapter.njk
 order: 8
 tags: 
@@ -23,17 +23,16 @@ Together, we worked out a plan to move forward in the light. He offered encourag
 
 I was cautiously optimistic. I experienced my first day "sober" in weeks. That sobriety began to feel like a new standard.
 
-## Biblical Parallel - Elijah running from Jezebel
+## Elijah running from Jezebel
 
-**First Book of Kings 19**
+*1 Kings 19*
 
 Elijah had just called down fire from heaven. He had just defeated the prophets of Baal. He had just witnessed the power of God in a way few ever have.
 
 And then… he collapsed.
 
 When Jezebel threatened him, fear overtook reason and Elijah ran. He fled into the wilderness, found a broom tree, sat down beneath it, and prayed to die.
-
-*“I have had enough, LORD,” he said. “Take my life…”* **—1 Kings 19:4**
+> “I have had enough, LORD,” he said. “Take my life…” —1 Kings 19:4
 
 He wasn’t weak. He was exhausted.
 
@@ -47,7 +46,7 @@ Only after his body was cared for did God speak. And when God finally spoke, it 
 
 It was in a whisper.
 
-## Reflection: Exhaustion Isn’t Failure
+## Exhaustion Isn’t Failure
 
 Sometimes collapse isn’t failure— it’s fatigue.
 
@@ -70,15 +69,3 @@ And God stayed.
 He gave him bread. He gave him water. He let him sleep.
 
 And when Elijah was finally able to hear Him—God came quietly. Gently. Near.
-
-## Invitation: Stay Under the Tree
-
-If you are exhausted—not just tired, *but done*—you are not disqualified. You are not failing. You are human.
-
-Sit down. Rest. Eat. Breathe.
-
-You don’t have to fix everything today. You don’t have to win the war tonight. Sometimes the holiest thing you can do is stay alive one more day.
-
-Because God does not require strength from the exhausted. He provides presence.
-
-And presence is enough.

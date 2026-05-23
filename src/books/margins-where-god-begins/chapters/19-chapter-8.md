@@ -18,16 +18,16 @@ The margin isn’t the absence of purpose. It’s the preparation for it.
 
 ---
 
-When you live with margin-awareness, you begin to see your life differently. You stop rushing through the in-between moments. You stop resenting the waiting. You start looking for God in the quiet corners.
+When you live with margin-awareness, you begin to see your life differently. You stop rushing through the in-between moments. You stop resenting the waiting. You start looking for God in the quiet corners. You become aware that when life seems to have stopped moving forward, those are the times when God is most active—doing the work that could not be done in the midst of your activity.
 
 Because He’s there.
 
 He’s in the long commute.  
 He’s in the sleepless night.  
 He’s in the seemingly unanswered prayer.  
-He’s in the ordinary Tuesday.
+He’s in Tuesday.
 
-> *“Surely the Lord is in this place, and I was not aware of it.”* **—Genesis 28:16 (NIV)**
+> *Surely the Lord is in this place, and I was not aware of it.* **—Genesis 28:16 (NIV)**
 
 Jacob said those words after waking from a dream in the middle of nowhere. But God had been there all along.
 
@@ -39,22 +39,21 @@ God is not figuring you out.
 He’s not waiting to see how your story ends.  
 He’s already there.
 
-> *“For we are God’s masterpiece. He has created us anew in Christ Jesus, so we can do the good things He planned for us long ago.”* **—Ephesians 2:10 (NLT)**
+> *For we are God’s masterpiece. He has created us anew in Christ Jesus, so we can do the good things He planned for us long ago.* **—Ephesians 2:10 (NLT)**
 
 You are not becoming His masterpiece.  
-You are His masterpiece. You are simply becoming aware of it.
+You ***are*** His masterpiece. You are simply becoming aware of it.
 
 It is as if God has given us a mirror in which we see what we look like through our own eyes; and a picture of Jesus that allows us to see what we look like to God.
 
-> *“God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.”* **—II Corinthians 5:21 (NIV)**
+> *God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.* **—II Corinthians 5:21 (NIV)**
 
 ---
 
-Living in the margin doesn’t mean living means living purposefully. It means walking through life with the awareness that every moment is sacred, every encounter is divine, and every step is part of the plan.
+Living in the margins means walking through life with the awareness that every moment is sacred, every encounter is divine, and every step is part of the plan.
 
 It means listening more.  
 Trusting more.  
 Resting more.  
-Obeying more.
 
 It means living like you’re already in the presence of the One who wrote your story—because you are!

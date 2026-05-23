@@ -8,6 +8,12 @@ author: "Steve Wilkins"
 permalink: "/books/margins-where-god-begins/interlude-its-about-you/"
 ---
 
+> ***Because for Your sake I have borne reproach;  
+dishonor has covered my face.***  
+*—Psalm 69:7*
+
+---
+
 <div style="text-align: center; font-style: italic;">
 
 O God, this isn’t about me at all;  
@@ -30,9 +36,5 @@ You who lifts my soul from the grave.
 
 My life is in Your hands.  
 There is nowhere I would rather be.
-
-> *“Because for Your sake I have borne reproach;  
-> dishonor has covered my face.”*  
-> —Psalm 69:7
 
 </div>

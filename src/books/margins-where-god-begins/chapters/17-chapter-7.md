@@ -39,11 +39,11 @@ That’s not a guilt trip. It’s a gut check.
 
 ---
 
-The church is full of people who love the idea of the Word being a daily part of their lives—but never really submit to it.
+The church is full of people who love the idea of the Word being a daily part of their lives—but who never really submit to it.
 
-What if it became illegal to open your Bible?
+What if it became illegal to own your Bible?
 
-Many would fight for the right to own one... just to put it back in the closet.
+Many of us would fight for the right to own one... just to put it back in the closet.
 
 We are spiritually malnourished because we have neglected His Word.
 
@@ -62,6 +62,12 @@ The question is: **What are you a student of?**
 
 What is your study focused on? Where do you spend your time? What are you allowing to shape you?
 
+Consider that there is a drawbridge between the world and your mind. Only you control when it raises and falls. Only you control the information that builds your worldview.
+
+As I immersed myself in God's Word, my worldview changed in ways I never would have imagined. I now live with a peace that is truly beyond comprehension.
+
+I am determined that God's Word will play a prominent role in shaping how I view and react to the world. I am seizing control of the bridge.
+
 ---
 
 The wonderful thing about Bible study is that all you need is a Bible... and a willingness to study.
@@ -73,7 +79,7 @@ But to know Him. To hear His voice. To align your life with His truth.
 > *How can a young man keep his way pure?  
 By guarding it according to your word.  
 With my whole heart I seek you; let me not wander from your commandments!  
-I have storedup your word in my heart, that I might not sin against you.  
+I have stored up your word in my heart, that I might not sin against you.  
 Blessed are you, O Lord; teach me your statutes!  
 With my lips I declare all the rules of your mouth.  
 In the way of your testimonies I delight as much as in all riches.  
