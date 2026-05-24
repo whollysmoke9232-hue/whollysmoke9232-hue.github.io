@@ -45,6 +45,28 @@ It all exists within Him.
 
 ---
 
+The universe is vast. But it still exists within Him. It's easy to imagine that the galaxies are closer to God's scale than we are. But they're not. They are just bigger dirt.
+
+> *Who is like the LORD our God,  
+Who dwells on high,  
+Who humbles Himself to behold  
+The things that are in the heavens and in the earth?  
+**—Psalms 113:5-6**
+
+God reigns on high. He is above all of creation. So for Him to view any of it requires that He stoop down.
+
+It's easy to imagine that God has to stoop to notice me. According to Carl Sagan, I exist on a speck of dust floating on a sunbeam. I am small.
+
+But to consider that God has to stoop to view the galaxies? That's next level. But that is reality.
+
+This God — Who in His vastness, has to bend down to see the Milky Way — doesn't stop there. He keeps bending. Leaning in. Kneeling closer and closer. The Hebrew word translated, "humbles," is the same word translated elsewhere as "worship." And it carries the same connotation — to bow, lay prostrate, to humble oneself before one who is greater. This is the posture described in this verse. God bows all the way down to my level. To see me eye to eye. Not to tower above me. To frighten me. To put me in my place. But to show me in the clearest manner possible that He knows me. He accepts me. He loves me.
+
+And He assumes this same posture before you.
+
+God. The LORD. The Almighty, Creator of the universe, ***assumes the posture of worship toward His own creation*** to lift us up.
+
+---
+
 > *"Where can I go from your Spirit?  
 Where can I flee from your presence?  
 If I go up to the heavens, you are there;  
