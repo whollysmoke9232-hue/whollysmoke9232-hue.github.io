@@ -1,7 +1,7 @@
 ---
 title: "Why Fear?"
 author: Steve Wilkins
-date: 2026-01-26
+date: 2026-05-27
 layout: article.njk
 category: devotionals
 excerpt: "Fear multiplies in imagined futures, but faith finds its footing in a single, steady truth: God is for me."

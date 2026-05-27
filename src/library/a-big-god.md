@@ -65,6 +65,8 @@ And He assumes this same posture before you.
 
 God. The LORD. The Almighty, Creator of the universe, ***assumes the posture of worship toward His own creation*** to lift us up.
 
+This big God goes to the ash heap, to set us with princes (Psalm 113:7-8)
+
 ---
 
 > *"Where can I go from your Spirit?  
@@ -99,9 +101,7 @@ And everything that has ever happened — or ever will happen — is happening w
 
 It's hard to wrap our minds around. I know.
 
-I've been thinking about this for years.
-
-And the more I think about it, the more I realize:
+I've been thinking about this for years. And the more I think about it, the more I realize:
 
 > *I'll never fully comprehend it.*
 

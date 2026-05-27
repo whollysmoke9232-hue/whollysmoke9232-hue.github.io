@@ -361,11 +361,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/library/why-fear/</loc>
-    <lastmod>2026-01-26</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/library/all-things/</loc>
     <lastmod>2026-01-27</lastmod>
     <priority>0.8</priority>
@@ -1828,6 +1823,21 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/scars-that-birthed-nations/</loc>
     <lastmod>2026-05-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/on-amazon-and-life/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/what-fear/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/library/why-fear/</loc>
+    <lastmod>2026-05-27</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

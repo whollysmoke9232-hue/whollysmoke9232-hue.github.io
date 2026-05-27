@@ -48,7 +48,7 @@ In those moments, God assures me that He is not just some angry judge.
 
 What an amazing assurance!  
 
-I spent much of my childhood (and even some of my adulthood) viewing God as a ruthless judge—sitting on His throne somewhere in the sky, just waiting for me to mess up so He could smite me. I fear that many of us share that image from time to time.  
+I spent much of my childhood (and even some of my adulthood) viewing God as a ruthless judge — sitting on His throne somewhere in the sky, just waiting for me to mess up so He could smite me. I fear that many of us share that image from time to time.  
 
 But that is not the picture that Scripture paints.  
 
@@ -155,7 +155,7 @@ Shaking free from those restraints was one of the most liberating moments of my 
 
 It is here that the church faces what is possibly its greatest challenge.
 
-In our eagerness to gather as many lost souls into the fold, we have softened the Gospel to the point that it may have no meaning to many of those lost souls.
+In our eagerness to gather as many lost souls into the fold as possible, we have softened the Gospel to the point that it may have no meaning to many of those lost souls.
 
 We offer emotional pleas at the conclusion of our services — inviting all who fear eternity or question their faith to repeat a prayer. The forms differ, but they typically include:
 
@@ -167,9 +167,9 @@ Thank You for saving me.
 
 Then we declare them saved!
 
-The problem is that the scriptures don’t support that formula — or any formula at all.
+The problem is that the scriptures don’t support that formula — *or any formula at all.*
 
-In leading people through these invitations and prayers, we have introduced them to the false belief that they are indeed now “saved.” Many — if not most — of them are not. They responded out of raw emotion or fear. They had no real understanding of what they were saying or doing. In essence, they were reading a script. And then given the false hope that their eternity was now secured because they said the right words.
+In leading people through these invitations and prayers, we have introduced them to the false belief that they are indeed now “saved.” Many — if not most of them are not. They responded out of raw emotion or fear. They had no real understanding of what they were saying or doing. And no real thought to the possible consequences. In essence, they were reading a script. And then given the false hope that their eternity was now secured because they said the right words.
 
 > *Behold, the sower went out to sow; and as he sowed, some seeds fell beside the road, and the birds came and ate them up. Others fell on the rocky places, where they did not have much soil; and immediately they sprang up, because they had no depth of soil. But when the sun had risen, they were scorched; and because they had no root, they withered away.* **—Matthew 13:3-6**
 
@@ -182,7 +182,7 @@ We must be more careful in how we present the doorway to salvation. We have made
 > *In Him, you also, after listening to the message of truth, the gospel of your salvation—having also believed, you were sealed in Him with the Holy Spirit of promise,*  
 **—Ephesians 1:13**  
 
-We don't simply gain eternal life in "the hereafter," we get eternal life *that dwells within us!*  
+With justification, we don't simply gain eternal life in "the hereafter," we get eternal life *that dwells within us!*  
 
 This eternal life is not just about length. It is also about scope. The life we live is abundant!
 
@@ -193,11 +193,13 @@ At this point, we can perform a test of sorts.
 > *the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control*  
 **—Galatians 5:22-23**  
 
-If the Holy Spirit is active within us, we should be expressing these attributes—in increasing measure—as we grow in our faith.  
+If the Holy Spirit is active within us, we should be expressing these attributes — in increasing measure — as we grow in our faith.
 
-Again, this is not something we work at. These are the supernatural by-products of God's presence within us.  
+This is not a difficult test. As we examine ourselves in the mirror, can we identify evidence of this fruit? We are not looking for perfection; we're looking for movement. Is there more love, joy, peace, etc. evident in my life today than yesterday? Or this week, month, year, than last? This examination is not about sin; it's about fruit. Sin is proof that I am human. Fruit is proof that I am justified. When the fruit is present, celebrate. Then pray for increasing fruit.
 
-If I don't see the fruit clearly, I ask the Holy Spirit to open my eyes to the work He is already doing in me—and to continue that work.  
+Again, this is not something we work at. These are the supernatural by-products of God's presence within us. When was the last time you saw an apple or fig tree straining — face red, veins bulging — working to produce fruit. What a ridiculous thought! They don't work to produce fruit. An apple tree produces apples because it's an apple tree. In the same way, a Spirit-filled believer will produce spiritual fruit because they are filled with the Spirit.
+
+If I don't see the fruit clearly, I ask the Holy Spirit to confirm my spiritual condition. To open my eyes to the work that He is doing in me — and to continue that work.  
 
 > *Therefore if anyone is in Christ, he is a new creature; the old things passed away; behold, new things have come.*  
 **—2 Corinthians 5:17**  
