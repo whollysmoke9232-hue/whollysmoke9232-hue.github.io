@@ -168,6 +168,15 @@
   <p>All scripture references cited throughout Grace in the Margins, organized by book of the Bible.</p>
 </div>
 
+<input
+  id="scripture-search"
+  type="search"
+  placeholder="Search by book or passage — e.g. Psalm, John 3, Romans 8"
+  autocomplete="off"
+  style="display:block; width:100%; box-sizing:border-box; border:1px solid #ccb993; border-radius:6px; padding:0.65rem 0.75rem; font-size:1rem; margin-bottom:1.5rem;"
+/>
+<p id="scripture-search-count" style="font-size:0.9rem; color:#888; margin:-1rem 0 1.5rem 0;"></p>
+
 
 
 
@@ -49798,6 +49807,47 @@
 <nav class="explore-bubbles" aria-label="Return" style="margin-top: 2rem;">
   <a href="/">← Home</a>
 </nav>
+
+<script>
+(function () {
+  const input = document.getElementById('scripture-search');
+  const countEl = document.getElementById('scripture-search-count');
+  if (!input) return;
+
+  const sections = Array.from(document.querySelectorAll('.book-section'));
+
+  input.addEventListener('input', function () {
+    const query = this.value.trim().toLowerCase();
+
+    if (!query) {
+      sections.forEach(function (section) {
+        section.style.display = '';
+        section.querySelectorAll('li').forEach(function (li) { li.style.display = ''; });
+      });
+      countEl.textContent = '';
+      return;
+    }
+
+    let total = 0;
+    sections.forEach(function (section) {
+      let visible = 0;
+      section.querySelectorAll('li').forEach(function (li) {
+        const text = li.textContent.toLowerCase();
+        if (text.includes(query)) {
+          li.style.display = '';
+          visible++;
+        } else {
+          li.style.display = 'none';
+        }
+      });
+      section.style.display = visible ? '' : 'none';
+      total += visible;
+    });
+
+    countEl.textContent = total === 0 ? 'No matches.' : total + ' result' + (total === 1 ? '' : 's');
+  });
+})();
+</script>
 
 </main>
 
