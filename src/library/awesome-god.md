@@ -22,7 +22,7 @@ themes:
   - renewal
 ---
 
-> ***AThe LORD reigns, let the earth rejoice;  
+> ***The LORD reigns, let the earth rejoice;  
 let the many coastlands be glad!  
 Clouds and thick darkness are all around him;  
 righteousness and justice are the foundation of his throne.  
