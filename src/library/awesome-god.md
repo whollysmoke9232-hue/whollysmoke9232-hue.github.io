@@ -77,11 +77,11 @@ and strips the forests bare,
 and in his temple all cry, “Glory!”*  
 **—Psalms 29:3-9**
 
-This God whom we serve is the ultimate definition of **Awesome**.
+This God whom we serve is the ultimate definition of ***Awesome***.
 
 To be *awe-struck* is to stand in the overwhelming combination of terror and magnificence that produces *involuntary* reverence. Not admiration. Not appreciation. The kind of response you don't choose. The kind that happens to you.
 
-Why do so many in Scripture fall down as dead men when they encounter the awesome presence of God? It is simply because they couldn’t stand up any more. They didn’t lie down. ***They fell down***.
+Why do so many in Scripture fall down as dead men when they encounter the awesome presence of God? It is simply because they couldn’t stand up any longer. They didn’t lie down. ***They fell down***.
 
 To pray, “Show me Your glory,” is to come to terms with the very real possibility that you won’t survive the encounter.
 
@@ -91,8 +91,8 @@ And yet — righteousness and justice are the foundation of His throne. This ter
 
 The fire and the lightning aren't random. They're the expression of a holy character that cannot tolerate what is wrong.
 
-Which makes the mercy more stunning. The God described in **Psalm 97** is not the God you'd expect to hold anyone by the hand through a stumble.
+Which makes the mercy more stunning. The God described in **Psalm 97** is not the God you'd expect to hold anyone by the hand through a stumble. But that is exactly Who He Is.
 
-> *He may stumble, but he won't fall headlong, for ADONAI holds him by the hand.* **—Psalm 37:24** (Complete Jewish Bible)
+> *He may stumble, but he won't fall headlong, for ADONAI [the LORD] holds him by the hand.* **—Psalm 37:24** (Complete Jewish Bible)
 
 The distance between Psalm 97 and Psalm 37:24 is the whole gospel.
