@@ -1811,11 +1811,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/books/fractured-light/manuscript/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/books/margins-where-god-begins/manuscript/</loc>
     <lastmod>2026-05-22</lastmod>
     <priority>0.8</priority>
@@ -1893,6 +1888,11 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/abhor/</loc>
     <lastmod>2026-06-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/books/fractured-light/manuscript/</loc>
+    <lastmod>2026-06-11</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
