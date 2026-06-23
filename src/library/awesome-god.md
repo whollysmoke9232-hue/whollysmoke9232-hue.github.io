@@ -40,9 +40,7 @@ and all the peoples see his glory.***
 
 Where did we get the idea that God was some old man, sitting on a throne somewhere in the sky?
 
-Yes, the old man in the sky is easy to live with.
-
-But he's also easy to ignore. Easy to bargain with. Easy to reduce to a genie in a bottle.
+Sure, the old man in the sky is easy to live with; but he's also easy to ignore. Easy to bargain with. Easy to reduce to a genie in a bottle.
 
 The God of **Psalm 97** doesn't leave you that option.
 
