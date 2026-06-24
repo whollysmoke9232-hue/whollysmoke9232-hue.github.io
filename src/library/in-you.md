@@ -16,50 +16,50 @@ themes:
   - sanctification
 ---
 
-I crested the hill
-Washed by Your wind
+I crested the hill  
+Washed by Your wind  
 Reminded that I was still IN YOU
 
-In my brokenness
-In my weakness
-In my doubt
-IN YOU
-In my study
-In my meditation
-In my imagination
+In my brokenness  
+In my weakness  
+In my doubt  
+IN YOU  
+In my study  
+In my meditation  
+In my imagination  
 IN YOU
 
-I crested the hill
-Washed by your wind
+I crested the hill  
+Washed by your wind  
 Reminded that I was still IN YOU
 
-All who are around me
-Working
-Playing
-IN YOU
-Lives intersect
-A glance
-A Smile
+All who are around me  
+Working  
+Playing  
+IN YOU  
+Lives intersect  
+A glance  
+A Smile  
 IN YOU
 
-I tried two lives
-Church
-World
-Where am I
-IN YOU
-I erect barriers
-Where might You lead
-What might You ask
+I tried two lives  
+Church  
+World  
+Where am I  
+IN YOU  
+I erect barriers  
+Where might You lead  
+What might You ask  
 It's all IN YOU
 
-Dismantle my walls
-Do what You choose
-Change me
-Use me
-Or leave me to glorify You
-Everywhere
-Every day
+Dismantle my walls  
+Do what You choose  
+Change me  
+Use me  
+Or leave me to glorify You  
+Everywhere  
+Every day  
 
-I crested the hill
-Washed by your wind
+I crested the hill  
+Washed by your wind  
 Reminded that I was still IN YOU
