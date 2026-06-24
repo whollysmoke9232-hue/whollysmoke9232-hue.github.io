@@ -95,9 +95,11 @@ He gathered the broken pieces of the life that I had shattered<br>
 
 <hr class="article-contact-divider">
 
-<p class="article-contact-note">
-  I’d love to hear your thoughts — <a href="mailto:mail@marginsdevotionals.com" class="article-contact-link">write me</a>. I read every message.
-</p>
+<div class="article-contact-wrap">
+  <a href="mailto:mail@marginsdevotionals.com" class="article-contact-note">
+    I’d love to hear your thoughts — write me. I read every message.
+  </a>
+</div>
 
 <!-- Reading Path Navigation Mount -->
 <div data-reading-path-nav></div>
@@ -236,20 +238,24 @@ He gathered the broken pieces of the life that I had shattered<br>
     opacity: 0.35;
   }
 
-  .article-contact-note {
-    font-size: 0.9rem;
-    font-weight: 400;
-    font-style: italic;
-    color: #5a3e2b;
+  .article-contact-wrap {
     text-align: center;
-    border-top: 1px solid #d8c8b3;
-    border-bottom: 1px solid #d8c8b3;
-    padding: 0.75rem 0;
     margin: 1.25rem 0;
   }
 
-  .article-contact-link {
-    text-decoration: underline;
+  .article-contact-note {
+    display: inline-block;
+    font-size: 0.95rem;
+    color: #5a3e2b;
+    background-color: #f1e8dc;
+    border: 1px solid #d8c8b3;
+    border-radius: 6px;
+    padding: 0.45rem 0.9rem;
+    text-decoration: none;
+  }
+
+  .article-contact-note:hover {
+    background-color: #e6d9c7;
   }
 
   .article-scripture-note {
