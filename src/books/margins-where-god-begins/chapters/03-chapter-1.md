@@ -26,7 +26,7 @@ And He has a plan.
 
 For most of 2023 and 2024, I found myself in a season of stillness. I had more time on my hands than I’d ever had before. What began as isolation turned into a divine opportunity.
 
-I started reading—10 to 14 hours a day. Dozens of Christian books. Some of these books spoke to me deeply, leading me to read them several times. In fact, there were a couple that I read so many times that I began to wonder if I could rewrite them myself.
+I started reading—10 to 14 hours a day. Along the way I also immersed myself in dozens of Christian classics, books on theology, apologetics, worship, suffering, creation, marriage, and spiritual formation. Many of them I read repeatedly — *The Great Divorce* six times, *Mere Christianity* and *Crazy Love* at least four times each, *The Book of God* and *Beyond the Cosmos* three times each. Jail became an unexpected seminary, where the Word of God and the writings of faithful believers reshaped the way I thought about God, sin, grace, suffering, and hope.
 
 But one book drew me in like no other: the Bible.
 

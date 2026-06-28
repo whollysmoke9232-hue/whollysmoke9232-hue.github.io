@@ -161,7 +161,7 @@ That prayer has never really stopped shaping me.
 
 We were locked down nearly twenty-three hours a day. Two men, sometimes three, in a space barely meant for one. With nothing to do.
 
-So I read. Twelve, sometimes eighteen hours a day. I read dozens of books, but I always returned to Scripture. Over twenty-two months, I read the Bible fourteen times. In the long silences of the cell, God spoke.
+So I read. Twelve, sometimes eighteen hours a day. I read dozens of books, but I always returned to Scripture. During the twenty-two months I spent in the Gwinnett County Jail, I read the Bible from Genesis to Revelation fourteen times. Along the way I also immersed myself in dozens of Christian classics, books on theology, apologetics, worship, suffering, creation, marriage, and spiritual formation. Many of them I read repeatedly — *The Great Divorce* six times, *Mere Christianity* and *Crazy Love* at least four times each, *The Book of God* and *Beyond the Cosmos* three times each. Jail became an unexpected seminary, where the Word of God and the writings of faithful believers reshaped the way I thought about God, sin, grace, suffering, and hope. In the long silences of the cell, God spoke.
 
 He showed me my sin.  
 He showed me His love.
