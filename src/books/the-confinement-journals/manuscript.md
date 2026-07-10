@@ -15,7 +15,7 @@ permalink: "/books/the-confinement-journals/manuscript/"
 
 Table of Contents:
 Part I: Entering the Silence
-	In the Margins
+	Margins
 	Falling Into His Grip
 	Purify My Heart
 	Meditation #1
@@ -48,189 +48,92 @@ The first entries are written from the underside of collapse. Silence was not ch
 
 ---
 
-## In the Margins
+## Margins
 
-What is your favorite place in the Bible?
-
-Is it a verse? A passage? A chapter? A book? Or maybe an entire section of Scripture?
-
-Some are naturally drawn to **John 3:16**. I love that verse.  
-Others are drawn to the nativity, or the resurrection of Christ.  
-For some, it's the letters; for others, the Gospels.  
-Maybe it's the creation account—or the consummation in Revelation.  
-Then there's the history, the law, the poetry, and the prophets.
-
-I've grown to love all of these. I could make an argument for why each might be my favorite.
-
-Yet none of them are.
+> *3/26/2024 (Written while incarcerated.)*
 
 ---
 
-### A Season Saturated in Scripture
+What is your favorite place in the Bible? Is it a verse? A passage? A chapter or book? Maybe it's an entire section of the Bible. I've talked with some who are naturally drawn to John 3:16. I love that verse. Others are drawn to the nativity. Still others to the resurrection of Christ. For some, it's the letters. For others, the Gospels. Maybe the creation account? Or the consummation of Revelation. Then there's the history, the law, the poetry, or the Prophets. I've grown to love all of these. I could make an argument for why each of these could be my favorite. Yet none of them are.
 
-For most of 2023 and 2024, God placed me in a season with an abundance of time. Out of boredom at first, I began reading—**10 to 14 hours a day**.
+You see, I have been in jail awaiting trial for 393 days as of this writing. One of the inescapable realities of jail is that there is absolutely nothing to do. We stay locked down in our 7’ x 14’ cell for an average of 22 hours each day. My cellmate spends most of that time in his bunk — sleeping, playing games on his jail issued tablet or reading. Me, I read. Between 10 to 14 hours every day. I've always enjoyed reading. But I've never had this much time to do it before. So I've assembled an impressive collection of Christian books. I've read at least 30 books since I've been here. Some of them I've read multiple times. There are a couple favorites that I've read so many times that I could probably write them.
 
-I've always loved reading, but never like this. I assembled a sizable collection of Christian books and read dozens—many of them multiple times. Yet none of them held me the way Scripture did.
+But my absolute favorite go-to book has been the Bible. I'm drawn to it. From the first thing in the morning until just before the lights go out, I spend the vast majority of my time in God's word. Now, I've been a student of the Bible for 45 years. I'm not new to reading the Bible. However, since I've been here, I've been reading it cover to cover. Genesis to Revelation.
 
-My absolute go-to book was the Bible.
+It started innocently enough. When my first Bible was delivered to me — a Gideon's Bible — I went to Genesis. That's the book that I spent the most of my study time in over the last 30 years. So that's the first place I went. But this time, when I reached the end of Genesis, I just continued through Exodus. Then the rest of the Pentateuch. Then on to the other history books, and on and on. Until I had finished Revelation.
 
-From early morning until bedtime, I was drawn to God's Word. I spent the vast majority of my days there.
+I was quite pleased with myself. I had just read the Bible cover to cover in less than a month. I had never done anything like that before. But that presented a problem. At that point in my stay here, I only had one other book — which I had already read three times. So back to Genesis.
 
-I've been a student of Scripture for **45 years**. This wasn't new territory. But during this season, I read the Bible straight through—**Genesis to Revelation**.
+Before I reached Exodus, I got a new Cellmate. He was legally blind. He had never read a Bible but had been to church a few times, and was hungry to learn about God. So I went back to the beginning. I started reading Genesis again. This time out loud. For about 14 hours per day, I'd read the Bible to him — pausing from time to time to answer his questions or to point out some lesson from what we were reading. We made it into Ruth before he was released. I was so sad to see him go. He became a believer during that time. We made it a habit to pray together every night. And we spent countless hours talking about faith and the Bible. And I had learned the power of reading God's Word out loud. What a blessing those days were.
 
-It began innocently enough. My first Bible arrived—a Gideons Bible. Naturally, I went to Genesis. I've spent more time there over the last 30 years than anywhere else. But this time, when I reached the end of Genesis, I just kept going.
+After he left, I got a new cell mate who wasn't as interested in hearing the Bible read to him. (He eventually started reading it on his own.) So I continued in Ruth and just kept reading. When I read all the way through Revelation again, I just turned back to the Genesis. Then started all over again.
 
-Exodus.  
-Leviticus.  
-Numbers.  
-Deuteronomy.  
-The histories.  
-The prophets.  
-The Gospels.  
-The letters.  
+As of today, I have read the Bible cover to cover eight times. I’m three quarters of my way through for the 9th time. I now have a collection of Bibles. I have read through the New International Version, New American Standard Bible, New Living Translation, Revised Standard Version, and I'm currently in the new King James Version. I have thoroughly loved every one of them. Several have been study Bibles and I have enjoyed all the study notes, articles, charts, photos and maps as well.
 
-Until I finished Revelation.
+I have learned so much. God has taught me, changed me, corrected me, stretched me. He has allowed me to see myself — and the world — differently. He has revealed himself. Each time I open his word, He gets bigger.
 
-I was pleased with myself. I'd read the Bible cover to cover in less than a month.
+But one of my favorite things about staying saturated in His Word during this time — about reading it cover to cover so many times — is seeing how it all fits together — how the story begins, then develops. Seeing how God was working constantly to unveil his plan. How seemingly unrelated events unite to create an even greater understanding. How things that happened in Genesis start to make more sense when you read Paul's letters. How the prophets only make sense when you remember the history from Genesis through the time of the kings. How all of it makes more sense when all of it is fresh in your mind.
 
-Then a problem emerged.
-
-I still had time.
-
-So I went back to Genesis.
+It was in that revelation that I discovered where my favorite part of the Bible was. (And no, I'm not going to say all of it). As I turn each page I am made more aware that God knew what was going to happen next long before it happened. In fact, he was weaving together this magnificent web of people, events, triumphs, and failures in order to tell a single story. Every event and every encounter was the result of countless events and encounters in the past. Some separated by minutes. Some by decades. But they always come together at exactly the right time. Some of this history is revealed. Most of it is not. But these were real people who lived in a real world. None of them lived in a vacuum.
 
 ---
 
-### Reading the Word Aloud
+Take, for example, the calling of Levi, the tax collector.
+> *“After these things, he went out and saw a tax collector named Levi sitting in the tax office. And he said to him, ‘Follow me.’ So he left all, rose up and followed Him.”* **—Luke 5:27-28.**
 
-Before I reached Exodus, I made a new friend—legally blind, hungry for God, and unfamiliar with Scripture. He had attended church a few times, but had never read the Bible.
+Levi wasn't just a piece of scenery with no personality, no family, and no past. He had lived a life. Things had happened to him. Some good, some bad. People had said things to him. Some good, some bad. He had been born to specific parents, at a specific time, in a specific place. He had friends, he had enemies. He had been taught, disciplined, encouraged, and put down. All of these things — and many others — conspired together to lead him to specific choices — which led him to a specific place at a specific time — when Jesus would be walking past his tax office. And at the perfect time, Jesus looked at him and said, “Follow me.” When Levi looked into the eyes of the one calling him, he saw the purpose that he didn't even know he had been looking for. And in an instant, he knew he had to follow.
 
-So I started again at the beginning—this time **reading out loud**.
+A lot happened in Levi's life leading up to his first encounter with Jesus. One of the things I have discovered from this season with God's Word is that God orchestrated every one of the events in Levi's life — from his birth to his parents, to his home, friends, relatives, education, and all the rest, to get him to the tax office — in that state of mind — on that day.
 
-For nearly **14 hours a day**, I read Genesis, then Exodus, then on. I paused to answer questions. To explain. To marvel together.
-
-We made it to **Ruth** before it was time for him to move on.
-
-I was heartbroken to see him leave.
-
-During that time, he came to faith in Christ. We prayed together every night. We talked endlessly about God, Scripture, and life.
-
-I learned firsthand the power of **hearing** God's Word spoken.
-
-What a gift those days were.
+The same is true of Abram, Moses, David, Isaiah, John and Zacchaeus (just imagine the length God went to establish and protect that Sycamore tree).
 
 ---
 
-### Fourteen Times Through the Bible
+My point is that God knows. He has a plan. That plan was complete in the mind of God since before the beginning. Which brings us to my favorite part of the Bible.
 
-After he left, I kept going.
+Take a minute to get your Bible in front of you.
 
-Ruth to Revelation.  
-Then back to Genesis again.
+Go ahead, I'll wait.
 
-By the end of **22 months**, I had read the Bible cover to cover **14 times**.
+Now open your Bible to the first verse of the first chapter of the first book. Genesis 1:1: Got it? Good. Now direct your attention to that space just to the left of that first word. The margin before Genesis 1:1. **That** is my favorite place.
 
-I now own multiple Bibles I've read all the way through:
+In that space. ***That margin.*** Before the first act of creation. Before the first word was written or spoken, God knew. Think about that for a minute. Before he did anything, He knew. He knew it all. Everything from Genesis 1:1 to Revelation 22:21, and everything in between. And beyond.
 
-- NIV  
-- NASB  
-- NLT  
-- RSV  
-- NKJV  
+In the mind of God, every word of the Bible was already written. Every life that would ever be lived had already been lived. Every choice had been made. Every word already spoken. Every decision already made. All in that tiny little space to the left of Genesis 1:1.
 
-Several are study Bibles. I loved the notes, charts, maps, and articles. But more than anything, I loved **how it all fits together**.
+> *Your eyes saw my unformed body. All the days ordained for me were written in your book before one of them came to be* **—Psalm 139:16.**
 
-God taught me.  
-Corrected me.  
-Stretched me.  
-Changed me.
+> *All inhabitants of the earth will worship the beast. All whose names have not been written in the Lamb's book of life. The Lamb who is slain from the creation of the world.* **—Revelation 13:8.**
 
-And with every reading, **He got bigger**.
+> *For He chose us in Him before the creation of the world.* **—Ephesians 1:4.**
+
+> *He was chosen before the creation of the world. But was revealed in these last times for your sake.* **—1 Peter 1:20.**
+
+He knew. He had a plan. In the margin before Genesis 1:1, all of the universes past, present, and future were already known by God Almighty.
+
+And he started painting a picture.
 
 ---
 
-### Seeing the Story as One
+I often return to that place and stare in wonder. As I discover new connections in his word, I am drawn back to that margin. I find at times while I lie in my bunk at night, that I meditate on that instant before the beginning. At that instant, He was right here with me. Right now, at this moment.
 
-One of the greatest gifts of staying saturated in Scripture was seeing how the whole story unfolds.
+And now in this moment.
 
-How Genesis illuminates Paul's letters.  
-How the prophets only make sense in light of Israel's history.  
-How nothing stands alone.
+In fact, he was already in all my moments.
 
-No moment—and no person—appears by accident.
+Yours too.
 
-Take **Levi**, the tax collector.
+Not that we were some sort of choiceless puppets on strings. No, we make choices.
 
-> *"After these things, He went out and saw a tax collector named Levi sitting in the tax office. And He said to him, 'Follow Me.' So he left all, rose up, and followed Him."* **—Luke 5:27–28**
+The fact is that every one of all of our moments are *now* for him. It has always been this way. And it always will be.
 
-Levi wasn't scenery.
-
-He had parents.  
-A past.  
-Friends.  
-Enemies.  
-Experiences—some beautiful, some painful.
-
-Every one of those moments conspired to place him **at that desk, on that day**, when Jesus walked by.
-
-God orchestrated it all.
-
-The same is true of Abraham. Moses. David. Isaiah. John. Zacchaeus (Just imagine the lengths God went through to protect that sycamore tree.).
-
-God knows.  
-God plans.  
-And His plan was complete **before anything began**.
+> *I AM Who I AM.* **—Exodus 3:14.**
 
 ---
 
-### My Favorite Place in the Bible
+*I wrote this on March 26, 2024 — 393 days into my incarceration. Before my release, twenty-two months had passed. I had read the Bible cover to cover fourteen times.*
 
-Now, take your Bible.
-
-Open it to **Genesis 1:1**.
-
-Look just to the left of that first word.
-
-That margin.
-
-That is my favorite place in the Bible.
-
-Before creation.  
-Before light.  
-Before words.
-
-**God knew.**
-
-Everything from *Genesis 1:1* to *Revelation 22:21*—and beyond—was already fully known.
-
-> *"Your eyes saw my unformed body. All the days ordained for me were written in Your book before one of them came to be."* **—Psalm 139:16**
-
-> *"The Lamb who was slain from the creation of the world."* **—Revelation 13:8**
-
-> *"For He chose us in Him before the creation of the world."* **—Ephesians 1:4**
-
-> *"He was chosen before the creation of the world, but was revealed in these last times for your sake."* **—1 Peter 1:20**
-
-In that tiny margin before Genesis 1:1, all of history—past, present, and future—already existed in the mind of God.
-
-And then He began to paint.
-
----
-
-### Living in the Knowing of God
-
-I often return to that margin.
-
-I lie in bed at night and meditate on that instant before the beginning. And in that instant—He was already here. With me. With you. With this very moment.
-
-This moment has never been outside His knowing or His care.
-
-We are not puppets. We make real choices.  
-But every moment of our lives has always been **known** by Him—and now belongs **to** Him.
-
-The God who stands before the beginning also stands with us here.
-
-> ***"I AM Who I AM."*** **—Exodus 3:14**
+*He knew.*
 
 ---
 

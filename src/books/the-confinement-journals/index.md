@@ -29,7 +29,7 @@ This edition is arranged for both chapter-by-chapter reading and continuous read
 **Part I - Entering the Silence**
 
 - [Part I - Entering the Silence](/books/the-confinement-journals/part-1/)
-- [In the Margins](/books/the-confinement-journals/in-the-margins/)
+- [Margins](/books/the-confinement-journals/margins/)
 - [Falling Into His Grip](/books/the-confinement-journals/falling-into-his-grip/)
 - [Purify My Heart](/books/the-confinement-journals/purify-my-heart/)
 - [Meditation #1](/books/the-confinement-journals/meditation-1/)
