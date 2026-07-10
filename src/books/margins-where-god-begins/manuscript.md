@@ -87,7 +87,7 @@ And He has a plan.
 
 For most of 2023 and 2024, I found myself in a season of stillness. I had more time on my hands than I’d ever had before. What began as isolation turned into a divine opportunity.
 
-I started reading—10 to 14 hours a day. Dozens of Christian books. Some of these books spoke to me deeply, leading me to read them several times. In fact, there were a couple that I read so many times that I began to wonder if I could rewrite them myself.
+I started reading—10 to 14 hours a day. Along the way I also immersed myself in dozens of Christian classics, books on theology, apologetics, worship, suffering, creation, marriage, and spiritual formation. Many of them I read repeatedly — *The Great Divorce* six times, *Mere Christianity* and *Crazy Love* at least four times each, *The Book of God* and *Beyond the Cosmos* three times each. Jail became an unexpected seminary, where the Word of God and the writings of faithful believers reshaped the way I thought about God, sin, grace, suffering, and hope.
 
 But one book drew me in like no other: the Bible.
 
@@ -948,6 +948,8 @@ And I am in Him.
 I am a follower of Jesus, a lifelong student of Scripture, and a storyteller shaped by grace.
 
 After decades of walking with Christ through ministry, failure, restoration, and renewal, I entered a profound season of stillness that would forever change how I read the Bible—and how I understood God. During that time, I read Scripture cover to cover fourteen times in twenty-two months, immersing myself in the Word—not for answers, but to find where God actually was. What emerged was a deep awareness of God’s eternal presence, His intentional design, and His unwavering faithfulness.
+
+Along the way I also immersed myself in dozens of Christian classics, books on theology, apologetics, worship, suffering, creation, marriage, and spiritual formation. Many of them I read repeatedly — *The Great Divorce* six times, *Mere Christianity* and *Crazy Love* at least four times each, *The Book of God* and *Beyond the Cosmos* three times each. Jail became an unexpected seminary, where the Word of God and the writings of faithful believers reshaped the way I thought about God, sin, grace, suffering, and hope.
 
 I am not a theologian looking down from the lectern, but a fellow traveler learning to rest in the spaces between certainty and mystery.
 

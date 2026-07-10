@@ -6,7 +6,10 @@
       "Bash(Select-Object -First 20)",
       "Bash(node -e \"const fs = require\\('fs'\\); const content = fs.readFileSync\\('c:/Projects/grace-in-the-margins/src/_data/readingPaths.js', 'utf8'\\); const lines = content.split\\('\\\\n'\\); for\\(let i=40; i<=46; i++\\) { const line = lines[i]; let hex = ''; for\\(let j=0; j<line.length; j++\\) hex += line.charCodeAt\\(j\\).toString\\(16\\).padStart\\(4,'0'\\) + ' '; console.log\\('Line ' + \\(i+1\\) + ': ' + JSON.stringify\\(line\\)\\); console.log\\('  Hex: ' + hex\\); }\")",
       "Bash(node -e ' *)",
-      "Bash(node -e \"require\\('c:/Projects/grace-in-the-margins/src/_data/readingPaths.js'\\); console.log\\('Syntax OK'\\);\")"
+      "Bash(node -e \"require\\('c:/Projects/grace-in-the-margins/src/_data/readingPaths.js'\\); console.log\\('Syntax OK'\\);\")",
+      "Bash(git commit -m ' *)",
+      "Bash(git add *)",
+      "Bash(npx @11ty/eleventy)"
     ]
   }
 }

@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "Bash(git push *)",
-      "Bash(git checkout *)"
+      "Bash(git checkout *)",
+      "Bash(git commit -m ' *)",
+      "Bash(dir /s /b \"c:\\\\Projects\\\\grace-in-the-margins\\\\docs\\\\assets\")",
+      "Bash(findstr \"\\\\.js\")",
+      "Read(//c/Users/User/.claude/projects/c--Projects-grace-in-the-margins/memory/**)"
     ]
   }
 }
