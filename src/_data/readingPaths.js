@@ -2,7 +2,7 @@ module.exports = {
 
 'begin': [
 { url: '/library/from-exile-to-eden/', title: 'From Exile to Eden' },
-{ url: '/library/in-the-margins/', title: 'In the Margins' },
+{ url: '/library/margins/', title: 'Margins' },
 { url: '/library/from-knowing-to-surrender/', title: 'From Knowing to Surrender' },
 { url: '/library/a-psalm-from-confinement/', title: 'A Psalm From Confinement' },
 { url: '/library/be-still/', title: 'Be Still' },
@@ -13,7 +13,7 @@ module.exports = {
 { url: '/library/the-bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
 { url: '/library/the-passover-lamb/', title: 'The Passover Lamb' },
 { url: '/library/purify-my-heart/', title: 'Purify My Heart' },
-{ url: '/library/in-the-margins/', title: 'In the Margins' },
+{ url: '/library/margins/', title: 'Margins' },
 { url: '/library/from-knowing-to-surrender/', title: 'From Knowing to Surrender' }
 ],
 
@@ -42,7 +42,7 @@ module.exports = {
 ],
 
 'the-confinement-journals': [
-{ url: '/library/in-the-margins/', title: 'In the Margins' },
+{ url: '/library/margins/', title: 'Margins' },
 { url: '/library/purify-my-heart/', title: 'Purify My Heart' },
 { url: '/library/be-still/', title: 'Be Still' },
 { url: '/library/when-jesus-wept/', title: 'When Jesus Wept' },
@@ -54,7 +54,7 @@ module.exports = {
 
 'about-the-author': [
 { url: '/library/from-exile-to-surrender/', title: 'From Exile to Surrender' },
-{ url: '/library/in-the-margins/', title: 'In the Margins' },
+{ url: '/library/margins/', title: 'Margins' },
 { url: '/excerpts/fractured-light/chapter-4/', title: 'Fractured Light — The Altar' },
 { url: '/library/a-psalm-from-confinement/', title: 'A Psalm From Confinement' },
 { url: '/library/the-big-picture/', title: 'The Big Picture' }
@@ -74,7 +74,7 @@ module.exports = {
 { url: '/library/the-passover-lamb/', title: 'The Passover Lamb' },
 { url: '/library/purify-my-heart/', title: 'Purify My Heart' },
 { url: '/library/from-ashes-to-glory/', title: 'From Ashes to Glory' },
-{ url: '/library/in-the-margins/', title: 'In the Margins' }
+{ url: '/library/margins/', title: 'Margins' }
 ],
 
 'start-here-numb-dry-disconnected': [
@@ -108,7 +108,7 @@ module.exports = {
 { url: '/library/working-from-grace/', title: 'Working From Grace' },
 { url: '/library/mustard-seed-faith/', title: 'Mustard Seed Faith' },
 { url: '/library/from-it-or-through-it/', title: 'From It or Through It' },
-{ url: '/library/in-the-margins/', title: 'In the Margins' }
+{ url: '/library/margins/', title: 'Margins' }
 ],
 
 'start-here-seeking-wisdom': [
@@ -129,7 +129,7 @@ module.exports = {
 { url: '/library/seek-his-face/', title: 'Seek His Face' },
 { url: '/library/what-are-you-feeding/', title: 'What Are You Feeding?' },
 { url: '/library/a-holy-moment/', title: 'A Holy Moment' },
-{ url: '/library/in-the-margins/', title: 'In the Margins' },
+{ url: '/library/margins/', title: 'Margins' },
 { url: '/library/here-with-me/', title: 'Here With Me' }
 ],
 

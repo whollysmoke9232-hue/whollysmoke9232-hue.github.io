@@ -1686,11 +1686,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/reading-paths/</loc>
-    <lastmod>2026-05-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/the-confinement-journals/</loc>
     <lastmod>2026-05-15</lastmod>
     <priority>0.8</priority>
@@ -1772,11 +1767,6 @@
   </url>
   <url>
     <loc>https://www.marginsdevotionals.com/library/</loc>
-    <lastmod>2026-05-16</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/begin/</loc>
     <lastmod>2026-05-16</lastmod>
     <priority>0.8</priority>
   </url>
@@ -1893,6 +1883,16 @@
   <url>
     <loc>https://www.marginsdevotionals.com/library/in-you/</loc>
     <lastmod>2026-06-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/begin/</loc>
+    <lastmod>2026-07-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/reading-paths/</loc>
+    <lastmod>2026-07-10</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

@@ -19,7 +19,7 @@ Each piece was written in response to something lived, observed, read, or endure
 
 This library is offered as it is, not as instruction, but as witness - in the hope that others might find encouragement, strength, or the quiet resolve to endure.
 
-*If you are new here and unsure where to begin, you might start with [In the Margins](/testimonies/in-the-margins/).*
+*If you are new here and unsure where to begin, you might start with [Margins](/library/margins/).*
 
 ---
 

@@ -10,7 +10,7 @@ For most of my adult life I knew about God. I studied Scripture, led churches, a
 If you are carrying something heavy, or wondering if God is still present in the wreckage of your life, [start here](/library/from-exile-to-eden/?path=begin).
 
 1. [From Exile to Eden](/library/from-exile-to-eden/?path=begin)
-2. [In the Margins](/library/in-the-margins/?path=begin)
+2. [Margins](/library/margins/?path=begin)
 3. [From Knowing to Surrender](/library/from-knowing-to-surrender/?path=begin)
 4. [A Psalm From Confinement](/library/a-psalm-from-confinement/?path=begin)
 5. [Be Still](/library/be-still/?path=begin)
